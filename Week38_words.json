@@ -1,0 +1,702 @@
+[
+  {
+    "day": 260,
+    "words": [
+      {
+        "word": "shopping centre",
+        "ipa": "/ˈʃɒpɪŋ ˈsɛntər/",
+        "phonetic": "[SHOP-ing SEN-tuh]",
+        "meaning": "alışveriş merkezi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the local shopping centre the most efficient place to complete all errands in one trip.",
+          "He found the large regional shopping centres reshaping suburban retail across Australia.",
+          "A shopping centre is a large building housing multiple retail stores, food outlets, and services.",
+          "She found shopping centres in Australia operating from nine in the morning to five-thirty on most days — with extended trading Thursday evenings.",
+          "He found the major shopping centre groups — Westfield, Chadstone, Pacific Fair — the most significant retail destinations.",
+          "Shopping centres in Australia often anchor larger developments including car parks and apartments.",
+          "She found the shopping centre food court the most culturally diverse eating environment in her suburb.",
+          "He found supermarkets as the anchor tenants driving foot traffic to surrounding specialty stores.",
+          "Shopping centres serve as community hubs — particularly in suburban areas with limited public space.",
+          "She describes the shopping centre as the place she went to for everything practical and left from with more than intended."
+        ]
+      },
+      {
+        "word": "consumer rights",
+        "ipa": "/kənˈsjuːmər raɪts/",
+        "phonetic": "[kun-SYOO-muh ryts]",
+        "meaning": "tüketici hakları",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found Australian consumer rights among the strongest in the world — the ACL was comprehensive.",
+          "He found consumer rights applying to goods and services purchased from businesses.",
+          "Consumer rights are the legal protections afforded to people who buy goods and services.",
+          "She found the Australian Consumer Law — ACL — the primary national consumer protection framework.",
+          "He found consumer rights including guarantees for quality, fitness for purpose, and acceptable appearance.",
+          "Consumer rights in Australia cannot be signed away by fine print — they are non-negotiable.",
+          "She found consumer rights applying to online purchases as well as in-store transactions.",
+          "He found the ACCC and state fair trading offices enforcing consumer rights.",
+          "Consumer rights include the right to a remedy — repair, replacement, or refund depending on the fault.",
+          "She describes understanding consumer rights as the knowledge that most changed how confidently she made purchases."
+        ]
+      },
+      {
+        "word": "refund",
+        "ipa": "/ˈriːfʌnd/",
+        "phonetic": "[REE-fund]",
+        "meaning": "para iadesi",
+        "type": "isim",
+        "sentences": [
+          "She requested a refund after the appliance stopped working within the warranty period.",
+          "He found his right to a refund under the Australian Consumer Law clear — the item had a major fault.",
+          "A refund is the return of money paid for a product or service when the consumer is entitled to one.",
+          "She found refunds required when goods had a major failure — not just an inconvenience.",
+          "He found retailers required to provide a remedy — repair, replacement, or refund — for faulty goods.",
+          "Refunds in Australia are a legal entitlement — not a policy decision that stores can override.",
+          "She found stores incorrectly claiming no refund on sale items — an illegal practice.",
+          "He found the ACCC website clarifying his refund rights before approaching the retailer.",
+          "Refunds on change of mind are at the retailer's discretion — but faulty goods are a legal right.",
+          "She describes claiming a refund on a major fault as a calm, factual exercise once she knew her rights."
+        ]
+      },
+      {
+        "word": "ACCC",
+        "ipa": "/eɪ siː siː ˈsiː/",
+        "phonetic": "[ay-see-see-SEE]",
+        "meaning": "Avustralya Rekabet ve Tüketici Komisyonu",
+        "type": "kısaltma",
+        "sentences": [
+          "She lodged a complaint with the ACCC after the business refused to honour her consumer guarantee.",
+          "He found the ACCC the national regulator for consumer protection, competition, and fair trading.",
+          "The ACCC — Australian Competition and Consumer Commission — enforces the Australian Consumer Law.",
+          "She found the ACCC website the best source of plain-language consumer rights information.",
+          "He found the ACCC taking action against businesses making misleading claims — the penalties were significant.",
+          "The ACCC investigates anti-competitive behaviour, cartels, and misleading advertising.",
+          "She found the ACCC Scamwatch database invaluable for identifying and reporting consumer scams.",
+          "He found the ACCC's product recall database listing unsafe products — he checked before buying used goods.",
+          "The ACCC works alongside state and territory fair trading offices on consumer matters.",
+          "She describes the ACCC as the institution that most made her feel Australian commerce operated within fair rules."
+        ]
+      },
+      {
+        "word": "product recall",
+        "ipa": "/ˈprɒdʌkt rɪˈkɔːl/",
+        "phonetic": "[PROD-ukt rih-KAWL]",
+        "meaning": "ürün geri çağırma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She checked the product recall database before continuing to use the baby carrier she had bought second-hand.",
+          "He found the ACCC's product recall portal listing thousands of recalled consumer products.",
+          "A product recall is when a business or regulator withdraws a product due to safety concerns.",
+          "She found recalls covering children's toys, electrical goods, food, and vehicles.",
+          "He found businesses legally required to notify the ACCC when recalling a consumer product.",
+          "Product recall notices appear on the ACCC website and are issued directly to known purchasers.",
+          "She found registering products after purchase ensuring she received recall notices directly.",
+          "He found product recalls in Australia covering voluntary recalls by businesses and mandatory recalls by regulators.",
+          "Product recalls protect consumers from injury — she took them seriously after finding a recalled blender in her kitchen.",
+          "She describes checking the recall database as the five-minute habit that gave her the most peace of mind."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 261,
+    "words": [
+      {
+        "word": "Australian Consumer Law",
+        "ipa": "/ɒˈstreɪliən kənˈsjuːmər lɔː/",
+        "phonetic": "[o-STRAY-lee-un kun-SYOO-muh law]",
+        "meaning": "Avustralya Tüketici Kanunu",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She found the Australian Consumer Law applying uniformly across all states — no patchwork of different rules.",
+          "He found the Australian Consumer Law the single most important document for understanding shopping rights.",
+          "The Australian Consumer Law — ACL — is the national framework providing consumer guarantees and protections.",
+          "She found the ACL applying to most goods and services purchased in Australia.",
+          "He found the ACL prohibiting misleading conduct, unconscionable behaviour, and unfair contract terms.",
+          "The Australian Consumer Law is set out in Schedule 2 of the Competition and Consumer Act 2010.",
+          "She found the ACL guarantees applying regardless of what the retailer's own policy stated.",
+          "He found the ACL distinguishing between minor and major failures — each attracting different remedies.",
+          "The Australian Consumer Law was introduced in 2011 to replace a patchwork of state and territory laws.",
+          "She describes the Australian Consumer Law as the legislation she most wished had been explained to her when she first arrived."
+        ]
+      },
+      {
+        "word": "layby",
+        "ipa": "/ˈleɪbaɪ/",
+        "phonetic": "[LAY-by]",
+        "meaning": "taksitle ayırtma (peşin ödemeli)",
+        "type": "isim",
+        "sentences": [
+          "She put the pram on layby — she paid it off over three months before taking it home.",
+          "He found layby the most sensible way to plan a significant purchase without using credit.",
+          "A layby is an arrangement where a consumer pays for an item in instalments and collects it when fully paid.",
+          "She found layby not involving credit — she never paid interest.",
+          "He found layby particularly useful for Christmas gifts — spreading the cost across October and November.",
+          "Layby agreements in Australia are covered by the Australian Consumer Law — cancellation rights apply.",
+          "She found layby still offered by Kmart, Target, and some independent retailers.",
+          "He found layby providing the discipline of saving without the temptation of buy now pay later debt.",
+          "Layby cancellation fees are limited by the ACL — retailers cannot charge more than their reasonable costs.",
+          "She describes layby as the shopping arrangement that most aligned with her financial values."
+        ]
+      },
+      {
+        "word": "Afterpay",
+        "ipa": "/ˈɑːftərpeɪ/",
+        "phonetic": "[AR-ftur-pay]",
+        "meaning": "Afterpay (sonra öde hizmeti)",
+        "type": "özel isim",
+        "sentences": [
+          "She uses Afterpay occasionally — she found it useful when cash flow was tight between pay cycles.",
+          "He found Afterpay the most widely adopted buy now pay later service in Australia.",
+          "Afterpay is a financial service allowing purchases to be split into four fortnightly payments.",
+          "She found Afterpay not charging interest — but late fees applied if payments were missed.",
+          "He found Afterpay used across fashion, electronics, and health retailers in Australia.",
+          "Afterpay was founded in Australia in 2015 — it became a global platform before being acquired by Square.",
+          "She found consumer advocates warning that Afterpay could normalise spending beyond means.",
+          "He found Afterpay spending now subject to credit reporting changes — missed payments tracked.",
+          "Afterpay is available both in-store and online — she used it predominantly for online purchases.",
+          "She describes Afterpay as the service that made spending feel less immediate — a feature and a warning."
+        ]
+      },
+      {
+        "word": "loyalty program",
+        "ipa": "/ˈlɔɪəlti ˈproʊɡræm/",
+        "phonetic": "[LOY-ul-tee PROH-gram]",
+        "meaning": "sadakat programı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She consolidated her spending onto one loyalty program — Flybuys — to accumulate points faster.",
+          "He found Australian loyalty programs Flybuys and Everyday Rewards the most widely held.",
+          "A loyalty program rewards customers for repeat purchases with points, discounts, or benefits.",
+          "She found the loyalty program data collection more significant than the rewards it offered.",
+          "He found loyalty program points redeemable for flights, gift cards, and grocery discounts.",
+          "Loyalty programs in Australia are operated by supermarkets, airlines, banks, and retailers.",
+          "She found Frequent Flyer and Velocity programs the most valuable for regular domestic travellers.",
+          "He found the loyalty program terms changing regularly — she read the updates carefully.",
+          "Loyalty programs represent a data exchange — the consumer trades personal information for rewards.",
+          "She describes the loyalty program as the deal that seemed better before she understood what she was trading."
+        ]
+      },
+      {
+        "word": "price match",
+        "ipa": "/praɪs mætʃ/",
+        "phonetic": "[prys mach]",
+        "meaning": "fiyat eşleştirme",
+        "type": "isim öbeği",
+        "sentences": [
+          "She asked for a price match at the electronics store — the competitor's price was twenty dollars less.",
+          "He found price matching commonly offered by JB Hi-Fi, Harvey Norman, and major appliance retailers.",
+          "Price matching is the practice of a retailer agreeing to sell at a competitor's lower advertised price.",
+          "She found price matching only applicable to identical items — same model, same specifications.",
+          "He found the price match request most effective when the competitor's ad was shown in person.",
+          "Price matching in Australia is a voluntary policy — not a legal requirement.",
+          "She found the price match saving her forty dollars on a camera lens — worth the thirty-second conversation.",
+          "He found online prices sometimes excluded from price match policies — he read the terms.",
+          "Price matching reduces the need to shop around if a retailer is committed to the policy.",
+          "She describes price matching as the negotiation she most appreciated having the confidence to attempt."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 262,
+    "words": [
+      {
+        "word": "clearance sale",
+        "ipa": "/ˈklɪərəns seɪl/",
+        "phonetic": "[KLEER-uns sayl]",
+        "meaning": "stok temizleme indirimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found end-of-financial-year clearance sales the best time to buy furniture and appliances.",
+          "He found clearance sales in January — post-Christmas — and June — end of financial year — the most significant.",
+          "A clearance sale is a retail event where stock is sold at reduced prices to clear inventory.",
+          "She found clearance prices sometimes as low as eighty percent off the original retail price.",
+          "He found clearance items often non-returnable — he inspected carefully before purchasing.",
+          "Clearance sales in Australian retail are most significant around Christmas, Easter, and EOFY.",
+          "She found department stores managing clearance through a dedicated section rather than a timed event.",
+          "He found clearance sales online easier to navigate than in-store — filtering by discount percentage.",
+          "Clearance stock may be discontinued, cosmetically imperfect, or last season — worth understanding which.",
+          "She describes the clearance sale as the retail moment that most required patience — and knowledge of the original price."
+        ]
+      },
+      {
+        "word": "EOFY sale",
+        "ipa": "/iː oʊ ɛf waɪ seɪl/",
+        "phonetic": "[ee-oh-ef-WHY sayl]",
+        "meaning": "mali yıl sonu indirimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She bought her laptop during the EOFY sale — it was fifty percent off and she needed it for work.",
+          "He found EOFY sales in June the most practical time to buy equipment eligible for tax deduction.",
+          "An EOFY sale — End of Financial Year sale — occurs in late June, timed to the Australian financial year-end.",
+          "She found EOFY sales most significant in electronics, cars, and office equipment.",
+          "He found purchasing before 30 June ensuring tax deductions applied in the current financial year.",
+          "EOFY sales are also driven by retailers needing to clear stock before the new financial year.",
+          "She found EOFY sale prices comparable to or better than Boxing Day sales for technology.",
+          "He found businesses making purchases in the EOFY window claiming immediate tax deductions on eligible items.",
+          "EOFY sales are advertised heavily from mid-May — she planned her list in advance.",
+          "She describes the EOFY sale as the annual event that most rewarded having a shopping list prepared."
+        ]
+      },
+      {
+        "word": "returns policy",
+        "ipa": "/rɪˈtɜːnz ˈpɒlɪsi/",
+        "phonetic": "[rih-TURNZ POL-ih-see]",
+        "meaning": "iade politikası",
+        "type": "isim öbeği",
+        "sentences": [
+          "She read the returns policy before buying the dress online — change of mind returns were free.",
+          "He found generous returns policies among the most important factors in choosing an online retailer.",
+          "A returns policy is the set of rules a retailer uses to manage product returns and refunds.",
+          "She found returns policies varying widely — some offering thirty days, others ninety.",
+          "He found returns policies for change of mind purchases discretionary — for faulty goods, the ACL applied.",
+          "Returns policies in Australia cannot override legal consumer guarantees — the law supersedes policy.",
+          "She found the returns policy for large purchases particularly important — appliances and furniture.",
+          "He found keeping receipts essential for returns — she photographed every receipt on her phone.",
+          "Returns policies for online purchases include the right to refuse accepting certain goods back.",
+          "She describes the returns policy as the fine print that most determined whether she trusted the retailer."
+        ]
+      },
+      {
+        "word": "marketplace",
+        "ipa": "/ˈmɑːkɪtpleɪs/",
+        "phonetic": "[MAR-kit-plays]",
+        "meaning": "çevrimiçi pazar yeri",
+        "type": "isim",
+        "sentences": [
+          "She sold the furniture on Facebook Marketplace before the move — faster and easier than expected.",
+          "He found online marketplaces the most efficient channel for buying and selling second-hand goods.",
+          "A marketplace is a platform where multiple buyers and sellers transact — physical or digital.",
+          "She found Amazon, eBay, and Facebook Marketplace the dominant online marketplaces in Australia.",
+          "He found Australian-operated marketplaces including Gumtree and Trading Post.",
+          "Marketplaces operate differently from direct retailers — the platform connects parties but may not be the seller.",
+          "She found marketplace consumer protections applying differently — the ACCC clarified the rules.",
+          "He found marketplace buying requiring more due diligence than retail — especially for high-value items.",
+          "Marketplaces generate income through commissions, listing fees, or advertising.",
+          "She describes the marketplace as the trading environment that most changed how she thought about ownership and consumption."
+        ]
+      },
+      {
+        "word": "gift card",
+        "ipa": "/ɡɪft kɑːd/",
+        "phonetic": "[gift kard]",
+        "meaning": "hediye kartı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She gave a gift card to avoid guessing the wrong size — practical and appreciated.",
+          "He found Australian law requiring gift cards to be valid for at least three years.",
+          "A gift card is a prepaid card loaded with a set value — redeemable at specific retailers.",
+          "She found the three-year minimum expiry rule a significant consumer protection — gift cards used to expire in months.",
+          "He found gift card purchases during sales — such as discount gift card promotions — a savvy way to save.",
+          "Gift cards in Australia cannot charge post-purchase fees — the law prohibits them.",
+          "She found the law requiring remaining balances visible at all times on digital gift cards.",
+          "He found gift cards the most common Australian birthday gift when the recipient was difficult to buy for.",
+          "Gift card refunds are not required by law — the card is treated as a cash equivalent.",
+          "She describes gift card reform as the consumer protection she most appreciated — ending the era of expiring generosity."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 263,
+    "words": [
+      {
+        "word": "online shopping",
+        "ipa": "/ˈɒnlaɪn ˈʃɒpɪŋ/",
+        "phonetic": "[ON-lyn SHOP-ing]",
+        "meaning": "çevrimiçi alışveriş",
+        "type": "isim öbeği",
+        "sentences": [
+          "She does most of her shopping online — it fits her schedule and she finds better prices.",
+          "He found online shopping in Australia transformed by the COVID period — adoption accelerated significantly.",
+          "Online shopping is the purchase of goods and services over the internet for delivery or collection.",
+          "She found Australian online shopping growing significantly — particularly post-2020.",
+          "He found international online retailers — Amazon, ASOS, and others — shipping to Australia efficiently.",
+          "Online shopping in Australia is protected by the ACL — consumer guarantees apply regardless of channel.",
+          "She found click and collect the most convenient option — purchased online, collected within hours.",
+          "He found GST applied to international online purchases above a thousand dollars.",
+          "Online shopping creates challenges — sizing, colour accuracy, and return logistics.",
+          "She describes online shopping as the retail format that most required her to develop judgment about what she could trust."
+        ]
+      },
+      {
+        "word": "delivery",
+        "ipa": "/dɪˈlɪvəri/",
+        "phonetic": "[dih-LIV-uh-ree]",
+        "meaning": "teslimat",
+        "type": "isim",
+        "sentences": [
+          "She found next-day delivery available in major Australian cities — regional areas took longer.",
+          "He found delivery fees a significant addition to Australian online shopping costs.",
+          "Delivery is the transportation of purchased goods to the buyer's nominated address.",
+          "She found Australia Post, Startrack, and Aramex the dominant domestic delivery services.",
+          "He found delivery tracking the feature that most reduced his anxiety about online purchases.",
+          "Delivery in regional and remote Australia is more expensive and slower — a geographic disadvantage.",
+          "She found free delivery thresholds — spend over fifty dollars and delivery is included.",
+          "He found safe drop becoming the default — parcels left at the door when no one was home.",
+          "Delivery timeframes in Australia vary significantly — express delivery is a premium option.",
+          "She describes the delivery notification as the text message that most reliably improved her afternoon."
+        ]
+      },
+      {
+        "word": "scam",
+        "ipa": "/skæm/",
+        "phonetic": "[skam]",
+        "meaning": "dolandırıcılık",
+        "type": "isim",
+        "sentences": [
+          "She received a scam text message claiming her parcel was held — she did not click the link.",
+          "He found scam losses in Australia totalling over three billion dollars annually.",
+          "A scam is a fraudulent scheme designed to trick people into giving money or personal information.",
+          "She found Scamwatch — run by the ACCC — the best place to report and research scams.",
+          "He found the most common Australian scams involving fake parcel delivery, investment fraud, and romance scams.",
+          "Scams in Australia exploit urgency, fear, and the desire for a deal.",
+          "She found scam text messages accurately spoofing legitimate bank and government numbers.",
+          "He found scam losses disproportionately affecting older Australians and recent migrants.",
+          "Scams are reported to Scamwatch, the ACCC, and relevant platforms — and should always be reported.",
+          "She describes the scam she almost fell for as the experience that most changed her approach to unsolicited digital contact."
+        ]
+      },
+      {
+        "word": "consumer guarantee",
+        "ipa": "/kənˈsjuːmər ˌɡærənˈtiː/",
+        "phonetic": "[kun-SYOO-muh ga-run-TEE]",
+        "meaning": "tüketici güvencesi (yasal)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found consumer guarantees applying automatically under Australian law — no registration required.",
+          "He found consumer guarantees more powerful than manufacturer warranties in most cases.",
+          "A consumer guarantee is a legally enforceable standard that goods and services must meet.",
+          "She found consumer guarantees covering acceptable quality, fit for purpose, and matching description.",
+          "He found consumer guarantees applying for a reasonable time — not just the manufacturer's stated period.",
+          "Consumer guarantees in Australia cannot be excluded by contract — they are mandatory.",
+          "She found consumer guarantees applying when a good did not last as long as one would reasonably expect.",
+          "He found the distinction between minor and major failures critical — major failures meant she could refuse a repair and demand a refund.",
+          "Consumer guarantees apply to both goods and services — a poorly delivered service is also covered.",
+          "She describes consumer guarantees as the legal floor that most gave her confidence to buy without fear."
+        ]
+      },
+      {
+        "word": "fair trading",
+        "ipa": "/fɛr ˈtreɪdɪŋ/",
+        "phonetic": "[fair TRAY-ding]",
+        "meaning": "adil ticaret (tüketici koruma uygulaması)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She contacted NSW Fair Trading after the builder refused to rectify the defective work.",
+          "He found state fair trading offices the most accessible consumer complaint pathway for local disputes.",
+          "Fair trading refers to commerce conducted within legal and ethical standards protecting consumers.",
+          "She found Fair Trading offices in each state and territory — the state-level equivalent of the ACCC.",
+          "He found NSW Fair Trading, Consumer Affairs Victoria, and Queensland's Office of Fair Trading the main state bodies.",
+          "Fair trading offices handle complaints about local businesses, traders, and service providers.",
+          "She found fair trading mediation the most practical resolution for a building dispute.",
+          "He found fair trading laws prohibiting unconscionable conduct — exploiting someone's vulnerability.",
+          "Fair trading offices also provide tenancy dispute resolution in most Australian states.",
+          "She describes contacting Fair Trading as the step that most quickly shifted the dynamic in her dispute."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 264,
+    "words": [
+      {
+        "word": "click and collect",
+        "ipa": "/klɪk ænd kəˈlɛkt/",
+        "phonetic": "[klik and kuh-LEKT]",
+        "meaning": "çevrimiçi sipariş ver, mağazadan al",
+        "type": "isim öbeği",
+        "sentences": [
+          "She orders click and collect at the hardware store — ready within two hours.",
+          "He found click and collect eliminating delivery fees and wait times simultaneously.",
+          "Click and collect is a retail service where goods are ordered online and collected in-store.",
+          "She found click and collect most useful for bulky items that were impractical to ship.",
+          "He found click and collect the format most adopted by Australian supermarkets during peak demand.",
+          "Click and collect typically costs less than home delivery — often free.",
+          "She found the turnaround time for click and collect improving — some retailers offering one-hour readiness.",
+          "He found click and collect solving the problem of being home to receive a delivery.",
+          "Click and collect allowed her to check the item before leaving the store — she could raise issues immediately.",
+          "She describes click and collect as the shopping format that most elegantly combined online convenience with in-person certainty."
+        ]
+      },
+      {
+        "word": "price gouging",
+        "ipa": "/praɪs ˈɡaʊdʒɪŋ/",
+        "phonetic": "[prys GOW-jing]",
+        "meaning": "fiyat istismarı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found price gouging complaints surge during natural disasters when essential goods were scarce.",
+          "He found the ACCC monitoring price gouging in fuel, groceries, and essential services.",
+          "Price gouging is the practice of raising prices to unfair levels during periods of high demand or crisis.",
+          "She found Australian consumer law not providing a universal price cap — but unconscionable conduct provisions applied.",
+          "He found supermarket price gouging a major concern raised by the ACCC's 2024 inquiry.",
+          "Price gouging on hand sanitiser and face masks during COVID prompted government and public backlash.",
+          "She found price gouging at petrol stations before public holidays subject to ACCC scrutiny.",
+          "He found price gouging most harmful to lower-income households — they could not substitute or delay.",
+          "Price gouging in essential services — water, energy, groceries — is the form most concerning to Australian regulators.",
+          "She describes learning about price gouging as the consumer education that most explained why she felt frustrated at the checkout."
+        ]
+      },
+      {
+        "word": "supermarket duopoly",
+        "ipa": "/ˈsuːpəmɑːkɪt djuˈɒpəli/",
+        "phonetic": "[SOO-puh-mar-kit dyoo-OP-uh-lee]",
+        "meaning": "süpermarket ikili tekeli",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the supermarket duopoly — Woolworths and Coles — dominating Australian grocery retail.",
+          "He found the supermarket duopoly controlling approximately sixty-five percent of Australian grocery spending.",
+          "A supermarket duopoly is a market dominated by two large retailers with limited competition.",
+          "She found the ACCC's 2024 supermarket inquiry examining pricing practices, buyer power, and supplier treatment.",
+          "He found the duopoly's private label products undercutting branded goods — supplier margins squeezed.",
+          "The supermarket duopoly in Australia has faced persistent criticism for profit margins and treatment of suppliers.",
+          "She found the Senate inquiry into supermarkets the most politically charged consumer policy debate of the year.",
+          "He found Aldi and IGA providing some competitive discipline — but the duopoly's market share remained dominant.",
+          "The supermarket duopoly's buyer power affects the prices farmers received for produce.",
+          "She describes the supermarket duopoly as the market structure that most directly affected what she paid for her weekly groceries."
+        ]
+      },
+      {
+        "word": "GST",
+        "ipa": "/dʒiː ɛs ˈtiː/",
+        "phonetic": "[jee-es-TEE]",
+        "meaning": "Mal ve Hizmet Vergisi (KDV)",
+        "type": "kısaltma",
+        "sentences": [
+          "She found GST included in displayed prices in most Australian retail — ten percent on most goods.",
+          "He found the GST exempting fresh food, medical products, and education in most forms.",
+          "GST — Goods and Services Tax — is a ten percent tax applied to most goods and services in Australia.",
+          "She found GST included in the shelf price — not added at checkout as in some other countries.",
+          "He found businesses with annual turnover above seventy-five thousand dollars required to register for GST.",
+          "GST was introduced in Australia on 1 July 2000 — replacing a complex system of wholesale taxes.",
+          "She found tax invoices displaying the GST component separately — important for business expense claims.",
+          "He found GST not applying to exports — businesses could claim GST back on exported goods.",
+          "GST revenue is distributed to states and territories under the federation funding arrangement.",
+          "She describes understanding GST as the tax knowledge that most helped her understand Australian business pricing."
+        ]
+      },
+      {
+        "word": "cashback",
+        "ipa": "/ˈkæʃbæk/",
+        "phonetic": "[KASH-bak]",
+        "meaning": "nakit iadesi",
+        "type": "isim",
+        "sentences": [
+          "She uses a cashback credit card — one percent returned on all spending adds up.",
+          "He found cashback websites and apps offering returns on online purchases.",
+          "Cashback is a financial incentive where a portion of a purchase price is returned to the consumer.",
+          "She found cashback credit cards offering between one and two percent on general spending.",
+          "He found cashback offers on major purchases — insurance, utilities, and electronics — through comparison websites.",
+          "Cashback through credit cards only provides value if the balance is paid in full — interest erases the benefit.",
+          "She found cashback portal ShopBack popular in Australia for online retail purchases.",
+          "He found cashback on energy switching the most underused saving available to Australian households.",
+          "Cashback is a marketing tool — the cost is factored into pricing by the retailer.",
+          "She describes the cashback program she joined as the financial habit that most rewarded the spending she was already doing."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 265,
+    "words": [
+      {
+        "word": "expiry date",
+        "ipa": "/ɪkˈspaɪri deɪt/",
+        "phonetic": "[ik-SPY-ree dayt]",
+        "meaning": "son kullanma tarihi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She checks the expiry date on the product before buying — particularly for supplements and skincare.",
+          "He found expiry dates on food, medicine, and cosmetics carrying different legal implications.",
+          "An expiry date is the date after which a product is no longer considered safe or effective.",
+          "She found expired medicines returned to the chemist through the Return Unwanted Medicines program.",
+          "He found the distinction between expiry date and best before date important for food safety.",
+          "Expiry dates on medicines and certain foods carry strict safety implications — not merely quality.",
+          "She found food past its expiry date legally unable to be sold in Australia.",
+          "He found sunscreen and certain over-the-counter medicines losing efficacy after expiry — not merely a guideline.",
+          "Expiry dates on gift cards were prohibited in Australia — a consumer protection reform.",
+          "She describes checking expiry dates as the shopping habit that most saved her from both food waste and safety risk."
+        ]
+      },
+      {
+        "word": "unit pricing",
+        "ipa": "/ˈjuːnɪt ˈpraɪsɪŋ/",
+        "phonetic": "[YOO-nit PRY-sing]",
+        "meaning": "birim fiyatlandırma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She compares products using unit pricing — the per-hundred-gram cost makes the decision simple.",
+          "He found unit pricing on supermarket shelves the most useful information for comparing value.",
+          "Unit pricing is the display of the price per standard unit — per hundred grams, per litre — alongside the retail price.",
+          "She found unit pricing required by law in large supermarkets in Australia.",
+          "He found unit pricing revealing that the larger size was not always better value.",
+          "Unit pricing in Australia must be displayed prominently — the law specifies the font size and format.",
+          "She found unit pricing the single most practical tool for grocery comparison shopping.",
+          "He found unit pricing applied to loose produce, packaged goods, and bulk items.",
+          "Unit pricing comparisons are only valid within the same product category and measurement unit.",
+          "She describes unit pricing as the shelf label she most trained herself to read before the retail price."
+        ]
+      },
+      {
+        "word": "trade-in",
+        "ipa": "/treɪd ɪn/",
+        "phonetic": "[trayd in]",
+        "meaning": "eski ürün karşılığında indirim",
+        "type": "isim",
+        "sentences": [
+          "She got a trade-in value on her old phone — two hundred dollars off the new one.",
+          "He found trade-in programs at Apple, Samsung, and Telstra offering the best values.",
+          "A trade-in is an arrangement where an old item is given to a retailer in exchange for a discount on a new purchase.",
+          "She found trade-in values varying significantly — she compared three retailers before deciding.",
+          "He found car trade-ins the largest category — the old vehicle offset against the new car purchase price.",
+          "Trade-in programs reduce the environmental impact of disposal — older devices refurbished or recycled.",
+          "She found trade-in values contingent on condition — cracked screens reduced the offer significantly.",
+          "He found the trade-in offer best accepted at the time of a new purchase — not later.",
+          "Trade-ins create a resale market — some trade-in items are cleaned and sold as certified refurbished.",
+          "She describes accepting a trade-in offer as the transaction that most made her feel practical rather than sentimental about her old phone."
+        ]
+      },
+      {
+        "word": "warranty",
+        "ipa": "/ˈwɒrənti/",
+        "phonetic": "[WO-run-tee]",
+        "meaning": "garanti (üretici garantisi)",
+        "type": "isim",
+        "sentences": [
+          "She found the manufacturer's warranty extending the period in which faults could be repaired for free.",
+          "He found the warranty period varying — one year for electronics, five for appliances, ten for some tools.",
+          "A warranty is a manufacturer's promise to repair or replace a product within a specified period.",
+          "She found manufacturer warranties supplemented by — but not replacing — consumer guarantees under the ACL.",
+          "He found extended warranties offered at point of sale — often overpriced relative to failure rates.",
+          "Warranties in Australia must be honoured — failing to do so is a breach of the ACL.",
+          "She found the warranty terms important: whether it covered parts only, or parts and labour.",
+          "He found the warranty registration process quick — and worth completing to ensure coverage.",
+          "Warranties and consumer guarantees coexist — consumer guarantees may last longer than the stated warranty.",
+          "She describes understanding the difference between a warranty and a consumer guarantee as the knowledge that most changed how she handled product failures."
+        ]
+      },
+      {
+        "word": "bill of sale",
+        "ipa": "/bɪl əv seɪl/",
+        "phonetic": "[bil uv sayl]",
+        "meaning": "satış belgesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She requested a bill of sale when buying the second-hand car from the private seller.",
+          "He found a bill of sale essential for high-value private transactions — motorbikes, trailers, and boats.",
+          "A bill of sale is a written document confirming the transfer of ownership of goods from seller to buyer.",
+          "She found a bill of sale important for demonstrating legitimate acquisition if questions arose later.",
+          "He found the bill of sale including the parties' names, date, description, and agreed price.",
+          "Bills of sale are particularly important for unregistered vehicles and private party transactions.",
+          "She found template bills of sale available through state consumer affairs offices.",
+          "He found signing a bill of sale providing both parties with legal clarity about the transaction.",
+          "A bill of sale is not required for most retail purchases — receipts serve the same purpose.",
+          "She describes the bill of sale as the document she most valued when the car she bought turned out to have a history."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 266,
+    "words": [
+      {
+        "word": "department store",
+        "ipa": "/dɪˈpɑːtmənt stɔː/",
+        "phonetic": "[dih-PART-munt stor]",
+        "meaning": "büyük mağaza",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the department store the most convenient single stop for clothing, homewares, and cosmetics.",
+          "He found Australian department stores — Myer and David Jones — under ongoing commercial pressure.",
+          "A department store is a large retail outlet selling a wide variety of goods in distinct sections.",
+          "She found Myer and David Jones the two surviving national Australian department store chains.",
+          "He found department stores most compelling during sales events — significant discounts on quality brands.",
+          "Department stores in Australia have contracted — many stores closed as online competition grew.",
+          "She found the cosmetics floor of the department store the most theatrical retail environment she visited.",
+          "He found department store credit cards offering exclusive loyalty benefits — she evaluated carefully.",
+          "Department stores provide a curated shopping experience — brands available in one location.",
+          "She describes the department store as the retail format she visited most nostalgically — and least frequently."
+        ]
+      },
+      {
+        "word": "outlet store",
+        "ipa": "/ˈaʊtlɛt stɔː/",
+        "phonetic": "[OWT-let stor]",
+        "meaning": "fabrika satış mağazası",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the outlet store selling last season's designer items at forty percent discount.",
+          "He found Birkenhead Point and DFO the most well-known outlet shopping centres in Australia.",
+          "An outlet store sells discontinued, overstocked, or previous season goods at reduced prices.",
+          "She found outlet stores offering genuine brands at significant savings — she verified authenticity.",
+          "He found DFO — Direct Factory Outlet — centres in Brisbane, Melbourne, Sydney, and Perth.",
+          "Outlet stores carry irregular or last-season stock — she found the range limited but the savings significant.",
+          "She found outlet shopping worth the travel to a regional or airport location.",
+          "He found some outlet stores carrying items made specifically for the outlet channel — not genuine surplus.",
+          "Outlet stores combine the brand experience with clearance pricing — a model that attracted significant foot traffic.",
+          "She describes outlet shopping as the retail format that most rewarded the patience to sift rather than the habit of buying on impulse."
+        ]
+      },
+      {
+        "word": "receipt",
+        "ipa": "/rɪˈsiːt/",
+        "phonetic": "[rih-SEET]",
+        "meaning": "makbuz, fiş",
+        "type": "isim",
+        "sentences": [
+          "She photographs every receipt on her phone — it replaced a shoebox of paper slips.",
+          "He found keeping receipts the single most important consumer habit for managing returns and claims.",
+          "A receipt is a document confirming a purchase transaction — the record of what was paid.",
+          "She found digital receipts emailed automatically from many Australian retailers.",
+          "He found receipts essential for warranty claims, tax deductions, and returns.",
+          "Receipts in Australia must be provided for transactions over seventy-five dollars — mandatory.",
+          "She found e-receipts reducing paper waste — she opted in wherever the option was offered.",
+          "He found the ATO accepting photographed receipts as valid records for tax purposes.",
+          "Receipts also serve as proof of purchase in the event of a consumer guarantee dispute.",
+          "She describes the receipt as the document she most consistently undervalued — until she needed one."
+        ]
+      },
+      {
+        "word": "stocktake sale",
+        "ipa": "/ˈstɒkteɪk seɪl/",
+        "phonetic": "[STOK-tayk sayl]",
+        "meaning": "envanter sayımı indirimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the stocktake sale at the furniture store clearing last year's models at half price.",
+          "He found stocktake sales most common in January and June in Australian retail.",
+          "A stocktake sale is a retail event where goods are discounted to reduce inventory before a count.",
+          "She found stocktake sales at independent retailers offering more genuine discounts than chain promotions.",
+          "He found stocktake sales on flooring, furniture, and electrical goods the most significant.",
+          "Stocktake sales help retailers understand and reduce their inventory before the next season.",
+          "She found the stocktake sale signs reliable indicators of genuine discounting — not manufactured urgency.",
+          "He found stocktake sale items sometimes the last of their kind — no restock expected.",
+          "Stocktake sales benefit both retailer — reduced carrying cost — and consumer — lower prices.",
+          "She describes the stocktake sale as the retail event she most planned around — noting dates in advance."
+        ]
+      },
+      {
+        "word": "misleading advertising",
+        "ipa": "/mɪsˈliːdɪŋ ˈædvətaɪzɪŋ/",
+        "phonetic": "[mis-LEED-ing AD-vuh-ty-zing]",
+        "meaning": "yanıltıcı reklam",
+        "type": "isim öbeği",
+        "sentences": [
+          "She reported misleading advertising after the product did not match its television commercial.",
+          "He found misleading advertising prohibited by the Australian Consumer Law and enforced by the ACCC.",
+          "Misleading advertising is promotional material that creates a false impression in consumers' minds.",
+          "She found greenwashing — false environmental claims — the most common form of misleading advertising she encountered.",
+          "He found the ACCC successfully prosecuting businesses for misleading fuel economy and ingredient claims.",
+          "Misleading advertising includes false price comparisons — the was/now format misused to suggest savings that weren't real.",
+          "She found the advertised claims for superfoods among the most misleadingly phrased she had evaluated.",
+          "He found the ACCC's education campaign on misleading advertising improving consumer awareness.",
+          "Misleading advertising undermines market trust — it distorts decision-making and rewards dishonest competitors.",
+          "She describes identifying misleading advertising as the critical thinking exercise that most sharpened her as a consumer."
+        ]
+      }
+    ]
+  }
+]

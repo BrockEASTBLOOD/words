@@ -1,0 +1,702 @@
+[
+  {
+    "day": 71,
+    "words": [
+      {
+        "word": "footy",
+        "ipa": "/ˈfʊti/",
+        "phonetic": "[FOOT-ee]",
+        "meaning": "futbol (Avustralya'da genellikle AFL veya NRL'i kasteder, bölgeye göre değişir)",
+        "type": "isim (Avustralya argosu)",
+        "sentences": [
+          "She grew up watching footy with her dad every Saturday afternoon.",
+          "He kicked the footy with his son in the backyard after school.",
+          "In Melbourne, footy almost always means Australian Rules — AFL.",
+          "She bought her daughter a footy for her birthday — a proper size three.",
+          "He could not imagine a winter weekend without footy on television.",
+          "Footy season runs roughly from March through to September each year.",
+          "She attended her first live footy match and was overwhelmed by the roar of the crowd.",
+          "He debated footy tipping results with colleagues every Monday morning at work.",
+          "Footy is more than a game in many Australian communities — it is a cultural identity.",
+          "She learned the rules of footy slowly and found it far more tactical than she first assumed."
+        ]
+      },
+      {
+        "word": "AFL",
+        "ipa": "/eɪɛfɛl/",
+        "phonetic": "[ay-ef-EL]",
+        "meaning": "Avustralya Futbol Ligi",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "He follows the AFL religiously and has not missed a Richmond game in twelve years.",
+          "She was surprised by how fast and athletic AFL players were when she watched her first game live.",
+          "The AFL season begins with the pre-season competition in late February and March.",
+          "He wears his AFL team's scarf and beanie to every home game at the MCG.",
+          "She explained AFL rules to her overseas colleague — the oval field confused them most.",
+          "AFL is played on an oval field with eighteen players per side and four goal posts.",
+          "He grew up in Adelaide and barracked for the Crows — AFL was all he knew of football.",
+          "She attended the AFL Grand Final at the MCG and described it as the best sporting experience of her life.",
+          "AFL teams are based across most Australian states and territories.",
+          "He played AFL at a community level every Saturday until his knee surgery."
+        ]
+      },
+      {
+        "word": "cricket",
+        "ipa": "/ˈkrɪkɪt/",
+        "phonetic": "[KRIK-it]",
+        "meaning": "kriket",
+        "type": "isim",
+        "sentences": [
+          "She set up a small cricket net in the backyard so the children could practise their batting.",
+          "He watched the Boxing Day Test match at the MCG with his father every year.",
+          "Cricket is deeply embedded in Australian culture — the summer simply does not feel complete without it.",
+          "She found cricket confusing at first but grew to love the rhythm and strategy of the game.",
+          "He played backyard cricket every Christmas Day with cousins, uncles, and anyone willing.",
+          "Australia has produced some of the greatest cricketers in the history of the game.",
+          "She subscribed to a streaming service specifically to watch international cricket over the summer.",
+          "He explained the difference between Test, one-day, and T20 cricket to his son.",
+          "Cricket season in Australia runs through the Australian summer from October to March.",
+          "She attended the women's Big Bash cricket match and found the atmosphere electric."
+        ]
+      },
+      {
+        "word": "NRL",
+        "ipa": "/ɛnɑːɛl/",
+        "phonetic": "[en-ar-EL]",
+        "meaning": "Ulusal Rugby Ligi",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "He grew up in Queensland and followed the NRL with a passion he could never fully explain.",
+          "She attended her first NRL game at a Sydney stadium and was struck by the physicality.",
+          "NRL is the dominant football code in New South Wales and Queensland.",
+          "He watched the NRL State of Origin series with his family — the rivalry was extraordinary.",
+          "She appreciated the speed and power of NRL players compared to other football codes.",
+          "He barracked for the South Sydney Rabbitohs and never let anyone forget it.",
+          "NRL teams are based primarily in Sydney, Brisbane, and regional New South Wales and Queensland.",
+          "She bought her son an NRL jersey for his birthday — he wore it every single day.",
+          "He watched the NRL Grand Final at a packed pub surrounded by passionate supporters.",
+          "She is slowly learning the rules of NRL after moving to Queensland from Victoria."
+        ]
+      },
+      {
+        "word": "netball",
+        "ipa": "/ˈnɛtbɔːl/",
+        "phonetic": "[NET-bawl]",
+        "meaning": "netbol",
+        "type": "isim",
+        "sentences": [
+          "She played netball every Sunday morning in a community competition.",
+          "He watched his daughter's netball final and cheered himself hoarse from the sideline.",
+          "Netball is one of the most widely played team sports in Australia.",
+          "She played as goal shooter in her school netball team throughout high school.",
+          "He was surprised by the athleticism and skill involved in elite netball matches.",
+          "Netball Australia's Super Netball league has some of the world's best players competing locally.",
+          "She joined a social netball team at the local stadium after moving to a new city.",
+          "He volunteered as a coach for the under-ten netball team at the primary school.",
+          "Netball courts are found at most Australian community recreation centres.",
+          "She watched the Australian Diamonds win the World Cup and felt enormously proud."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 72,
+    "words": [
+      {
+        "word": "Grand Final",
+        "ipa": "/ɡrænd ˈfaɪnəl/",
+        "phonetic": "[grand FY-nul]",
+        "meaning": "şampiyonluk finali (AFL, NRL vb.)",
+        "type": "isim öbeği",
+        "sentences": [
+          "He has attended the AFL Grand Final at the MCG every year for the past two decades.",
+          "She watched the NRL Grand Final at the pub with thirty friends — the tension was enormous.",
+          "The AFL Grand Final is held on the last Saturday of September each year in Melbourne.",
+          "He bought Grand Final tickets through the official ballot months in advance.",
+          "She stayed up late to watch the cricket final and celebrated the victory loudly.",
+          "The Grand Final public holiday is only observed in Melbourne — a day off for the biggest match.",
+          "He wore his team's colours to work on Grand Final week — the office was split.",
+          "She watched the Grand Final with strangers at a sports bar and left feeling like they were friends.",
+          "He still talks about the Grand Final his team won in 2017 — it was the happiest day of his life.",
+          "She attended the Grand Final parade in the CBD the Friday before the match."
+        ]
+      },
+      {
+        "word": "State of Origin",
+        "ipa": "/steɪt əv ˈɒrɪdʒɪn/",
+        "phonetic": "[stayt uv OR-ih-jin]",
+        "meaning": "NSW ile Queensland arasındaki rugby ligi şampiyonası serisi",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She had never watched rugby league before but found State of Origin completely captivating.",
+          "He and his colleague had a standing rivalry over State of Origin — he backed NSW, she backed QLD.",
+          "State of Origin is arguably the most passionate annual sporting contest in Australia.",
+          "She booked tickets to the Sydney State of Origin game two months in advance.",
+          "He cleared his calendar for every State of Origin night — nothing was more important.",
+          "State of Origin is a three-game series played between New South Wales and Queensland.",
+          "She decorated the living room in maroon for State of Origin — Queensland all the way.",
+          "He found the intensity of State of Origin exceeded any club match he had ever watched.",
+          "State of Origin has produced some of the most memorable moments in Australian sporting history.",
+          "She followed State of Origin closely after moving from overseas — it explained a lot about Australian culture."
+        ]
+      },
+      {
+        "word": "tipping",
+        "ipa": "/ˈtɪpɪŋ/",
+        "phonetic": "[TIP-ing]",
+        "meaning": "maç sonucu tahmin oyunu (footy tipping)",
+        "type": "isim",
+        "sentences": [
+          "She joined the office footy tipping competition and surprised everyone by leading after five rounds.",
+          "He takes his tipping very seriously — he analyses team form, injury lists, and weather conditions.",
+          "Footy tipping competitions are an Australian workplace tradition that runs all season.",
+          "She fell to third place in the tipping after backing the wrong team three weeks in a row.",
+          "He entered a free public tipping competition online and won a modest prize at season's end.",
+          "Tipping competitions bring together people who would otherwise never discuss sport.",
+          "She tipped based purely on the team names and somehow beat the football experts in the office.",
+          "He received a tipping nudge email every Thursday reminding him to submit his picks.",
+          "Tipping is as much about camaraderie as it is about sport — the group chat was always lively.",
+          "She explained tipping to a new team member who had never heard of footy and found it delightful."
+        ]
+      },
+      {
+        "word": "barrack",
+        "ipa": "/ˈbærək/",
+        "phonetic": "[BAH-ruk]",
+        "meaning": "takım tutmak, desteklemek (Avustralya'da spor terimi)",
+        "type": "fiil",
+        "sentences": [
+          "She barracks for Collingwood — a fact she announces proudly to everyone she meets.",
+          "He barracks for the Bulldogs and has done so since he was six years old.",
+          "In Australia, you barrack for a team — not cheer for it.",
+          "She barracked loudly from the stands despite being surrounded by the opposing team's supporters.",
+          "He barracks for whichever team his father supported — it was never a choice he made consciously.",
+          "She found out the hard way that barracks means to support in Australia — not to criticise.",
+          "He barracks for a team in every sport — he finds it more enjoyable than watching neutrally.",
+          "She asked a new Australian colleague who they barracked for — it was the perfect icebreaker.",
+          "He barracks for the Roosters in the NRL and refuses to change despite years of disappointment.",
+          "She started barracking for Melbourne City in the A-League after attending a game on a whim."
+        ]
+      },
+      {
+        "word": "premiership",
+        "ipa": "/ˈprɛmɪəʃɪp/",
+        "phonetic": "[PREM-ee-uh-ship]",
+        "meaning": "şampiyonluk, lig birinciliği",
+        "type": "isim",
+        "sentences": [
+          "He has been waiting for his team to win the premiership for over a decade.",
+          "She celebrated when her team won the premiership by running into the street and cheering.",
+          "Winning the premiership is the ultimate goal of every AFL and NRL team each season.",
+          "He watched all twenty-three games of his team's premiership run from his lounge room.",
+          "She attended the premiership celebration parade in the CBD the day after the Grand Final.",
+          "He keeps the premiership flag from his team's last win framed on the wall of his study.",
+          "She found the atmosphere at a premiership decider unlike anything she had experienced in sport.",
+          "He told his children stories about every premiership his team had ever won.",
+          "A premiership is won by the team that wins the Grand Final — the pinnacle of the season.",
+          "She wore the premiership medal her grandfather had won as a player — a treasured family heirloom."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 73,
+    "words": [
+      {
+        "word": "The Ashes",
+        "ipa": "/ðə ˈæʃɪz/",
+        "phonetic": "[thuh ASH-iz]",
+        "meaning": "Avustralya ile İngiltere arasındaki kriket serisi",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "He stayed up until three in the morning to watch Australia retain The Ashes.",
+          "She found The Ashes the most compelling cricket series to follow as a newcomer to the sport.",
+          "The Ashes is a Test cricket series played between Australia and England every two years.",
+          "He explained the history of The Ashes to his English workmate — they had a spirited debate.",
+          "She attended The Ashes Test at the SCG and found the five-day format unexpectedly riveting.",
+          "The Ashes rivalry dates back to 1882 — one of the oldest contests in world sport.",
+          "He painted his face in Australian green and gold for The Ashes Test at the Gabba.",
+          "She read about The Ashes origin story — the symbolic tiny urn containing the burned cricket bail.",
+          "He found The Ashes created more workplace banter than any other sporting event through the year.",
+          "She followed The Ashes closely for the first time when Australia won the series four-one."
+        ]
+      },
+      {
+        "word": "Test match",
+        "ipa": "/tɛst mætʃ/",
+        "phonetic": "[test match]",
+        "meaning": "kriketin en üst düzey beş günlük uluslararası maçı",
+        "type": "isim öbeği",
+        "sentences": [
+          "He took a day off work to attend the first day of the Boxing Day Test match.",
+          "She found the slow pace of a Test match meditative rather than boring after a while.",
+          "A Test match is played over five days with each team batting twice.",
+          "He watched the entire fifth day of the Test match knowing the result could swing either way.",
+          "She packed a hat, sunscreen, and snacks for the full day at the Test match.",
+          "Test match cricket is considered the highest and most demanding form of the game.",
+          "He described the atmosphere at a packed Test match in Sydney as genuinely electric.",
+          "She learned the concept of a draw in Test cricket — a result that takes five days to not produce a winner.",
+          "He had attended the Boxing Day Test every year since his father first took him at age eight.",
+          "She preferred the drama of a Test match to the faster formats — the strategy ran deeper."
+        ]
+      },
+      {
+        "word": "wicket",
+        "ipa": "/ˈwɪkɪt/",
+        "phonetic": "[WIK-it]",
+        "meaning": "kriket kalesi; bir oyuncunun out olması",
+        "type": "isim",
+        "sentences": [
+          "He jumped off his couch when the bowler took the crucial wicket to end the innings.",
+          "She learned that a wicket referred to both the three stumps and the act of getting a batsman out.",
+          "The fast bowler took five wickets in a single session — a stunning performance.",
+          "He watched the wicket fall and groaned — his team was now four wickets down.",
+          "She studied the cricket scorecard and slowly began to understand what each wicket meant.",
+          "Taking wickets on a flat pitch on a hot Australian day was a genuine test of skill.",
+          "He bowled a beautiful delivery that hit the top of the off stump — a perfect wicket.",
+          "She realised a sticky wicket was also used as an everyday phrase meaning a difficult situation.",
+          "He described taking his first wicket in competitive cricket as the greatest feeling of his sporting life.",
+          "She counted the wickets remaining and understood exactly why the crowd was so tense."
+        ]
+      },
+      {
+        "word": "oval",
+        "ipa": "/ˈoʊvəl/",
+        "phonetic": "[OH-vul]",
+        "meaning": "oval spor sahası (AFL için)",
+        "type": "isim",
+        "sentences": [
+          "She drove past the local oval and saw a junior AFL game in progress.",
+          "He played on the oval every Saturday morning for fifteen years — rain or shine.",
+          "AFL is played on an oval field which is much larger than a soccer or rugby pitch.",
+          "She sat on the grass bank around the community oval to watch the local footy.",
+          "He mowed the oval with a ride-on mower every Wednesday morning for the council.",
+          "The oval was in perfect condition for the grand final — recently reseeded and rolled.",
+          "She loved the local oval in autumn when the light turned golden in the late afternoons.",
+          "He ran laps of the oval at six in the morning before the rest of the suburb was awake.",
+          "The oval served as a football ground in winter and a cricket ground in summer.",
+          "She watched her son's first game on the oval from a fold-out camp chair on the boundary."
+        ]
+      },
+      {
+        "word": "MCG",
+        "ipa": "/ɛmsiːdʒiː/",
+        "phonetic": "[em-see-JEE]",
+        "meaning": "Melbourne Kriket Zemini (dünyanın en ikonik spor stadyumlarından biri)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "He has attended the Boxing Day Test at the MCG every year since childhood.",
+          "She visited the MCG on a stadium tour and was overwhelmed by the scale of the ground.",
+          "The MCG is one of the largest cricket and football stadiums in the world.",
+          "He proposed to his partner at the MCG during an AFL match — she said yes.",
+          "She found the MCG atmosphere on Grand Final day completely unlike anything else.",
+          "The MCG is known affectionately as the 'G by Melbourne sports fans.",
+          "He ran the Melbourne Marathon which finishes inside the MCG — a magical moment.",
+          "She sat in the top tier of the MCG and felt far from the action but still part of something enormous.",
+          "The MCG has hosted the Olympic Games, Commonwealth Games, and numerous world sporting events.",
+          "He was moved by the ANZAC Day AFL match at the MCG — a deeply Australian tradition."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 74,
+    "words": [
+      {
+        "word": "surf lifesaving",
+        "ipa": "/sɜːf ˈlaɪfseɪvɪŋ/",
+        "phonetic": "[surf LYF-say-ving]",
+        "meaning": "sahil cankurtarma (Avustralya'ya özgü gönüllü teşkilat)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She completed her bronze medallion and became a qualified surf lifesaver.",
+          "He volunteered at the local surf lifesaving club every weekend from October to April.",
+          "Surf lifesaving clubs are found at almost every patrolled beach in Australia.",
+          "She bought her children junior surf lifesaving memberships so they could join Nippers.",
+          "He wore the iconic red and yellow uniform with enormous pride.",
+          "Surf lifesaving volunteers patrol Australian beaches during peak swimming times.",
+          "She participated in the surf lifesaving carnival and competed in the board race.",
+          "He trained for the iron man event — the most demanding surf lifesaving competition.",
+          "Surf lifesaving is a volunteer organisation that saves hundreds of lives every Australian summer.",
+          "She found surf lifesaving gave her purpose, fitness, and a community of incredible people."
+        ]
+      },
+      {
+        "word": "Nippers",
+        "ipa": "/ˈnɪpəz/",
+        "phonetic": "[NIP-uz]",
+        "meaning": "çocuklar için sahil cankurtarma programı",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She enrolled her five-year-old in Nippers at the local surf club for ocean safety skills.",
+          "He drove his son to Nippers every Sunday morning during the summer season.",
+          "Nippers teaches children aged five to thirteen beach safety and surf awareness.",
+          "She loved watching the Nippers march past in their colourful rashies and caps.",
+          "He volunteered as a Nippers age manager and helped coordinate fifty energetic children.",
+          "Nippers activities include flags, beach sprints, board paddling, and swim races.",
+          "She found Nippers gave her children confidence in the ocean and strong friendships.",
+          "He described Nippers as the best summer activity he had ever enrolled his children in.",
+          "Nippers are the future of the surf lifesaving movement — the next generation of lifesavers.",
+          "She pinned her daughter's Nippers cap to the fridge — the pride was enormous."
+        ]
+      },
+      {
+        "word": "between the flags",
+        "ipa": "/bɪˈtwiːn ðə flæɡz/",
+        "phonetic": "[bih-TWEEN thuh flagz]",
+        "meaning": "nöbetçi cankurtaranların belirlediği güvenli yüzme alanı",
+        "type": "deyim",
+        "sentences": [
+          "She told her children never to swim outside the flags — always between the flags.",
+          "He waded into the sea between the flags where the lifesavers were watching.",
+          "The Swim Between the Flags campaign is run by Surf Life Saving Australia every summer.",
+          "She returned to the beach and made sure she was between the flags before the children entered the water.",
+          "He had ignored the flags as a teenager once — the rip pulled him out and it terrified him.",
+          "Always swim between the flags — the red and yellow markers show where it is safe.",
+          "She explained the meaning of between the flags to her overseas friend visiting an Australian beach.",
+          "He was grateful the flags were set that day — it was tricky surf and the rip was visible.",
+          "Between the flags is a simple rule that saves lives every Australian summer.",
+          "She photographed the red and yellow flags as a reminder to always swim in the safe zone."
+        ]
+      },
+      {
+        "word": "parkrun",
+        "ipa": "/pɑːkrʌn/",
+        "phonetic": "[park-run]",
+        "meaning": "ücretsiz haftalık 5 km koşu etkinliği",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She runs parkrun every Saturday morning at the local park with two hundred other participants.",
+          "He started parkrun as a way to get fit after a long period of inactivity.",
+          "Parkrun is free to enter — just register online once and bring your barcode each week.",
+          "She set a new personal best at parkrun and was congratulated by strangers at the finish line.",
+          "He volunteers as a tail walker at parkrun so nobody ever runs alone.",
+          "Parkrun has a huge community feel — all paces from elite runners to walkers are welcome.",
+          "She convinced her whole family to try parkrun on New Year's Day as a fresh start.",
+          "He found parkrun the most welcoming running event he had ever participated in.",
+          "Parkrun results are uploaded within hours — she checks her time every Saturday morning.",
+          "She has completed parkrun in eleven different Australian locations on her travels."
+        ]
+      },
+      {
+        "word": "fun run",
+        "ipa": "/fʌn rʌn/",
+        "phonetic": "[fun run]",
+        "meaning": "eğlence amaçlı toplu koşu etkinliği",
+        "type": "isim öbeği",
+        "sentences": [
+          "She signed up for the Mother's Day Classic fun run to raise money for breast cancer research.",
+          "He completed a five-kilometre fun run for the first time and immediately registered for another.",
+          "Fun runs are held regularly in Australian cities as community fundraising events.",
+          "She ran the fun run in a tuttu skirt costume — she finished in the middle of the pack.",
+          "He trained for six weeks before the fun run to make sure he could complete it comfortably.",
+          "Fun runs welcome all fitness levels — many participants walk part or all of the course.",
+          "She raised three hundred dollars in sponsorship for the fun run from family and friends.",
+          "He volunteered at the water station during the fun run and cheered everyone past.",
+          "The fun run finished in the CBD — she felt an enormous sense of achievement crossing the line.",
+          "She runs the City to Surf fun run in Sydney every August as an annual tradition."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 75,
+    "words": [
+      {
+        "word": "personal trainer",
+        "ipa": "/ˈpɜːsənl ˈtreɪnə/",
+        "phonetic": "[PUR-sun-ul TRAY-nuh]",
+        "meaning": "kişisel antrenör",
+        "type": "isim öbeği",
+        "sentences": [
+          "She hired a personal trainer to help her recover strength after a long period of inactivity.",
+          "He met with his personal trainer three times a week before work.",
+          "A good personal trainer tailors the program to your individual goals and physical condition.",
+          "She found the accountability of having a personal trainer made a remarkable difference.",
+          "He became a personal trainer after his own fitness transformation motivated him to help others.",
+          "She asked her personal trainer to focus on injury prevention rather than just performance.",
+          "He appreciated that his personal trainer checked in between sessions to monitor his progress.",
+          "Personal trainers in Australia must hold a Certificate III or IV in Fitness to practise professionally.",
+          "She found the personal trainer through a recommendation from a colleague who had seen great results.",
+          "He combined gym sessions with a personal trainer and Saturday parkrun — the progress was real."
+        ]
+      },
+      {
+        "word": "gym",
+        "ipa": "/dʒɪm/",
+        "phonetic": "[jim]",
+        "meaning": "spor salonu",
+        "type": "isim",
+        "sentences": [
+          "She joined the gym in January with great resolve and went consistently for three months.",
+          "He goes to the gym before work four mornings a week without fail.",
+          "The gym offered a free trial week before requiring any membership commitment.",
+          "She appreciated that the gym was open twenty-four hours — she often trained late at night.",
+          "He cancelled his gym membership during a busy period and then deeply regretted it.",
+          "The gym had both a weights area and group fitness classes included in the base membership.",
+          "She found the gym community supportive — regulars quietly encouraged each other.",
+          "He chose a gym close to work so he could go in the lunch break on busy days.",
+          "She compared gym membership costs across three facilities before choosing the best value.",
+          "He found the gym induction helpful — staff showed him how to use each piece of equipment safely."
+        ]
+      },
+      {
+        "word": "yoga",
+        "ipa": "/ˈjoʊɡə/",
+        "phonetic": "[YOH-guh]",
+        "meaning": "yoga",
+        "type": "isim",
+        "sentences": [
+          "She started yoga during the pandemic and has practised three times a week ever since.",
+          "He attended his first yoga class and was humbled by how inflexible he was.",
+          "Yoga studios are found in nearly every Australian suburb and town.",
+          "She found yoga beneficial for both her physical flexibility and her mental health.",
+          "He rolled out his mat in the living room and followed a free online yoga class.",
+          "She completed a two-hundred-hour yoga teacher training and began teaching evening classes.",
+          "He chose a restorative yoga class on Sundays as his weekly act of deliberate rest.",
+          "She found hot yoga intensely demanding but noticed improvements in her strength and flexibility.",
+          "He brought his own mat, towel, and water bottle to the yoga studio as required.",
+          "She described yoga as the single most effective thing she had done for her overall wellbeing."
+        ]
+      },
+      {
+        "word": "swimming",
+        "ipa": "/ˈswɪmɪŋ/",
+        "phonetic": "[SWIM-ing]",
+        "meaning": "yüzme",
+        "type": "isim",
+        "sentences": [
+          "She swims fifty laps at the public pool every morning before sunrise.",
+          "He enrolled his toddler in swimming lessons as soon as she could stand up.",
+          "Swimming is considered an essential life skill in Australia given the proximity to water.",
+          "She joined a swimming squad at the local aquatic centre for structured training.",
+          "He found swimming the kindest exercise on his knees after years of running.",
+          "Swimming lessons for children are heavily subsidised in some states because of drowning risks.",
+          "She trained her children to be strong swimmers before they reached school age.",
+          "He swam competitively at school and returned to the sport after a twenty-year break.",
+          "Swimming is one of the most popular participation sports across all age groups in Australia.",
+          "She brought her swim goggles, cap, and fins to the early morning squad session."
+        ]
+      },
+      {
+        "word": "triathlon",
+        "ipa": "/traɪˈæθlɒn/",
+        "phonetic": "[try-ATH-lon]",
+        "meaning": "triatlon (yüzme, bisiklet, koşu)",
+        "type": "isim",
+        "sentences": [
+          "She completed her first triathlon — a sprint distance — and was hooked immediately.",
+          "He trained for six months before entering an Olympic distance triathlon.",
+          "A triathlon consists of a swim, followed by a bike leg, then a run to the finish.",
+          "She found the transition between the swim and bike legs the most challenging to master.",
+          "He joined a triathlon club where members trained together and supported each other on race day.",
+          "She chose a beginner triathlon with a pool swim rather than an open water start.",
+          "He finished his first Ironman triathlon after years of building toward the goal.",
+          "She described crossing the triathlon finish line as the most physically demanding and emotionally powerful experience.",
+          "He borrowed a road bike for his first triathlon — he upgraded to a proper tri bike afterwards.",
+          "Australia has a strong triathlon culture with events held across the country every summer."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 76,
+    "words": [
+      {
+        "word": "cricket whites",
+        "ipa": "/ˈkrɪkɪt waɪts/",
+        "phonetic": "[KRIK-it wyts]",
+        "meaning": "kriket için giyilen beyaz kıyafet",
+        "type": "isim öbeği",
+        "sentences": [
+          "He ironed his cricket whites carefully the night before the match.",
+          "She watched her son walk out to bat in his cricket whites for the first time.",
+          "Cricket whites are the traditional uniform for Test and first-class cricket matches.",
+          "He kept his cricket whites in pristine condition — bleaching out the grass stains each week.",
+          "She photographed her daughter in cricket whites before her first school competition.",
+          "Cricket whites are required for the traditional long-form game but not for coloured T20 matches.",
+          "He described the feeling of putting on cricket whites for a serious game as unlike any other.",
+          "She bought the full cricket whites kit — trousers, shirt, hat, and cable-knit jumper.",
+          "He washed his cricket whites in cold water to prevent the fabric from yellowing.",
+          "Cricket whites gave the game a sense of history and formality she came to appreciate."
+        ]
+      },
+      {
+        "word": "rashie",
+        "ipa": "/ˈræʃi/",
+        "phonetic": "[RASH-ee]",
+        "meaning": "dalış tişörtü, UV koruyucu uzun kollu mayo",
+        "type": "isim (Avustralya argosu)",
+        "sentences": [
+          "She made her children wear a rashie and a hat whenever they were at the beach.",
+          "He bought a UV50+ rashie for the summer — he had learned from too many sunburns.",
+          "A rashie provides UV protection and is widely worn by Australians of all ages in the water.",
+          "She packed three rashies for the kids for the Whitsundays holiday — one per day.",
+          "He wore the rashie over the pool at midday when the UV was at its highest.",
+          "Rashies are also worn by surfers to protect against board rash on longer sessions.",
+          "She chose a long-sleeve rashie for the toddler — full arm and neck coverage.",
+          "He found a children's rashie at the surf shop that matched the child's Nippers colours.",
+          "The rashie had a UPF 50+ rating — the highest available protection from UV rays.",
+          "She bought a stylish adult rashie that worked both in and out of the water."
+        ]
+      },
+      {
+        "word": "rip",
+        "ipa": "/rɪp/",
+        "phonetic": "[rip]",
+        "meaning": "sahilde denize doğru kuvvetli akıntı",
+        "type": "isim",
+        "sentences": [
+          "She spotted the darker channel of water — a rip — and swam parallel to shore to escape it.",
+          "He was caught in a rip as a teenager and remembered the panic of that day forever.",
+          "A rip is a strong channel of water flowing away from the shore and is common on Australian beaches.",
+          "She taught her children the signs of a rip — discoloured water, choppy surface, and foam.",
+          "He stayed between the flags specifically to avoid the rips he could see on either side.",
+          "If caught in a rip, do not swim against it — float calmly and swim parallel to the shore.",
+          "She flagged down a lifesaver when she saw a swimmer being pulled by a rip.",
+          "He found the rip concept counterintuitive until the lifesaver explained it clearly.",
+          "Rips are responsible for the majority of drownings and rescues on Australian beaches.",
+          "She always identifies where the rip is before letting her children enter the water."
+        ]
+      },
+      {
+        "word": "surfing",
+        "ipa": "/ˈsɜːfɪŋ/",
+        "phonetic": "[SUR-fing]",
+        "meaning": "sörf",
+        "type": "isim",
+        "sentences": [
+          "She learned to surf on the Mornington Peninsula and fell in love with the ocean.",
+          "He surfs before work whenever the swell report looks promising.",
+          "Surfing is embedded deeply in Australian coastal culture and identity.",
+          "She booked a beginner surfing lesson for the whole family on their Noosa holiday.",
+          "He carried his longboard down to the beach in the predawn dark, eager for the empty break.",
+          "Surfing requires patience, balance, and a genuine respect for ocean conditions.",
+          "She found surfing humbling — the ocean always reminds you who is in charge.",
+          "He surfed the same break for twenty years and still found something new in it.",
+          "Surfing culture in Australia produced many of the world's most influential professional surfers.",
+          "She described the moment she rode her first wave properly as pure, uncomplicated joy."
+        ]
+      },
+      {
+        "word": "footy tipping",
+        "ipa": "/ˈfʊti ˈtɪpɪŋ/",
+        "phonetic": "[FOOT-ee TIP-ing]",
+        "meaning": "footy maçı sonucu tahmin yarışması (işyeri geleneği)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She set up the office footy tipping competition using a free online platform.",
+          "He takes footy tipping more seriously than actual sport — he studies statistics each week.",
+          "Footy tipping competitions run in workplaces, clubs, and families across Australia all season.",
+          "She won the footy tipping prize at the end of the season — a restaurant voucher.",
+          "He tipped every home team in Round One — it was lazy, but effective.",
+          "Footy tipping brings people who know nothing about sport into conversation with genuine fans.",
+          "She submitted her footy tipping picks at eleven fifty-eight the night before the deadline.",
+          "He refused to tip against his own team even when they were unlikely to win.",
+          "Footy tipping is the ultimate watercooler conversation topic throughout the Australian winter.",
+          "She recommended footy tipping to her overseas colleague as the fastest way to understand Australian workplace culture."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 77,
+    "words": [
+      {
+        "word": "rec centre",
+        "ipa": "/rɛk ˈsɛntə/",
+        "phonetic": "[rek SEN-tuh]",
+        "meaning": "rekreasyon merkezi, spor tesisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She takes her children to the rec centre on weekends for swimming and indoor play.",
+          "He goes to the rec centre gym three mornings a week before the school run.",
+          "The local rec centre offers a pool, gym, group fitness classes, and indoor courts.",
+          "She enrolled the children in swimming lessons at the rec centre from age three.",
+          "He plays social basketball at the rec centre every Wednesday evening.",
+          "The rec centre is council-owned and charges lower fees than private facilities nearby.",
+          "She attended a senior fitness class at the rec centre twice a week after retirement.",
+          "He used the rec centre physiotherapy service after his knee surgery.",
+          "The rec centre holiday program kept the children active during the school break.",
+          "She chose the rec centre over a commercial gym for its community atmosphere and family focus."
+        ]
+      },
+      {
+        "word": "social sport",
+        "ipa": "/ˈsoʊʃl spɔːt/",
+        "phonetic": "[SOH-shul sport]",
+        "meaning": "rekabetin değil eğlencenin ön planda olduğu sosyal spor ligi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She joined a social sport netball team after moving to a new city to meet people.",
+          "He plays social sport volleyball on Friday evenings as a way to decompress after the week.",
+          "Social sport competitions are run at most Australian recreational centres.",
+          "She found social sport the best way to make friends after relocating for work.",
+          "He played social sport touch football in the summer and basketball in the winter.",
+          "Social sport is deliberately low pressure — the focus is on fun and connection.",
+          "She organised the work social sport team and it became the most popular office activity.",
+          "He appreciated that social sport welcomed complete beginners without judgement.",
+          "Social sport usually includes a shared drink at the venue bar after the game.",
+          "She met her partner at a social sport mixed netball competition."
+        ]
+      },
+      {
+        "word": "touch football",
+        "ipa": "/tʌtʃ ˈfʊtbɔːl/",
+        "phonetic": "[tuch FOOT-bawl]",
+        "meaning": "dokunma futbolu (tackle yerine dokunmayla durdurma)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She plays mixed touch football every Thursday evening at the local fields.",
+          "He introduced touch football to his team as a lunchtime activity and it became a firm favourite.",
+          "Touch football is a non-contact version of rugby league popular across Australia.",
+          "She found touch football easier to learn than rugby league but just as competitive.",
+          "He scored three tries in the touch football grand final — the team celebrated all evening.",
+          "Touch football is played by men, women, and mixed teams at all levels of competition.",
+          "She took the children to a touch football carnival and signed them up on the spot.",
+          "He appreciated that touch football required minimal equipment — just a ball and some cones.",
+          "Touch football is one of the fastest-growing sports in Australia particularly in schools.",
+          "She found the strategy in touch football surprisingly deep despite the simple rules."
+        ]
+      },
+      {
+        "word": "lawn bowls",
+        "ipa": "/lɔːn boʊlz/",
+        "phonetic": "[lawn bohlz]",
+        "meaning": "çim bowls oyunu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She won a lawn bowls competition at the local club despite having never played before.",
+          "He joined the lawn bowls club after retirement and found a wonderful social community.",
+          "Lawn bowls has experienced a major resurgence among younger Australians in recent years.",
+          "She attended a barefoot bowls evening at the bowling club and enjoyed every minute.",
+          "He was surprised by how strategic and precise lawn bowls required you to be.",
+          "Lawn bowls is played on a flat grass green and requires rolling heavy balls toward a small target.",
+          "She organised a barefoot bowls night for her team's end-of-year social event.",
+          "He found the bowling club a welcoming, unpretentious community with excellent facilities.",
+          "Lawn bowls clubs in Australia serve cold beers, affordable meals, and genuine hospitality.",
+          "She presented the trophy at the lawn bowls presentation night as the club's newest member."
+        ]
+      },
+      {
+        "word": "barefoot bowls",
+        "ipa": "/bɛːfʊt boʊlz/",
+        "phonetic": "[BAIR-foot bohlz]",
+        "meaning": "ayakta bowls oyunu (sosyal ve gayri resmi biçimi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She organised barefoot bowls as the Friday afternoon team social event.",
+          "He had not played lawn bowls before but loved the barefoot bowls format immediately.",
+          "Barefoot bowls is a relaxed social version of lawn bowls — shoes off, drinks in hand.",
+          "She booked the bowling club for a barefoot bowls corporate event with sixty colleagues.",
+          "He found barefoot bowls the perfect activity — low intensity, highly social, and great fun.",
+          "Barefoot bowls evenings typically include a meal deal and a few rounds of competitive play.",
+          "She wore the club's borrowed bowls shoes — apparently barefoot is just a name at most clubs.",
+          "He described barefoot bowls as quintessentially Australian — outdoors, casual, and unpretentious.",
+          "She invited new neighbours to barefoot bowls at the local club as a welcome to the suburb.",
+          "He found the barefoot bowls format worked for everyone from teenagers to grandparents."
+        ]
+      }
+    ]
+  }
+]

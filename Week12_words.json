@@ -1,0 +1,702 @@
+[
+  {
+    "day": 78,
+    "words": [
+      {
+        "word": "neighbour",
+        "ipa": "/ˈneɪbə/",
+        "phonetic": "[NAY-buh]",
+        "meaning": "komşu",
+        "type": "isim",
+        "sentences": [
+          "She introduced herself to her new neighbour with a plate of biscuits on moving day.",
+          "He helped his elderly neighbour carry groceries in from the car every week.",
+          "Good neighbours look out for each other without being intrusive.",
+          "She borrowed a cup of sugar from the neighbour and returned it with interest the next day.",
+          "He waved to the neighbour across the fence each morning on the way to get the paper.",
+          "She asked the neighbour to collect her mail while she was away on holiday.",
+          "He reported the neighbour's dog barking at midnight to the council noise line.",
+          "She and her neighbour shared a fence and alternated who paid for the maintenance.",
+          "He organised a street get-together so new residents could meet their neighbours.",
+          "She felt lucky to have such a friendly and helpful neighbour right next door."
+        ]
+      },
+      {
+        "word": "local council",
+        "ipa": "/ˈloʊkl ˈkaʊnsl/",
+        "phonetic": "[LOH-kul KOWN-sul]",
+        "meaning": "yerel yönetim, belediye",
+        "type": "isim öbeği",
+        "sentences": [
+          "She lodged a development application with the local council before building the deck.",
+          "He reported the broken footpath to the local council using their online form.",
+          "The local council manages roads, parks, waste collection, and local planning.",
+          "She attended the local council meeting to speak about traffic concerns near the school.",
+          "He found the local council website had all the information he needed about bin collection days.",
+          "The local council approved the community garden project in the park.",
+          "She voted in the local council election and researched candidates thoroughly before deciding.",
+          "He contacted the local council about a stray dog that had been on the street for two days.",
+          "Local council rates fund the services and infrastructure the community relies on.",
+          "She joined a local council advisory committee to contribute to environmental planning decisions."
+        ]
+      },
+      {
+        "word": "community garden",
+        "ipa": "/kəˈmjuːnɪti ˈɡɑːdn/",
+        "phonetic": "[kuh-MYOO-nih-tee GAR-dun]",
+        "meaning": "topluluk bahçesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She rented a plot at the community garden and grew tomatoes, herbs, and zucchini.",
+          "He volunteered at the community garden on Saturday mornings and found it deeply grounding.",
+          "The community garden was established on unused council land three years ago.",
+          "She met most of her closest friends through the community garden.",
+          "He donated seedlings he had grown at home to the community garden seedling exchange.",
+          "The community garden hosted a harvest festival every autumn that the whole street attended.",
+          "She learned composting, companion planting, and soil health through the community garden.",
+          "He helped the community garden committee write a grant application for new raised beds.",
+          "The community garden provided free produce to a local food bank every fortnight.",
+          "She appreciated that the community garden was open to everyone regardless of experience."
+        ]
+      },
+      {
+        "word": "petition",
+        "ipa": "/pɪˈtɪʃən/",
+        "phonetic": "[pih-TISH-un]",
+        "meaning": "dilekçe, imza kampanyası",
+        "type": "isim / fiil",
+        "sentences": [
+          "She started a petition to save the local library from proposed council budget cuts.",
+          "He collected over two thousand signatures on the petition within a week.",
+          "The community submitted a petition to the council requesting a pedestrian crossing on the main road.",
+          "She shared the petition link on the neighbourhood Facebook group and it spread quickly.",
+          "He signed the online petition and received an email when the target was reached.",
+          "The petition was tabled at the council meeting and resulted in a formal review.",
+          "She explained to her children why petitions matter — they are a form of democratic participation.",
+          "He was surprised how effective a well-organised community petition could be.",
+          "She coordinated a door-knocking campaign to collect physical signatures for the petition.",
+          "He wrote a concise summary of the issue to accompany the petition to parliament."
+        ]
+      },
+      {
+        "word": "by-law",
+        "ipa": "/ˈbaɪlɔː/",
+        "phonetic": "[BY-law]",
+        "meaning": "yerel kural, tüzük (özellikle site veya belediye kuralları)",
+        "type": "isim",
+        "sentences": [
+          "She checked the strata by-laws before putting up a satellite dish on the balcony.",
+          "He was reminded of the council by-law prohibiting parking on nature strips.",
+          "By-laws set out the rules for behaviour and use of shared spaces in a strata scheme.",
+          "She received a by-law violation notice for keeping an unapproved pet in the apartment.",
+          "He proposed a new by-law at the strata meeting to restrict noise after ten at night.",
+          "By-laws are enforceable rules that all residents of a scheme are required to follow.",
+          "She read the by-laws carefully before signing the lease on the strata apartment.",
+          "He found the council by-laws clearly set out on the local government website.",
+          "By-law breaches can be reported to the owners corporation for investigation.",
+          "She suggested the by-law needed updating — it had been written thirty years ago and was outdated."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 79,
+    "words": [
+      {
+        "word": "volunteering",
+        "ipa": "/ˌvɒlənˈtɪərɪŋ/",
+        "phonetic": "[vol-un-TEER-ing]",
+        "meaning": "gönüllülük, gönüllü çalışma",
+        "type": "isim",
+        "sentences": [
+          "She has been volunteering at the community food bank every Thursday for three years.",
+          "He found volunteering gave him a sense of purpose during the difficult period after redundancy.",
+          "Volunteering rates in Australia are among the highest in the developed world.",
+          "She listed her volunteering experience on her resume — employers valued it highly.",
+          "He started volunteering at the hospital as a visitor escort after his own lengthy stay.",
+          "Volunteering builds skills, connections, and confidence alongside the community benefit.",
+          "She organised a workplace volunteering day at the local Landcare site.",
+          "He volunteered as a reading mentor at his son's primary school every fortnight.",
+          "Volunteering Australia estimates over five million Australians volunteer in any given year.",
+          "She found that volunteering gave her more than she gave — the community gave back tenfold."
+        ]
+      },
+      {
+        "word": "fundraiser",
+        "ipa": "/ˈfʌndreɪzə/",
+        "phonetic": "[FUN-ray-zuh]",
+        "meaning": "bağış toplama etkinliği veya kişisi",
+        "type": "isim",
+        "sentences": [
+          "She organised a trivia night fundraiser for the school library and raised four thousand dollars.",
+          "He ran a half marathon as a fundraiser for the cancer charity in his mother's honour.",
+          "The footy club held a fundraiser dinner at the community hall before the season began.",
+          "She approached local businesses for prize donations for the fundraiser silent auction.",
+          "He attended the charity fundraiser at the winery and enjoyed both the cause and the wine.",
+          "Fundraisers are central to many Australian community organisations' financial sustainability.",
+          "She set a personal fundraising target and reached it two weeks before the event.",
+          "He shared the fundraiser link on social media and was moved by the generosity of friends.",
+          "The school fundraiser carnival raised enough for new playground equipment and a shade sail.",
+          "She volunteered as a fundraiser coordinator and found it an enormously rewarding role."
+        ]
+      },
+      {
+        "word": "charity",
+        "ipa": "/ˈtʃærɪti/",
+        "phonetic": "[CHAH-rih-tee]",
+        "meaning": "hayır kurumu, yardım kuruluşu",
+        "type": "isim",
+        "sentences": [
+          "She donates a fixed percentage of her income to charity each month by direct debit.",
+          "He volunteers for a charity that delivers meals to elderly people living alone.",
+          "Australia has a strong charity sector supported by generous individual and corporate giving.",
+          "She researched the charity carefully on the ACNC website before donating.",
+          "He bought a raffle ticket to support the charity and won a hamper — an unexpected bonus.",
+          "Registered charities in Australia are regulated by the Australian Charities and Not-for-profits Commission.",
+          "She set up a workplace giving program that matched employee charity donations dollar for dollar.",
+          "He attended the charity gala dinner and bid enthusiastically at the live auction.",
+          "She volunteers on the board of a small local charity providing emergency relief.",
+          "He found the charity's impact report impressive — every dollar was accounted for."
+        ]
+      },
+      {
+        "word": "donation",
+        "ipa": "/doʊˈneɪʃən/",
+        "phonetic": "[doh-NAY-shun]",
+        "meaning": "bağış",
+        "type": "isim",
+        "sentences": [
+          "She made a tax-deductible donation to the wildlife charity after the bushfire season.",
+          "He donated blood every three months — a different kind of donation but equally valuable.",
+          "Donations to registered deductible gift recipients are tax-deductible in Australia.",
+          "She set up a recurring monthly donation rather than a one-off to provide sustainable support.",
+          "He made a donation of furniture and clothing to the flood relief effort.",
+          "The charity acknowledged every donation with a personalised thank-you letter.",
+          "She taught her children to choose a charity and make a small donation each birthday.",
+          "He increased his annual donation after reading about the charity's impact in the annual report.",
+          "Donations via workplace giving are processed before tax which reduces the net cost to the donor.",
+          "She was moved when her small donation was recognised publicly at the charity dinner."
+        ]
+      },
+      {
+        "word": "community centre",
+        "ipa": "/kəˈmjuːnɪti ˈsɛntə/",
+        "phonetic": "[kuh-MYOO-nih-tee SEN-tuh]",
+        "meaning": "toplum merkezi, mahalle merkezi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She runs a weekly English conversation group at the local community centre.",
+          "He votes at the community centre on election day and stays for the democracy sausage.",
+          "The community centre hosts playgroups, fitness classes, and craft workshops.",
+          "She hired the community centre hall for her daughter's birthday party.",
+          "He attends the seniors' lunch held at the community centre every second Tuesday.",
+          "The community centre is council-run and offers many programs at reduced or no cost.",
+          "She found the community centre noticeboard the best source of local information.",
+          "He helped paint the community centre as part of the neighbourhood improvement project.",
+          "The community centre offers free legal advice sessions one evening per month.",
+          "She appreciated that the community centre was fully accessible for her mother in a wheelchair."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 80,
+    "words": [
+      {
+        "word": "Australia Day",
+        "ipa": "/ɒˈstreɪliə deɪ/",
+        "phonetic": "[oss-TRAYL-yuh day]",
+        "meaning": "Avustralya Günü (26 Ocak ulusal tatil)",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She celebrated Australia Day with a backyard barbecue and friends from twenty different countries.",
+          "He attended the Australia Day citizenship ceremony and witnessed fifty people become Australians.",
+          "Australia Day on the twenty-sixth of January is a national public holiday.",
+          "She reflected on the complexity of Australia Day — a celebration for some and a day of mourning for others.",
+          "He listened to the Australia Day address on the radio while driving to the beach.",
+          "Australia Day ceremonies include citizenship conferrals, community awards, and cultural events.",
+          "She wore a flag cape to the Australia Day fireworks at the foreshore.",
+          "He found the Australia Day debate about the date important and worth engaging with seriously.",
+          "Australia Day commemorates the arrival of the First Fleet at Sydney Cove in 1788.",
+          "She volunteered at the local council Australia Day award breakfast to recognise community heroes."
+        ]
+      },
+      {
+        "word": "ANZAC Day",
+        "ipa": "/ˈænzæk deɪ/",
+        "phonetic": "[AN-zak day]",
+        "meaning": "Avustralya ve Yeni Zelanda Ordu Kolordusu Anma Günü (25 Nisan)",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She attended the dawn service at the war memorial on ANZAC Day every year without fail.",
+          "He marched in the ANZAC Day parade alongside veterans from his grandfather's regiment.",
+          "ANZAC Day on the twenty-fifth of April commemorates Australian and New Zealand service members.",
+          "She baked ANZAC biscuits with the children and explained the history behind them.",
+          "He stood in silence at the dawn service and felt profoundly moved by the occasion.",
+          "ANZAC Day is observed throughout Australia, New Zealand, and wherever Australians gather abroad.",
+          "She wore a rosemary sprig on ANZAC Day — the flower of remembrance.",
+          "He played two-up after the ANZAC Day service — the only day the game is legally permitted.",
+          "ANZAC Day services begin before sunrise — she set her alarm for three in the morning.",
+          "She bought poppies at the RSL to support returned service members and their families."
+        ]
+      },
+      {
+        "word": "Reconciliation Week",
+        "ipa": "/ˌrɛkənsɪlɪˈeɪʃən wiːk/",
+        "phonetic": "[rek-un-sil-ee-AY-shun week]",
+        "meaning": "Uzlaşma Haftası (27 Mayıs – 3 Haziran)",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She attended a Reconciliation Week event at her workplace featuring a Welcome to Country.",
+          "He read the Reconciliation Week theme and reflected on what it meant for his community.",
+          "Reconciliation Week runs from the twenty-seventh of May to the third of June each year.",
+          "She completed a free online course about Australian history during Reconciliation Week.",
+          "He joined a community walk on the bridge as part of the Reconciliation Week events.",
+          "Reconciliation Week commemorates two significant dates in Indigenous history — the 1967 referendum and the Mabo decision.",
+          "She organised a Reconciliation Week lunchtime seminar at her workplace with an Indigenous speaker.",
+          "He learned about Reconciliation Australia's work toward reconciliation between Aboriginal and non-Aboriginal Australians.",
+          "Reconciliation Week is a time for all Australians to learn about and support reconciliation.",
+          "She encouraged her children's school to acknowledge Reconciliation Week meaningfully."
+        ]
+      },
+      {
+        "word": "NAIDOC Week",
+        "ipa": "/ˈneɪdɒk wiːk/",
+        "phonetic": "[NAY-dok week]",
+        "meaning": "Ulusal Aborijin ve Torres Boğazı Adalı Kültürü Haftası",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She attended a NAIDOC Week morning tea at her council office featuring local Elders.",
+          "He visited the NAIDOC Week art exhibition at the community gallery.",
+          "NAIDOC Week celebrates the history, culture, and achievements of Aboriginal and Torres Strait Islander peoples.",
+          "She used NAIDOC Week to learn more about the Country on which she lives and works.",
+          "He read about the NAIDOC Week theme and found it deeply relevant to current conversations.",
+          "NAIDOC Week is usually held in the first week of July each year.",
+          "She attended a smoking ceremony as part of NAIDOC Week events at the university.",
+          "He donated to an Indigenous youth organisation during NAIDOC Week.",
+          "NAIDOC stands for National Aborigines and Islanders Day Observance Committee.",
+          "She explained NAIDOC Week to her overseas colleagues who were curious about the flags and events."
+        ]
+      },
+      {
+        "word": "citizenship ceremony",
+        "ipa": "/ˈsɪtɪzənʃɪp ˈsɛrɪməni/",
+        "phonetic": "[SIT-ih-zun-ship SEH-rih-muh-nee]",
+        "meaning": "vatandaşlık töreni",
+        "type": "isim öbeği",
+        "sentences": [
+          "She became an Australian citizen at a citizenship ceremony held at the town hall.",
+          "He cried during the citizenship ceremony — twelve years of work and waiting had led to this moment.",
+          "Citizenship ceremonies are held by local councils across Australia throughout the year.",
+          "She recited the Australian Citizenship Pledge and meant every word.",
+          "He invited his whole family to the citizenship ceremony — they cheered when his name was called.",
+          "Citizenship ceremonies typically include a Welcome to Country, the pledge, and a certificate.",
+          "She dressed in Australian colours for her citizenship ceremony — it felt like the right thing.",
+          "He received a native tree seedling at the ceremony — a symbol of putting down roots.",
+          "Citizenship ceremonies are often held on or around Australia Day at community events.",
+          "She described the citizenship ceremony as one of the proudest moments of her entire life."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 81,
+    "words": [
+      {
+        "word": "multicultural",
+        "ipa": "/ˌmʌltiˈkʌltʃərəl/",
+        "phonetic": "[mul-tee-KUL-chuh-rul]",
+        "meaning": "çok kültürlü",
+        "type": "sıfat",
+        "sentences": [
+          "Australia is one of the most multicultural nations on earth — over a quarter of residents were born overseas.",
+          "She loved how multicultural her suburb was — she could eat food from twenty countries within walking distance.",
+          "He attended a multicultural festival where dozens of community groups showcased their food and traditions.",
+          "Multicultural Australia brings together people from almost every nation, language, and cultural background.",
+          "She reflected that her friendship group was deeply multicultural — seven nationalities around one table.",
+          "He found the multicultural nature of his workplace enriched decision-making and creativity enormously.",
+          "Multicultural policies in Australia promote social cohesion while celebrating cultural diversity.",
+          "She appreciated the multicultural school environment her children grew up in — it shaped who they became.",
+          "He learned about multicultural history through his city's cultural heritage walking tours.",
+          "She described Australia's multicultural character as one of its greatest and most underappreciated strengths."
+        ]
+      },
+      {
+        "word": "diversity",
+        "ipa": "/daɪˈvɜːsɪti/",
+        "phonetic": "[dy-VUR-sih-tee]",
+        "meaning": "çeşitlilik",
+        "type": "isim",
+        "sentences": [
+          "She joined the workplace diversity committee to help build a more inclusive environment.",
+          "He appreciated the diversity of experience in his team — it produced better outcomes.",
+          "Diversity in the workplace includes gender, cultural background, age, ability, and perspective.",
+          "She found the suburb's cultural and linguistic diversity one of its greatest assets.",
+          "He read the company's diversity report and noted genuine progress in representation.",
+          "Diversity without inclusion does not fulfil its potential — both matter equally.",
+          "She organised diversity awareness workshops attended by the entire leadership team.",
+          "He spoke at a diversity forum about the value of lived experience in decision-making.",
+          "Australia's cultural diversity is reflected in its food, festivals, languages, and communities.",
+          "She believed genuine diversity required intention, systems, and sustained commitment — not just good intentions."
+        ]
+      },
+      {
+        "word": "inclusion",
+        "ipa": "/ɪnˈkluːʒən/",
+        "phonetic": "[in-KLOO-zhun]",
+        "meaning": "kapsayıcılık",
+        "type": "isim",
+        "sentences": [
+          "She advocated for inclusion in all workplace policies — not just hiring practices.",
+          "He found the inclusion training genuinely eye-opening about everyday barriers others faced.",
+          "Inclusion means ensuring everyone can fully participate and contribute without disadvantage.",
+          "She redesigned the team meeting format to support inclusion of quieter and remote participants.",
+          "He appreciated that the school's inclusion policy extended to students of all abilities.",
+          "Inclusion requires active effort — it does not happen automatically or by accident.",
+          "She studied disability inclusion and brought those principles to every project she managed.",
+          "He found the inclusion audit revealed blind spots the team had simply never noticed before.",
+          "Diversity and inclusion are often spoken of together — but inclusion requires daily practice.",
+          "She believes inclusion is not charity — it is recognition that everyone has something to contribute."
+        ]
+      },
+      {
+        "word": "harmony",
+        "ipa": "/ˈhɑːməni/",
+        "phonetic": "[HAR-muh-nee]",
+        "meaning": "uyum, toplumsal barış",
+        "type": "isim",
+        "sentences": [
+          "She attended the Harmony Day event at school and enjoyed the food from twenty different cultures.",
+          "He believes social harmony requires effort from every member of the community.",
+          "Harmony Day on the twenty-first of March celebrates cultural diversity and an inclusive Australia.",
+          "She wore the Harmony Day orange colour to work and explained its meaning to colleagues.",
+          "He found a neighbourhood that lived its values — genuine harmony across cultural difference.",
+          "Harmony within a multicultural society requires respect, curiosity, and a willingness to listen.",
+          "She organised the Harmony Day cooking competition at the office — twelve dishes, twelve countries.",
+          "He appreciated that harmony was not about erasing difference but celebrating it.",
+          "Harmony Day began in 1999 and aligns with the United Nations' World Day for Cultural Diversity.",
+          "She described her suburb's social harmony as something she had never taken for granted."
+        ]
+      },
+      {
+        "word": "cultural festival",
+        "ipa": "/ˈkʌltʃərəl ˈfɛstɪvl/",
+        "phonetic": "[KUL-chuh-rul FES-tih-vul]",
+        "meaning": "kültür festivali",
+        "type": "isim öbeği",
+        "sentences": [
+          "She volunteered at the Greek cultural festival helping serve souvlaki and baklava.",
+          "He took his family to the Chinese cultural festival and they watched the dragon dance in delight.",
+          "Cultural festivals are held across Australia celebrating the heritage of diverse communities.",
+          "She learned more about her Sri Lankan heritage at the cultural festival her parents organised.",
+          "He attended the Indian cultural festival every Diwali and came home with sweets and memories.",
+          "Cultural festivals bring community together and offer a window into shared and distinct identities.",
+          "She entered a cooking competition at the multicultural cultural festival and placed second.",
+          "He photographed the cultural festival dancers in their traditional dress — the colour was stunning.",
+          "The local cultural festival attracted thirty thousand visitors over the weekend.",
+          "She found cultural festivals one of the best ways to introduce her children to the world beyond their suburb."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 82,
+    "words": [
+      {
+        "word": "street party",
+        "ipa": "/striːt ˈpɑːti/",
+        "phonetic": "[street PAR-tee]",
+        "meaning": "sokak partisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She organised the annual street party and it brought together residents who had never spoken before.",
+          "He helped set up the trestle tables for the street party and stayed until the last person left.",
+          "The street party was held on Australia Day — bring a plate and a chair.",
+          "She applied for a council permit to close the street for the street party.",
+          "He won the best salad award at the street party for his mango and prawn creation.",
+          "Street parties build community in ways that no council program can fully replicate.",
+          "She started the street party tradition after her children made friends with the neighbours' kids.",
+          "He brought his guitar to the street party and played until well after sunset.",
+          "The annual street party grew from twelve neighbours to over seventy in five years.",
+          "She found that a street party created friendships that lasted long after the chairs were packed away."
+        ]
+      },
+      {
+        "word": "garage sale",
+        "ipa": "/ˈɡærɪdʒ seɪl/",
+        "phonetic": "[GAH-rij sayl]",
+        "meaning": "garaj satışı, ikinci el eşya satışı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She held a garage sale on Saturday morning and cleared out two decades of accumulated clutter.",
+          "He arrived at the garage sale at seven to get first pick of the furniture.",
+          "Garage sales are a popular way to declutter and make a modest amount of money.",
+          "She priced everything clearly and marked items with brightly coloured stickers.",
+          "He found a near-new coffee machine at a garage sale for fifteen dollars — a remarkable find.",
+          "She advertised the garage sale on Facebook Marketplace and Gumtree three days in advance.",
+          "He donated whatever was left after the garage sale to the Salvos.",
+          "She learned that the earlier the start time, the more serious the buyers who would come.",
+          "He negotiated the price of a set of tools at the garage sale and both sides were happy.",
+          "She made over three hundred dollars from the garage sale and felt lighter for having done it."
+        ]
+      },
+      {
+        "word": "raffle",
+        "ipa": "/ˈræfl/",
+        "phonetic": "[RAF-ul]",
+        "meaning": "piyango, çekiliş",
+        "type": "isim",
+        "sentences": [
+          "She bought five raffle tickets at the school fete and won a gift hamper.",
+          "He sold raffle tickets at the footy club fundraiser every year as a committee member.",
+          "A raffle requires a permit from the relevant state authority if prizes exceed a threshold.",
+          "She organised a raffle with donated prizes from local businesses to support the food bank.",
+          "He called out the raffle numbers at the community barbecue and enjoyed the moment.",
+          "Raffles are a standard feature of Australian community events and fundraisers.",
+          "She chose a raffle prize of a weekend getaway — it sold more tickets than anything else.",
+          "He won the major raffle prize — a flat-screen television — and was genuinely speechless.",
+          "She made sure the raffle was compliant with the council's gaming regulations before selling tickets.",
+          "He always buys a raffle ticket at the pub on a Friday — it supports a charity and costs two dollars."
+        ]
+      },
+      {
+        "word": "RSL",
+        "ipa": "/ɑːɛsɛl/",
+        "phonetic": "[ar-ess-EL]",
+        "meaning": "Avustralya eski askerler kulübü ve sosyal mekânı",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She went to the local RSL for a cheap and cheerful counter meal with her parents.",
+          "He is a member of the RSL and attends the monthly social nights.",
+          "The RSL — Returned and Services League — supports veterans and their families.",
+          "She bought a poppy from the RSL collector outside the supermarket before ANZAC Day.",
+          "He played the pokies at the RSL for twenty minutes and called it a night.",
+          "The RSL hosts the local ANZAC Day service and dawn commemoration each year.",
+          "She found the RSL counter meals exceptional value — a roast with all trimmings for fifteen dollars.",
+          "He attended the RSL fundraising dinner and bid on a signed football jersey.",
+          "The RSL club offers discounted meals and entertainment to members and their guests.",
+          "She donated to the RSL Red Shield Appeal to support returned service members."
+        ]
+      },
+      {
+        "word": "Neighbourhood Watch",
+        "ipa": "/ˈneɪbəhʊd wɒtʃ/",
+        "phonetic": "[NAY-buh-hood woch]",
+        "meaning": "mahalle güvenlik gözlem programı",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She joined the Neighbourhood Watch program after a series of car break-ins in the street.",
+          "He received the Neighbourhood Watch newsletter with local safety tips each month.",
+          "Neighbourhood Watch encourages residents to look out for each other and report suspicious activity.",
+          "She displayed the Neighbourhood Watch sticker on her front window as a visible deterrent.",
+          "He reported an unfamiliar vehicle parked outside a neighbour's house through Neighbourhood Watch.",
+          "Neighbourhood Watch connects residents with local police through a structured community network.",
+          "She attended the Neighbourhood Watch meeting at the community centre to meet the local officer.",
+          "He found the Neighbourhood Watch app useful for real-time alerts about local incidents.",
+          "Neighbourhood Watch is a proven crime prevention strategy built on community trust.",
+          "She credited Neighbourhood Watch with helping recover her stolen bicycle — a neighbour had seen it."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 83,
+    "words": [
+      {
+        "word": "housewarming",
+        "ipa": "/ˈhaʊswɔːmɪŋ/",
+        "phonetic": "[HOWS-wor-ming]",
+        "meaning": "yeni ev partisi",
+        "type": "isim",
+        "sentences": [
+          "She hosted a housewarming party two weeks after moving into the new place.",
+          "He brought a potted succulent as a housewarming gift — low maintenance and long-lasting.",
+          "The housewarming was relaxed — a barbecue, some drinks, and good conversation.",
+          "She thanked guests for coming to the housewarming and introducing themselves to her new neighbours.",
+          "He organised the housewarming while still living out of boxes — it broke the ice perfectly.",
+          "Housewarming traditions in Australia typically involve food, drinks, and gifts for the home.",
+          "She received candles, wine, and plants as housewarming gifts from different friends.",
+          "He attended three housewarmings in the same street — it was a neighbourhood growing together.",
+          "She found the housewarming helped her feel settled in the new suburb much faster.",
+          "He described the housewarming as the moment the house became a home."
+        ]
+      },
+      {
+        "word": "nextdoor",
+        "ipa": "/ˈnɛksdɔː/",
+        "phonetic": "[NEKST-dor]",
+        "meaning": "mahalle iletişim uygulaması (Nextdoor)",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She found a lost cat's owner through the Nextdoor app within two hours of posting.",
+          "He uses Nextdoor to ask for tradesperson recommendations in the local area.",
+          "Nextdoor is a neighbourhood social network connecting residents within a local area.",
+          "She posted a warning on Nextdoor about a suspicious door-to-door salesperson in the street.",
+          "He found out about the council road closure through Nextdoor before it was officially announced.",
+          "She joined Nextdoor when she moved and immediately felt connected to the new suburb.",
+          "He sold a garden bed on Nextdoor — someone three streets away picked it up that afternoon.",
+          "She was impressed by how quickly the Nextdoor community rallied around a family in need.",
+          "He reported the graffiti on the bus shelter through Nextdoor and the council removed it within days.",
+          "She found Nextdoor a more civil and useful platform than public Facebook groups."
+        ]
+      },
+      {
+        "word": "Welcome to Country",
+        "ipa": "/ˈwɛlkəm tə ˈkʌntri/",
+        "phonetic": "[WEL-kum tuh KUN-tree]",
+        "meaning": "ülkeye hoş geldiniz töreni (Aborijin geleneği)",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She listened attentively to the Welcome to Country delivered by a Gadigal Elder at the conference.",
+          "He learned that only a Traditional Custodian can deliver an authentic Welcome to Country.",
+          "A Welcome to Country is a formal ceremony performed by Traditional Custodians to welcome visitors.",
+          "She organised a Welcome to Country for the community event and sought an Elder three months in advance.",
+          "He explained the difference between a Welcome to Country and an Acknowledgement of Country to his team.",
+          "Welcome to Country ceremonies vary between communities and can include song, dance, or spoken word.",
+          "She was moved by the beauty and generosity of the Welcome to Country she received.",
+          "He appreciated that events in his organisation always began with a Welcome to Country.",
+          "A Welcome to Country acknowledges the deep connection Traditional Custodians have to their land.",
+          "She consulted with the local land council to arrange an appropriate Welcome to Country."
+        ]
+      },
+      {
+        "word": "Acknowledgement of Country",
+        "ipa": "/əkˈnɒlɪdʒmənt əv ˈkʌntri/",
+        "phonetic": "[ak-NOL-ij-munt uv KUN-tree]",
+        "meaning": "ülke tanıma (toplantılarda yapılan Aborijin ata topraklarını saygı duruşu)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She opened the meeting with an Acknowledgement of Country — a practice she had adopted wholeheartedly.",
+          "He reads the Acknowledgement of Country at the start of every school assembly.",
+          "An Acknowledgement of Country can be made by anyone — it does not require an Elder to be present.",
+          "She personalised her Acknowledgement of Country by learning about the specific Country she was on.",
+          "He found the Acknowledgement of Country meaningful when delivered with genuine understanding.",
+          "Acknowledgement of Country recognises the Traditional Custodians of the land and their ongoing connection.",
+          "She updated the organisation's Acknowledgement of Country after consultation with local Aboriginal people.",
+          "He was encouraged to make Acknowledgements of Country meaningful rather than routine.",
+          "An Acknowledgement of Country is one way of showing respect for Aboriginal and Torres Strait Islander cultures.",
+          "She taught her children to give the Acknowledgement of Country at their school events."
+        ]
+      },
+      {
+        "word": "Elder",
+        "ipa": "/ˈɛldə/",
+        "phonetic": "[EL-duh]",
+        "meaning": "Aborijin topluluk ağsaçı, bilge kişi",
+        "type": "isim",
+        "sentences": [
+          "She invited a local Elder to speak at the NAIDOC Week event at the community centre.",
+          "He listened respectfully as the Elder shared stories about the Country and its history.",
+          "An Elder is a person recognised within an Aboriginal or Torres Strait Islander community for their wisdom and authority.",
+          "She sought permission from the relevant Elders before conducting research on the Country.",
+          "He was deeply honoured when an Elder invited him to share in a ceremony.",
+          "Elders play a vital role in passing down culture, language, and knowledge to younger generations.",
+          "She organised a Q and A session with a local Elder to help her team understand the local history.",
+          "He learned that Elder is a term of respect — not all older Aboriginal people are considered Elders.",
+          "The Elder's Welcome to Country moved the entire audience to silence.",
+          "She thanked the Elder with a sincere acknowledgement of the knowledge they had shared."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 84,
+    "words": [
+      {
+        "word": "two-up",
+        "ipa": "/tuːˈʌp/",
+        "phonetic": "[too-UP]",
+        "meaning": "geleneksel Avustralya yazı-tura bahis oyunu (ANZAC Günü'nde oynanır)",
+        "type": "isim",
+        "sentences": [
+          "He played two-up at the pub after the ANZAC Day service — a tradition he loved.",
+          "She had never played two-up before — the spinner tossed the coins and the crowd held its breath.",
+          "Two-up is a traditional Australian gambling game where two coins are spun into the air.",
+          "He won three rounds of two-up and donated the winnings to the RSL.",
+          "Two-up is only legally permitted on ANZAC Day in most Australian states.",
+          "She watched the two-up game from the edge of the crowd, absorbing the energy and ritual.",
+          "He explained the rules of two-up to his overseas friend who had never heard of it.",
+          "Two-up has been played by Australian soldiers since at least World War One.",
+          "She placed a bet in the two-up ring and cheered when the coins landed heads.",
+          "He found two-up uniquely Australian — simple, communal, and steeped in history."
+        ]
+      },
+      {
+        "word": "poppy",
+        "ipa": "/ˈpɒpi/",
+        "phonetic": "[POP-ee]",
+        "meaning": "gelincik çiçeği (anma sembolü); haşhaş; ayrıca 'tall poppy' deyiminde kullanılır",
+        "type": "isim",
+        "sentences": [
+          "She pinned a poppy to her lapel on ANZAC Day to remember the fallen.",
+          "He bought a paper poppy from the RSL collector to honour his great-grandfather's service.",
+          "The red poppy is the international symbol of remembrance for those who died in war.",
+          "She planted poppies in her garden — she thought of them as a living memorial.",
+          "He stood quietly while the poppy wreath was laid at the war memorial.",
+          "Poppies were chosen as a symbol of remembrance because they grew on the battlefields of Flanders.",
+          "She gave each student in her class a poppy to wear to the school ANZAC Day assembly.",
+          "He learned about the poppy's symbolism while visiting the Shrine of Remembrance in Melbourne.",
+          "She bought a poppy badge from the RSL to support the work they do for veterans.",
+          "He found the sight of a hundred poppies laid at the memorial quietly overwhelming."
+        ]
+      },
+      {
+        "word": "tall poppy syndrome",
+        "ipa": "/tɔːl ˈpɒpi ˈsɪndrəʊm/",
+        "phonetic": "[tawl POP-ee SIN-drohm]",
+        "meaning": "başarılı kişileri eleştirme veya aşağılama eğilimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She held back from sharing her promotion news — she did not want to be a victim of tall poppy syndrome.",
+          "He described tall poppy syndrome as one of Australia's less admirable cultural tendencies.",
+          "Tall poppy syndrome is the tendency to criticise or cut down people who achieve success.",
+          "She noticed tall poppy syndrome in the comments whenever a young Australian succeeded internationally.",
+          "He encouraged his team to celebrate each other's wins — the opposite of tall poppy syndrome.",
+          "Tall poppy syndrome can discourage ambition if people fear criticism more than failure.",
+          "She found the term tall poppy syndrome uniquely Australian in its cultural specificity.",
+          "He believed awareness of tall poppy syndrome was the first step toward changing the behaviour.",
+          "Tall poppy syndrome is not universally Australian — many communities actively celebrate achievement.",
+          "She decided to own her success openly — she was not going to bow to tall poppy syndrome."
+        ]
+      },
+      {
+        "word": "mateship",
+        "ipa": "/ˈmeɪtʃɪp/",
+        "phonetic": "[MAYT-ship]",
+        "meaning": "dostluk, yoldaşlık (Avustralya'nın temel değerlerinden biri)",
+        "type": "isim",
+        "sentences": [
+          "She felt the genuine mateship of the community when volunteers arrived unbidden after the flood.",
+          "He described mateship as the most distinctly Australian value — looking out for your mate.",
+          "Mateship in Australia goes beyond friendship — it carries a sense of loyalty, equality, and solidarity.",
+          "She found mateship expressed through small, practical acts — a jump start, a meal, a listening ear.",
+          "He spoke about mateship in his citizenship ceremony speech and meant it sincerely.",
+          "Mateship has been a defining concept in Australian culture since the colonial era.",
+          "She found that real mateship crossed every cultural, social, and economic boundary.",
+          "He witnessed genuine mateship in the volunteer effort after the bushfire — strangers helping strangers.",
+          "Mateship is cited alongside respect, a fair go, and a sense of humour as core Australian values.",
+          "She built her business relationships on mateship — honest, direct, and genuinely supportive."
+        ]
+      },
+      {
+        "word": "a fair go",
+        "ipa": "/ə fɛː ɡoʊ/",
+        "phonetic": "[uh fair GOH]",
+        "meaning": "adil fırsat, eşit şans",
+        "type": "isim öbeği (deyim)",
+        "sentences": [
+          "She believed every Australian deserved a fair go regardless of where they came from.",
+          "He asked for a fair go in the selection process — he had the experience and just wanted the chance.",
+          "A fair go is perhaps the most deeply held value in Australian culture.",
+          "She told her children that working hard and giving others a fair go were all that mattered.",
+          "He challenged unfair policies at work by invoking the principle of giving everyone a fair go.",
+          "A fair go does not mean equal outcomes — it means equal opportunity and equitable support.",
+          "She described Australia at its best as a place where a fair go was genuinely possible.",
+          "He came from nothing and built a life here — the fair go he was given defined everything.",
+          "A fair go means the rules apply to everyone — no special treatment and no unfair disadvantage.",
+          "She mentored young people from disadvantaged backgrounds because she believed in the fair go."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "day": 29,
+    "words": [
+      {
+        "word": "Opal card",
+        "ipa": "/ˈoʊpəl kɑːd/",
+        "phonetic": "[OH-pul kard]",
+        "meaning": "Sydney toplu taşıma akıllı kartı",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She topped up her Opal card at the newsagency before catching the train to work.",
+          "He forgot his Opal card and had to buy a single-trip ticket instead.",
+          "The Opal card automatically caps daily and weekly fares to save regular commuters money.",
+          "She registered her Opal card online so she could get a replacement if it was lost.",
+          "He tapped his Opal card at the reader as he boarded the bus at Circular Quay.",
+          "The Opal card works on trains, buses, ferries, and light rail across the Sydney network.",
+          "She checked her Opal card balance and journey history through the Opal Travel app.",
+          "He got a free Sunday travel cap on his Opal card — all trips cost just two fifty.",
+          "The Opal card replaced paper tickets across the Sydney public transport network.",
+          "She topped up her Opal card automatically online whenever the balance fell below ten dollars."
+        ]
+      },
+      {
+        "word": "Myki",
+        "ipa": "/ˈmaɪki/",
+        "phonetic": "[MY-kee]",
+        "meaning": "Melbourne toplu taşıma akıllı kartı",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She bought a Myki card from the 7-Eleven near Flinders Street Station on her first day.",
+          "He always keeps at least twenty dollars loaded on his Myki card to avoid running out.",
+          "The Myki card works on Melbourne's trains, trams, and buses throughout the network.",
+          "She registered her Myki online so the balance could be restored if the card was stolen.",
+          "He tapped on with his Myki at the tram stop and tapped off when he reached the city.",
+          "Myki automatically charges the best daily fare based on your journey patterns.",
+          "She topped up her Myki at a 7-Eleven because the station machines had a long queue.",
+          "The Myki card is required for public transport travel in Melbourne and regional Victoria.",
+          "He forgot to tap off with his Myki and was charged the maximum default fare for the trip.",
+          "She set up auto top-up on her Myki so it never fell below a minimum balance."
+        ]
+      },
+      {
+        "word": "Go card",
+        "ipa": "/ɡoʊ kɑːd/",
+        "phonetic": "[goh kard]",
+        "meaning": "Brisbane ve Queensland toplu taşıma akıllı kartı",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She tapped her Go card at the bus stop reader before boarding the route to the city.",
+          "He loaded fifty dollars onto his Go card at the convenience store near Roma Street Station.",
+          "The Go card gives a discount compared to paying the full cash fare on Brisbane transport.",
+          "She registered her Go card online and had her balance protected in case of loss.",
+          "He used his Go card on the train, bus, and ferry without needing to buy separate tickets.",
+          "The Go card automatically calculates the cheapest fare for the journey taken.",
+          "She topped up her Go card through the TransLink app directly from her phone.",
+          "He always tapped on and tapped off correctly to avoid being charged the maximum fare.",
+          "The Go card is used across buses, trains, and ferries in South East Queensland.",
+          "She gave her visiting parents a Go card to use during their stay in Brisbane."
+        ]
+      },
+      {
+        "word": "tap on",
+        "ipa": "/tæp ɒn/",
+        "phonetic": "[tap on]",
+        "meaning": "kartı okuyucuya dokundurarak yolculuğa başlamak",
+        "type": "fiil öbeği",
+        "sentences": [
+          "She remembered to tap on with her Opal card before the inspector came through the train.",
+          "He tapped on at the tram stop even though the vehicle was already moving slowly away.",
+          "Always tap on before you sit down — inspectors can board at any station.",
+          "She tapped on with her Myki and found a seat near the window on the morning train.",
+          "He tapped on at the ferry wharf and enjoyed the harbour crossing to Manly.",
+          "Passengers must tap on using their transit card or a valid ticket before travel begins.",
+          "She tapped on as soon as she reached the card reader at the bus door.",
+          "He taught his daughter how to tap on correctly when they caught the train together.",
+          "She tapped on with confidence on her first day using Melbourne public transport.",
+          "He noticed the card reader was out of order and reported it to the driver before tapping on."
+        ]
+      },
+      {
+        "word": "tap off",
+        "ipa": "/tæp ɒf/",
+        "phonetic": "[tap off]",
+        "meaning": "kartı okuyucuya dokundurarak yolculuğu bitirmek",
+        "type": "fiil öbeği",
+        "sentences": [
+          "She nearly forgot to tap off at the train station and was charged the maximum default fare.",
+          "He always tapped off as soon as the doors opened to avoid holding up other passengers.",
+          "Forgetting to tap off on a Melbourne tram results in a higher default fare being charged.",
+          "She tapped off at her destination and checked her balance on the transit app.",
+          "He made it a habit to tap off immediately upon exiting every bus, train, or tram.",
+          "She tapped off at Town Hall Station and transferred to the bus for the final leg home.",
+          "He tapped off and realised he had been on the wrong train — he had to turn around.",
+          "The reader beeped to confirm she had tapped off successfully and the fare had been deducted.",
+          "She reminded her friend to tap off — he had forgotten twice already that week.",
+          "Always tap off at the end of your journey to ensure you are charged the correct fare."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 30,
+    "words": [
+      {
+        "word": "tram",
+        "ipa": "/træm/",
+        "phonetic": "[tram]",
+        "meaning": "tramvay",
+        "type": "isim",
+        "sentences": [
+          "She caught the tram from the city to St Kilda along the number 96 route.",
+          "He stood at the tram stop in the rain waiting for the route 86 to arrive.",
+          "Melbourne has the largest tram network of any city in the world.",
+          "She found the tram the easiest way to get around the CBD without worrying about parking.",
+          "He offered his seat to an elderly woman on the crowded peak-hour tram.",
+          "The tram runs along Swanston Street and is free to use within the CBD fare-free zone.",
+          "She watched the old W-class trams on the tourist City Circle route with great interest.",
+          "He missed his stop on the tram because he was distracted by a phone call.",
+          "The tram was delayed by a car that had stopped on the tracks ahead.",
+          "She appreciated that the tram ran frequently — she never had to wait more than eight minutes."
+        ]
+      },
+      {
+        "word": "train",
+        "ipa": "/treɪn/",
+        "phonetic": "[trayn]",
+        "meaning": "tren",
+        "type": "isim",
+        "sentences": [
+          "She catches the train to work each morning from Parramatta to the city in forty minutes.",
+          "He missed the last train and had to call a rideshare to get home at midnight.",
+          "The train was packed during peak hour but she managed to find a spot near the door.",
+          "She checked the real-time train departures on the app before leaving home.",
+          "He preferred the train to driving into the city because parking was expensive and stressful.",
+          "The train service was disrupted due to engineering works on the weekend.",
+          "She caught a regional train from Melbourne to Ballarat for the weekend.",
+          "He always positioned himself on the platform where the quieter carriages would stop.",
+          "The train arrived exactly on schedule — she was impressed.",
+          "She let her children tap their Opal cards themselves when they caught the train to school."
+        ]
+      },
+      {
+        "word": "bus",
+        "ipa": "/bʌs/",
+        "phonetic": "[bus]",
+        "meaning": "otobüs",
+        "type": "isim",
+        "sentences": [
+          "She took the bus from the train station to her workplace because there was no direct rail link.",
+          "He caught the last bus home after a late dinner in the city.",
+          "The bus was running ten minutes late due to heavy traffic on the main road.",
+          "She used the Transport NSW app to track exactly where the next bus was.",
+          "He offered his seat to a pregnant passenger when the bus became very full.",
+          "The bus route was the only public transport option serving the outer suburban area.",
+          "She liked that the bus driver greeted each passenger as they boarded.",
+          "He missed the bus by thirty seconds — the next one was not for another twenty minutes.",
+          "The articulated bus on that route could carry far more passengers than a standard vehicle.",
+          "She found the bus network reliable enough that she sold her car after moving closer to the route."
+        ]
+      },
+      {
+        "word": "ferry",
+        "ipa": "/ˈfɛri/",
+        "phonetic": "[FEH-ree]",
+        "meaning": "feribot, deniz otobüsü",
+        "type": "isim",
+        "sentences": [
+          "She catches the ferry from Manly to Circular Quay every morning and loves the harbour view.",
+          "He took the Parramatta River ferry to the city and arrived feeling relaxed and refreshed.",
+          "The Manly ferry is one of the most scenic commutes anywhere in the world.",
+          "She tapped on with her Opal card at the Balmain East wharf before the ferry arrived.",
+          "He was late because the ferry was cancelled due to rough harbour conditions.",
+          "The ferry service connects many Sydney suburbs that are not served by train or bus directly.",
+          "She pointed out the Opera House to her visiting parents as the ferry rounded the headland.",
+          "He read his book on the top deck of the ferry all the way into the city.",
+          "The first ferry of the morning departs before six — she takes it to beat the peak-hour rush.",
+          "She used the ferry to get to a waterfront restaurant for a birthday dinner."
+        ]
+      },
+      {
+        "word": "light rail",
+        "ipa": "/laɪt reɪl/",
+        "phonetic": "[lyt rayl]",
+        "meaning": "hafif raylı sistem, modern tramvay hattı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She catches the light rail from Central Station to Randwick after university classes finish.",
+          "He found the light rail the quickest way to reach the entertainment quarter from the city.",
+          "The new light rail line on George Street transformed travel through the Sydney CBD.",
+          "She tapped on with her Opal card at the light rail platform near the casino.",
+          "He was impressed by how quiet and smooth the light rail ride was compared to the old buses.",
+          "Light rail vehicles run on dedicated tracks separated from regular road traffic.",
+          "She used the light rail to reach Moore Park for a rugby match on the weekend.",
+          "The light rail opens up areas of the city that were previously less accessible by public transport.",
+          "He chose the light rail over a taxi because it was faster in peak-hour traffic.",
+          "She appreciated that the light rail frequency meant she never had to wait more than ten minutes."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 31,
+    "words": [
+      {
+        "word": "toll road",
+        "ipa": "/toʊl roʊd/",
+        "phonetic": "[tohl rohd]",
+        "meaning": "paralı yol, ücretli otoyol",
+        "type": "isim öbeği",
+        "sentences": [
+          "She avoided the toll road when time allowed to save money on her daily commute.",
+          "He drove through the toll road without an e-tag and received an invoice in the mail.",
+          "Sydney has an extensive toll road network connecting the major motorways.",
+          "She set up a Linkt account so toll charges were automatically deducted from her credit card.",
+          "He calculated that the toll road saved him thirty minutes each day despite the cost.",
+          "The toll road charges varied depending on the time of day — peak rates were higher.",
+          "She passed through three different toll points on the trip from the airport to her suburb.",
+          "He forgot to pay the toll invoice and received a penalty reminder three weeks later.",
+          "The toll road was free in the opposite direction during the opening promotion.",
+          "She registered her number plate with a toll account to avoid receiving paper invoices."
+        ]
+      },
+      {
+        "word": "e-tag",
+        "ipa": "/iːtæɡ/",
+        "phonetic": "[EE-tag]",
+        "meaning": "elektronik geçiş etiketi, otoyol geçiş cihazı",
+        "type": "isim",
+        "sentences": [
+          "She attached her e-tag to the windscreen so tolls were charged automatically.",
+          "His e-tag account ran out of credit and he received an invoice for the missed toll.",
+          "She topped up her e-tag account online before a long road trip to avoid any issues.",
+          "He forgot his e-tag when he borrowed a friend's car and had to pay the toll another way.",
+          "An e-tag is the easiest and cheapest way to pay for toll roads across Australia.",
+          "She linked her e-tag to her credit card so it automatically topped up when the balance was low.",
+          "The e-tag reader at the toll point beeped to confirm the charge had been processed.",
+          "He set up an e-tag account through Linkt, which works on toll roads in multiple states.",
+          "She moved her e-tag to the hire car when her own vehicle was in for a service.",
+          "He called the toll company to dispute a charge his e-tag was incorrectly billed for."
+        ]
+      },
+      {
+        "word": "speed camera",
+        "ipa": "/spiːd ˈkæmərə/",
+        "phonetic": "[speed KAM-ruh]",
+        "meaning": "hız radar kamerası",
+        "type": "isim öbeği",
+        "sentences": [
+          "He slowed down as he passed the fixed speed camera on the highway near the school zone.",
+          "She received a speeding fine in the mail from a speed camera she had not even noticed.",
+          "Mobile speed cameras are operated by unmarked vehicles parked on roadsides across the state.",
+          "He set his cruise control to stay under the limit whenever he drove past a speed camera.",
+          "Speed cameras operate twenty-four hours a day regardless of traffic conditions.",
+          "She was unaware a new speed camera had been installed on her regular route to work.",
+          "He appealed the speed camera fine but lost — the image clearly showed his number plate.",
+          "Average speed cameras measure your speed over a long distance rather than at a single point.",
+          "She reminded her teenage son about speed cameras before he took the car out alone.",
+          "Speed cameras have been proven to reduce serious crashes in high-risk areas across Australia."
+        ]
+      },
+      {
+        "word": "give way",
+        "ipa": "/ɡɪv weɪ/",
+        "phonetic": "[giv way]",
+        "meaning": "yol ver, önceliği bırak",
+        "type": "fiil öbeği / trafik işareti",
+        "sentences": [
+          "She slowed down at the give way sign and waited for the passing traffic to clear.",
+          "He failed to give way to a pedestrian at the crossing and was fined by police.",
+          "In Australia, you must give way to any vehicle already in a roundabout.",
+          "She always gives way to emergency vehicles approaching with lights and sirens on.",
+          "He misread the intersection and failed to give way — fortunately no accident occurred.",
+          "The give way sign is a downward-pointing triangle and is mandatory to obey in Australia.",
+          "She learned the give way rules thoroughly before sitting her driving knowledge test.",
+          "He reminds himself to give way to buses re-entering traffic from bus stops in New South Wales.",
+          "Drivers turning right must give way to oncoming traffic going straight ahead.",
+          "She gave way to the cyclist on the shared path even though she had the right of way."
+        ]
+      },
+      {
+        "word": "roundabout",
+        "ipa": "/ˈraʊndəbaʊt/",
+        "phonetic": "[ROWN-duh-bowt]",
+        "meaning": "döner kavşak, göbek",
+        "type": "isim",
+        "sentences": [
+          "She indicated right to show she was staying in the roundabout before taking her exit.",
+          "He approached the roundabout slowly and gave way to the car already circling inside.",
+          "Roundabouts are common in Australian suburbs and require drivers to give way to the right.",
+          "She found the multi-lane roundabout confusing when she first arrived from overseas.",
+          "He practised navigating roundabouts with his instructor before the practical driving test.",
+          "The roundabout at the shopping centre was congested during the school holiday period.",
+          "She indicated left as she approached her exit on the roundabout.",
+          "He was honked at for stopping inside the roundabout — he had misjudged the gap.",
+          "Roundabouts are designed to slow traffic and reduce serious right-angle crashes.",
+          "She checked both ways before entering the roundabout even though the road looked clear."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 32,
+    "words": [
+      {
+        "word": "bike path",
+        "ipa": "/baɪk pɑːθ/",
+        "phonetic": "[byk path]",
+        "meaning": "bisiklet yolu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She cycles to work along the dedicated bike path that runs beside the river.",
+          "He found the new bike path through the park much safer than riding on the main road.",
+          "The council extended the bike path network significantly in the last two years.",
+          "She uses the bike path every morning and rarely has to interact with motor vehicles.",
+          "He stepped aside on the bike path to let a faster cyclist pass without difficulty.",
+          "Pedestrians walking on a shared bike path should stay to the left and be aware of cyclists.",
+          "She explored the coastal bike path on her holiday and found it breathtaking.",
+          "He wore a helmet on the bike path — it is a legal requirement for cyclists in Australia.",
+          "The bike path was closed temporarily for resurfacing maintenance during the school holidays.",
+          "She parked her bike at the secure bike path shelter near the train station every morning."
+        ]
+      },
+      {
+        "word": "pedestrian crossing",
+        "ipa": "/pəˈdɛstriən ˈkrɒsɪŋ/",
+        "phonetic": "[puh-DES-tree-un KROS-ing]",
+        "meaning": "yaya geçidi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She pressed the button at the pedestrian crossing and waited for the green walk signal.",
+          "He always stops completely for pedestrians at a marked pedestrian crossing.",
+          "Drivers must give way to pedestrians already on an uncontrolled pedestrian crossing.",
+          "She taught her children to look both ways before stepping onto any pedestrian crossing.",
+          "He was fined for failing to stop at a pedestrian crossing when a cyclist was using it.",
+          "The new raised pedestrian crossing outside the school made it much safer for students.",
+          "She appreciated the countdown timer at the pedestrian crossing that showed how long to wait.",
+          "He used the pedestrian crossing to get from the bus stop to the shopping centre safely.",
+          "The pedestrian crossing outside the primary school has a crossing supervisor during school hours.",
+          "She made eye contact with the driver before stepping onto the pedestrian crossing."
+        ]
+      },
+      {
+        "word": "footpath",
+        "ipa": "/ˈfʊtpɑːθ/",
+        "phonetic": "[FOOT-path]",
+        "meaning": "kaldırım, yaya yolu",
+        "type": "isim",
+        "sentences": [
+          "She walked along the footpath to the local shops instead of taking the car.",
+          "He noticed the footpath was cracked and reported it to the council website.",
+          "Cyclists are only permitted to ride on the footpath if they are accompanying a child under twelve.",
+          "She kept her dog on a short lead while walking along the busy footpath near the shops.",
+          "He stepped off the footpath to let the woman pushing the pram pass comfortably.",
+          "The council repaired the broken footpath outside the school during the holiday period.",
+          "She found a shaded footpath along the creek that made the summer walk far more pleasant.",
+          "He checked the council website to find the best footpath route to the nearest train station.",
+          "The footpath near the café was taken up by outdoor tables every weekend morning.",
+          "She preferred the quieter footpath through the back streets rather than the busy main road."
+        ]
+      },
+      {
+        "word": "park and ride",
+        "ipa": "/pɑːk ænd raɪd/",
+        "phonetic": "[park and ryd]",
+        "meaning": "arabayı park edip toplu taşımaya geçiş",
+        "type": "isim öbeği",
+        "sentences": [
+          "She drives to the park and ride facility and catches the train for the rest of the commute.",
+          "He used the park and ride at Penrith to avoid paying expensive CBD parking fees.",
+          "The park and ride station fills up very early on weekday mornings.",
+          "She appreciated that the park and ride lot was free for Opal card holders.",
+          "He arrived at the park and ride at seven to get one of the last remaining spots.",
+          "Park and ride facilities are designed to reduce traffic congestion in busy city centres.",
+          "She switched to the park and ride option after petrol costs made driving all the way too expensive.",
+          "He found a park and ride station with covered parking which was ideal during rainy winter months.",
+          "The council opened a new park and ride facility to serve residents from the outer suburbs.",
+          "She prefers park and ride over driving all the way in — it is cheaper and far less stressful."
+        ]
+      },
+      {
+        "word": "rideshare",
+        "ipa": "/ˈraɪdʃɛː/",
+        "phonetic": "[RYD-shair]",
+        "meaning": "araç paylaşım uygulaması (Uber gibi)",
+        "type": "isim",
+        "sentences": [
+          "She booked a rideshare to the airport because parking fees were too expensive for a long trip.",
+          "He uses rideshare on weekends when public transport options to the venue are limited.",
+          "The rideshare driver arrived within four minutes of the booking being confirmed.",
+          "She rated the rideshare driver five stars after a clean, safe, and friendly trip.",
+          "He split the rideshare fare with two colleagues after working late in the city.",
+          "Rideshare services operate across most Australian cities and many regional towns.",
+          "She appreciated that the rideshare app showed the driver's name, photo, and vehicle details.",
+          "He chose rideshare over a taxi because the estimated fare was shown before confirming.",
+          "She tracked the rideshare on the map so her partner knew exactly when to expect her home.",
+          "He tipped the rideshare driver through the app after an especially helpful and friendly trip."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 33,
+    "words": [
+      {
+        "word": "registration",
+        "ipa": "/ˌrɛdʒɪˈstreɪʃən/",
+        "phonetic": "[rej-ih-STRAY-shun]",
+        "meaning": "araç tescil belgesi ve yıllık tescil ücreti",
+        "type": "isim",
+        "sentences": [
+          "She paid the annual registration fee for her car before the due date to avoid a fine.",
+          "He checked that the registration sticker on the number plate was current before driving.",
+          "Driving an unregistered vehicle is illegal and can result in a substantial fine in Australia.",
+          "She renewed her car registration online through the Service NSW website in minutes.",
+          "He received a reminder letter about his registration renewal three weeks before it expired.",
+          "The registration fee varies by vehicle type and state and includes a compulsory third party insurance component.",
+          "She had her vehicle inspected before renewing the registration to ensure it passed.",
+          "He transferred the registration into his name after buying a second-hand car.",
+          "The police officer checked the registration number when she was pulled over at a random stop.",
+          "She set a phone reminder two weeks before the registration renewal date each year."
+        ]
+      },
+      {
+        "word": "RMS",
+        "ipa": "/ɑːɛmɛs/",
+        "phonetic": "[ar-em-ES]",
+        "meaning": "NSW Yol ve Denizcilik Hizmetleri (sürücü belgesi ve araç tescil kurumu)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She visited the RMS service centre to transfer the ownership of her newly purchased car.",
+          "He booked a driving test through the RMS website and had to wait three weeks for an appointment.",
+          "The RMS issued her new driver's licence after she passed both the knowledge and practical tests.",
+          "She updated her address on her licence at an RMS service centre after moving suburbs.",
+          "He renewed his licence through the Service NSW app without needing to visit the RMS in person.",
+          "The RMS manages vehicle registration, driver licensing, and road rules in New South Wales.",
+          "She lost her licence card and ordered a replacement through the RMS within a few days.",
+          "He had his demerit points checked at the RMS after receiving a speeding fine.",
+          "The RMS has been largely replaced by Service NSW for most customer-facing transactions.",
+          "She downloaded the Roads app from the RMS to check live traffic conditions on her route."
+        ]
+      },
+      {
+        "word": "roadworthy",
+        "ipa": "/ˈroʊdwɜːði/",
+        "phonetic": "[ROHD-wur-dhee]",
+        "meaning": "araç muayenesi, trafiğe çıkabilir sertifikası",
+        "type": "sıfat / isim",
+        "sentences": [
+          "She had the car inspected for a roadworthy certificate before selling it to a private buyer.",
+          "He was told the car needed new brake pads before it could pass the roadworthy inspection.",
+          "A roadworthy certificate is required in Victoria when transferring the registration of a used vehicle.",
+          "She booked the roadworthy check at a licensed vehicle tester near her home.",
+          "He spent four hundred dollars fixing the car before it finally passed the roadworthy inspection.",
+          "The roadworthy certificate confirmed the vehicle met the minimum safety standards required.",
+          "She asked for a roadworthy certificate when buying the used car to confirm its condition.",
+          "He was relieved the car passed the roadworthy on the first attempt with no major issues.",
+          "Roadworthy requirements vary between Australian states — she checked the Victorian rules first.",
+          "The mechanic found several faults during the roadworthy inspection that the seller had not disclosed."
+        ]
+      },
+      {
+        "word": "demerit points",
+        "ipa": "/dɪˈmɛrɪt pɔɪnts/",
+        "phonetic": "[dih-MEH-rit poyints]",
+        "meaning": "trafik cezası puanları, ehliyetten düşen puanlar",
+        "type": "isim öbeği",
+        "sentences": [
+          "She received three demerit points for running a red light in a school zone.",
+          "He checked his demerit point balance online through the Service NSW website.",
+          "Accumulating too many demerit points results in licence suspension in Australia.",
+          "She was on a provisional licence and had a lower demerit point threshold than a full licence holder.",
+          "He received the maximum demerit points for using his phone while driving.",
+          "Demerit points stay on your licence record for three years from the date of the offence.",
+          "She opted for a good behaviour period instead of having her licence suspended.",
+          "He carefully checked the demerit point value of each infringement notice he received.",
+          "Double demerit points apply in New South Wales over long weekends and holiday periods.",
+          "She made a conscious effort to drive carefully after accumulating eight demerit points."
+        ]
+      },
+      {
+        "word": "P plates",
+        "ipa": "/piː pleɪts/",
+        "phonetic": "[pee playts]",
+        "meaning": "acemi sürücü (P) levhası",
+        "type": "isim öbeği",
+        "sentences": [
+          "She displayed P plates on her car after passing her practical driving test.",
+          "He reminded his son that P plate drivers have a lower blood alcohol limit of zero point two.",
+          "P plate drivers in New South Wales are not permitted to use a hands-free phone while driving.",
+          "She progressed from red P plates to green P plates after twelve months of accident-free driving.",
+          "He was caught on P plates driving above the eighty kilometre per hour speed limit and was fined.",
+          "P plates must be clearly displayed on both the front and rear of the vehicle.",
+          "She was proud the day she returned her P plates and upgraded to a full licence.",
+          "He advised his P plate daughter to avoid driving in heavy rain until she built more experience.",
+          "Green P plate drivers face fewer restrictions than red P plate drivers in most states.",
+          "She encouraged her teenage cousin to practice as many hours as possible before going on P plates."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 34,
+    "words": [
+      {
+        "word": "servo",
+        "ipa": "/ˈsɜːvoʊ/",
+        "phonetic": "[SUR-voh]",
+        "meaning": "benzin istasyonu (kısaltma: service station)",
+        "type": "isim (Avustralya argosu)",
+        "sentences": [
+          "She stopped at the servo to fill up with petrol before the long drive to the coast.",
+          "He grabbed a meat pie and a coffee at the servo on the highway during the road trip.",
+          "The servo was the only place open at midnight when she needed fuel.",
+          "She compared the prices at three servos before choosing the cheapest one in the area.",
+          "He checked the tyre pressure and topped up the windscreen washer fluid at the servo.",
+          "The servo sold snacks, drinks, and basic groceries as well as fuel.",
+          "She used the app to find the cheapest servo within five kilometres of her location.",
+          "He pulled into the servo just in time — the fuel warning light had been on for twenty minutes.",
+          "The servo attendant pointed out that her rear tyre looked low before she drove off.",
+          "She always fills up at the servo on a Tuesday when fuel prices are typically at their lowest."
+        ]
+      },
+      {
+        "word": "unleaded",
+        "ipa": "/ʌnˈlɛdɪd/",
+        "phonetic": "[un-LED-id]",
+        "meaning": "kurşunsuz benzin",
+        "type": "sıfat / isim",
+        "sentences": [
+          "She filled her car with unleaded 91 and was surprised at how high the price had risen.",
+          "He always uses premium unleaded 98 because his car's manual recommends it.",
+          "She mistakenly reached for the diesel nozzle and quickly swapped it for unleaded.",
+          "The unleaded price at his local servo fluctuated by as much as twenty cents over a week.",
+          "He used a fuel price app to find the cheapest unleaded in his suburb before driving out.",
+          "She checked the owner's manual to confirm whether the car required unleaded 91 or 95.",
+          "Unleaded petrol is the most commonly used fuel type in Australian passenger vehicles.",
+          "He noticed that unleaded prices were significantly higher at motorway servos.",
+          "She calculated how far she could travel on a tank of unleaded at the current price.",
+          "He switched to a more fuel-efficient car when unleaded prices climbed sharply over summer."
+        ]
+      },
+      {
+        "word": "diesel",
+        "ipa": "/ˈdiːzəl/",
+        "phonetic": "[DEE-zul]",
+        "meaning": "dizel yakıt",
+        "type": "isim",
+        "sentences": [
+          "He pulled up to the diesel bowser and filled the tank of his four-wheel drive.",
+          "She accidentally put unleaded into the diesel car — a very costly mistake to fix.",
+          "Diesel vehicles are common among tradies and people who tow heavy loads regularly.",
+          "He was relieved to find the remote servo sold diesel as well as unleaded.",
+          "Diesel prices in Australia are generally higher than standard unleaded at most servos.",
+          "She asked the mechanic which fuel type her newly purchased ute required — it was diesel.",
+          "He drove a diesel van for work and topped up at the company account servo each week.",
+          "The diesel truck pulled into the heavy vehicle lane at the servo to refuel.",
+          "She noticed the diesel nozzle is larger than the unleaded one to prevent misfuelling.",
+          "He saved money by buying diesel in bulk for the farm equipment during the harvest season."
+        ]
+      },
+      {
+        "word": "electric vehicle",
+        "ipa": "/ɪˈlɛktrɪk ˈviːɪkl/",
+        "phonetic": "[ih-LEK-trik VEE-ih-kul]",
+        "meaning": "elektrikli araç",
+        "type": "isim öbeği",
+        "sentences": [
+          "She bought an electric vehicle after calculating the long-term savings on fuel and servicing.",
+          "He installed a home charger in the garage for his electric vehicle.",
+          "Electric vehicle sales in Australia have grown rapidly in the last three years.",
+          "She found the electric vehicle charging network improved significantly along the highway.",
+          "He charged his electric vehicle overnight at home using off-peak electricity rates.",
+          "The state government offered a stamp duty exemption on new electric vehicle purchases.",
+          "She stopped at a fast-charging station on the highway to top up the battery mid-journey.",
+          "He was surprised how much cheaper it was to run an electric vehicle compared to petrol.",
+          "Electric vehicles produce zero tailpipe emissions, which improves urban air quality.",
+          "She planned her road trip around the locations of electric vehicle charging stations."
+        ]
+      },
+      {
+        "word": "fuel price cycle",
+        "ipa": "/fjuːəl praɪs ˈsaɪkl/",
+        "phonetic": "[fyool prys SY-kul]",
+        "meaning": "yakıt fiyat döngüsü (haftanın belirli günlerinde ucuzlayan benzin fiyatı)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She learned about the fuel price cycle and now fills up every Tuesday to save money.",
+          "He tracks the fuel price cycle in his city using an app that shows real-time prices.",
+          "The fuel price cycle in most Australian capitals means prices peak on Thursdays and drop midweek.",
+          "She saved about twenty dollars a month by timing her fills around the fuel price cycle.",
+          "He explained the fuel price cycle to his housemate who had been paying peak prices every week.",
+          "The ACCC monitors the fuel price cycle to ensure consumers are not being unfairly treated.",
+          "She checked the fuel price cycle pattern before planning a road trip to maximise savings.",
+          "He filled up on Monday morning at the lowest point of the weekly fuel price cycle.",
+          "The fuel price cycle is less predictable in regional areas than in the major capital cities.",
+          "She shared the fuel price app with her team because many of them were unaware of the cycle."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 35,
+    "words": [
+      {
+        "word": "peak hour",
+        "ipa": "/piːk aʊə/",
+        "phonetic": "[peek ow-uh]",
+        "meaning": "yoğun trafik saati, saat darbesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She leaves home at six thirty to avoid the worst of peak hour traffic on the motorway.",
+          "He sat in peak hour traffic for ninety minutes to travel just fifteen kilometres.",
+          "Public transport fares are slightly higher during peak hour in some Australian cities.",
+          "She preferred to start work early and finish early to miss peak hour in both directions.",
+          "He worked from home on Fridays specifically to avoid the peak hour commute.",
+          "The train was so crowded during peak hour that she could barely reach the door handle.",
+          "She listened to podcasts during peak hour commutes to make the time feel productive.",
+          "He timed his deliveries to avoid driving through the CBD during peak hour.",
+          "Peak hour in Sydney typically runs from seven to nine in the morning and four to seven at night.",
+          "She found the off-peak train journey far more comfortable and sometimes even found a seat."
+        ]
+      },
+      {
+        "word": "CBD",
+        "ipa": "/siːbiːdiː/",
+        "phonetic": "[see-bee-DEE]",
+        "meaning": "şehir merkezi, iş bölgesi",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She works in the CBD and commutes by train from the outer suburbs every weekday.",
+          "He found parking in the CBD cost more than thirty dollars for a full working day.",
+          "The CBD was buzzing on a Friday afternoon as workers headed to nearby bars and restaurants.",
+          "She walked from the train station through the CBD to her office in about eight minutes.",
+          "He avoided driving into the CBD — the traffic, cost, and stress simply were not worth it.",
+          "The new light rail line runs through the heart of the CBD making it easier to get around.",
+          "She had lunch in the CBD with a friend who worked on the other side of the city.",
+          "He delivered documents to a law firm in the CBD and was charged for thirty minutes of parking.",
+          "The CBD becomes noticeably quiet over the Christmas and New Year period each year.",
+          "She loved the variety of food options available for lunch near her CBD office."
+        ]
+      },
+      {
+        "word": "freeway",
+        "ipa": "/ˈfriːweɪ/",
+        "phonetic": "[FREE-way]",
+        "meaning": "otoyol, çok şeritli ana yol",
+        "type": "isim",
+        "sentences": [
+          "She merged onto the freeway and set her cruise control to the speed limit.",
+          "He used the freeway to get to the airport and made it in under thirty minutes.",
+          "The freeway was completely blocked after a truck rollover near the Tullamarine interchange.",
+          "She avoided the freeway during peak hour and used the suburban back streets instead.",
+          "He found the radio traffic updates useful for planning which freeway to use that morning.",
+          "The freeway speed limit in Victoria is one hundred kilometres per hour on most sections.",
+          "She joined the freeway using the merging lane and matched the speed of existing traffic.",
+          "He pulled off the freeway at the service centre to rest, eat, and stretch before continuing.",
+          "The freeway was eerily empty at three in the morning when he drove home from the airport.",
+          "She called the freeway incident line after spotting a mattress blocking the left lane."
+        ]
+      },
+      {
+        "word": "breakdown",
+        "ipa": "/ˈbreɪkdaʊn/",
+        "phonetic": "[BRAYK-down]",
+        "meaning": "araç arızası",
+        "type": "isim",
+        "sentences": [
+          "She had a breakdown on the freeway and pulled safely onto the emergency stopping lane.",
+          "He called roadside assistance after the breakdown left him stranded in the outer suburbs.",
+          "The NRMA attended the breakdown within thirty minutes and got the car running again.",
+          "She kept her roadside assistance membership card in the glove box for exactly this situation.",
+          "He was relieved his car broke down in a well-lit area rather than on a dark country road.",
+          "She called her partner from the breakdown location and asked them to come and wait with her.",
+          "He had the breakdown towed to the nearest mechanic because the fault was too complex to fix roadside.",
+          "She renewed her roadside assistance membership after the breakdown — it had paid for itself.",
+          "He hazard-lighted immediately after the breakdown to warn other drivers approaching from behind.",
+          "The mechanic found the breakdown was caused by a failed alternator — a relatively straightforward fix."
+        ]
+      },
+      {
+        "word": "roadside assistance",
+        "ipa": "/ˈroʊdsaɪd əˈsɪstəns/",
+        "phonetic": "[ROHD-syd uh-SIS-tuns]",
+        "meaning": "yol yardım hizmeti",
+        "type": "isim öbeği",
+        "sentences": [
+          "She called roadside assistance after locking her keys inside the car outside the shopping centre.",
+          "He is a member of the NRMA which provides roadside assistance across New South Wales.",
+          "Roadside assistance covered the cost of the tow truck to the nearest mechanic.",
+          "She added roadside assistance to her car insurance policy for extra peace of mind.",
+          "He was grateful for roadside assistance when he got a flat tyre on a remote highway.",
+          "The roadside assistance operator talked her through what to do while waiting for help to arrive.",
+          "She renewed her roadside assistance membership annually — it had saved her twice in one year.",
+          "Roadside assistance memberships in Australia are offered by NRMA, RACV, RACQ, and RAA.",
+          "He joined a roadside assistance program after hearing how quickly a colleague was helped.",
+          "She kept the roadside assistance phone number saved in her contacts for easy access."
+        ]
+      }
+    ]
+  }
+]

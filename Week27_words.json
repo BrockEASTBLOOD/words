@@ -1,0 +1,702 @@
+[
+  {
+    "day": 183,
+    "words": [
+      {
+        "word": "personal trainer",
+        "ipa": "/ˈpɜːsənəl ˈtreɪnər/",
+        "phonetic": "[PUR-sun-ul TRAY-nuh]",
+        "meaning": "kişisel antrenör",
+        "type": "isim öbeği",
+        "sentences": [
+          "She hired a personal trainer after struggling to exercise consistently on her own.",
+          "He found his personal trainer at the local gym — she specialises in strength for over-forties.",
+          "A personal trainer designs individualised exercise programs and provides coaching and motivation.",
+          "She found three sessions a week with a personal trainer transformed her fitness within three months.",
+          "He found the personal trainer kept him accountable when he would otherwise have skipped.",
+          "Personal trainers in Australia must hold a Certificate III or IV in Fitness.",
+          "She asked her personal trainer to focus on functional movement rather than aesthetics.",
+          "He found personal trainer fees range from sixty to one hundred and fifty dollars per session.",
+          "Personal trainers work in gyms, outdoors, and increasingly online through video calls.",
+          "She describes her personal trainer as the investment that made every other health habit possible."
+        ]
+      },
+      {
+        "word": "gym",
+        "ipa": "/dʒɪm/",
+        "phonetic": "[jim]",
+        "meaning": "spor salonu",
+        "type": "isim",
+        "sentences": [
+          "She joined the gym near work — the early morning sessions suit her schedule.",
+          "He found a twenty-four-hour gym essential given his unpredictable work hours.",
+          "A gym is a facility equipped for physical exercise and training.",
+          "She found the gym membership paid for itself once she went more than three times per week.",
+          "He compared gym memberships before committing — joining fees, lock-in contracts, and class access.",
+          "Gyms in Australia range from large chains like Fitness First to boutique studios.",
+          "She found the gym community supportive — familiar faces made early mornings easier.",
+          "He cancelled his gym membership and found outdoor exercise more motivating.",
+          "Gyms offer cardio equipment, weights, group fitness classes, and sometimes pools.",
+          "She describes the gym as the place she goes to manage both her body and her mind."
+        ]
+      },
+      {
+        "word": "pilates",
+        "ipa": "/pɪˈlɑːtɪz/",
+        "phonetic": "[pih-LAH-teez]",
+        "meaning": "pilates",
+        "type": "isim",
+        "sentences": [
+          "She started pilates after her physiotherapist recommended it for her lower back.",
+          "He tried reformer pilates for the first time and found it far more demanding than he expected.",
+          "Pilates is a form of low-impact exercise focusing on core strength, flexibility, and controlled movement.",
+          "She found pilates the exercise that most improved her posture and reduced chronic pain.",
+          "He attends pilates twice a week — the studio near his office offers lunchtime sessions.",
+          "Pilates is popular in Australia among people recovering from injury and athletes seeking core strength.",
+          "She found reformer pilates classes in Australia typically cost between thirty and fifty dollars.",
+          "He found mat pilates at home equally effective once he learned the technique.",
+          "Pilates complements other exercise forms — she pairs it with running.",
+          "She describes pilates as the discipline that reconnected her with her body after years of neglect."
+        ]
+      },
+      {
+        "word": "parkrun",
+        "ipa": "/ˈpɑːkrʌn/",
+        "phonetic": "[PARK-run]",
+        "meaning": "ücretsiz haftalık 5km koşu etkinliği",
+        "type": "özel isim",
+        "sentences": [
+          "She runs parkrun every Saturday morning at seven — it is free and welcoming.",
+          "He found parkrun the most inclusive running event he had encountered — walkers welcome.",
+          "Parkrun is a free, weekly timed five-kilometre run held in parks across Australia every Saturday.",
+          "She found parkrun the gateway that made her a regular runner.",
+          "He volunteers at parkrun one Saturday each month — scanning barcodes, cheering participants.",
+          "Parkrun operates in hundreds of locations across Australia — she has run it in six cities.",
+          "She found the parkrun community warm and encouraging — personal bests celebrated by strangers.",
+          "He found parkrun the healthiest Saturday morning habit he has ever built.",
+          "Parkrun results are tracked online — she can see her time and progress over years.",
+          "She describes parkrun as the running event that removed every barrier — no entry fee, no pressure."
+        ]
+      },
+      {
+        "word": "spin class",
+        "ipa": "/spɪn klɑːs/",
+        "phonetic": "[spin klass]",
+        "meaning": "kapalı alan bisiklet dersi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She attends a spin class at six in the morning — the instructor plays excellent music.",
+          "He tried a spin class and found it the most cardiovascular workout he had experienced.",
+          "A spin class is a group cycling class held indoors on stationary bikes to music.",
+          "She found spin class the most effective option for winter cardio when outdoor riding was unpleasant.",
+          "He found the spin class community energetic and motivating.",
+          "Spin classes in Australia are offered at most gyms and boutique cycling studios.",
+          "She found the resistance settings in spin class determined entirely her own experience.",
+          "He found spin class excellent for building aerobic base for outdoor cycling.",
+          "Spin classes typically run for forty-five to sixty minutes.",
+          "She describes spin class as the workout she dreads most before and enjoys most after."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 184,
+    "words": [
+      {
+        "word": "physio",
+        "ipa": "/ˈfɪzioʊ/",
+        "phonetic": "[FIZ-ee-oh]",
+        "meaning": "fizyoterapist (physiotherapist kısaltması)",
+        "type": "isim",
+        "sentences": [
+          "She saw a physio for her shoulder injury — four sessions and it was resolved.",
+          "He has seen the same physio for ten years — an invaluable relationship.",
+          "A physio, or physiotherapist, treats injuries and movement disorders through exercise and manual therapy.",
+          "She found her physio diagnosed the issue her GP had missed — a specific muscle imbalance.",
+          "He sees a physio before problems become serious — preventive maintenance.",
+          "Physio sessions in Australia typically cost between ninety and one hundred and fifty dollars.",
+          "She found some physio costs covered by her private health insurance.",
+          "He found the exercises his physio prescribed essential to his running recovery.",
+          "Physios in Australia are university-trained health professionals registered with AHPRA.",
+          "She describes her physio as the health professional who most directly keeps her active."
+        ]
+      },
+      {
+        "word": "remedial massage",
+        "ipa": "/rɪˈmiːdiəl məˈsɑːʒ/",
+        "phonetic": "[rih-MEE-dee-ul muh-SAHJ]",
+        "meaning": "terapötik masaj",
+        "type": "isim öbeği",
+        "sentences": [
+          "She books a remedial massage monthly — it manages her desk-work muscle tension.",
+          "He found remedial massage more effective than a standard relaxation massage for his back problem.",
+          "Remedial massage targets specific muscles and soft tissue to treat pain and dysfunction.",
+          "She found her remedial massage therapist skilled at releasing the tension pattern from her shoulders.",
+          "He found remedial massage partially covered by his private health fund.",
+          "Remedial massage differs from relaxation massage in its clinical focus and therapeutic intent.",
+          "She found a remedial massage therapist who holds a Diploma of Remedial Massage.",
+          "He books remedial massage after heavy training periods — it speeds recovery significantly.",
+          "Remedial massage is widely available in Australian gyms, clinics, and standalone studios.",
+          "She describes remedial massage as the fortnightly maintenance that keeps her functioning at full capacity."
+        ]
+      },
+      {
+        "word": "optometrist",
+        "ipa": "/ɒpˈtɒmɪtrɪst/",
+        "phonetic": "[op-TOM-ih-trist]",
+        "meaning": "göz doktoru (optometrist)",
+        "type": "isim",
+        "sentences": [
+          "She visits her optometrist every two years — her prescription changes slightly each time.",
+          "He found an optometrist in his suburb who bulk bills — no gap payment.",
+          "An optometrist examines eyes, tests vision, and prescribes corrective lenses.",
+          "She found her optometrist detected early signs of macular degeneration — caught at an important time.",
+          "He found optometrist appointments covered by Medicare for specific examinations.",
+          "Optometrists in Australia are registered health professionals — distinct from ophthalmologists.",
+          "She found her optometrist patient in explaining the difference between short and long-sightedness.",
+          "He wears glasses prescribed by his optometrist — his prescription has been stable for five years.",
+          "Optometrists can refer patients to ophthalmologists for surgical or complex conditions.",
+          "She describes her optometrist as the health professional she most consistently undervalues — until she needs new glasses."
+        ]
+      },
+      {
+        "word": "dental",
+        "ipa": "/ˈdɛntəl/",
+        "phonetic": "[DEN-tul]",
+        "meaning": "diş sağlığıyla ilgili",
+        "type": "sıfat / isim",
+        "sentences": [
+          "She attends a dental check-up every six months — preventive care is always cheaper.",
+          "He found dental costs in Australia significant — private cover helps considerably.",
+          "Dental refers to anything related to the teeth and oral health.",
+          "She found the dental gap on her private health insurance reasonable for the savings.",
+          "He needed dental work after a cracked molar — the crown took two appointments.",
+          "Dental care in Australia is largely private — Medicare does not routinely cover adult dental.",
+          "She found the Child Dental Benefits Schedule covered her children's basic dental care.",
+          "He found a community dental clinic that offered reduced-fee services for concession card holders.",
+          "Dental hygiene — brushing twice daily, flossing, and regular professional cleans — reduces costly problems.",
+          "She describes dental health as the preventive investment that pays for itself in avoided emergencies."
+        ]
+      },
+      {
+        "word": "burnout",
+        "ipa": "/ˈbɜːnaʊt/",
+        "phonetic": "[BUR-nowt]",
+        "meaning": "tükenmişlik",
+        "type": "isim",
+        "sentences": [
+          "She recognised burnout in herself before it became a crisis — reduced hours and took leave.",
+          "He found burnout crept up slowly — small warning signs accumulated into an inability to function.",
+          "Burnout is a state of chronic stress leading to physical and emotional exhaustion.",
+          "She found burnout most common after sustained overwork without recovery.",
+          "He found his employer's Employee Assistance Program invaluable during burnout recovery.",
+          "Burnout is increasingly recognised by Australian workplaces as a serious occupational health issue.",
+          "She found burnout recovery required more than a holiday — structural change was needed.",
+          "He spoke to his GP about burnout — it was treated as a genuine health condition.",
+          "Burnout affects performance, relationships, and physical health — the cost is systemic.",
+          "She describes recognising burnout in a colleague as one of the most important things she has done as a manager."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 185,
+    "words": [
+      {
+        "word": "mindfulness",
+        "ipa": "/ˈmaɪndfulnɪs/",
+        "phonetic": "[MYND-ful-nis]",
+        "meaning": "bilinçli farkındalık, mindfulness",
+        "type": "isim",
+        "sentences": [
+          "She practises mindfulness for ten minutes each morning before the day begins.",
+          "He found mindfulness helped him respond rather than react to stressful situations.",
+          "Mindfulness is the practice of paying deliberate, non-judgmental attention to the present moment.",
+          "She found mindfulness the most accessible mental health tool — free, available anywhere.",
+          "He attended an eight-week mindfulness course through his workplace wellbeing program.",
+          "Mindfulness is offered through apps, courses, and health professionals across Australia.",
+          "She found mindfulness difficult at first — the mind resists stillness before it surrenders to it.",
+          "He found mindfulness reduced his anxiety more effectively than anything else he had tried.",
+          "Mindfulness is supported by significant research as an effective tool for managing stress.",
+          "She describes mindfulness as the practice of returning to herself — from wherever the day has scattered her."
+        ]
+      },
+      {
+        "word": "sleep hygiene",
+        "ipa": "/sliːp ˈhaɪdʒiːn/",
+        "phonetic": "[sleep HY-jeen]",
+        "meaning": "uyku hijyeni, sağlıklı uyku alışkanlıkları",
+        "type": "isim öbeği",
+        "sentences": [
+          "She improved her sleep hygiene — consistent bedtime, dark room, no screens after nine.",
+          "He found sleep hygiene changes more effective than any supplement for his insomnia.",
+          "Sleep hygiene refers to the habits and environment that promote consistent, quality sleep.",
+          "She found keeping a consistent wake time the single most powerful sleep hygiene change.",
+          "He reduces caffeine after two in the afternoon — part of his sleep hygiene routine.",
+          "Sleep hygiene is recommended by Australian sleep specialists before pharmaceutical interventions.",
+          "She found a weighted blanket a valuable sleep hygiene addition.",
+          "He found his sleep hygiene disrupted by travel — he recovers it by anchoring his wake time.",
+          "Good sleep hygiene includes a cool, dark room, consistent schedule, and pre-sleep wind-down.",
+          "She describes sleep hygiene as the foundation everything else in her health depends on."
+        ]
+      },
+      {
+        "word": "nutrition",
+        "ipa": "/njuːˈtrɪʃən/",
+        "phonetic": "[nyoo-TRISH-un]",
+        "meaning": "beslenme, diyet",
+        "type": "isim",
+        "sentences": [
+          "She consulted a dietitian about her nutrition after her energy levels declined.",
+          "He found that improving his nutrition had a greater effect on his running performance than training more.",
+          "Nutrition is the process of obtaining and using food for health, growth, and energy.",
+          "She found nutrition education through the Eat for Health guidelines from the Australian government.",
+          "He learned about nutrition from an accredited practising dietitian — not from social media.",
+          "Good nutrition in Australia is supported by the Australian Dietary Guidelines.",
+          "She found tracking her nutrition for two weeks revealed significant imbalances she had not expected.",
+          "He finds nutrition the most confusing area of health — evidence changes and influencers mislead.",
+          "Nutrition affects energy, mood, immunity, and long-term health outcomes.",
+          "She describes good nutrition as not deprivation but abundance — of vegetables, variety, and attention."
+        ]
+      },
+      {
+        "word": "hydration",
+        "ipa": "/haɪˈdreɪʃən/",
+        "phonetic": "[hy-DRAY-shun]",
+        "meaning": "vücudu sulandırma, su içme",
+        "type": "isim",
+        "sentences": [
+          "She monitors her hydration carefully in the Australian summer — the heat is deceptive.",
+          "He found hydration the simplest health intervention with the most immediate effect.",
+          "Hydration is the process of providing adequate water to the body for normal function.",
+          "She carries a reusable water bottle everywhere — hydration is non-negotiable.",
+          "He found dehydration the most common cause of his afternoon fatigue.",
+          "Hydration needs increase significantly in the Australian heat — two litres is a minimum.",
+          "She found hydration important during exercise — she drinks before she feels thirsty.",
+          "He found his running performance improved noticeably when he prioritised hydration.",
+          "Hydration supports digestion, temperature regulation, concentration, and joint health.",
+          "She describes hydration as the free, universal health tool most people underuse."
+        ]
+      },
+      {
+        "word": "resilience",
+        "ipa": "/rɪˈzɪlɪəns/",
+        "phonetic": "[rih-ZIL-ee-uns]",
+        "meaning": "psikolojik dayanıklılık",
+        "type": "isim",
+        "sentences": [
+          "She built resilience through difficulty — each challenge made the next more navigable.",
+          "He found resilience not an absence of struggle but the ability to continue through it.",
+          "Resilience is the capacity to recover from adversity and adapt to challenges.",
+          "She found resilience programs offered through her workplace genuinely helpful.",
+          "He found his resilience tested during the redundancy period — and found it held.",
+          "Resilience in Australian communities was visible after the 2019–20 bushfire season.",
+          "She found resilience built through connection — not through isolation.",
+          "He finds resilience in routine — it anchors him when circumstances become unpredictable.",
+          "Resilience is taught in Australian schools as part of social and emotional learning programs.",
+          "She describes resilience as not bouncing back to where you were but arriving somewhere wiser."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 186,
+    "words": [
+      {
+        "word": "self-care",
+        "ipa": "/sɛlf kɛː/",
+        "phonetic": "[self kair]",
+        "meaning": "öz bakım",
+        "type": "isim öbeği",
+        "sentences": [
+          "She treats self-care not as luxury but as maintenance — the oil that keeps the engine running.",
+          "He found self-care the practice most undervalued in his working life — until he stopped.",
+          "Self-care is the deliberate practice of attending to one's physical, emotional, and mental wellbeing.",
+          "She found self-care misrepresented as spa days — it is sleep, boundaries, and movement.",
+          "He built a self-care routine: morning walk, no screens at night, monthly physio.",
+          "Self-care is increasingly discussed in Australian workplaces as part of psychological safety.",
+          "She found self-care required protecting time — it does not happen by accident.",
+          "He found the most effective self-care practices free — walking, sleeping, cooking real food.",
+          "Self-care is not selfish — she is more present for others when she tends to herself.",
+          "She describes self-care as the practice of treating yourself with the same care you give others."
+        ]
+      },
+      {
+        "word": "triathlon",
+        "ipa": "/traɪˈæθlɒn/",
+        "phonetic": "[try-ATH-lon]",
+        "meaning": "triatlon",
+        "type": "isim",
+        "sentences": [
+          "She completed her first triathlon at forty-one — a sprint distance in Noosa.",
+          "He trains for triathlon three mornings a week — swim, bike, and run in rotation.",
+          "A triathlon is a multi-sport race involving swimming, cycling, and running in sequence.",
+          "She found triathlon training the most comprehensive fitness program she had undertaken.",
+          "He joined a triathlon club and found the community the most welcoming he had experienced.",
+          "Triathlon in Australia ranges from short sprint events to the Ironman distance.",
+          "She found Noosa Triathlon one of the world's most celebrated events — and held in her own backyard.",
+          "He found the swim leg the most challenging for a former runner new to triathlon.",
+          "Triathlon requires managing three disciplines, transitions, and race-day nutrition.",
+          "She describes triathlon as the sport that most completely occupied her focus — in the best way."
+        ]
+      },
+      {
+        "word": "fun run",
+        "ipa": "/fʌn rʌn/",
+        "phonetic": "[fun run]",
+        "meaning": "eğlence koşusu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She entered the City2Surf fun run with her workmates — fourteen kilometres from the CBD to Bondi.",
+          "He found the fun run atmosphere entirely different to a competitive race — joyful and social.",
+          "A fun run is a non-competitive running event often held for charity or community celebration.",
+          "She walked part of the fun run — no one cared, and it was still deeply satisfying.",
+          "He raises funds through the fun run entry for Cancer Council Australia.",
+          "Fun runs in Australia include the City2Surf, Run Melbourne, and the Bridge to Brisbane.",
+          "She found the fun run an excellent first running event — achievable and encouraging.",
+          "He wore a costume to the fun run — tradition in many Australian charity events.",
+          "Fun runs attract participants of all fitness levels — the field is wide and welcoming.",
+          "She describes the fun run as the running event that made her believe she could do more."
+        ]
+      },
+      {
+        "word": "osteopath",
+        "ipa": "/ˈɒstioʊpæθ/",
+        "phonetic": "[OS-tee-oh-path]",
+        "meaning": "osteopat (kas-iskelet sistemi uzmanı)",
+        "type": "isim",
+        "sentences": [
+          "She saw an osteopath for her hip pain — three treatments and the restriction was gone.",
+          "He found an osteopath the right practitioner for his postural issues.",
+          "An osteopath is a health professional who diagnoses and treats musculoskeletal problems.",
+          "She found osteopathy takes a whole-body approach — the hip pain traced to a foot issue.",
+          "He found his osteopath trained at RMIT — registered with AHPRA.",
+          "Osteopaths in Australia are regulated health professionals distinct from physiotherapists.",
+          "She found osteopath appointments partially covered by her private health insurance.",
+          "He sees an osteopath quarterly — preventive maintenance for a physically demanding job.",
+          "Osteopaths use hands-on techniques including manipulation, stretching, and mobilisation.",
+          "She describes her osteopath as the practitioner who thinks about how the body connects to itself."
+        ]
+      },
+      {
+        "word": "chiropractor",
+        "ipa": "/ˈkaɪrəˌpræktər/",
+        "phonetic": "[KY-roh-prak-tuh]",
+        "meaning": "kayropraktör",
+        "type": "isim",
+        "sentences": [
+          "She sees a chiropractor for her neck — the adjustment provides immediate relief.",
+          "He found a chiropractor through a colleague recommendation — he has attended for two years.",
+          "A chiropractor diagnoses and treats spinal and musculoskeletal conditions, often using adjustment.",
+          "She found chiropractic care effective for her recurring lower back stiffness.",
+          "He found his chiropractor explained each adjustment clearly — what was happening and why.",
+          "Chiropractors in Australia are registered with AHPRA and must hold an approved qualification.",
+          "She found chiropractic treatment partially covered by her extras private health cover.",
+          "He found some Australian health organisations debate the evidence for chiropractic — he assesses his own results.",
+          "Chiropractors treat conditions including back pain, neck pain, and headaches.",
+          "She describes her chiropractor as the practitioner who most reliably gives her a day without pain."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 187,
+    "words": [
+      {
+        "word": "yoga",
+        "ipa": "/ˈjoʊɡə/",
+        "phonetic": "[YOH-guh]",
+        "meaning": "yoga",
+        "type": "isim",
+        "sentences": [
+          "She attends yoga three times a week — it has changed her relationship with her body.",
+          "He tried yoga after his physio recommended it for flexibility — he now practises independently.",
+          "Yoga is a practice combining physical postures, breath control, and meditation.",
+          "She found yoga classes at her local studio in Australia accessible and well-taught.",
+          "He found the yoga community welcoming — no competition, no judgment.",
+          "Yoga styles available in Australia include Hatha, Vinyasa, Yin, Ashtanga, and Bikram.",
+          "She found yoga the most effective tool for managing her anxiety.",
+          "He found outdoor yoga in the park a beautiful feature of Australian summer mornings.",
+          "Yoga improves flexibility, strength, balance, and mental clarity.",
+          "She describes yoga as the practice that taught her to be in her body rather than just inhabiting it."
+        ]
+      },
+      {
+        "word": "protein",
+        "ipa": "/ˈproʊtiːn/",
+        "phonetic": "[PROH-teen]",
+        "meaning": "protein",
+        "type": "isim",
+        "sentences": [
+          "She ensures each meal includes a protein source — eggs, legumes, fish, or meat.",
+          "He uses a protein shake post-workout — convenient and effective for muscle recovery.",
+          "Protein is a macronutrient essential for building and repairing muscle, tissue, and enzymes.",
+          "She found adequate protein the dietary change that most improved her energy and satiety.",
+          "He found Australian protein powder brands competitive with international products.",
+          "Protein needs increase with exercise intensity — athletes require more than sedentary individuals.",
+          "She found plant-based protein from legumes, tofu, and tempeh sufficient for her vegetarian diet.",
+          "He counts his protein intake loosely — about one gram per kilogram of body weight.",
+          "Protein-rich foods include eggs, meat, fish, dairy, legumes, and nuts.",
+          "She describes adequate protein as the nutritional change that made every other health goal easier."
+        ]
+      },
+      {
+        "word": "running",
+        "ipa": "/ˈrʌnɪŋ/",
+        "phonetic": "[RUN-ing]",
+        "meaning": "koşu",
+        "type": "isim",
+        "sentences": [
+          "She took up running at thirty-five and ran her first half marathon at thirty-eight.",
+          "He found running in Australian coastal cities — paths, beaches, and parks — extraordinary.",
+          "Running is a form of aerobic exercise involving rapid foot movement, widely practised in Australia.",
+          "She found running the cheapest and most flexible exercise available.",
+          "He joined a local running group — they meet Tuesday and Thursday mornings.",
+          "Running is supported by a rich community in Australian cities — clubs, events, and online communities.",
+          "She found running early morning in summer the only tolerable option — temperature and UV.",
+          "He trained for the Melbourne Marathon — twenty-six weeks of structured running.",
+          "Running improves cardiovascular health, mental wellbeing, and bone density.",
+          "She describes running as the activity that most reliably returns her to herself."
+        ]
+      },
+      {
+        "word": "wellbeing",
+        "ipa": "/ˈwɛlˌbiːɪŋ/",
+        "phonetic": "[wel-BEE-ing]",
+        "meaning": "esenlik, genel sağlık hali",
+        "type": "isim",
+        "sentences": [
+          "She takes her wellbeing seriously — sleep, movement, nutrition, and connection.",
+          "He found his employer's wellbeing programs more useful than he expected.",
+          "Wellbeing refers to a state of being comfortable, healthy, and content in life.",
+          "She found that wellbeing required active tending — it did not sustain itself.",
+          "He found his wellbeing most affected by sleep quality above all other factors.",
+          "Wellbeing is recognised in Australian workplaces as a genuine business concern.",
+          "She found the Beyond Blue wellbeing resources free and excellent.",
+          "He found financial wellbeing as important as physical — both affect mood and function.",
+          "Wellbeing encompasses physical, mental, emotional, social, and financial dimensions.",
+          "She describes wellbeing as the condition from which everything else in her life is possible."
+        ]
+      },
+      {
+        "word": "meditation",
+        "ipa": "/ˌmɛdɪˈteɪʃən/",
+        "phonetic": "[med-ih-TAY-shun]",
+        "meaning": "meditasyon",
+        "type": "isim",
+        "sentences": [
+          "She uses the Headspace app for guided meditation — ten minutes each morning.",
+          "He found meditation the practice most resistant to his personality — and most beneficial.",
+          "Meditation is a practice involving focused attention and mental stillness for relaxation or insight.",
+          "She found meditation most useful during periods of high stress.",
+          "He attended a weekend meditation retreat in the Blue Mountains.",
+          "Meditation is taught in Australian schools as part of wellbeing curricula.",
+          "She found even five minutes of meditation changed the quality of her afternoon.",
+          "He found the Smiling Mind app, developed by Australian psychologists, excellent for beginners.",
+          "Meditation reduces cortisol, improves focus, and supports emotional regulation.",
+          "She describes meditation as the skill that most changed how she experiences time."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 188,
+    "words": [
+      {
+        "word": "private health insurance",
+        "ipa": "/ˈpraɪvɪt hɛlθ ɪnˈʃʊərəns/",
+        "phonetic": "[PRY-vit helth in-SHOOR-uns]",
+        "meaning": "özel sağlık sigortası",
+        "type": "isim öbeği",
+        "sentences": [
+          "She took out private health insurance to avoid the Medicare Levy Surcharge.",
+          "He found private health insurance reduced his out-of-pocket costs for dental and physio significantly.",
+          "Private health insurance in Australia covers hospital and extras services beyond Medicare.",
+          "She found the private health insurance comparison on privatehealth.gov.au invaluable.",
+          "He chose a hospital-only policy — extras were not worth the premium for his situation.",
+          "Private health insurance premiums in Australia increase on 1 April each year.",
+          "She found the Lifetime Health Cover loading a compelling reason to take out cover before age thirty-one.",
+          "He found private health insurance most valuable for elective procedures and shorter waiting times.",
+          "Private health insurance providers in Australia include Medibank, BUPA, nib, and HCF.",
+          "She describes private health insurance as the product she most thoroughly researched before buying."
+        ]
+      },
+      {
+        "word": "Medicare Levy Surcharge",
+        "ipa": "/ˈmɛdɪkɛː ˈlɛvi ˈsɜːtʃɑːdʒ/",
+        "phonetic": "[MED-ih-kair LEV-ee SUR-charj]",
+        "meaning": "Medicare ek vergisi (özel sağlık sigortası olmayanlar için)",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She avoided the Medicare Levy Surcharge by taking out private hospital cover.",
+          "He paid the Medicare Levy Surcharge for two years before calculating that private cover cost less.",
+          "The Medicare Levy Surcharge is an additional tax for higher-income earners without private hospital cover.",
+          "She found the Medicare Levy Surcharge applied to individuals earning above ninety-three thousand dollars.",
+          "He confirmed with his accountant whether the Medicare Levy Surcharge applied to his income.",
+          "The Medicare Levy Surcharge rate is between one and one-point-five percent of taxable income.",
+          "She found private health insurance cheaper than the Medicare Levy Surcharge at her income level.",
+          "He applied for a Medicare Levy Surcharge exemption certificate when his circumstances changed.",
+          "The Medicare Levy Surcharge is designed to reduce pressure on the public hospital system.",
+          "She describes the Medicare Levy Surcharge as the tax that most clearly nudged her towards private cover."
+        ]
+      },
+      {
+        "word": "allied health",
+        "ipa": "/ˈælaɪd hɛlθ/",
+        "phonetic": "[AL-eyed helth]",
+        "meaning": "ilgili sağlık meslekleri (fizyoterapist, diyetisyen vb.)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She accessed allied health services through a GP referral on a chronic disease management plan.",
+          "He found allied health professionals the bridge between medical diagnosis and functional recovery.",
+          "Allied health refers to a range of health professions outside medicine and nursing.",
+          "She found her chronic disease management plan covered five allied health visits per year.",
+          "He found allied health workers including physios, dietitians, and speech pathologists invaluable.",
+          "Allied health services in Australia are partially covered by Medicare with a GP referral.",
+          "She found a dietitian referral under the allied health plan covered most of her nutrition consultation.",
+          "He found allied health professionals in regional Australia sometimes harder to access.",
+          "Allied health includes physiotherapy, occupational therapy, dietetics, psychology, and speech therapy.",
+          "She describes allied health as the support system that fills the space between medicine and daily life."
+        ]
+      },
+      {
+        "word": "chronic disease",
+        "ipa": "/ˈkrɒnɪk dɪˈziːz/",
+        "phonetic": "[KRON-ik dih-ZEEZ]",
+        "meaning": "kronik hastalık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She manages a chronic disease — Type 2 diabetes — with diet, exercise, and medication.",
+          "He found the chronic disease management plan from his GP provided structured support.",
+          "A chronic disease is a long-term health condition that requires ongoing management.",
+          "She found chronic disease management in Australia supported by a network of GPs and allied health.",
+          "He found the National Diabetes Services Scheme helpful for managing his chronic disease.",
+          "Chronic diseases including diabetes, heart disease, and arthritis are major health burdens in Australia.",
+          "She found lifestyle modifications the most effective tools for managing her chronic disease.",
+          "He was diagnosed with a chronic disease and found the transition from shock to management took months.",
+          "Chronic disease management plans allow bulk-billed allied health visits through Medicare.",
+          "She describes living with a chronic disease as learning to negotiate with your body rather than fight it."
+        ]
+      },
+      {
+        "word": "health check",
+        "ipa": "/hɛlθ tʃɛk/",
+        "phonetic": "[helth chek]",
+        "meaning": "sağlık taraması, check-up",
+        "type": "isim öbeği",
+        "sentences": [
+          "She books a health check every year — blood pressure, cholesterol, and blood glucose.",
+          "He found the forty-five to forty-nine health check at his GP free under Medicare.",
+          "A health check is a routine examination to identify risk factors and assess overall health.",
+          "She found her health check revealed slightly elevated cholesterol — caught before it became a problem.",
+          "He found the annual health check the most cost-effective medical appointment he attended.",
+          "Health checks in Australia are offered at specific ages — Aboriginal and Torres Strait Islander peoples can access checks from eighteen.",
+          "She found the health check conversation with her GP genuinely useful for preventive planning.",
+          "He found his skin checked at the health check — the GP identified a suspicious mole.",
+          "Regular health checks improve outcomes by detecting issues early.",
+          "She describes the annual health check as the appointment that gives her permission to stop worrying for another year."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 189,
+    "words": [
+      {
+        "word": "skin check",
+        "ipa": "/skɪn tʃɛk/",
+        "phonetic": "[skin chek]",
+        "meaning": "cilt taraması (melanom kontrolü)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She has an annual skin check — Australia's UV intensity makes it non-negotiable.",
+          "He found a suspicious mole at his skin check — removed and confirmed benign.",
+          "A skin check is a clinical examination of the skin to detect moles or lesions that may be cancerous.",
+          "She found skin check clinics in every major Australian suburb — access is good.",
+          "He found his GP offered basic skin checks — he sees a specialist dermatologist annually.",
+          "Australia has one of the highest skin cancer rates in the world — skin checks save lives.",
+          "She found the ABCDE rule — asymmetry, border, colour, diameter, evolution — helpful for self-monitoring.",
+          "He found the MoleMap service offered full-body digital imaging for precise monitoring.",
+          "Skin checks are especially important for fair-skinned people and those with sun exposure history.",
+          "She describes the annual skin check as the most important appointment she makes — given where she lives."
+        ]
+      },
+      {
+        "word": "SunSmart app",
+        "ipa": "/ˈsʌnsmɑːt æp/",
+        "phonetic": "[SUN-smart ap]",
+        "meaning": "UV indeksi uygulaması",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She checks the SunSmart app before planning outdoor activities.",
+          "He found the SunSmart app the most practical UV protection tool on his phone.",
+          "The SunSmart app provides UV index forecasts and alerts for locations across Australia.",
+          "She found the SunSmart app recommended sun protection from ten in the morning to three in the afternoon.",
+          "He set alerts on the SunSmart app for school sports days.",
+          "The SunSmart app is free and developed by Cancer Council Victoria.",
+          "She found the SunSmart app the fastest way to know whether sunscreen was needed today.",
+          "He uses the SunSmart app to time outdoor runs in the early morning before UV peaks.",
+          "The SunSmart app integrates UV data from the Bureau of Meteorology.",
+          "She describes the SunSmart app as the smallest but most Australian safety measure on her phone."
+        ]
+      },
+      {
+        "word": "GP referral",
+        "ipa": "/dʒiː piː rɪˈfɜːrəl/",
+        "phonetic": "[jee pee rih-FUR-ul]",
+        "meaning": "aile hekiminden uzman sevki",
+        "type": "isim öbeği",
+        "sentences": [
+          "She obtained a GP referral to see the cardiologist — Medicare required it.",
+          "He found a GP referral necessary to access specialist services under Medicare.",
+          "A GP referral is a formal recommendation from a general practitioner to see a specialist.",
+          "She found her GP referral included a detailed summary of her history — the specialist was well-informed.",
+          "He was frustrated the specialist required a GP referral — but understood the system's purpose.",
+          "GP referrals in Australia are required for Medicare rebates on most specialist consultations.",
+          "She found her GP referral valid for twelve months for ongoing specialist care.",
+          "He obtained a GP referral to a gastroenterologist after persistent digestive symptoms.",
+          "GP referrals ensure continuity of care — the GP coordinates, the specialist treats.",
+          "She describes the GP referral system as the gate that slows things down but catches what should not be missed."
+        ]
+      },
+      {
+        "word": "heart rate",
+        "ipa": "/hɑːt reɪt/",
+        "phonetic": "[hart rayt]",
+        "meaning": "kalp atış hızı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She monitors her heart rate during exercise using a chest strap — more accurate than wrist.",
+          "He found his resting heart rate declined after six months of consistent running.",
+          "Heart rate is the number of times the heart beats per minute.",
+          "She found heart rate training zones transformed the quality of her exercise.",
+          "He found his smartwatch heart rate data useful for understanding his recovery between sessions.",
+          "Resting heart rate below sixty beats per minute is typically associated with good cardiovascular fitness.",
+          "She found her heart rate elevated during high-stress work periods — a useful biofeedback signal.",
+          "He trains at seventy to eighty percent of maximum heart rate for aerobic development.",
+          "Heart rate variability, not just heart rate, is increasingly used to assess recovery.",
+          "She describes tracking heart rate as the first step to understanding how her body responds to exercise."
+        ]
+      },
+      {
+        "word": "mental health day",
+        "ipa": "/ˈmɛntəl hɛlθ deɪ/",
+        "phonetic": "[MEN-tul helth day]",
+        "meaning": "ruh sağlığı izni günü",
+        "type": "isim öbeği",
+        "sentences": [
+          "She took a mental health day when she recognised the warning signs of overwhelm.",
+          "He found his employer supportive of mental health days — no questions asked.",
+          "A mental health day is a day taken off work to rest and recover emotionally and psychologically.",
+          "She found a mental health day more restorative than pushing through an unproductive week.",
+          "He used his personal leave entitlement for a mental health day — he felt no need to justify it.",
+          "Mental health days are increasingly recognised in Australian workplaces as legitimate sick leave.",
+          "She found taking a mental health day prevented what would have become a longer absence.",
+          "He found the courage to tell his manager he needed a mental health day — the response surprised him.",
+          "Mental health days are most effective when used with genuine rest rather than chores.",
+          "She describes a mental health day as the small withdrawal from the account before it goes to zero."
+        ]
+      }
+    ]
+  }
+]

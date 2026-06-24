@@ -1,0 +1,702 @@
+[
+  {
+    "day": 57,
+    "words": [
+      {
+        "word": "kindy",
+        "ipa": "/ˈkɪndi/",
+        "phonetic": "[KIN-dee]",
+        "meaning": "anaokulu, kreş (kindergarten kısaltması)",
+        "type": "isim (Avustralya argosu)",
+        "sentences": [
+          "She dropped her daughter off at kindy for the first time and cried on the way home.",
+          "He was nervous dropping his son at kindy — the boy was perfectly fine within ten minutes.",
+          "Kindy in Australia typically refers to the year of early education before formal schooling begins.",
+          "She volunteered to help at the kindy Christmas concert and had a wonderful time.",
+          "He packed his daughter's kindy bag the night before to avoid rushing in the morning.",
+          "The kindy teacher sent a note home asking parents to label all items in the bag.",
+          "She was amazed by how much her son had learned in his first term at kindy.",
+          "He attended a kindy orientation evening to meet the teachers before the year started.",
+          "Kindy is generally the year before Prep or Foundation depending on the state.",
+          "She enrolled her daughter in kindy at the local community centre with a subsidised place."
+        ]
+      },
+      {
+        "word": "primary school",
+        "ipa": "/ˈpraɪməri skuːl/",
+        "phonetic": "[PRY-muh-ree skool]",
+        "meaning": "ilkokul",
+        "type": "isim öbeği",
+        "sentences": [
+          "She walked her son to primary school on his very first day of Prep.",
+          "He attended the same primary school as his father — a multigenerational connection.",
+          "Primary school in Australia covers years from Prep or Kindergarten through to Year Six.",
+          "She joined the primary school P&C committee and helped plan the annual fete.",
+          "He loved primary school — especially reading groups and the annual book week parade.",
+          "The primary school had a strong focus on outdoor learning and environmental education.",
+          "She chose the local primary school for its reputation for inclusion and pastoral care.",
+          "He found the transition from kindy to primary school easier than expected.",
+          "Primary school sports day was the highlight of the year for children and parents alike.",
+          "She volunteered as a reading helper at her child's primary school every Thursday morning."
+        ]
+      },
+      {
+        "word": "high school",
+        "ipa": "/haɪ skuːl/",
+        "phonetic": "[hy skool]",
+        "meaning": "orta okul, lise",
+        "type": "isim öbeği",
+        "sentences": [
+          "She started high school in Year Seven and found the size of the campus overwhelming.",
+          "He chose a high school with a strong performing arts program for his daughter.",
+          "High school in Australia covers Years Seven through to Year Twelve depending on the state.",
+          "She made her closest friends during high school and still sees them every month.",
+          "He struggled in the first year of high school but settled in well by second semester.",
+          "The high school held an open day for prospective Year Seven students and their families.",
+          "She took the bus to high school every day and used the time to read on the way.",
+          "He appreciated that his high school offered both VET and academic pathway subjects.",
+          "The high school canteen sold a good selection of healthy and affordable lunch options.",
+          "She received a merit award at the high school presentation night for community service."
+        ]
+      },
+      {
+        "word": "TAFE",
+        "ipa": "/teɪf/",
+        "phonetic": "[tayf]",
+        "meaning": "teknik ve mesleki eğitim kurumu",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She enrolled at TAFE to complete a Certificate III in Early Childhood Education and Care.",
+          "He completed a plumbing apprenticeship through TAFE and qualified in under four years.",
+          "TAFE stands for Technical and Further Education and offers vocational qualifications.",
+          "She chose TAFE over university because she wanted practical skills for immediate work.",
+          "He attended TAFE one day a week while working as a full-time apprentice electrician.",
+          "TAFE courses are often subsidised by state governments for eligible domestic students.",
+          "She found the TAFE teachers brought real industry experience into the classroom.",
+          "He upgraded his hospitality skills at TAFE and moved into a management role.",
+          "TAFE offers qualifications from Certificate levels through to Diploma and Advanced Diploma.",
+          "She completed her bookkeeping course at TAFE in six months and immediately found work."
+        ]
+      },
+      {
+        "word": "VET",
+        "ipa": "/vɛt/",
+        "phonetic": "[vet]",
+        "meaning": "mesleki eğitim ve öğretim",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She chose to study a VET qualification in hospitality rather than a university degree.",
+          "He completed a VET course in electrotechnology as part of his school-based apprenticeship.",
+          "VET stands for Vocational Education and Training and covers hundreds of practical career pathways.",
+          "She appreciated that the VET system recognised prior learning from her work experience.",
+          "He found VET qualifications highly valued by employers in the trades sector.",
+          "VET courses can be studied at TAFE, private training organisations, and some high schools.",
+          "She completed a VET Certificate II in Retail Services while still in Year Eleven.",
+          "He used his VET qualification as a pathway into a fully funded apprenticeship.",
+          "VET training packages are nationally recognised — a qualification in Queensland is valid in Victoria.",
+          "She explored the VET pathways available through Jobs and Skills Australia before enrolling."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 58,
+    "words": [
+      {
+        "word": "HSC",
+        "ipa": "/eɪtʃɛssiː/",
+        "phonetic": "[aych-ess-SEE]",
+        "meaning": "NSW'de lise diploma sınavı (Higher School Certificate)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She worked intensely through Year Twelve to achieve a strong HSC result.",
+          "He found the HSC stressful but manageable with good study habits and support.",
+          "The HSC is the credential awarded to students completing Year Twelve in New South Wales.",
+          "She celebrated finishing her last HSC exam with a beach trip with her classmates.",
+          "He received his HSC results in December and was thrilled with his ATAR.",
+          "The school provided HSC study skills workshops for all Year Twelve students.",
+          "She used the HSC past papers to practise exam technique in the weeks before the tests.",
+          "He chose subjects strategically to maximise his ATAR from the HSC results.",
+          "She regretted dropping mathematics — it limited her HSC options in hindsight.",
+          "He was proud when his HSC results allowed him to enter his preferred university course."
+        ]
+      },
+      {
+        "word": "ATAR",
+        "ipa": "/ˈeɪtɑː/",
+        "phonetic": "[AY-tar]",
+        "meaning": "Avustralya Yükseköğretim Sıralama Puanı",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She achieved an ATAR of ninety-two and received an offer from her first-preference university.",
+          "He studied hard through Year Twelve and was happy with his ATAR result in December.",
+          "The ATAR is a ranking from zero to ninety-nine point ninety-five used for university entry.",
+          "She explained to her parents that an ATAR of eighty meant she ranked in the top twenty percent.",
+          "He chose a pathway degree because his ATAR did not meet the direct entry cut-off.",
+          "The ATAR is used by universities to select students when applications exceed available places.",
+          "She focused on subjects she enjoyed and found her ATAR reflected her genuine effort.",
+          "He was offered alternative entry into the course through a portfolio when his ATAR fell short.",
+          "The minimum ATAR for the medicine degree at her preferred university was ninety-nine point four.",
+          "She reminded her younger sister that an ATAR is not the only measure of intelligence or success."
+        ]
+      },
+      {
+        "word": "uni",
+        "ipa": "/ˈjuːni/",
+        "phonetic": "[YOO-nee]",
+        "meaning": "üniversite (university kısaltması)",
+        "type": "isim (Avustralya argosu)",
+        "sentences": [
+          "She caught the bus to uni every morning and sat in the same seat near the window.",
+          "He spent three years at uni studying business and graduated with distinction.",
+          "Uni in Australia typically refers to any university offering undergraduate or postgraduate degrees.",
+          "She met her best friends in the first week of uni and they are still close a decade later.",
+          "He chose the closest uni to home to save money on accommodation.",
+          "Uni orientation week — known as O-week — is when students explore clubs and campus life.",
+          "She worked part-time during uni to cover living expenses without accumulating too much HECS debt.",
+          "He dropped out of uni after two years and chose a trade apprenticeship instead.",
+          "Uni libraries are open late during exam periods to support students who need quiet study space.",
+          "She changed her uni major after first year and found her true passion in environmental science."
+        ]
+      },
+      {
+        "word": "HECS",
+        "ipa": "/hɛks/",
+        "phonetic": "[heks]",
+        "meaning": "yükseköğretim katkı payı sistemi (devlet destekli eğitim kredisi)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She enrolled in a Commonwealth Supported Place and deferred her fees through HECS.",
+          "He checked his HECS debt balance through the ATO on myGov.",
+          "HECS is now formally known as HECS-HELP and allows students to defer their tuition fees.",
+          "She did not have to repay her HECS debt until her income exceeded the minimum threshold.",
+          "He chose to make voluntary HECS repayments to clear the debt faster and save on indexation.",
+          "HECS debts are indexed to inflation each year — she paid more attention to this after high inflation.",
+          "She explained HECS to her overseas friends — it is a loan that only repays when you earn enough.",
+          "He graduated with sixty thousand dollars in HECS debt but landed a job that made repayment manageable.",
+          "HECS repayments are automatically calculated through the tax system when income crosses the threshold.",
+          "She appreciated the HECS system because it meant she could study without paying upfront."
+        ]
+      },
+      {
+        "word": "scholarship",
+        "ipa": "/ˈskɒləʃɪp/",
+        "phonetic": "[SKOL-uh-ship]",
+        "meaning": "burs",
+        "type": "isim",
+        "sentences": [
+          "She applied for a scholarship through her preferred university and received the award in October.",
+          "He won a scholarship that covered his full tuition fees for three years of undergraduate study.",
+          "Many Australian universities offer scholarships based on academic merit or financial need.",
+          "She researched scholarship opportunities through the StudyAssist website and the university's own portal.",
+          "He received a regional scholarship designed to support students relocating from rural areas.",
+          "The scholarship covered accommodation costs — a huge relief given how expensive the city was.",
+          "She included a strong personal statement in the scholarship application and was successful.",
+          "He declined one scholarship in favour of another that better matched his career goals.",
+          "Scholarships are also available from private organisations, community groups, and employers.",
+          "She encouraged younger students to apply for scholarships even if they felt unqualified — apply anyway."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 59,
+    "words": [
+      {
+        "word": "P&C",
+        "ipa": "/piː ænd siː/",
+        "phonetic": "[pee and see]",
+        "meaning": "veli ve vatandaş derneği (okul velileri topluluğu)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She joined the P&C committee in her daughter's first year of primary school.",
+          "He attended the P&C meeting to vote on how the canteen fundraising would be spent.",
+          "The P&C runs school fundraisers, fetes, and events to support school resources.",
+          "She organised the P&C school disco and it raised over three thousand dollars.",
+          "He found the P&C meetings a good way to stay connected with school life and other parents.",
+          "The P&C consulted with the principal before deciding on the new playground equipment.",
+          "She ran for the P&C secretary position and was elected unopposed.",
+          "He appreciated that the P&C met in the evening so working parents could attend.",
+          "The P&C newsletter was distributed to all families each term with upcoming event details.",
+          "She thanked the P&C volunteers who ran the reading program — it made a real difference."
+        ]
+      },
+      {
+        "word": "excursion",
+        "ipa": "/ɪkˈskɜːʃən/",
+        "phonetic": "[ik-SKUR-shun]",
+        "meaning": "okul gezisi",
+        "type": "isim",
+        "sentences": [
+          "She signed the permission form and paid the excursion fee online before the deadline.",
+          "He helped supervise the Year Three excursion to the museum as a parent volunteer.",
+          "The excursion to the fire station was the highlight of the whole primary school year.",
+          "She packed extra snacks in her daughter's bag for the all-day excursion.",
+          "He was grateful the school offered assistance for families who could not afford the excursion fee.",
+          "The excursion required a hat, sunscreen, and closed-toe shoes — it was clearly stated in the note.",
+          "She was assigned as a group leader for the excursion and managed five students.",
+          "He thought the incursion to the school by the wildlife handler was better than any excursion.",
+          "The Year Six excursion to Canberra was a memorable end to primary school for the children.",
+          "She sent a thank-you note to the teacher who organised the outstanding cultural excursion."
+        ]
+      },
+      {
+        "word": "canteen",
+        "ipa": "/kænˈtiːn/",
+        "phonetic": "[kan-TEEN]",
+        "meaning": "okul yemekhanesi veya büfesi",
+        "type": "isim",
+        "sentences": [
+          "She ordered her son's canteen lunch online through the school app each Sunday.",
+          "He volunteered in the school canteen every Tuesday and enjoyed meeting the other parents.",
+          "The canteen sold hot pies, sandwiches, and fruit at reasonable prices each school day.",
+          "She was surprised the canteen offered a fresh salad option — a welcome healthy choice.",
+          "He forgot to order from the canteen in time and his daughter had to eat her packed lunch.",
+          "The canteen had a special menu every Friday with hot chips as the treat of the week.",
+          "She checked that the canteen allergen information was clearly displayed for her daughter's peanut allergy.",
+          "He helped the canteen coordinator organise a healthy eating menu for the new school year.",
+          "The canteen profits funded new sports equipment for the school.",
+          "She brought a treat from the canteen for her daughter's birthday — a cupcake and a juice box."
+        ]
+      },
+      {
+        "word": "book week",
+        "ipa": "/bʊk wiːk/",
+        "phonetic": "[book week]",
+        "meaning": "kitap haftası (çocukların kitap karakterleri olarak giyindiği hafta)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She made her daughter a Matilda costume from scratch for book week.",
+          "He bought a ready-made Where's Wally costume for book week at the last minute.",
+          "Book Week is held in August each year to celebrate Australian children's literature.",
+          "She read every shortlisted book week title to her children before the parade.",
+          "He took the day off to watch his son's first book week parade — he cried a little.",
+          "Book week costumes range from simple homemade efforts to very elaborate handmade creations.",
+          "She found an old sheet made an acceptable Harry Potter robe for the book week parade.",
+          "He debated whether a movie character counted as a book character for book week — it does if there is a book.",
+          "The classroom was decorated with banners and book covers throughout book week.",
+          "She bought the Australian Book of the Year for Young Adults as a book week gift for her niece."
+        ]
+      },
+      {
+        "word": "school report",
+        "ipa": "/skuːl rɪˈpɔːt/",
+        "phonetic": "[skool rih-PORT]",
+        "meaning": "öğrenci karnesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She sat down to read the school report carefully and discussed it with her son.",
+          "He was pleased with the school report — it reflected the effort he had seen at home.",
+          "School reports in Australia are issued at the end of each semester.",
+          "She noted the teacher's comment that her daughter needed to speak up more in class discussions.",
+          "He contacted the teacher after the school report to ask how he could support his son at home.",
+          "The school report used A through E grades — she explained the scale to her overseas partner.",
+          "She signed the acknowledgement slip and returned it to the school the next morning.",
+          "He found the school report gave him a clearer picture of his daughter's social development.",
+          "She read the teacher comments section most carefully — grades alone did not tell the whole story.",
+          "He kept every school report his children received — looking back years later was fascinating."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 60,
+    "words": [
+      {
+        "word": "school zone",
+        "ipa": "/skuːl zoʊn/",
+        "phonetic": "[skool zohn]",
+        "meaning": "okul bölgesi (okul saatlerinde düşük hız sınırı uygulanan alan)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She slowed to forty kilometres per hour as she entered the school zone.",
+          "He was fined for doing fifty in a school zone — the camera caught him.",
+          "School zones operate from seven to nine thirty in the morning and two thirty to four in the afternoon.",
+          "She allowed extra time for her commute because the school zone slowed her route significantly.",
+          "He reminded himself that school zone speed limits apply on school days only.",
+          "The school zone speed camera operates whenever the reduced limit applies.",
+          "She was patient in the school zone even when running late — safety always comes first.",
+          "He noticed the flashing lights that activate when the school zone speed limit applies.",
+          "Fines for speeding in a school zone are higher than for standard speeding offences.",
+          "She appreciated that the school zone made drop-off and pick-up safer for all the children."
+        ]
+      },
+      {
+        "word": "drop-off zone",
+        "ipa": "/drɒp ɒf zoʊn/",
+        "phonetic": "[drop off zohn]",
+        "meaning": "okul önü bırakma ve alma bölgesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She pulled into the drop-off zone and had her daughter out of the car in under a minute.",
+          "He was reminded by the school newsletter not to park in the drop-off zone.",
+          "The drop-off zone operates as a no-waiting area — you stop, unload, and drive away.",
+          "She encouraged her son to unbuckle his seatbelt as she approached the drop-off zone.",
+          "He circled the block twice before a space opened in the drop-off zone.",
+          "The council ranger ticketed parents who stopped beyond the marked drop-off zone boundary.",
+          "She used the drop-off zone every morning and found the system flowed smoothly.",
+          "He noticed the drop-off zone was much calmer when parents followed the rules correctly.",
+          "She thanked the crossing supervisor who kept the drop-off zone orderly every morning.",
+          "He found arriving two minutes before the zone opened made the morning drop-off much smoother."
+        ]
+      },
+      {
+        "word": "uniform",
+        "ipa": "/ˈjuːnɪfɔːm/",
+        "phonetic": "[YOO-nih-form]",
+        "meaning": "okul üniforması",
+        "type": "isim",
+        "sentences": [
+          "She bought two sets of school uniform at the start of the year to have a spare.",
+          "He labelled every piece of uniform with an iron-on name tag.",
+          "The school uniform shop was open on Thursday afternoons and Saturday mornings.",
+          "She bought good quality uniform pieces from the school shop and seconds from the op shop.",
+          "He was told by the office that his son had a uniform infringement for wearing the wrong shoes.",
+          "She altered the school dress at home to extend its life for another year.",
+          "He found the winter uniform included a long-sleeved skivvy — an important item in Canberra winters.",
+          "The school reviewed the uniform policy and added a hat to the compulsory items list.",
+          "She bought the discontinued uniform items from the second-hand uniform stall at the fete.",
+          "He appreciated that the uniform reduced the morning arguments about what to wear to school."
+        ]
+      },
+      {
+        "word": "homework",
+        "ipa": "/ˈhoʊmwɜːk/",
+        "phonetic": "[HOHM-wurk]",
+        "meaning": "ev ödevi",
+        "type": "isim",
+        "sentences": [
+          "She sat with her son every evening to help with homework after dinner.",
+          "He created a homework station at the kitchen table with all the supplies within reach.",
+          "The teacher sent a weekly homework sheet home every Monday with tasks due by Friday.",
+          "She found the homework policy balanced — enough to reinforce learning without overwhelming children.",
+          "He was surprised to learn that research on homework in primary school showed limited benefit.",
+          "She signed the homework book each night to confirm her son had completed the tasks.",
+          "He helped his daughter with the maths homework by working through the examples together.",
+          "The school communicated its homework expectations to parents at the start of every year.",
+          "She struggled to help with the Year Ten mathematics homework — she found a tutor instead.",
+          "He made sure the homework was done before any screen time each evening without exception."
+        ]
+      },
+      {
+        "word": "tutor",
+        "ipa": "/ˈtjuːtə/",
+        "phonetic": "[TYOO-tuh]",
+        "meaning": "özel öğretmen, yardımcı öğretmen",
+        "type": "isim",
+        "sentences": [
+          "She found a tutor on the school notice board for her son who was struggling with reading.",
+          "He hired a tutor for the final term of Year Twelve to prepare for the HSC exams.",
+          "A good tutor does not just provide answers — they help students understand how to think.",
+          "She became a tutor on weekends to earn extra income while studying at university.",
+          "He appreciated that the tutor came to their home — it saved time in a busy schedule.",
+          "The tutor identified gaps in her daughter's understanding that the teacher had not noticed.",
+          "She found a highly recommended tutor through a local Facebook group for parents.",
+          "He met with the tutor fortnightly and tracked progress through a shared workbook.",
+          "Tutoring rates in Australia vary widely — she asked for references before committing.",
+          "She found online tutoring a convenient option that gave her daughter access to a wider choice."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 61,
+    "words": [
+      {
+        "word": "Gonski",
+        "ipa": "/ˈɡɒnski/",
+        "phonetic": "[GON-skee]",
+        "meaning": "Avustralya okul finansman reformu (David Gonski raporuna atfen)",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She heard the principal mention Gonski funding at the P&C meeting.",
+          "He learned that Gonski referred to a review of school funding aimed at ensuring equity.",
+          "The Gonski reforms proposed needs-based funding to give all students a fair start.",
+          "She read that Gonski funding was especially important for schools in disadvantaged communities.",
+          "He found the Gonski debate complex but recognised the principle of equity in education.",
+          "The school received additional Gonski-linked resources that helped establish the reading support program.",
+          "She discussed Gonski with a teacher friend who was passionate about needs-based funding.",
+          "He agreed that the Gonski principle — funding schools based on student need — made good sense.",
+          "The federal government's implementation of Gonski recommendations has been gradual and contested.",
+          "She followed the Gonski discussion because it directly affected her children's school funding."
+        ]
+      },
+      {
+        "word": "Naplan",
+        "ipa": "/ˈnæplæn/",
+        "phonetic": "[NAP-lan]",
+        "meaning": "Ulusal Okur Yazarlık ve Sayısal Düzey Değerlendirmesi",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She prepared her Year Three daughter for Naplan by practising sample questions at home.",
+          "He told his son that Naplan was just one way of measuring progress — not a judgement of his worth.",
+          "Naplan stands for National Assessment Program — Literacy and Numeracy.",
+          "She checked her daughter's Naplan results through the school's learning management portal.",
+          "He found that most teachers encouraged students to simply do their best on Naplan.",
+          "Naplan is conducted in Years Three, Five, Seven, and Nine across Australia.",
+          "She received a detailed individual Naplan report showing her son's results against the national average.",
+          "He believed Naplan provided useful data for identifying students who needed additional support.",
+          "The school used Naplan results to target literacy intervention for students below the benchmark.",
+          "She discussed the Naplan results with the teacher at the parent-teacher interview."
+        ]
+      },
+      {
+        "word": "parent-teacher interview",
+        "ipa": "/ˈpeərənt ˈtiːtʃər ˈɪntəvjuː/",
+        "phonetic": "[PAIR-unt TEE-chuh IN-tuh-vyoo]",
+        "meaning": "veli öğretmen görüşmesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She booked the parent-teacher interview online through the school's booking portal.",
+          "He attended the parent-teacher interview alone when his partner could not get time off work.",
+          "The parent-teacher interview was scheduled for ten minutes — she came prepared with questions.",
+          "She found the parent-teacher interview informative — the teacher noticed things she had not.",
+          "He appreciated the teacher's honest feedback even though some of it was hard to hear.",
+          "Parent-teacher interviews are held twice a year at most Australian primary and high schools.",
+          "She asked the teacher what she could do at home to support her son's progress.",
+          "He left the parent-teacher interview feeling confident the teacher genuinely knew his daughter.",
+          "She prepared for the parent-teacher interview by writing down her observations and questions.",
+          "He found the three-way conference — student, parent, and teacher together — more effective."
+        ]
+      },
+      {
+        "word": "school captain",
+        "ipa": "/skuːl ˈkæptɪn/",
+        "phonetic": "[skool KAP-tin]",
+        "meaning": "okul öğrenci temsilcisi (kaptan)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She was elected school captain in Year Six and took her responsibilities very seriously.",
+          "He helped his son write the speech for the school captain selection process.",
+          "The school captain represents the students and assists at official school events.",
+          "She felt proud and nervous when her name was announced as school captain at assembly.",
+          "He attended the school captain speech night and was moved by the students' words.",
+          "The school captain reads at the ANZAC Day ceremony every year.",
+          "She encouraged students in her class to nominate for school captain — all voices mattered.",
+          "He interviewed for the school captain role and was asked about his vision for the school.",
+          "The outgoing school captain mentored the incoming one during the term handover.",
+          "She kept her school captain badge as a treasured keepsake years after graduating."
+        ]
+      },
+      {
+        "word": "school assembly",
+        "ipa": "/skuːl əˈsɛmbli/",
+        "phonetic": "[skool uh-SEM-blee]",
+        "meaning": "okul toplantısı, genel kurul",
+        "type": "isim öbeği",
+        "sentences": [
+          "She attended the school assembly on Friday to watch her daughter receive a merit award.",
+          "He helped his son practise the speech he was giving at the whole-school assembly.",
+          "The school assembly is held in the hall or outdoor area every Friday morning.",
+          "She appreciated that the school assembly always acknowledged Country at the beginning.",
+          "He sat in the front row at assembly to see his daughter's class perform their item.",
+          "The school assembly featured student performances, award presentations, and principal announcements.",
+          "She volunteered to take photographs at the school assembly for the newsletter.",
+          "He found school assembly a lovely community ritual that connected the whole school together.",
+          "The school captain led the school assembly with great confidence and poise.",
+          "She remembered assembly as her favourite part of primary school — the sense of belonging was strong."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 62,
+    "words": [
+      {
+        "word": "after-school care",
+        "ipa": "/ˈɑːftə skuːl kɛː/",
+        "phonetic": "[AAF-tuh skool kair]",
+        "meaning": "okul sonrası bakım hizmeti",
+        "type": "isim öbeği",
+        "sentences": [
+          "She enrolled her son in after-school care so he was supervised until she finished work.",
+          "He picked up his daughter from after-school care at five-thirty each weekday.",
+          "After-school care services are subsidised by the Child Care Subsidy for eligible families.",
+          "She chose an after-school care provider that offered homework support and outdoor play.",
+          "He found after-school care gave his daughter structure and social time after the school day.",
+          "After-school care is generally available between three and six in the afternoon.",
+          "She visited the after-school care program before enrolling to check the environment.",
+          "He appreciated that after-school care was based at the school — no extra travel for the children.",
+          "She informed after-school care in advance whenever her schedule changed unexpectedly.",
+          "He found the Child Care Subsidy application straightforward through myGov."
+        ]
+      },
+      {
+        "word": "Child Care Subsidy",
+        "ipa": "/tʃaɪld kɛː ˈsʌbsɪdi/",
+        "phonetic": "[chyld kair SUB-sid-ee]",
+        "meaning": "çocuk bakım desteği (devlet yardımı)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She applied for the Child Care Subsidy through Centrelink via her myGov account.",
+          "He found the Child Care Subsidy reduced their weekly daycare fees significantly.",
+          "The Child Care Subsidy rate depends on family income, hours of activity, and the service used.",
+          "She updated her income estimate for the Child Care Subsidy to avoid a debt at year end.",
+          "He was surprised the Child Care Subsidy applied to vacation care as well as regular daycare.",
+          "The Child Care Subsidy covers a percentage of fees up to a government-set hourly cap.",
+          "She confirmed her service was approved for the Child Care Subsidy before enrolling.",
+          "He found the Centrelink website clear on how to apply for the Child Care Subsidy.",
+          "She reported any changes in work hours to Centrelink to keep the Child Care Subsidy accurate.",
+          "He learned the Child Care Subsidy was paid directly to the provider — not to the family."
+        ]
+      },
+      {
+        "word": "student visa",
+        "ipa": "/ˈstjuːdənt ˈviːzə/",
+        "phonetic": "[STYOO-dunt VEE-zuh]",
+        "meaning": "öğrenci vizesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She applied for a student visa online through the Department of Home Affairs website.",
+          "He needed to show evidence of enrolment and financial capacity for the student visa application.",
+          "The student visa allowed her to work up to forty-eight hours per fortnight during study.",
+          "She kept her Confirmation of Enrolment document handy for the student visa application.",
+          "He contacted his university's international student office for help with the student visa process.",
+          "The student visa required Overseas Student Health Cover — known as OSHC.",
+          "She received her student visa approval within three weeks of submitting the application.",
+          "He read the student visa conditions carefully to understand the work and study requirements.",
+          "Student visa holders must maintain satisfactory academic progress to keep their visa valid.",
+          "She transitioned from a student visa to a graduate visa after completing her degree."
+        ]
+      },
+      {
+        "word": "OSHC",
+        "ipa": "/oʊɛʃsiː/",
+        "phonetic": "[oh-esh-SEE]",
+        "meaning": "yurt dışından gelen öğrenciler için zorunlu sağlık sigortası",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She purchased OSHC before arriving in Australia as required by her student visa conditions.",
+          "He checked his OSHC policy to see whether the GP visit was covered at no cost.",
+          "OSHC stands for Overseas Student Health Cover and is mandatory for all student visa holders.",
+          "She chose an OSHC provider through her university's recommended list of approved insurers.",
+          "He was relieved his OSHC covered the emergency hospital visit at no out-of-pocket cost.",
+          "OSHC provides similar coverage to Medicare for international students during their stay.",
+          "She extended her OSHC when her course was extended by an additional semester.",
+          "He enrolled his family on the OSHC policy — the family rate was more affordable than individual.",
+          "OSHC is paid as part of the overall costs when enrolling in most Australian institutions.",
+          "She carried her OSHC membership card whenever she visited the doctor or hospital."
+        ]
+      },
+      {
+        "word": "English language school",
+        "ipa": "/ˈɪŋɡlɪʃ ˈlæŋɡwɪdʒ skuːl/",
+        "phonetic": "[ING-glish LANG-gwij skool]",
+        "meaning": "İngilizce dil okulu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She attended an English language school for six months before starting her university degree.",
+          "He enrolled at the English language school on the main street to improve his workplace communication.",
+          "English language schools in Australia offer courses from beginner through to advanced levels.",
+          "She appreciated that her English language school had teachers from many different backgrounds.",
+          "He completed the IELTS preparation course at the English language school.",
+          "The English language school arranged cultural excursions to practise real-world communication.",
+          "She found the English language school a welcoming community for newly arrived migrants.",
+          "He improved his writing skills significantly during six weeks at the English language school.",
+          "The English language school held social events where students from all countries mixed freely.",
+          "She transitioned from the English language school to a TAFE hospitality course within the year."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 63,
+    "words": [
+      {
+        "word": "study group",
+        "ipa": "/ˈstʌdi ɡruːp/",
+        "phonetic": "[STUD-ee groop]",
+        "meaning": "çalışma grubu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She formed a study group with four classmates before the final exam period.",
+          "He found the study group kept him accountable and made revision far more enjoyable.",
+          "The study group met weekly at the university library to review lecture notes together.",
+          "She learned more from explaining concepts to others in the study group than from reading alone.",
+          "He organised the study group into a schedule so every topic was covered before the exam.",
+          "Study groups work best when members prepare individual sections to share with the group.",
+          "She joined a study group for the first time at university and wished she had done it sooner.",
+          "He struggled to focus at home and found the study group environment far more productive.",
+          "The study group used an online collaboration tool to share notes between sessions.",
+          "She continued meeting with the study group even after exams — the friendships were worth keeping."
+        ]
+      },
+      {
+        "word": "open day",
+        "ipa": "/ˈoʊpən deɪ/",
+        "phonetic": "[OH-pun day]",
+        "meaning": "üniversite tanıtım günü, kapıları açık gün",
+        "type": "isim öbeği",
+        "sentences": [
+          "She attended the university open day in August to explore courses and campus facilities.",
+          "He sat in on a sample lecture during the open day to get a feel for university study.",
+          "Open day is the best opportunity to meet current students and ask honest questions.",
+          "She collected brochures from every faculty stall at the open day before making her shortlist.",
+          "He registered for the open day online and received a detailed schedule of sessions.",
+          "The open day included campus tours, information sessions, and a student life expo.",
+          "She spoke to a final-year student at the open day who gave candid advice about the course.",
+          "He took the whole family to the open day so everyone could share in the decision.",
+          "The open day attendance helped her narrow her preference from five universities to two.",
+          "He encouraged his Year Eleven students to attend at least three open days before applying."
+        ]
+      },
+      {
+        "word": "semester",
+        "ipa": "/sɪˈmɛstə/",
+        "phonetic": "[sih-MES-tuh]",
+        "meaning": "dönem, yarıyıl",
+        "type": "isim",
+        "sentences": [
+          "She enrolled in four subjects for her first university semester and found the workload manageable.",
+          "He failed one subject in first semester and repeated it successfully in second semester.",
+          "Australian universities typically run two semesters — one starting in February and one in July.",
+          "She used the mid-semester break to catch up on readings and visit family.",
+          "He submitted all his semester assignments ahead of the deadline — a first for him.",
+          "The semester ended with a formal examination period lasting three weeks.",
+          "She calculated her grade point average at the end of each semester to track her progress.",
+          "He registered for next semester's subjects during the enrolment window in October.",
+          "The semester abroad in Japan was the most transformative experience of her university years.",
+          "She found the second semester slightly harder than the first — the content built significantly."
+        ]
+      },
+      {
+        "word": "graduate",
+        "ipa": "/ˈɡrædʒuɪt/",
+        "phonetic": "[GRAJ-oo-it]",
+        "meaning": "mezun, diploma sahibi; mezun olmak",
+        "type": "isim / fiil",
+        "sentences": [
+          "She graduated with a Bachelor of Nursing and immediately received a job offer.",
+          "He attended his graduation ceremony with his whole family in the audience.",
+          "Graduate programs offer structured pathways into careers for newly qualified professionals.",
+          "She was the first in her family to graduate from university — a moment of enormous pride.",
+          "He applied for a graduate position at the consulting firm in his final semester.",
+          "The graduation ceremony was held at the town hall with academic robes and a formal procession.",
+          "She framed her degree certificate and hung it in her study as a reminder of what she achieved.",
+          "He mentors recent graduates at his workplace and enjoys watching them grow into their roles.",
+          "The graduate visa allows international students to remain in Australia after completing their degree.",
+          "She returned to campus for the ten-year graduation reunion and reconnected with old classmates."
+        ]
+      },
+      {
+        "word": "postgraduate",
+        "ipa": "/poʊstˈɡrædʒuɪt/",
+        "phonetic": "[pohst-GRAJ-oo-it]",
+        "meaning": "lisansüstü eğitim",
+        "type": "sıfat / isim",
+        "sentences": [
+          "She enrolled in a postgraduate Master of Education to advance her teaching career.",
+          "He completed a postgraduate diploma in project management while working full-time.",
+          "Postgraduate study in Australia includes coursework masters, research degrees, and doctorates.",
+          "She received a scholarship to cover her postgraduate tuition fees — a significant relief.",
+          "He found postgraduate study more focused and more demanding than his undergraduate degree.",
+          "Postgraduate students often have prior work experience which enriches classroom discussion.",
+          "She appreciated that the postgraduate program allowed part-time enrolment.",
+          "He debated between a coursework and research postgraduate program before choosing the latter.",
+          "Postgraduate qualifications can open doors to senior and specialist roles in most industries.",
+          "She enrolled in a postgraduate certificate as a first step before committing to a full masters."
+        ]
+      }
+    ]
+  }
+]

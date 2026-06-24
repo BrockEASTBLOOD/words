@@ -1,0 +1,702 @@
+[
+  {
+    "day": 36,
+    "words": [
+      {
+        "word": "bush",
+        "ipa": "/bʊʃ/",
+        "phonetic": "[bush]",
+        "meaning": "ıssız doğa, kırsal alan, Avustralya çalılığı",
+        "type": "isim",
+        "sentences": [
+          "She grew up in the bush and moved to the city for university at eighteen.",
+          "He went for a walk in the bush on Sunday morning and saw a kangaroo.",
+          "The bush stretches for hundreds of kilometres beyond the last town on the highway.",
+          "She loves the smell of eucalyptus that fills the air when walking through the bush.",
+          "He found living in the bush peaceful but sometimes lonely during the long winter months.",
+          "The bush was dry and crispy after months without any significant rainfall.",
+          "She volunteered with a bush regeneration group on weekends to restore native vegetation.",
+          "He photographed a tiny blue-tongue lizard sunning itself on a rock deep in the bush.",
+          "The bush is home to an extraordinary diversity of plants and animals found nowhere else on Earth.",
+          "She packed water, a map, and a charged phone whenever she ventured into the bush alone."
+        ]
+      },
+      {
+        "word": "outback",
+        "ipa": "/ˈaʊtbæk/",
+        "phonetic": "[OWT-bak]",
+        "meaning": "iç bölgeler, ücra çöl bölgesi",
+        "type": "isim",
+        "sentences": [
+          "He drove through the outback from Adelaide to Alice Springs and was humbled by the scale.",
+          "She had never experienced such silence until she camped alone in the outback.",
+          "The outback covers a vast portion of Australia's interior with sparse human settlement.",
+          "He needed a satellite phone when travelling through the outback because there was no mobile reception.",
+          "She prepared carefully for the outback crossing — extra fuel, water, and emergency supplies.",
+          "The red dirt and ochre rocks of the outback are a striking contrast to the coastal cities.",
+          "He spotted a road train carrying cattle across the outback highway — it was enormous.",
+          "She was overwhelmed by the number of stars visible in the outback sky away from any light pollution.",
+          "Outback communities rely on the Royal Flying Doctor Service for medical emergencies.",
+          "He gained a deep respect for the land and its Traditional Owners during his outback journey."
+        ]
+      },
+      {
+        "word": "bushfire",
+        "ipa": "/ˈbʊʃfaɪə/",
+        "phonetic": "[BUSH-fy-uh]",
+        "meaning": "orman yangını, çalı yangını",
+        "type": "isim",
+        "sentences": [
+          "She monitored the bushfire alerts on the RFS app during the hot and windy summer day.",
+          "He evacuated his property after the bushfire warning was upgraded to emergency level.",
+          "The bushfire season in Australia typically runs from October through to March.",
+          "She kept a go bag ready during bushfire season so the family could leave within minutes.",
+          "He volunteered with the Rural Fire Service and spent many days fighting bushfires.",
+          "The bushfire destroyed thousands of hectares of national park and dozens of homes.",
+          "She checked the fire danger rating on the Bureau of Meteorology website each morning in summer.",
+          "He cleared the gutters and trimmed trees near the house as part of bushfire preparation.",
+          "The 2019–2020 Black Summer bushfires shocked Australia and much of the watching world.",
+          "She found the smoke from distant bushfires irritating to her lungs even forty kilometres away."
+        ]
+      },
+      {
+        "word": "drought",
+        "ipa": "/draʊt/",
+        "phonetic": "[drowt]",
+        "meaning": "kuraklık",
+        "type": "isim",
+        "sentences": [
+          "The region endured a severe drought for three consecutive years with little rainfall.",
+          "She grew up on a farm and remembered the hardship her family faced during the long drought.",
+          "The drought forced many farmers to destock their properties and sell livestock at low prices.",
+          "He designed a water-efficient garden specifically suited to drought conditions.",
+          "The drought restrictions limited residents to watering gardens only twice a week.",
+          "She donated to a rural aid organisation helping farming families through the devastating drought.",
+          "He installed a rainwater tank to reduce dependence on town water supply during drought periods.",
+          "The drought broke after steady rainfall in autumn — the relief in farming communities was visible.",
+          "She wrote a school project about the economic and emotional impact of drought on Australian farmers.",
+          "He noticed the creek near his property had dried up completely — a stark sign of drought."
+        ]
+      },
+      {
+        "word": "flood",
+        "ipa": "/flʌd/",
+        "phonetic": "[flud]",
+        "meaning": "sel, taşkın",
+        "type": "isim",
+        "sentences": [
+          "She evacuated her Lismore home after authorities warned the flood was set to reach record levels.",
+          "He volunteered to fill sandbags for neighbours whose homes were threatened by the flood.",
+          "The flood damaged the ground floor of the house completely — furniture and floors were ruined.",
+          "She checked the bureau of meteorology flood warning map before crossing the causeway.",
+          "He learned the hard way never to drive through floodwater — the current was stronger than expected.",
+          "The flood relief fund raised millions of dollars from Australians around the country.",
+          "She was offered temporary accommodation by the council while her house dried out after the flood.",
+          "He photographed the high-water mark on the fence post left behind after the flood receded.",
+          "Eastern Australia experienced devastating floods multiple years in a row in the early 2020s.",
+          "She reviewed her home insurance policy to confirm it included flood cover after the event."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 37,
+    "words": [
+      {
+        "word": "heatwave",
+        "ipa": "/ˈhiːtweɪv/",
+        "phonetic": "[HEET-wayv]",
+        "meaning": "sıcak hava dalgası, kavurucu yaz dönemi",
+        "type": "isim",
+        "sentences": [
+          "She stayed indoors with the air conditioning on during the four-day heatwave.",
+          "He checked on his elderly neighbours every morning during the heatwave.",
+          "The heatwave pushed temperatures above forty-five degrees in parts of South Australia.",
+          "She filled a spray bottle with water to cool down during the heatwave at the outdoor event.",
+          "He moved his elderly cat's bed into the coolest room of the house during the heatwave.",
+          "The council opened cooling centres at libraries for residents without air conditioning.",
+          "She drank at least three litres of water a day throughout the week-long heatwave.",
+          "He cancelled the outdoor birthday party after the heatwave forecast showed forty-two degrees.",
+          "Heatwaves are the deadliest natural hazard in Australia, causing more deaths than any other disaster.",
+          "She followed the bureau's heatwave warnings closely and planned all outdoor activity before nine AM."
+        ]
+      },
+      {
+        "word": "UV index",
+        "ipa": "/juːˈviː ˈɪndɛks/",
+        "phonetic": "[yoo-VEE IN-deks]",
+        "meaning": "UV (morötesi ışın) indeksi, güneş yanma riski ölçeği",
+        "type": "isim öbeği",
+        "sentences": [
+          "She checked the UV index on the weather app before deciding to take the children to the park.",
+          "The UV index reached eleven — extreme — so they stayed indoors until after three in the afternoon.",
+          "He had not realised the UV index could be high even on overcast days in Australia.",
+          "She applied sunscreen whenever the UV index was three or above, as recommended.",
+          "The UV index in Australia is among the highest in the world due to the ozone layer.",
+          "He taught his children to check the UV index each morning as part of their sun safety routine.",
+          "She downloaded a UV alert app that sent a notification whenever the index reached three.",
+          "The UV index can reach dangerous levels as early as nine in the morning in summer.",
+          "He was surprised the UV index was six in the middle of winter — still high enough to cause damage.",
+          "She referred to the SunSmart guidelines which recommended protection whenever the UV index was three or above."
+        ]
+      },
+      {
+        "word": "sunscreen",
+        "ipa": "/ˈsʌnskriːn/",
+        "phonetic": "[SUN-skreen]",
+        "meaning": "güneş kremi",
+        "type": "isim",
+        "sentences": [
+          "She applies sunscreen SPF 50+ every morning before leaving the house regardless of season.",
+          "He kept a tube of sunscreen in his work bag for lunchtime walks during summer.",
+          "Australia has one of the highest rates of skin cancer in the world — sunscreen is essential.",
+          "She reapplied sunscreen every two hours while spending the day at the beach.",
+          "He bought a sport sunscreen that stayed on better during sweaty outdoor activities.",
+          "The school sent a note home reminding parents to apply sunscreen before school during summer.",
+          "She found a sunscreen that doubled as a moisturiser — perfect for her daily routine.",
+          "He learned too late about sun damage — his dermatologist now checks him every six months.",
+          "Sunscreen should be applied fifteen to twenty minutes before going outdoors for best protection.",
+          "She used SPF 50+ sunscreen on the children and made sure they wore hats and rashies at the beach."
+        ]
+      },
+      {
+        "word": "sunburn",
+        "ipa": "/ˈsʌnbɜːn/",
+        "phonetic": "[SUN-burn]",
+        "meaning": "güneş yanığı",
+        "type": "isim",
+        "sentences": [
+          "He got a bad sunburn at the cricket and his shoulders were peeling for two weeks.",
+          "She treated her sunburn with aloe vera gel from the chemist to soothe the irritation.",
+          "Sunburn can occur in as little as eleven minutes in Australia during peak UV hours.",
+          "He did not think he would get sunburn on a cloudy day — but he was very wrong.",
+          "She warned her overseas visitors about how quickly sunburn happens in the Australian sun.",
+          "He missed one spot on his back with the sunscreen and got a perfectly shaped sunburn outline.",
+          "Repeated sunburn significantly increases the risk of developing skin cancer later in life.",
+          "She applied sunscreen carefully on the children to prevent painful sunburn at the outdoor concert.",
+          "He visited his GP after noticing a suspicious spot that had started as a bad sunburn.",
+          "Sunburn is a sign that UV damage has already occurred — prevention is always better than cure."
+        ]
+      },
+      {
+        "word": "slip, slop, slap",
+        "ipa": "/slɪp slɒp slæp/",
+        "phonetic": "[slip slop slap]",
+        "meaning": "Avustralya'nın güneş koruma sloganı: giyin, sür, tak (gömlek, güneş kremi, şapka)",
+        "type": "deyim",
+        "sentences": [
+          "She grew up hearing slip, slop, slap on every summer ad and still follows it every day.",
+          "He repeated slip, slop, slap to his children as they packed for a day at the beach.",
+          "Slip, slop, slap was introduced by the Cancer Council in the 1980s and transformed sun safety habits.",
+          "She explains slip, slop, slap to overseas colleagues who are unfamiliar with Australian sun safety.",
+          "The slip, slop, slap message has since been extended to include seek shade and slide on sunglasses.",
+          "He used slip, slop, slap as a checklist before any outdoor activity with the family.",
+          "She pinned a slip, slop, slap reminder on the school noticeboard at the start of each term.",
+          "He credited slip, slop, slap education at school with his lifelong habit of using sunscreen daily.",
+          "The slip, slop, slap campaign is considered one of the most successful public health campaigns in history.",
+          "She reminded her visiting parents about slip, slop, slap before their first Australian summer day."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 38,
+    "words": [
+      {
+        "word": "kangaroo",
+        "ipa": "/ˌkæŋɡəˈruː/",
+        "phonetic": "[kang-guh-ROO]",
+        "meaning": "kanguru",
+        "type": "isim",
+        "sentences": [
+          "She spotted a mob of kangaroos grazing at dusk on the edge of the nature reserve.",
+          "He slowed down on the rural highway after seeing a kangaroo warning sign.",
+          "The kangaroo bounded across the paddock with remarkable speed and grace.",
+          "She took her overseas visitors to a wildlife park where they hand-fed kangaroos.",
+          "He read that kangaroos are most active at dawn and dusk — the most dangerous driving times.",
+          "The eastern grey kangaroo is the most commonly seen species in parks along the east coast.",
+          "She watched in delight as a joey poked its head out of its mother's pouch.",
+          "He was surprised by how large a large male red kangaroo could be — almost two metres tall.",
+          "Kangaroos are a protected species in Australia — harming one without a permit is illegal.",
+          "She found kangaroos in the backyard of her regional property perfectly normal."
+        ]
+      },
+      {
+        "word": "koala",
+        "ipa": "/koʊˈɑːlə/",
+        "phonetic": "[koh-AH-luh]",
+        "meaning": "koala",
+        "type": "isim",
+        "sentences": [
+          "She spotted a koala wedged high in a eucalyptus fork during her walk through the national park.",
+          "He learned that koalas sleep up to twenty hours a day to conserve energy from their low-nutrient diet.",
+          "Koalas are listed as vulnerable in Australia due to habitat loss and disease.",
+          "She visited the koala hospital in Port Macquarie and was moved by the care the animals received.",
+          "He was lucky enough to see a koala with a joey on its back in a tree near the campsite.",
+          "Koalas communicate with deep bellowing sounds that seem surprisingly loud for their size.",
+          "She noticed a koala slowly crossing the road and stopped traffic in both directions.",
+          "He read that chlamydia is a significant health challenge in many wild koala populations.",
+          "Koalas have a very specific diet — they eat the leaves of only a small number of eucalyptus species.",
+          "She donated to a wildlife charity that plants eucalyptus corridors to support koala populations."
+        ]
+      },
+      {
+        "word": "wombat",
+        "ipa": "/ˈwɒmbæt/",
+        "phonetic": "[WOM-bat]",
+        "meaning": "vombat",
+        "type": "isim",
+        "sentences": [
+          "She found a wombat grazing near the campsite at dusk and watched quietly for several minutes.",
+          "He was surprised by how solid and stocky a wombat was — almost like a small furry boulder.",
+          "Wombats produce distinctive cube-shaped droppings which they use to mark territory.",
+          "She learned that wombats are excellent diggers and create extensive burrow systems underground.",
+          "He almost tripped over a wombat crossing the path in the dark at the campground.",
+          "Wombats are nocturnal and most active during the cooler hours of evening and early morning.",
+          "She took her children to see the wombat enclosure at the wildlife sanctuary.",
+          "He read that a wombat's pouch opens backwards so dirt does not enter while digging.",
+          "The southern hairy-nosed wombat is found primarily in arid regions of South Australia.",
+          "She was charmed by the wombat's slow, lumbering walk — it had a very endearing quality."
+        ]
+      },
+      {
+        "word": "possum",
+        "ipa": "/ˈpɒsəm/",
+        "phonetic": "[POS-um]",
+        "meaning": "possum (Avustralya keseli hayvanı)",
+        "type": "isim",
+        "sentences": [
+          "She heard a possum on the roof at night and initially thought something was very wrong.",
+          "He spotted a ringtail possum curled up in the shrubs in the backyard.",
+          "Possums are very common in Australian suburban gardens, even in major cities.",
+          "She called a wildlife carer when she found an injured possum on the footpath.",
+          "He installed a possum box in the garden tree to give the neighbourhood possum a safe home.",
+          "The possum had been eating her tomatoes — she moved the pot plants inside to protect them.",
+          "She learned that possums are protected and cannot be relocated without a permit.",
+          "He watched the common brushtail possum pick up a piece of fruit with surprising dexterity.",
+          "Possums are more vocal than expected — their hissing and screaming can be startling at night.",
+          "She found a joey clinging to a deceased possum and called a wildlife rescue line immediately."
+        ]
+      },
+      {
+        "word": "echidna",
+        "ipa": "/ɪˈkɪdnə/",
+        "phonetic": "[ih-KID-nuh]",
+        "meaning": "ekidna (dikenli karıncayiyen)",
+        "type": "isim",
+        "sentences": [
+          "She found an echidna curled into a defensive ball by the side of the walking track.",
+          "He slowed the car to a stop when an echidna waddled slowly across the country road.",
+          "The echidna is one of only two egg-laying mammals in the world — the other is the platypus.",
+          "She watched the echidna use its long sticky tongue to extract ants from a small mound.",
+          "He had never seen an echidna in the wild before — he was thrilled when one appeared near the campsite.",
+          "Echidnas have powerful digging claws and can bury themselves rapidly when threatened.",
+          "She learned that a baby echidna is called a puggle — she found that delightfully charming.",
+          "He photographed the echidna from a respectful distance without disturbing it.",
+          "Echidnas are found across Australia and New Guinea in a wide variety of habitats.",
+          "She explained the difference between an echidna and a hedgehog to her visiting British cousin."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 39,
+    "words": [
+      {
+        "word": "magpie",
+        "ipa": "/ˈmæɡpaɪ/",
+        "phonetic": "[MAG-py]",
+        "meaning": "saksağan (Avustralya türü)",
+        "type": "isim",
+        "sentences": [
+          "She wore a helmet on her morning bike ride to protect herself from swooping magpies.",
+          "He learned that magpies only swoop during nesting season — roughly August to October.",
+          "The magpie song at dawn is one of the most distinctive and beautiful sounds in Australia.",
+          "She drew eyes on the back of her helmet after reading it deterred magpies from swooping.",
+          "He made friends with the local magpie by feeding it scraps — it now comes to the back door daily.",
+          "The magpie is widely considered one of the most intelligent birds in the world.",
+          "She warned her new neighbour about the swooping magpie nesting near the letterbox.",
+          "He watched three magpies cooperate to mob a much larger bird of prey overhead.",
+          "Australian magpies are not closely related to European magpies despite the similar name.",
+          "She downloaded a magpie attack map app to plan the safest walking route during swooping season."
+        ]
+      },
+      {
+        "word": "kookaburra",
+        "ipa": "/ˈkʊkəbʌrə/",
+        "phonetic": "[KOO-kuh-buh-ruh]",
+        "meaning": "kukabara (gülen martı olarak da bilinir)",
+        "type": "isim",
+        "sentences": [
+          "She was woken by the kookaburra's laughing call at sunrise — it was an unforgettable sound.",
+          "He spotted a kookaburra perched on a fence post staring at the barbecue with great interest.",
+          "The kookaburra call echoing through the bush is one of the most iconic sounds in Australia.",
+          "She taught the children the kookaburra nursery rhyme on the camping trip.",
+          "He was amazed when the kookaburra dove from its branch and caught a small snake instantly.",
+          "Kookaburras mate for life and live in family groups that defend shared territories.",
+          "She heard kookaburras calling in the late afternoon before a summer storm — a natural alarm.",
+          "He left a small piece of meat on the rail — the kookaburra swooped down almost immediately.",
+          "The kookaburra is a member of the kingfisher family and is native to eastern Australia.",
+          "She listed the kookaburra as her favourite Australian bird — the laugh was too joyful to resist."
+        ]
+      },
+      {
+        "word": "galah",
+        "ipa": "/ɡəˈlɑː/",
+        "phonetic": "[guh-LAH]",
+        "meaning": "galah (pembe göğüslü kakadu); aynı zamanda aptal anlamında argo",
+        "type": "isim",
+        "sentences": [
+          "She saw a flock of galahs tumbling across the sky — their pink and grey feathers glowing in the sun.",
+          "He laughed when his grandfather called someone who made a mistake a complete galah.",
+          "Galahs are among the most widespread parrots in Australia and are instantly recognisable.",
+          "She stopped the car to watch a large flock of galahs feeding on seeds in a paddock.",
+          "He kept a galah as a pet for fifteen years — they are intelligent and love human interaction.",
+          "The galah flew into the tree and immediately started hanging upside down to show off.",
+          "She used galah in a sentence as a good-natured insult and her Australian friend grinned.",
+          "Galahs form large flocks and can be extremely noisy during the early morning hours.",
+          "He noticed the grey galahs were male and the pink ones were female — he had it backwards.",
+          "She photographed a galah perched on a fence post at sunrise with the paddock stretching behind it."
+        ]
+      },
+      {
+        "word": "cockatoo",
+        "ipa": "/ˌkɒkəˈtuː/",
+        "phonetic": "[kok-uh-TOO]",
+        "meaning": "kakadu",
+        "type": "isim",
+        "sentences": [
+          "She heard the sulphur-crested cockatoo before she saw it — the screech was unmistakable.",
+          "He watched a flock of cockatoos strip every piece of fruit from the backyard tree overnight.",
+          "The white cockatoo raised its bright yellow crest in alarm when the dog came too close.",
+          "She photographed a black cockatoo — a less common but spectacular sight in the bush.",
+          "He was warned that cockatoos can cause serious damage to wooden structures with their beaks.",
+          "The cockatoo wolf-whistled at her from the pet shop window and she could not help laughing.",
+          "She read that cockatoos can live up to eighty years and form very strong bonds with owners.",
+          "He spotted a pair of red-tailed black cockatoos — a rare find that made his year.",
+          "The sulphur-crested cockatoo is one of the most recognisable birds on the Australian continent.",
+          "She found the screech of a hundred cockatoos roosting in the suburb thoroughly deafening."
+        ]
+      },
+      {
+        "word": "lorikeet",
+        "ipa": "/ˈlɒrɪkiːt/",
+        "phonetic": "[LOR-ih-keet]",
+        "meaning": "lori (küçük renkli papağan türü)",
+        "type": "isim",
+        "sentences": [
+          "She set out a dish of lorikeet food and within minutes had twenty rainbow lorikeets visiting.",
+          "He watched a rainbow lorikeet hang upside down from a banksia flower to extract nectar.",
+          "Rainbow lorikeets are among the most vividly coloured birds found in coastal eastern Australia.",
+          "She was surprised that lorikeets eat nectar and pollen rather than seeds like most parrots.",
+          "He photographed a pair of lorikeets grooming each other high in the branches of a grevillea.",
+          "The lorikeets descended on the bottlebrush outside her window every afternoon in summer.",
+          "She read that feeding lorikeets bread or honey can cause health problems — stick to proper mix.",
+          "He startled a flock of lorikeets which exploded from the tree in a burst of colour and noise.",
+          "Lorikeets are very social birds and are rarely seen alone in the wild.",
+          "She identified the scaly-breasted lorikeet at the park — slightly less common than the rainbow."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 40,
+    "words": [
+      {
+        "word": "native",
+        "ipa": "/ˈneɪtɪv/",
+        "phonetic": "[NAY-tiv]",
+        "meaning": "yerli, endemik (bitki veya hayvan için)",
+        "type": "sıfat / isim",
+        "sentences": [
+          "She planted native species in the garden to attract local birds and reduce water use.",
+          "He learned that native grasses are better suited to Australian soils than imported lawn varieties.",
+          "The council encourages residents to replace exotic plants with native alternatives.",
+          "She admired the native wildflowers that covered the hillside after the autumn rain.",
+          "He asked the nursery staff for recommendations for native plants suited to a shady courtyard.",
+          "Native animals are protected under Australian law and cannot be kept without a permit.",
+          "She joined a bush regeneration group that replaces invasive weeds with native seedlings.",
+          "He identified a native violet growing through the cracks of his garden path.",
+          "Native vegetation provides critical habitat for insects, reptiles, and birds.",
+          "She chose native ground cover plants for the verge — they needed no watering once established."
+        ]
+      },
+      {
+        "word": "invasive species",
+        "ipa": "/ɪnˈveɪsɪv ˈspiːʃiːz/",
+        "phonetic": "[in-VAY-siv SPEE-sheez]",
+        "meaning": "istilacı tür, yabancı zararlı tür",
+        "type": "isim öbeği",
+        "sentences": [
+          "Foxes are an invasive species introduced to Australia in the nineteenth century for hunting.",
+          "She volunteered on a project to control invasive species threatening the local wetland habitat.",
+          "He read that cane toads are one of the most destructive invasive species in Australian history.",
+          "Invasive species cost the Australian economy billions of dollars in damage each year.",
+          "She learned that lantana is a highly invasive plant species smothering native bushland.",
+          "He helped remove invasive weeds along the creek bank as part of a community restoration day.",
+          "Feral cats are considered one of the most damaging invasive species for Australian wildlife.",
+          "She was surprised how many familiar garden plants are actually classified as invasive species.",
+          "He reported a sighting of an invasive species to the local biosecurity officer.",
+          "Invasive species often outcompete native wildlife because they have no natural predators in Australia."
+        ]
+      },
+      {
+        "word": "wildlife",
+        "ipa": "/ˈwaɪldlaɪf/",
+        "phonetic": "[WY-ld-lyf]",
+        "meaning": "yaban hayatı",
+        "type": "isim",
+        "sentences": [
+          "She called a wildlife rescue line after finding an injured bird beside the road.",
+          "He was careful to keep his dogs leashed near bushland to avoid disturbing native wildlife.",
+          "Australia's wildlife is unique — many species are found nowhere else on the planet.",
+          "She donated regularly to a wildlife sanctuary that rehabilitated injured animals.",
+          "He slowed down at dusk knowing wildlife was most active and likely to cross the road.",
+          "The wildlife corridor connects two patches of bushland allowing animals to move safely.",
+          "She watched a documentary about Australian wildlife and was amazed by the diversity.",
+          "He joined a community group that installs nest boxes to support local wildlife.",
+          "Wildlife photography is a popular hobby among nature lovers across Australia.",
+          "She found the wildlife camera footage from the backyard — a possum and a bandicoot in one night."
+        ]
+      },
+      {
+        "word": "conservation",
+        "ipa": "/ˌkɒnsəˈveɪʃən/",
+        "phonetic": "[kon-suh-VAY-shun]",
+        "meaning": "doğa koruma",
+        "type": "isim",
+        "sentences": [
+          "She studied conservation biology at university and went on to work for a national park.",
+          "He supported a conservation charity working to protect the endangered regent honeyeater.",
+          "Conservation efforts have helped some threatened species begin to recover their numbers.",
+          "She volunteered for a conservation program that monitors turtle nesting sites each summer.",
+          "He spoke at a community meeting about the importance of conservation in the local catchment.",
+          "Conservation groups campaigned to protect the old-growth forest from logging.",
+          "She chose eco-friendly products and practices as her personal contribution to conservation.",
+          "He explained conservation principles to primary school children during an environmental incursion.",
+          "The national park was created to ensure conservation of the unique ecosystem for future generations.",
+          "She applied for a grant to fund conservation research on a critically endangered frog species."
+        ]
+      },
+      {
+        "word": "national park",
+        "ipa": "/ˈnæʃənl pɑːk/",
+        "phonetic": "[NASH-un-ul park]",
+        "meaning": "milli park, ulusal park",
+        "type": "isim öbeği",
+        "sentences": [
+          "She hiked through the Blue Mountains national park and was awestruck by the Three Sisters.",
+          "He camped in the national park for four nights and saw more wildlife than he could count.",
+          "National parks in Australia protect some of the most extraordinary landscapes on earth.",
+          "She paid the entry fee at the national park gate and received a printed map of the trails.",
+          "He found the national park website invaluable for planning the route and checking conditions.",
+          "Campfires may be prohibited in national parks during high fire danger periods.",
+          "She reminded her children to leave no trace while walking through the national park.",
+          "He was moved by the ancient ochre handprints in the cave shelter inside the national park.",
+          "The national park ranger led a guided walk explaining the ecology of the local bush.",
+          "She bought a national parks annual pass — it paid for itself after the third visit."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 41,
+    "words": [
+      {
+        "word": "reef",
+        "ipa": "/riːf/",
+        "phonetic": "[reef]",
+        "meaning": "resif, mercan kayalığı",
+        "type": "isim",
+        "sentences": [
+          "She snorkelled above the reef and was mesmerised by the colour and diversity below.",
+          "He learned about the threats facing the Great Barrier Reef and decided to donate to reef research.",
+          "The reef provides habitat for thousands of species of fish, coral, and other marine life.",
+          "She chose reef-safe sunscreen before entering the water near the coral ecosystem.",
+          "He took a glass-bottom boat tour over the reef and watched a sea turtle glide beneath him.",
+          "The Great Barrier Reef is the largest coral reef system in the world — visible from space.",
+          "She was saddened to see sections of the reef that had been bleached by warming ocean temperatures.",
+          "He volunteered for a citizen science program monitoring coral health on the reef.",
+          "The reef supports billions of dollars in tourism revenue for the Australian economy annually.",
+          "She educated her children about protecting the reef by never touching or standing on coral."
+        ]
+      },
+      {
+        "word": "coral bleaching",
+        "ipa": "/ˈkɒrəl ˈbliːtʃɪŋ/",
+        "phonetic": "[KOR-ul BLEE-ching]",
+        "meaning": "mercan ağarması (iklim değişikliği etkisi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She was devastated to read the news about another mass coral bleaching event on the Great Barrier Reef.",
+          "Coral bleaching occurs when water temperatures rise and stress the coral, causing it to expel its algae.",
+          "He learned that coral can recover from bleaching if temperatures return to normal quickly.",
+          "Scientists recorded the worst mass coral bleaching event in history in 2024.",
+          "She explained coral bleaching to her students using a simple classroom demonstration.",
+          "He chose a reef-safe sunscreen to avoid contributing chemicals that can worsen coral bleaching.",
+          "Coral bleaching does not kill the coral immediately — but repeated events weaken and eventually kill it.",
+          "She donated to a foundation funding research into coral bleaching resilience and recovery.",
+          "He was moved by underwater footage showing the ghostly white landscape of bleached coral.",
+          "Reducing carbon emissions is considered the most critical step in preventing further coral bleaching."
+        ]
+      },
+      {
+        "word": "rainforest",
+        "ipa": "/ˈreɪnfɒrɪst/",
+        "phonetic": "[RAYN-for-ist]",
+        "meaning": "yağmur ormanı",
+        "type": "isim",
+        "sentences": [
+          "She walked through the Daintree rainforest and felt like she had stepped back in time.",
+          "He was surprised to learn that Australia has ancient tropical rainforests in far north Queensland.",
+          "The rainforest was cool and misty even on the hottest summer days on the coast.",
+          "She identified an enormous strangler fig tree growing at the edge of the rainforest track.",
+          "He spent the afternoon photographing fungi, insects, and birds in the rainforest.",
+          "The Daintree rainforest is the oldest continuously surviving tropical rainforest on earth.",
+          "She felt humbled by the sheer scale and age of the trees in the ancient rainforest.",
+          "He read that the rainforest in north Queensland is home to species found nowhere else on earth.",
+          "The rainforest provides clean water for communities downstream through natural filtration.",
+          "She planned a family trip to the rainforest to experience its extraordinary biodiversity."
+        ]
+      },
+      {
+        "word": "wetland",
+        "ipa": "/ˈwɛtlənd/",
+        "phonetic": "[WET-lund]",
+        "meaning": "bataklık, sulak alan",
+        "type": "isim",
+        "sentences": [
+          "She counted more than twenty species of waterbird during a morning walk through the wetland.",
+          "He learned that wetlands are among the most productive and biodiverse ecosystems on earth.",
+          "The wetland provides critical habitat for migratory shorebirds travelling from the northern hemisphere.",
+          "She volunteered at a wetland restoration project that removed invasive reeds and replanted natives.",
+          "He was amazed by the number of frogs calling from the wetland on a warm, wet evening.",
+          "The wetland acts as a natural filter, removing pollutants from water before it reaches the sea.",
+          "She photographed a jabiru stork standing motionless in the shallow wetland water.",
+          "He read that wetlands store significant amounts of carbon — protecting them helps the climate.",
+          "The wetland was listed under the Ramsar Convention as a wetland of international importance.",
+          "She brought her school class to the wetland for an environmental education excursion."
+        ]
+      },
+      {
+        "word": "desert",
+        "ipa": "/ˈdɛzət/",
+        "phonetic": "[DEZ-ut]",
+        "meaning": "çöl",
+        "type": "isim",
+        "sentences": [
+          "She was struck by the silence and the scale of the Australian desert at night.",
+          "He drove across the Nullarbor Plain — a vast treeless desert stretching into the horizon.",
+          "Australia has several major deserts including the Great Victoria, Gibson, and Simpson.",
+          "She learned that the Australian desert is not always hot — winter nights can be bitterly cold.",
+          "He camped in the desert under a sky so thick with stars it took his breath away.",
+          "The desert blooms spectacularly after rare rainfall — wildflowers carpet the red earth.",
+          "She read that many Aboriginal communities have lived sustainably in the desert for tens of thousands of years.",
+          "He carried five extra litres of water for the desert crossing — exactly as the ranger recommended.",
+          "The desert supports surprising biodiversity once you learn what to look for.",
+          "She took a guided tour through the desert that changed her understanding of Australian ecology."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 42,
+    "words": [
+      {
+        "word": "recycle",
+        "ipa": "/riːˈsaɪkl/",
+        "phonetic": "[ree-SY-kul]",
+        "meaning": "geri dönüştürmek",
+        "type": "fiil / isim",
+        "sentences": [
+          "She taught her children to recycle from a very young age by sorting rubbish together.",
+          "He rinsed the tin cans before placing them in the yellow recycling bin.",
+          "Most Australian councils provide a yellow-lid bin specifically for recyclable materials.",
+          "She was disappointed to learn that some items people think can be recycled actually cannot.",
+          "He read the council recycling guide to make sure he was sorting correctly.",
+          "She found a recycling drop-off point at the supermarket for soft plastics.",
+          "He recycled the old printer at an e-waste drop-off point rather than sending it to landfill.",
+          "She checked the recycling symbol on the packaging before deciding which bin to use.",
+          "He attended a community talk about what can and cannot be recycled in their local council area.",
+          "She bought products made from recycled materials whenever a good option was available."
+        ]
+      },
+      {
+        "word": "compost",
+        "ipa": "/ˈkɒmpɒst/",
+        "phonetic": "[KOM-post]",
+        "meaning": "kompost, organik gübre; kompostlamak",
+        "type": "isim / fiil",
+        "sentences": [
+          "She composted all food scraps in the backyard bin and used the result in the vegetable garden.",
+          "He set up a worm farm on the balcony as an alternative to a full outdoor compost system.",
+          "Composting diverts organic waste from landfill where it would produce methane gas.",
+          "She added the autumn leaves to the compost bin along with the kitchen scraps.",
+          "He learned that coffee grounds and tea bags are excellent additions to a compost system.",
+          "She checked the compost temperature to make sure it was breaking down properly.",
+          "He asked the council whether food scraps could go in the green organic waste bin for composting.",
+          "The compost was ready after three months — dark, earthy, and perfect for the garden beds.",
+          "She shared her compost surplus with neighbours who had no space for their own bin.",
+          "He was surprised how much food waste his household produced once he started composting."
+        ]
+      },
+      {
+        "word": "green bin",
+        "ipa": "/ɡriːn bɪn/",
+        "phonetic": "[green bin]",
+        "meaning": "yeşil çöp kutusu (organik atık: bahçe ve yemek artıkları)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She put the lawn clippings and vegetable peelings into the green bin on collection day.",
+          "He checked with the council whether cooked food scraps could go in the green bin.",
+          "The green bin is collected fortnightly in her council area and processed into compost.",
+          "She put the weeds in the green bin rather than the compost to avoid spreading seeds.",
+          "He ran out of space in the green bin after a big weekend of gardening.",
+          "The council newsletter explained that meat and dairy should not go in the green bin.",
+          "She labelled the three bins clearly — green for organics, yellow for recycling, red for general waste.",
+          "He appreciated that the green bin collected food scraps and garden waste in a single service.",
+          "She tracked the green bin collection schedule on the council website so she never missed it.",
+          "He noticed his household's general waste bin was barely full since starting to use the green bin properly."
+        ]
+      },
+      {
+        "word": "yellow bin",
+        "ipa": "/ˈjɛloʊ bɪn/",
+        "phonetic": "[YEL-oh bin]",
+        "meaning": "sarı çöp kutusu (geri dönüşüm: plastik, kağıt, metal, cam)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She flattened the cardboard boxes before placing them in the yellow bin.",
+          "He rinsed the glass jars before adding them to the yellow recycling bin.",
+          "The yellow bin accepts paper, cardboard, glass, cans, and hard plastics in most councils.",
+          "She made sure the yellow bin lid was fully closed on a windy bin night.",
+          "He read the council guide to confirm which plastics were accepted in the yellow bin.",
+          "She was annoyed when a neighbour put a bag of rubbish directly into the yellow bin.",
+          "He put the empty milk cartons in the yellow bin every collection week.",
+          "The yellow bin is collected weekly in his council area while the general waste is fortnightly.",
+          "She separated food from packaging before adding anything to the yellow bin.",
+          "He taught his children that soft plastics like bags do not go in the yellow bin."
+        ]
+      },
+      {
+        "word": "sustainability",
+        "ipa": "/səˌsteɪnəˈbɪlɪti/",
+        "phonetic": "[suh-stay-nuh-BIL-ih-tee]",
+        "meaning": "sürdürülebilirlik",
+        "type": "isim",
+        "sentences": [
+          "She is passionate about sustainability and applies its principles in every area of her life.",
+          "He chose an employer that had a genuine commitment to environmental sustainability.",
+          "Sustainability means meeting today's needs without compromising the ability of future generations to meet theirs.",
+          "She gave a presentation on sustainability initiatives at the school environmental committee.",
+          "He bought from brands that demonstrated credible sustainability practices and transparent reporting.",
+          "Sustainability encompasses environmental, economic, and social dimensions — not just recycling.",
+          "She reduced single-use plastics at home as one practical step toward sustainability.",
+          "He found sustainability fascinating as a university subject — the challenges are enormous but solvable.",
+          "The company published its annual sustainability report outlining progress toward emissions reduction goals.",
+          "She discussed sustainability with her children over dinner and was inspired by their questions."
+        ]
+      }
+    ]
+  }
+]

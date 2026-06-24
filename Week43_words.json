@@ -1,0 +1,702 @@
+[
+  {
+    "day": 295,
+    "words": [
+      {
+        "word": "artificial intelligence",
+        "ipa": "/ˌɑːtɪˈfɪʃəl ɪnˈtɛlɪdʒəns/",
+        "phonetic": "[ar-tih-FISH-ul in-TEL-ih-juns]",
+        "meaning": "yapay zeka",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found artificial intelligence transforming her industry faster than anyone had predicted.",
+          "He found AI tools becoming standard in Australian workplaces across professional services.",
+          "Artificial intelligence is the simulation of human intelligence by computer systems.",
+          "She found AI applications in Australian healthcare, legal services, agriculture, and manufacturing.",
+          "He found the Australian government developing an AI Ethics Framework to guide responsible deployment.",
+          "Artificial intelligence raises issues of bias, transparency, accountability, and workforce displacement.",
+          "She found AI-generated content requiring the same critical evaluation as any other source.",
+          "He found Australian universities adapting academic integrity policies to address AI-assisted work.",
+          "Artificial intelligence in Australia is subject to the Privacy Act and developing sector-specific regulation.",
+          "She describes artificial intelligence as the technology that most changed what she considered uniquely human about her work."
+        ]
+      },
+      {
+        "word": "data privacy",
+        "ipa": "/ˈdeɪtə ˈprɪvəsi/",
+        "phonetic": "[DAY-tuh PRIV-uh-see]",
+        "meaning": "veri gizliliği",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the Optus and Medibank data breaches making data privacy a mainstream Australian concern.",
+          "He found data privacy governed by the Privacy Act 1988 and the Australian Privacy Principles.",
+          "Data privacy is the right of individuals to control how their personal information is collected and used.",
+          "She found the Privacy Act applying to organisations with annual turnover above three million dollars.",
+          "He found data privacy reform underway — the Privacy Act under review for the digital age.",
+          "Data privacy protections in Australia include rights to access, correction, and complaint.",
+          "She found data privacy most directly tested by large-scale breaches exposing millions of Australians.",
+          "He found the Notifiable Data Breaches scheme requiring organisations to report significant breaches to the OAIC.",
+          "Data privacy and digital identity are among the most consequential policy areas of the decade.",
+          "She describes data privacy as the digital right she most wanted enforced by law — not just trusted to corporate goodwill."
+        ]
+      },
+      {
+        "word": "startup",
+        "ipa": "/ˈstɑːtʌp/",
+        "phonetic": "[START-up]",
+        "meaning": "yeni kurulan teknoloji şirketi",
+        "type": "isim",
+        "sentences": [
+          "She joined a startup in her second year in Australia — it was the most demanding and educational environment she had worked in.",
+          "He found the Australian startup ecosystem centred in Sydney and Melbourne — but growing in Brisbane and Perth.",
+          "A startup is a young company designed to scale rapidly, typically technology-based.",
+          "She found Australian startups including Atlassian, Canva, and Afterpay achieving global scale.",
+          "He found startup culture emphasising speed, iteration, and tolerance for failure.",
+          "Startups in Australia access capital through angel investors, venture capital, and government grants.",
+          "She found Atlassian — founded in Sydney — among the most successful technology startups in Australian history.",
+          "He found the startup community supported through accelerators like Startmate and SBE Australia.",
+          "Startups disrupt established industries — fintech challenging banks, proptech changing real estate.",
+          "She describes working in a startup as the career experience that most required her to be comfortable with uncertainty."
+        ]
+      },
+      {
+        "word": "digital transformation",
+        "ipa": "/ˈdɪdʒɪtəl ˌtrænsˌfɔːˈmeɪʃən/",
+        "phonetic": "[DIJ-ih-tul tranz-for-MAY-shun]",
+        "meaning": "dijital dönüşüm",
+        "type": "isim öbeği",
+        "sentences": [
+          "She led the digital transformation project — moving her organisation from paper to cloud systems.",
+          "He found digital transformation the dominant business agenda item across Australian industries.",
+          "Digital transformation is the process of integrating digital technology into all areas of a business.",
+          "She found digital transformation in Australian government accelerated by the COVID period.",
+          "He found the Digital Transformation Agency — DTA — coordinating federal government digitisation.",
+          "Digital transformation requires cultural change as much as technology adoption.",
+          "She found digital transformation creating new roles — and displacing others — across Australian workplaces.",
+          "He found the myGov platform the most visible expression of government digital transformation.",
+          "Digital transformation in healthcare produced telehealth, digital prescriptions, and MyHealth Record.",
+          "She describes digital transformation as the change she most had to lead through rather than simply observe."
+        ]
+      },
+      {
+        "word": "automation",
+        "ipa": "/ˌɔːtəˈmeɪʃən/",
+        "phonetic": "[aw-tuh-MAY-shun]",
+        "meaning": "otomasyon",
+        "type": "isim",
+        "sentences": [
+          "She found automation changing the nature of her team's work — routine tasks disappeared, complex ones grew.",
+          "He found automation the technology trend most directly affecting employment in Australian manufacturing and logistics.",
+          "Automation is the use of technology to perform tasks with reduced human intervention.",
+          "She found automation in Australian agriculture — robotic fruit picking and precision irrigation — significant.",
+          "He found automation anxiety real among Australian workers — but its pace and scope contested.",
+          "Automation tends to displace routine tasks while creating demand for higher-order skills.",
+          "She found the Future of Work discussion in Australia centering on automation, retraining, and social support.",
+          "He found automation in customer service — chatbots, self-service kiosks — the most visible change.",
+          "Automation creates productivity gains — the policy question is how those gains are distributed.",
+          "She describes automation as the technological force she most needed to understand to give her children useful career advice."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 296,
+    "words": [
+      {
+        "word": "cloud computing",
+        "ipa": "/klaʊd kəmˈpjuːtɪŋ/",
+        "phonetic": "[klowd kum-PYOO-ting]",
+        "meaning": "bulut bilişim",
+        "type": "isim öbeği",
+        "sentences": [
+          "She migrated her business to cloud computing — she accessed everything from any device.",
+          "He found cloud computing adoption in Australian business nearly universal among professional services.",
+          "Cloud computing is the delivery of computing services — storage, software, processing — over the internet.",
+          "She found cloud providers including AWS, Microsoft Azure, and Google Cloud operating Australian data centres.",
+          "He found cloud computing enabling remote work infrastructure — the pandemic accelerated adoption.",
+          "Cloud computing raises data sovereignty questions — where is the data stored and who can access it.",
+          "She found the Australian government's Secure Cloud Strategy guiding agency cloud adoption.",
+          "He found cloud computing reducing IT infrastructure costs significantly for small businesses.",
+          "Cloud computing requires robust internet — she found regional Australia's limited connectivity a real barrier.",
+          "She describes cloud computing as the technology shift that most changed how she thought about where her work lived."
+        ]
+      },
+      {
+        "word": "two-factor authentication",
+        "ipa": "/tuː ˈfæktər ɔːˌθɛntɪˈkeɪʃən/",
+        "phonetic": "[too FAK-tuh aw-then-tih-KAY-shun]",
+        "meaning": "iki faktörlü kimlik doğrulama",
+        "type": "isim öbeği",
+        "sentences": [
+          "She enabled two-factor authentication on all financial accounts after hearing about a friend's bank fraud.",
+          "He found two-factor authentication the single most effective security measure he could take.",
+          "Two-factor authentication — 2FA — requires both a password and a second verification to access an account.",
+          "She found 2FA via SMS, authenticator app, or hardware key — she preferred the authenticator app.",
+          "He found 2FA now the standard for banking, government, and email in Australia.",
+          "Two-factor authentication significantly reduces the risk of account takeover — even if the password is stolen.",
+          "She found myGov, the ATO, and banking apps all supporting 2FA.",
+          "He found passkeys emerging as the next step beyond 2FA — she researched them carefully.",
+          "Two-factor authentication adds seconds to login and enormously reduces risk — the trade-off was obvious.",
+          "She describes enabling two-factor authentication as the ten-minute task that most changed her digital security posture."
+        ]
+      },
+      {
+        "word": "data breach",
+        "ipa": "/ˈdeɪtə briːtʃ/",
+        "phonetic": "[DAY-tuh breech]",
+        "meaning": "veri ihlali",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found her details in the Optus data breach — she changed every password immediately.",
+          "He found data breaches becoming Australia's most consequential consumer security events.",
+          "A data breach is a security incident where protected information is accessed or disclosed without authorisation.",
+          "She found the Optus and Medibank breaches in 2022 exposing millions of Australians' personal data.",
+          "He found data breach notification to affected individuals required under Australian law.",
+          "Data breaches in Australia must be reported to the OAIC — the Office of the Australian Information Commissioner.",
+          "She found the ACSC — Australian Cyber Security Centre — providing guidance after major breaches.",
+          "He found the ID Support service helping Australians replace government documents after a data breach.",
+          "Data breaches cause financial loss, identity theft risk, and lasting reputational damage.",
+          "She describes the data breach notification email as the message she most dreaded receiving — and most needed to act on immediately."
+        ]
+      },
+      {
+        "word": "fintech",
+        "ipa": "/ˈfɪntɛk/",
+        "phonetic": "[FIN-tek]",
+        "meaning": "finansal teknoloji",
+        "type": "isim",
+        "sentences": [
+          "She switched to a fintech bank — the app-based service and fee-free international transfers suited her lifestyle.",
+          "He found Australian fintech producing some of the most successful financial technology globally.",
+          "Fintech is the use of technology to deliver financial services — including payments, lending, and insurance.",
+          "She found Australian fintechs including Afterpay, Zip, and Up Bank reshaping consumer finance.",
+          "He found fintech innovation in payments, lending, wealth management, and remittances.",
+          "Fintech companies in Australia are regulated by ASIC and APRA depending on the service provided.",
+          "She found the fintech banking experience frictionless — accounts opened in minutes, no branch required.",
+          "He found the fintech sector the most globally competitive area of Australian technology.",
+          "Fintechs have challenged traditional banks on fee transparency, user experience, and product innovation.",
+          "She describes adopting a fintech bank as the financial decision that most improved her daily banking experience."
+        ]
+      },
+      {
+        "word": "digital wallet",
+        "ipa": "/ˈdɪdʒɪtəl ˈwɒlɪt/",
+        "phonetic": "[DIJ-ih-tul WOL-it]",
+        "meaning": "dijital cüzdan",
+        "type": "isim öbeği",
+        "sentences": [
+          "She pays with her digital wallet at almost every transaction — she has not carried cash in months.",
+          "He found Apple Pay and Google Pay the dominant digital wallet platforms in Australia.",
+          "A digital wallet is a software application that stores payment card information for contactless transactions.",
+          "She found digital wallets accepted at the vast majority of Australian retail and hospitality venues.",
+          "He found digital wallet transactions processed through the same contactless terminal as physical cards.",
+          "Digital wallets in Australia are subject to the same fraud protections as physical card payments.",
+          "She found her digital wallet storing multiple cards — debit, credit, and loyalty cards in one place.",
+          "He found digital wallets eliminating the risk of card skimming — the card number is not transmitted.",
+          "Digital wallets also store boarding passes, tickets, and ID — she found the integration practical.",
+          "She describes the digital wallet as the technology adoption that most quietly eliminated a physical object she used to always carry."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 297,
+    "words": [
+      {
+        "word": "remote work",
+        "ipa": "/rɪˈmoʊt wɜːk/",
+        "phonetic": "[rih-MOHT wurk]",
+        "meaning": "uzaktan çalışma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She negotiated remote work for three days per week — she found her productivity higher at home.",
+          "He found remote work permanently reshaping the Australian office sector.",
+          "Remote work is employment conducted from a location other than the employer's office — typically home.",
+          "She found remote work policy the most debated HR issue in Australian workplaces post-pandemic.",
+          "He found remote work enabling regional living — he moved to Daylesford and kept his Melbourne salary.",
+          "Remote work requires reliable internet, suitable workspace, and digital collaboration tools.",
+          "She found Fair Work addressing remote work requests — employees now have the right to request flexible arrangements.",
+          "He found remote work culture varying enormously by organisation — some embracing it, others resisting.",
+          "Remote work has contributed to regional property price growth — urban professionals relocating.",
+          "She describes remote work as the employment arrangement that most changed her relationship with her city — she missed it less than expected."
+        ]
+      },
+      {
+        "word": "video conferencing",
+        "ipa": "/ˈvɪdiəʊ ˈkɒnfərənsɪŋ/",
+        "phonetic": "[VID-ee-oh KON-fuh-run-sing]",
+        "meaning": "görüntülü konferans",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found video conferencing replacing most domestic travel — the environmental and cost savings were significant.",
+          "He found Zoom, Teams, and Google Meet the platforms that most defined Australian workplace collaboration.",
+          "Video conferencing is real-time audio and video communication between participants in different locations.",
+          "She found video conferencing etiquette — camera on, microphone muted when not speaking — an unwritten professional code.",
+          "He found video conferencing enabling her to work across international time zones from her home office.",
+          "Video conferencing fatigue — Zoom fatigue — became a recognised workplace wellbeing issue.",
+          "She found video conferencing quality dependent on broadband speed — her NBN connection mattered.",
+          "He found video conferencing most effective for small group discussion — large webinars worked differently.",
+          "Video conferencing has reduced the need for some office space — and reshaped the purpose of the office.",
+          "She describes video conferencing as the technology that most sustained her working relationships through the years she worked from home."
+        ]
+      },
+      {
+        "word": "e-commerce",
+        "ipa": "/ˈiː ˈkɒmɜːs/",
+        "phonetic": "[EE-kom-urs]",
+        "meaning": "elektronik ticaret",
+        "type": "isim",
+        "sentences": [
+          "She found e-commerce growing in Australia faster than physical retail in every category she tracked.",
+          "He found Australian e-commerce reaching over sixty billion dollars annually.",
+          "E-commerce is the buying and selling of goods and services over the internet.",
+          "She found Australian e-commerce including both domestic retailers and international platforms like Amazon and ASOS.",
+          "He found the e-commerce logistics chain — warehousing, last-mile delivery, and returns — the most complex part.",
+          "E-commerce businesses in Australia must comply with the ACL regardless of digital channel.",
+          "She found e-commerce enabling small Australian businesses to reach national and international customers.",
+          "He found e-commerce platforms charging commissions that significantly affected seller margins.",
+          "E-commerce is reshaping retail property — vacancy in shopping centres rising as online shopping grows.",
+          "She describes e-commerce as the commercial shift she most felt as both a consumer and a small business owner."
+        ]
+      },
+      {
+        "word": "smart home",
+        "ipa": "/smɑːt hoʊm/",
+        "phonetic": "[smart hohm]",
+        "meaning": "akıllı ev",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the smart home devices the most convenient and the most privacy-concerning technology she owned.",
+          "He found smart home adoption in Australia growing most rapidly in lighting, security, and energy management.",
+          "A smart home uses internet-connected devices to automate and remotely control household functions.",
+          "She found smart thermostats, voice assistants, and security cameras the most adopted smart home technologies.",
+          "He found smart home devices raising legitimate privacy concerns — audio and video data collected.",
+          "Smart home integration through platforms like Google Home and Amazon Alexa enabled voice control.",
+          "She found smart home energy management — monitoring appliance consumption — her most practically valuable application.",
+          "He found smart home devices sometimes lacking interoperability — different brands not always compatible.",
+          "Smart homes can improve energy efficiency — she reduced her electricity bill using smart scheduling.",
+          "She describes the smart home as the technology adoption she most consistently underestimated both the benefits and the risks of."
+        ]
+      },
+      {
+        "word": "digital identity",
+        "ipa": "/ˈdɪdʒɪtəl aɪˈdɛntɪti/",
+        "phonetic": "[DIJ-ih-tul eye-DEN-tih-tee]",
+        "meaning": "dijital kimlik",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the Australian digital identity framework streamlining access to multiple government services.",
+          "He found digital identity the infrastructure that most determined the convenience and security of online services.",
+          "Digital identity is the digital representation of an individual used to verify who they are online.",
+          "She found myGovID the Australian government's digital identity credential — linked to ATO, Centrelink, and Medicare.",
+          "He found digital identity enabling secure document upload without physical presence at an agency.",
+          "Digital identity systems require balancing convenience against privacy and security risk.",
+          "She found the Trusted Digital Identity Framework the policy architecture governing Australian digital ID.",
+          "He found digital identity becoming relevant for private sector services — banking, healthcare, and property.",
+          "Digital identity fraud is a significant and growing form of crime — protecting credentials was essential.",
+          "She describes digital identity as the infrastructure she most wanted to be governed by clear law before it governed her."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 298,
+    "words": [
+      {
+        "word": "eSafety",
+        "ipa": "/iː ˈseɪfti/",
+        "phonetic": "[ee-SAYF-tee]",
+        "meaning": "çevrimiçi güvenlik",
+        "type": "isim",
+        "sentences": [
+          "She reported the harmful content to the eSafety Commissioner — it was removed within hours.",
+          "He found the eSafety Commissioner Australia's world-leading online safety regulator.",
+          "eSafety is a term for the practices and protections ensuring safe and positive online experiences.",
+          "She found the eSafety Commissioner at esafety.gov.au providing resources for children, parents, and adults.",
+          "He found eSafety Commissioner Julie Inman Grant the most prominent online safety advocate in Australia.",
+          "eSafety regulation in Australia includes industry codes, content removal powers, and legal obligations.",
+          "She found eSafety resources addressing cyberbullying, image-based abuse, and scams.",
+          "He found the Online Safety Act 2021 giving the eSafety Commissioner significant new powers.",
+          "eSafety education in Australian schools was growing — she found curriculum resources available.",
+          "She describes the eSafety Commissioner as the institution that most practically protected her family's online experience."
+        ]
+      },
+      {
+        "word": "online safety",
+        "ipa": "/ˈɒnlaɪn ˈseɪfti/",
+        "phonetic": "[ON-lyn SAYF-tee]",
+        "meaning": "çevrimiçi güvenlik",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found online safety education the most urgent digital literacy need for her children.",
+          "He found Australian parents consistently rating online safety among their top parenting concerns.",
+          "Online safety is the practice of protecting oneself and others from harm in digital environments.",
+          "She found online safety risks including cyberbullying, grooming, scams, and harmful content.",
+          "He found the Online Safety Act giving Australians the right to have harmful content removed.",
+          "Online safety in Australia is regulated by the eSafety Commissioner — with powers across major platforms.",
+          "She found online safety resources for different age groups at the Raising Children Network.",
+          "He found online safety conversations with his children requiring ongoing updating — the platforms changed.",
+          "Online safety requires both technical tools and human judgment — filters alone were insufficient.",
+          "She describes online safety as the parenting challenge she most consistently underestimated in its complexity."
+        ]
+      },
+      {
+        "word": "agritech",
+        "ipa": "/ˈæɡrɪtɛk/",
+        "phonetic": "[AG-rih-tek]",
+        "meaning": "tarım teknolojisi",
+        "type": "isim",
+        "sentences": [
+          "She found agritech the most practically significant technology sector for regional Australia.",
+          "He found Australian agritech startups developing precision irrigation, drone monitoring, and livestock management.",
+          "Agritech is the application of technology to improve agricultural production and efficiency.",
+          "She found agritech enabling Australian farmers to reduce inputs while maintaining yield.",
+          "He found the CSIRO the most significant agritech research institution in Australia.",
+          "Agritech in Australia covers crop monitoring, automated harvesting, soil sensing, and supply chain tracking.",
+          "She found agritech investment growing as climate pressure and labour shortages drove technology adoption.",
+          "He found agritech companies supporting Australian farmers to compete globally despite high labour costs.",
+          "Agritech data collection raises ownership questions — who owned the data generated on a farm.",
+          "She describes agritech as the technology sector she most valued for its practical impact on people doing real work in real landscapes."
+        ]
+      },
+      {
+        "word": "CSIRO",
+        "ipa": "/siːˈzaɪroʊ/",
+        "phonetic": "[see-ZY-roh]",
+        "meaning": "Avustralya Bilimsel ve Endüstriyel Araştırma Örgütü",
+        "type": "kısaltma",
+        "sentences": [
+          "She found CSIRO Wi-Fi — yes, CSIRO helped develop wireless networking — the most surprising Australian tech fact.",
+          "He found the CSIRO the most significant scientific research institution in Australia.",
+          "CSIRO — Commonwealth Scientific and Industrial Research Organisation — is Australia's national science agency.",
+          "She found CSIRO conducting research across agriculture, health, environment, and materials science.",
+          "He found CSIRO's contribution to Wi-Fi technology one of Australia's most commercially significant inventions.",
+          "CSIRO employs around five thousand scientists and researchers across Australia.",
+          "She found CSIRO working in partnership with industry, universities, and government on applied science.",
+          "He found CSIRO's Data61 division the most prominent Australian artificial intelligence and data research unit.",
+          "CSIRO has contributed to body armour, polymer banknotes, and solar panels — among many others.",
+          "She describes CSIRO as the Australian institution she most wished was better known to the public it served."
+        ]
+      },
+      {
+        "word": "innovation hub",
+        "ipa": "/ˌɪnəˈveɪʃən hʌb/",
+        "phonetic": "[in-uh-VAY-shun hub]",
+        "meaning": "inovasyon merkezi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the innovation hub in Pyrmont housing dozens of technology startups — the energy was tangible.",
+          "He found innovation hubs the physical infrastructure of Australia's startup ecosystem.",
+          "An innovation hub is a co-working and networking environment designed to support startups and entrepreneurs.",
+          "She found Stone and Chalk — a fintech hub in Sydney — among Australia's most prominent.",
+          "He found innovation hubs often co-located with universities — enabling research commercialisation.",
+          "Innovation hubs provide mentorship, networks, office space, and investor access.",
+          "She found innovation hubs in Brisbane, Perth, Adelaide, and Canberra alongside the major eastern cities.",
+          "He found innovation hub programs funded by government, corporates, and universities.",
+          "Innovation hubs produce collaboration between established companies and emerging startups.",
+          "She describes the innovation hub as the workspace that most made her feel the future of Australian business was being built in real time."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 299,
+    "words": [
+      {
+        "word": "wearable technology",
+        "ipa": "/ˈwɛərəbəl tɛkˈnɒlədʒi/",
+        "phonetic": "[WAIR-uh-bul tek-NOL-uh-jee]",
+        "meaning": "giyilebilir teknoloji",
+        "type": "isim öbeği",
+        "sentences": [
+          "She tracks her sleep, steps, and heart rate with a wearable — her GP found the data useful.",
+          "He found wearable technology adoption in Australia growing most rapidly in health and fitness.",
+          "Wearable technology is electronic devices worn on the body — smart watches, fitness trackers, health monitors.",
+          "She found smart watches providing health metrics that supported early detection of health issues.",
+          "He found wearable technology raising privacy questions — health data collected at every moment.",
+          "Wearable technology data is increasingly used by health insurers — with privacy implications.",
+          "She found the Apple Watch, Fitbit, and Garmin the most common wearables in Australian workplaces.",
+          "He found wearable technology in industrial settings monitoring worker fatigue and safety.",
+          "Wearables produce continuous health data — the aggregation was powerful and the implications significant.",
+          "She describes her wearable as the technology that most consistently helped her understand her own body."
+        ]
+      },
+      {
+        "word": "blockchain",
+        "ipa": "/ˈblɒktʃeɪn/",
+        "phonetic": "[BLOK-chayn]",
+        "meaning": "blok zinciri",
+        "type": "isim",
+        "sentences": [
+          "She found blockchain technology moving beyond cryptocurrency into supply chain, property, and health records.",
+          "He found blockchain the most discussed and least understood technology concept in Australian business.",
+          "Blockchain is a distributed digital ledger recording transactions across many computers — immutable and transparent.",
+          "She found Australian blockchain applications in agricultural provenance — tracking beef from farm to consumer.",
+          "He found the ASX exploring blockchain for equity settlement — a significant infrastructure project.",
+          "Blockchain enables trustless transactions — no central authority required to verify the exchange.",
+          "She found blockchain-based property title systems piloted in some Australian jurisdictions.",
+          "He found the energy sector exploring blockchain for peer-to-peer energy trading — rooftop solar.",
+          "Blockchain's environmental cost — energy-intensive proof-of-work systems — was a legitimate concern.",
+          "She describes blockchain as the technology she most needed to look past the hype to understand the practical application."
+        ]
+      },
+      {
+        "word": "VPN",
+        "ipa": "/viː piː ˈɛn/",
+        "phonetic": "[vee-pee-EN]",
+        "meaning": "sanal özel ağ",
+        "type": "kısaltma",
+        "sentences": [
+          "She uses a VPN when working on public Wi-Fi — the security benefit was clear.",
+          "He found VPN usage in Australia growing among privacy-conscious workers and remote employees.",
+          "A VPN — Virtual Private Network — encrypts internet traffic and masks the user's IP address.",
+          "She found VPNs commonly used by Australians working remotely to access corporate systems securely.",
+          "He found VPN use enabling Australians to access geo-restricted streaming content from overseas libraries.",
+          "VPNs in Australia are legal — some countries restrict their use, but Australia does not.",
+          "She found corporate VPNs standard in Australian workplaces for remote access to secure systems.",
+          "He found consumer VPN providers varying in quality and privacy policy — she researched before subscribing.",
+          "VPNs add a layer of security but do not guarantee complete anonymity.",
+          "She describes the VPN as the digital tool she most wished she had understood and adopted earlier."
+        ]
+      },
+      {
+        "word": "proptech",
+        "ipa": "/ˈprɒptɛk/",
+        "phonetic": "[PROP-tek]",
+        "meaning": "gayrimenkul teknolojisi",
+        "type": "isim",
+        "sentences": [
+          "She found proptech platforms like realestate.com.au and Domain transforming how Australians buy and rent.",
+          "He found Australian proptech producing significant innovation in rental, sales, and property management.",
+          "Proptech is the application of technology to the property industry — buying, selling, renting, and managing.",
+          "She found proptech enabling virtual property inspections — useful when relocating interstate.",
+          "He found proptech producing data transparency that had not previously been available to buyers.",
+          "Proptech startups in Australia include platforms for rent payments, maintenance requests, and tenant screening.",
+          "She found proptech helping landlords manage properties remotely — lease, payments, and communication digitised.",
+          "He found PEXA — the electronic property settlement platform — the most significant proptech infrastructure in Australia.",
+          "Proptech is reshaping traditional real estate agencies — some functions automated, others enhanced.",
+          "She describes proptech as the technology sector that most directly changed the experience of finding and managing her home."
+        ]
+      },
+      {
+        "word": "digital divide",
+        "ipa": "/ˈdɪdʒɪtəl dɪˈvaɪd/",
+        "phonetic": "[DIJ-ih-tul dih-VYD]",
+        "meaning": "dijital uçurum",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the digital divide affecting older Australians, low-income households, and remote communities.",
+          "He found the digital divide the most significant barrier to equal participation in Australian digital services.",
+          "The digital divide is the gap between those with access to digital technology and those without.",
+          "She found the digital divide worsened by slow or unreliable internet in regional and remote Australia.",
+          "He found public libraries providing the most accessible digital access point for disadvantaged communities.",
+          "The digital divide in Australia is addressed through programs like the School Connect and Family Access Network.",
+          "She found digital skills training targeting older Australians a significant social inclusion initiative.",
+          "He found the digital divide intersecting with income, age, disability, and geographic remoteness.",
+          "The digital divide becomes critical when government services are delivered primarily online.",
+          "She describes the digital divide as the inequality she most wanted addressed before more services went exclusively digital."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 300,
+    "words": [
+      {
+        "word": "Canva",
+        "ipa": "/ˈkænvə/",
+        "phonetic": "[KAN-vuh]",
+        "meaning": "Avustralya'nın küresel tasarım uygulaması",
+        "type": "özel isim",
+        "sentences": [
+          "She designs all her social media content in Canva — it is the most accessible design tool she has used.",
+          "He found Canva one of Australia's most successful technology companies — valued at over thirty billion dollars.",
+          "Canva is an Australian online design platform enabling users to create graphics, presentations, and documents.",
+          "She found Canva founded in Perth in 2013 by Melanie Perkins — among Australia's most celebrated founders.",
+          "He found Canva used by over one hundred million people globally — a unicorn and beyond.",
+          "Canva is headquartered in Sydney and employs thousands of staff across multiple global offices.",
+          "She found Canva's free tier sufficient for most of her design needs.",
+          "He found Canva representing the kind of Australian software company that proved the country could compete globally.",
+          "Canva expanded beyond design into document creation, whiteboards, and video tools.",
+          "She describes Canva as the Australian technology product she most regularly used and most frequently recommended."
+        ]
+      },
+      {
+        "word": "Atlassian",
+        "ipa": "/ətˈlæsiən/",
+        "phonetic": "[at-LAS-ee-un]",
+        "meaning": "Avustralya'nın en büyük teknoloji şirketi",
+        "type": "özel isim",
+        "sentences": [
+          "She found Atlassian — JIRA, Confluence, Trello — the tools that ran most Australian tech workplaces.",
+          "He found Atlassian among Australia's greatest technology success stories.",
+          "Atlassian is an Australian technology company producing software development and collaboration tools.",
+          "She found Atlassian founded in Sydney in 2002 by Mike Cannon-Brookes and Scott Farquhar.",
+          "He found JIRA the most widely used project management tool in Australian software development.",
+          "Atlassian listed on the NASDAQ in 2015 — one of Australia's most significant technology milestones.",
+          "She found Atlassian's founders among Australia's most prominent technology philanthropists.",
+          "He found Atlassian's commitment to a remote-friendly workforce ahead of the broader industry.",
+          "Atlassian's success demonstrated that world-class software companies could be built in Australia.",
+          "She describes Atlassian as the Australian company that most changed her professional tool kit and her idea of what Australian technology could achieve."
+        ]
+      },
+      {
+        "word": "internet of things",
+        "ipa": "/ˈɪntənɛt əv θɪŋz/",
+        "phonetic": "[IN-tuh-net uv thingz]",
+        "meaning": "nesnelerin interneti",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the internet of things connecting her home appliances — the fridge tracked what she needed.",
+          "He found IoT devices in Australian agriculture, utilities, and healthcare growing rapidly.",
+          "The internet of things — IoT — is the network of physical devices connected to the internet and sharing data.",
+          "She found IoT applications in smart meters, remote monitoring of water pumps, and precision agriculture.",
+          "He found IoT security a significant vulnerability — many devices shipped with poor default settings.",
+          "The internet of things is generating data at scales that require AI and cloud computing to analyse.",
+          "She found Australian water authorities using IoT sensors to detect leaks and monitor usage.",
+          "He found the IoT most visible in consumer products — smart speakers, connected TVs, and appliances.",
+          "IoT raises environmental concerns — millions of short-lived devices contributing to e-waste.",
+          "She describes the internet of things as the technology trend she most needed to understand before it became embedded in everything she could not see."
+        ]
+      },
+      {
+        "word": "digital literacy",
+        "ipa": "/ˈdɪdʒɪtəl ˈlɪtərəsi/",
+        "phonetic": "[DIJ-ih-tul LIT-uh-ruh-see]",
+        "meaning": "dijital okuryazarlık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found digital literacy the most consistently underfunded workforce skill in Australian organisations.",
+          "He found digital literacy gaps the most common barrier to organisational digital transformation.",
+          "Digital literacy is the ability to use digital technology effectively, critically, and safely.",
+          "She found digital literacy encompassing basic computing, online safety, information evaluation, and communication.",
+          "He found the Australian Digital Inclusion Index measuring digital literacy and access across the population.",
+          "Digital literacy differs from technical expertise — it is a baseline skill, not a specialisation.",
+          "She found digital literacy training the most valued professional development she had received in the past year.",
+          "He found digital literacy gaps widest among older workers and those in manual occupations.",
+          "Digital literacy is increasingly essential for citizenship — services, communication, and information now digital.",
+          "She describes digital literacy as the foundational capability she most believed every Australian deserved to be taught."
+        ]
+      },
+      {
+        "word": "user experience",
+        "ipa": "/ˈjuːzər ɪkˈspɪəriəns/",
+        "phonetic": "[YOO-zuh ik-SPEER-ee-uns]",
+        "meaning": "kullanıcı deneyimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the government website's poor user experience the most frustrating digital encounter of her week.",
+          "He found user experience design the professional discipline that most shaped the digital services he relied on.",
+          "User experience — UX — is the overall experience a person has when interacting with a product or system.",
+          "She found good user experience invisible — she only noticed when it was absent.",
+          "He found UX design a growing profession in Australian technology and government services.",
+          "User experience encompasses usability, accessibility, and emotional response to digital interfaces.",
+          "She found Australian government digital services improving in user experience — but unevenly.",
+          "He found UX research — observing how real users interacted with a product — the most honest form of feedback.",
+          "User experience underpins adoption — the best-designed service went unused if the experience was poor.",
+          "She describes great user experience as the design quality she most took for granted until she used something without it."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 301,
+    "words": [
+      {
+        "word": "digital nomad",
+        "ipa": "/ˈdɪdʒɪtəl ˈnoʊmæd/",
+        "phonetic": "[DIJ-ih-tul NOH-mad]",
+        "meaning": "dijital göçebe",
+        "type": "isim öbeği",
+        "sentences": [
+          "She worked as a digital nomad for a year — co-working spaces from Bali to Byron Bay.",
+          "He found the digital nomad lifestyle both liberating and socially isolating.",
+          "A digital nomad is a person who works remotely while travelling — typically using laptops and digital tools.",
+          "She found digital nomad communities forming in Australian regional towns with good internet and affordable living.",
+          "He found Byron Bay and Noosa developing significant digital nomad populations.",
+          "Digital nomads contribute to the economies of the places they reside temporarily.",
+          "She found digital nomadism raising questions about tax residency, home, and belonging.",
+          "He found co-working spaces the essential infrastructure for the digital nomad lifestyle.",
+          "Digital nomads often work in creative, consulting, and technology roles — location-independent outputs.",
+          "She describes the digital nomad year as the working arrangement she most learned from — and most wanted to leave behind."
+        ]
+      },
+      {
+        "word": "cybersecurity",
+        "ipa": "/ˈsaɪbəsɪˈkjʊərɪti/",
+        "phonetic": "[SY-buh-seh-KYOOR-ih-tee]",
+        "meaning": "siber güvenlik",
+        "type": "isim",
+        "sentences": [
+          "She found cybersecurity the most underprepared area in most Australian businesses she had advised.",
+          "He found the Australian Cyber Security Centre — ACSC — the primary government resource for organisations.",
+          "Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks.",
+          "She found Australia's Cyber Security Strategy 2023-2030 setting ambitious goals for national cyber resilience.",
+          "He found cybersecurity certification — Essential Eight — the standard framework for Australian businesses.",
+          "Cybersecurity threats include ransomware, phishing, data theft, and infrastructure attacks.",
+          "She found the ACSC offering free cybersecurity advice for small and medium businesses.",
+          "He found cybersecurity professionals among the most in-demand workers in the Australian technology sector.",
+          "Cybersecurity breaches in Australia have affected hospitals, universities, and critical infrastructure.",
+          "She describes cybersecurity as the risk management discipline she most wanted every Australian organisation to take seriously before the incident — not after."
+        ]
+      },
+      {
+        "word": "open data",
+        "ipa": "/ˈoʊpən ˈdeɪtə/",
+        "phonetic": "[OH-pun DAY-tuh]",
+        "meaning": "açık veri",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found data.gov.au hosting thousands of Australian government datasets freely available.",
+          "He found open data enabling researchers, journalists, and developers to build useful tools.",
+          "Open data is government or institutional information made freely available for public use.",
+          "She found Australian open data spanning health statistics, transport networks, and environmental monitoring.",
+          "He found open data driving transparency — budget expenditure, tender awards, and regulatory decisions.",
+          "Open data publication is a commitment of modern democratic government — she evaluated parties on it.",
+          "She found open data used by startups building apps on public transport timetables and health facility locations.",
+          "He found the quality of open data varying — some datasets poorly maintained or inadequately documented.",
+          "Open data enables accountability — she used it in the advocacy campaign she ran.",
+          "She describes open data as the government resource that most empowered citizens who knew it existed."
+        ]
+      },
+      {
+        "word": "platform economy",
+        "ipa": "/ˈplætfɔːm ɪˈkɒnəmi/",
+        "phonetic": "[PLAT-form ih-KON-uh-mee]",
+        "meaning": "platform ekonomisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the platform economy reshaping how work was organised in Australia — delivery, care, and transport.",
+          "He found platform economy workers the most debated category in Australian labour law reform.",
+          "The platform economy is an economic system where digital platforms mediate exchanges between producers and consumers.",
+          "She found Uber, Airbnb, Airtasker, and Care.com among the most significant platforms in Australia.",
+          "He found platform economy workers often classified as contractors — denied employee protections.",
+          "The platform economy creates flexibility but often at the cost of employment rights and income security.",
+          "She found Fair Work extending protections to some gig economy workers through new legislative frameworks.",
+          "He found the platform economy enabling her to earn income flexibly between career stages.",
+          "Platform economies have disrupted taxis, hotels, media, and retail — benefiting consumers and pressuring incumbents.",
+          "She describes the platform economy as the labour market shift she most needed to understand both as a worker and as a consumer."
+        ]
+      },
+      {
+        "word": "gig economy",
+        "ipa": "/ɡɪɡ ɪˈkɒnəmi/",
+        "phonetic": "[gig ih-KON-uh-mee]",
+        "meaning": "geçici iş ekonomisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She drove for a rideshare platform for six months — the gig economy filled the income gap between jobs.",
+          "He found the gig economy offering flexibility that traditional employment could not.",
+          "The gig economy is a labour market characterised by short-term contracts, freelance work, and task-based engagements.",
+          "She found gig economy workers in Australia encompassing ride-hailing, food delivery, and professional services.",
+          "He found gig economy income variable — a good week could be twice a poor one.",
+          "Gig economy workers in Australia lacked paid leave, superannuation contributions from platforms, and redundancy entitlements.",
+          "She found Fair Work reforms in 2023 providing minimum standards for some gig economy workers.",
+          "He found the gig economy most valuable as a transitional arrangement — not a permanent career.",
+          "Gig economy platforms are now required to contribute superannuation for workers above certain earnings.",
+          "She describes the gig economy as the work arrangement that most clearly showed the trade-off between freedom and security."
+        ]
+      }
+    ]
+  }
+]

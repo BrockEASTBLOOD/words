@@ -1,0 +1,702 @@
+[
+  {
+    "day": 190,
+    "words": [
+      {
+        "word": "recycling",
+        "ipa": "/riːˈsaɪklɪŋ/",
+        "phonetic": "[ree-SY-kling]",
+        "meaning": "geri dönüşüm",
+        "type": "isim",
+        "sentences": [
+          "She separates her recycling carefully — paper, cardboard, glass, and plastics in the yellow bin.",
+          "He found recycling contamination a common problem — wishcycling harms the system.",
+          "Recycling is the process of converting waste materials into new materials and objects.",
+          "She found her council's recycling guidelines on the local government website.",
+          "He found the recycling symbol alone insufficient — he checks whether the item is accepted locally.",
+          "Recycling in Australia is managed by state governments and local councils — systems vary.",
+          "She found soft plastics could be returned to REDcycle bins at supermarkets.",
+          "He found glass recycling in some states separated into its own bin.",
+          "Recycling reduces landfill waste and conserves resources — but quality of sorting matters.",
+          "She describes recycling correctly as the environmental action requiring the most ongoing education."
+        ]
+      },
+      {
+        "word": "composting",
+        "ipa": "/ˈkɒmpɒstɪŋ/",
+        "phonetic": "[KOM-pos-ting]",
+        "meaning": "kompost yapma",
+        "type": "isim",
+        "sentences": [
+          "She started composting kitchen scraps and found her garden transformed within a season.",
+          "He found composting straightforward — a bin, green and brown layers, and patience.",
+          "Composting is the process of decomposing organic waste into nutrient-rich material for soil.",
+          "She found composting reduced her household waste by a third.",
+          "He uses a tumbling compost bin — it speeds decomposition and deters rodents.",
+          "Composting is supported by many Australian councils — some offer subsidised bins.",
+          "She found the compost ready within three months — dark, crumbly, and sweet-smelling.",
+          "He adds kitchen scraps, garden cuttings, cardboard, and coffee grounds to his compost.",
+          "Composting diverts organic waste from landfill — where it produces methane.",
+          "She describes composting as the kitchen habit that most directly feeds her garden."
+        ]
+      },
+      {
+        "word": "carbon footprint",
+        "ipa": "/ˈkɑːbən ˈfʊtprɪnt/",
+        "phonetic": "[KAR-bun FOOT-print]",
+        "meaning": "karbon ayak izi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She calculated her carbon footprint using the government's online calculator.",
+          "He found reducing his carbon footprint required examining diet, transport, and energy.",
+          "A carbon footprint is the total greenhouse gas emissions caused by an individual or organisation.",
+          "She found that reducing meat consumption significantly lowered her carbon footprint.",
+          "He found his car the largest single component of his carbon footprint.",
+          "Carbon footprint calculators are available through the Australian Government's climate website.",
+          "She offsets her unavoidable carbon footprint through a Gold Standard certified project.",
+          "He found the carbon footprint of air travel significantly higher than he had assumed.",
+          "Reducing personal carbon footprint matters — but so does advocating for systemic change.",
+          "She describes calculating her carbon footprint as the exercise that made sustainability personal."
+        ]
+      },
+      {
+        "word": "solar panels",
+        "ipa": "/ˈsoʊlər ˈpænəlz/",
+        "phonetic": "[SOH-luh PAN-ulz]",
+        "meaning": "güneş panelleri",
+        "type": "isim öbeği",
+        "sentences": [
+          "She had solar panels installed on the roof — her electricity bill dropped to almost zero.",
+          "He found solar panels the household investment with the fastest payback period in Australia.",
+          "Solar panels convert sunlight into electricity — increasingly common on Australian homes.",
+          "She found solar panel installation rebated through the Small-scale Renewable Energy Scheme.",
+          "He monitors his solar panels' output through the inverter app — daily generation is satisfying.",
+          "Australia has one of the highest rates of household solar panel adoption in the world.",
+          "She found solar panels most effective combined with a home battery system.",
+          "He got three quotes for solar panels — prices varied significantly.",
+          "Solar panels in Australia generate significant electricity given the country's sun exposure.",
+          "She describes solar panels as the home improvement that most aligned her values with her electricity bill."
+        ]
+      },
+      {
+        "word": "renewable energy",
+        "ipa": "/rɪˈnjuːəbəl ˈɛnədʒi/",
+        "phonetic": "[rih-NYOO-uh-bul EN-uh-jee]",
+        "meaning": "yenilenebilir enerji",
+        "type": "isim öbeği",
+        "sentences": [
+          "She switched her electricity plan to one sourced from renewable energy.",
+          "He found renewable energy the fastest-growing sector in Australian electricity generation.",
+          "Renewable energy is energy generated from natural resources that replenish naturally.",
+          "She found GreenPower certification on electricity plans indicated genuine renewable energy sourcing.",
+          "He found renewable energy investment in Australia accelerating rapidly in wind and solar.",
+          "Renewable energy in Australia includes solar, wind, hydro, and emerging technologies.",
+          "She found renewable energy jobs growing across regional Australia — a local economic benefit.",
+          "He found Snowy Hydro 2.0 the largest renewable energy storage project in Australian history.",
+          "Renewable energy reduces dependence on fossil fuels and associated greenhouse gas emissions.",
+          "She describes the shift to renewable energy as the energy transition that defines this generation."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 191,
+    "words": [
+      {
+        "word": "biodiversity",
+        "ipa": "/ˌbaɪoʊdaɪˈvɜːsɪti/",
+        "phonetic": "[by-oh-dy-VUR-sih-tee]",
+        "meaning": "biyoçeşitlilik",
+        "type": "isim",
+        "sentences": [
+          "She planted native species in her garden to support local biodiversity.",
+          "He found biodiversity the concept that most clearly connected his garden to the ecosystem.",
+          "Biodiversity is the variety of life on Earth — species, ecosystems, and genetic diversity.",
+          "She found biodiversity loss one of the most urgent environmental challenges facing Australia.",
+          "He discovered that Australia has one of the highest rates of biodiversity per area in the world.",
+          "Biodiversity in Australia is threatened by habitat loss, invasive species, and climate change.",
+          "She found the biodiversity of her backyard increased significantly after native planting.",
+          "He visited a biodiversity hotspot in south-west Western Australia — extraordinary.",
+          "Biodiversity underpins ecosystem services — food, clean water, and climate regulation.",
+          "She describes biodiversity as the measure of how alive a place truly is."
+        ]
+      },
+      {
+        "word": "native plants",
+        "ipa": "/ˈneɪtɪv plɑːnts/",
+        "phonetic": "[NAY-tiv plarnts]",
+        "meaning": "yerli bitkiler, endemik bitkiler",
+        "type": "isim öbeği",
+        "sentences": [
+          "She replaced her lawn with native plants — the water bill halved and the birds arrived.",
+          "He found native plants the most resilient choice for an Australian garden.",
+          "Native plants are species that evolved in Australia and are adapted to local conditions.",
+          "She found native plants required less water, fertiliser, and maintenance than exotic species.",
+          "He planted grevilleas, banksias, and wattles — the garden now hums with honeyeaters.",
+          "Native plants support native wildlife — birds, insects, and reptiles evolved alongside them.",
+          "She found the Australian Native Plants Society a valuable resource for garden planning.",
+          "He found his local nursery knowledgeable about which native plants suited his climate zone.",
+          "Native plants often flower across seasons, providing year-round habitat and nectar.",
+          "She describes planting native plants as the garden act that most reconnected her with place."
+        ]
+      },
+      {
+        "word": "conservation",
+        "ipa": "/ˌkɒnsəˈveɪʃən/",
+        "phonetic": "[kon-suh-VAY-shun]",
+        "meaning": "doğa koruma",
+        "type": "isim",
+        "sentences": [
+          "She volunteers with a local conservation group that removes invasive weeds.",
+          "He donated to a conservation organisation protecting koala habitat.",
+          "Conservation is the protection and preservation of the natural environment and wildlife.",
+          "She found conservation efforts in Australia supported by federal, state, and community programs.",
+          "He found conservation land in Australia managed by national parks authorities and Indigenous rangers.",
+          "Conservation of threatened species in Australia is governed by the EPBC Act.",
+          "She found conservation success stories — the eastern bettong returned to the mainland.",
+          "He joined a Landcare group as part of his local conservation effort.",
+          "Conservation requires long-term commitment — ecological recovery takes decades.",
+          "She describes conservation as the work of protecting what we have before we understand how much we need it."
+        ]
+      },
+      {
+        "word": "plastic pollution",
+        "ipa": "/ˈplæstɪk pəˈluːʃən/",
+        "phonetic": "[PLAS-tik puh-LOO-shun]",
+        "meaning": "plastik kirliliği",
+        "type": "isim öbeği",
+        "sentences": [
+          "She carries a reusable bag and bottle everywhere — small actions against plastic pollution.",
+          "He found plastic pollution on the beach devastating — he now participates in clean-ups.",
+          "Plastic pollution is the accumulation of plastic waste in the natural environment.",
+          "She found single-use plastic bans in Australian states a meaningful legislative step.",
+          "He found plastic pollution most visible on Australian beaches — carried by wind and stormwater.",
+          "Plastic pollution affects marine life, ecosystems, and ultimately human food chains.",
+          "She joined a Tangaroa Blue beach clean-up — the amount of plastic collected was confronting.",
+          "He found microplastics now detected in human blood — an unsettling development.",
+          "Plastic pollution reduction requires both individual behaviour change and systemic reform.",
+          "She describes plastic pollution as the environmental issue most immediately visible in daily life."
+        ]
+      },
+      {
+        "word": "threatened species",
+        "ipa": "/ˈθrɛtənd ˈspiːʃiːz/",
+        "phonetic": "[THRET-und SPEE-sheez]",
+        "meaning": "nesli tehlike altındaki türler",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found Australia has more threatened species than almost any other country.",
+          "He learned about threatened species through the Department of the Environment's EPBC Act list.",
+          "Threatened species are plants and animals at risk of extinction due to environmental pressures.",
+          "She found the orange-bellied parrot one of Australia's most critically threatened species.",
+          "He found that feral cats pose the greatest threat to many of Australia's threatened species.",
+          "Threatened species protection in Australia is administered under the EPBC Act.",
+          "She donated to Save the Bilby Fund — supporting one of Australia's most beloved threatened species.",
+          "He found rewilding programs behind predator-proof fences a promising strategy for threatened species.",
+          "Threatened species recovery plans involve government, researchers, and community groups.",
+          "She describes the plight of Australia's threatened species as the ecological emergency closest to home."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 192,
+    "words": [
+      {
+        "word": "water conservation",
+        "ipa": "/ˈwɔːtər ˌkɒnsəˈveɪʃən/",
+        "phonetic": "[WOR-tuh kon-suh-VAY-shun]",
+        "meaning": "su tasarrufu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She installed a four-minute shower timer — water conservation during drought is community responsibility.",
+          "He found water conservation measures mandatory during Level 3 water restrictions.",
+          "Water conservation is the careful management and reduction of water usage.",
+          "She found her water-efficient garden reduced her consumption significantly.",
+          "He found the water efficiency label on appliances a useful guide at purchase.",
+          "Water conservation in Australia is critical — the driest inhabited continent.",
+          "She found a dual-flush toilet the most effective single household water conservation device.",
+          "He found his council offered a rebate for installing a water-efficient showerhead.",
+          "Water conservation habits include shorter showers, full loads of laundry, and drought-tolerant plants.",
+          "She describes water conservation as not scarcity thinking but stewardship of a shared resource."
+        ]
+      },
+      {
+        "word": "bushfire",
+        "ipa": "/ˈbʊʃfaɪər/",
+        "phonetic": "[BUSH-fy-uh]",
+        "meaning": "orman yangını, çalı yangını",
+        "type": "isim",
+        "sentences": [
+          "She left town ahead of the bushfire — the Bushfire Survival Plan was prepared months before.",
+          "He volunteered with the Rural Fire Service during the bushfire season.",
+          "A bushfire is a fire that spreads across scrubland, grassland, or forest in Australia.",
+          "She found the 2019–20 bushfire season the most devastating in Australian recorded history.",
+          "He found the bushfire smoke reached the city — hazardous air quality for days.",
+          "Bushfire preparedness in Australia involves home assessment, evacuation plans, and community awareness.",
+          "She found the RFS Fires Near Me app essential during the bushfire season.",
+          "He volunteered to assist with bushfire recovery — replanting and wildlife monitoring.",
+          "Bushfire risk in Australia is increasing with climate change — fire seasons longer and more intense.",
+          "She describes bushfire season in Australia as the annual reminder of nature's power and community's response."
+        ]
+      },
+      {
+        "word": "Landcare",
+        "ipa": "/ˈlændkɛː/",
+        "phonetic": "[LAND-kair]",
+        "meaning": "Landcare (doğa koruma gönüllü programı)",
+        "type": "özel isim",
+        "sentences": [
+          "She joins her local Landcare group on the first Sunday of every month.",
+          "He planted five hundred native trees through his regional Landcare group.",
+          "Landcare is a community-based Australian movement combining sustainable farming and conservation.",
+          "She found Landcare one of the most effective environmental volunteer programs in Australia.",
+          "He found Landcare groups operating in most shires and urban councils across Australia.",
+          "Landcare was established in Australia in 1989 and remains one of the world's largest conservation movements.",
+          "She found Landcare brought farmers and environmentalists together — a powerful combination.",
+          "He found Landcare work including weed removal, revegetation, and feral animal management.",
+          "Landcare groups are supported by federal and state government funding.",
+          "She describes Landcare as the movement that most effectively connects Australians to the land they inhabit."
+        ]
+      },
+      {
+        "word": "coral bleaching",
+        "ipa": "/ˈkɒrəl ˈbliːtʃɪŋ/",
+        "phonetic": "[KOR-ul BLEE-ching]",
+        "meaning": "mercan ağarması",
+        "type": "isim öbeği",
+        "sentences": [
+          "She snorkelled at the Great Barrier Reef and witnessed coral bleaching firsthand — it was heartbreaking.",
+          "He learned about coral bleaching and its connection to ocean temperature rise.",
+          "Coral bleaching occurs when corals, stressed by heat, expel the algae that give them colour and life.",
+          "She found the Great Barrier Reef has experienced multiple mass coral bleaching events.",
+          "He found coral bleaching reported by the Australian Institute of Marine Science annually.",
+          "Coral bleaching does not immediately kill coral — but prolonged bleaching is fatal.",
+          "She found reducing carbon emissions the most important action to prevent further coral bleaching.",
+          "He found the Great Barrier Reef Marine Park Authority monitoring coral bleaching closely.",
+          "Coral bleaching threatens the biodiversity and economic value of coral reefs globally.",
+          "She describes seeing bleached coral as the environmental experience that most moved her to action."
+        ]
+      },
+      {
+        "word": "net zero",
+        "ipa": "/nɛt ˈzɪərəʊ/",
+        "phonetic": "[net ZEE-roh]",
+        "meaning": "net sıfır (karbon emisyonu hedefi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She works for a company committed to achieving net zero emissions by 2040.",
+          "He found the Australian Government's net zero target a significant policy commitment.",
+          "Net zero means balancing the amount of greenhouse gas produced with the amount removed.",
+          "She found net zero plans required both emission reduction and carbon removal strategies.",
+          "He found net zero pledges from corporations requiring third-party verification to be credible.",
+          "Australia committed to a net zero target by 2050 under the Paris Agreement.",
+          "She found net zero achievable for households through energy efficiency, electrification, and solar.",
+          "He found net zero language increasingly entering everyday Australian business conversations.",
+          "Net zero is distinct from carbon neutral — he read carefully before using either term.",
+          "She describes net zero as the destination — the path is the decarbonisation of everything."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 193,
+    "words": [
+      {
+        "word": "zero waste",
+        "ipa": "/ˈzɪərəʊ weɪst/",
+        "phonetic": "[ZEE-roh wayst]",
+        "meaning": "sıfır atık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She is working towards a zero waste household — she is ninety percent there.",
+          "He found the zero waste movement a framework for rethinking consumption entirely.",
+          "Zero waste is a philosophy and practice aiming to eliminate waste sent to landfill.",
+          "She found a zero waste grocery store in her suburb — everything in bulk, nothing packaged.",
+          "He found zero waste achievable in some areas and genuinely difficult in others.",
+          "Zero waste practices include refusing single-use items, repairing, and buying secondhand.",
+          "She found the Bea Johnson zero waste method the most practical framework for her household.",
+          "He found zero waste events emerging in Australian cities — compostable cups, no plastic.",
+          "Zero waste is an aspiration — most practitioners reduce significantly without achieving absolute zero.",
+          "She describes zero waste as the lens that most changed how she sees every purchase."
+        ]
+      },
+      {
+        "word": "upcycling",
+        "ipa": "/ˈʌpsaɪklɪŋ/",
+        "phonetic": "[UP-sy-kling]",
+        "meaning": "dönüştürme (atık malzemeden daha değerli ürün yapma)",
+        "type": "isim",
+        "sentences": [
+          "She upcycles old furniture with paint and new handles — a chair becomes something new.",
+          "He found upcycling workshops in his city that taught basic woodworking and textile skills.",
+          "Upcycling is the creative reuse of discarded materials to create products of higher value.",
+          "She found upcycling the most satisfying alternative to replacing worn items.",
+          "He upcycles glass jars for food storage — functional and waste-free.",
+          "Upcycling has grown as a movement in Australian craft and sustainability communities.",
+          "She found upcycled furniture at markets unique, well-priced, and with a story.",
+          "He found upcycling required creativity more than skill — seeing potential in what others discard.",
+          "Upcycling reduces demand for new materials and diverts waste from landfill.",
+          "She describes upcycling as the practice that made her see everything discarded as a beginning."
+        ]
+      },
+      {
+        "word": "worm farm",
+        "ipa": "/wɜːm fɑːm/",
+        "phonetic": "[wurm farm]",
+        "meaning": "solucan çiftliği (kompost için)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She set up a worm farm on her balcony — kitchen scraps become liquid fertiliser.",
+          "He found a worm farm the best composting solution for a small apartment.",
+          "A worm farm uses worms to break down organic kitchen waste into compost and liquid fertiliser.",
+          "She found her worm farm the most satisfying object in her home — waste becoming abundance.",
+          "He found worm farms ideal for processing vegetable peelings, fruit scraps, and coffee grounds.",
+          "Worm farms are compact and odour-free when managed correctly.",
+          "She found the liquid from her worm farm — worm tea — an excellent plant fertiliser.",
+          "He built his worm farm from a recycled bin — a twenty-dollar materials project.",
+          "Worm farms are sold through hardware stores and garden centres across Australia.",
+          "She describes her worm farm as the ecosystem in a box that lives on her balcony."
+        ]
+      },
+      {
+        "word": "stormwater",
+        "ipa": "/ˈstɔːmwɔːtər/",
+        "phonetic": "[STORM-wor-tuh]",
+        "meaning": "yağmur suyu akışı",
+        "type": "isim",
+        "sentences": [
+          "She found stormwater pollution entering the bay after heavy rain.",
+          "He found his council's stormwater management policy relevant to his building application.",
+          "Stormwater is rainwater that flows over land and into drains and waterways.",
+          "She found stormwater carrying pollutants — oil, sediment, and plastic — directly to the bay.",
+          "He learned that stormwater systems in Australian cities are not treated — unlike sewage.",
+          "Stormwater management is a local government responsibility in Australia.",
+          "She found rain gardens and swales effective for managing stormwater on her property.",
+          "He found the litter in the stormwater drain outside his home traced directly to illegal dumping.",
+          "Stormwater contamination is a significant source of pollution in Australian coastal waterways.",
+          "She describes stormwater as the water most people forget — until it carries away what they discarded."
+        ]
+      },
+      {
+        "word": "green waste",
+        "ipa": "/ɡriːn weɪst/",
+        "phonetic": "[green wayst]",
+        "meaning": "bahçe atıkları",
+        "type": "isim öbeği",
+        "sentences": [
+          "She fills the green waste bin with garden clippings, leaves, and prunings each week.",
+          "He found his council offered quarterly green waste collection for larger branches.",
+          "Green waste is organic garden material including grass clippings, prunings, and fallen leaves.",
+          "She found a green waste composting facility near her suburb accepted garden waste for free.",
+          "He found green waste in general landfill generates methane — a far worse outcome than composting.",
+          "Green waste bins in Australia are processed into mulch and compost by local councils.",
+          "She found garden mulch from council green waste facilities often available free to residents.",
+          "He separated green waste from general waste — one step closer to a zero-waste household.",
+          "Green waste from Australian gardens is a significant resource when diverted from landfill.",
+          "She describes filling the green waste bin as the garden task most satisfyingly connected to the bigger system."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 194,
+    "words": [
+      {
+        "word": "marine park",
+        "ipa": "/məˈriːn pɑːk/",
+        "phonetic": "[muh-REEN park]",
+        "meaning": "deniz parkı, deniz koruma alanı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She snorkelled inside the marine park — fishing was prohibited and the fish were extraordinary.",
+          "He found the Ningaloo Marine Park one of the world's most exceptional coral reef experiences.",
+          "A marine park is a protected area of ocean established to conserve marine ecosystems.",
+          "She found marine park designation dramatically increased fish populations over time.",
+          "He learned that Australia's network of marine parks is among the most extensive in the world.",
+          "Marine parks in Australia restrict fishing, anchoring, and development in designated zones.",
+          "She found the Great Barrier Reef Marine Park the largest coral reef marine park in the world.",
+          "He found volunteering with park rangers in a marine park genuinely educational.",
+          "Marine parks protect habitats including coral reefs, seagrass beds, and kelp forests.",
+          "She describes diving in a marine park as entering a world that has been given permission to be itself."
+        ]
+      },
+      {
+        "word": "carbon offset",
+        "ipa": "/ˈkɑːbən ˈɒfsɛt/",
+        "phonetic": "[KAR-bun OF-set]",
+        "meaning": "karbon dengeleme",
+        "type": "isim öbeği",
+        "sentences": [
+          "She purchases carbon offsets for flights she cannot avoid.",
+          "He found carbon offsets a useful tool but not a substitute for actual emission reduction.",
+          "A carbon offset is a reduction in emissions elsewhere that compensates for emissions produced.",
+          "She found Gold Standard certified carbon offsets the most credible she could purchase.",
+          "He found his airline offering a carbon offset option at booking — he selected it.",
+          "Carbon offsets fund projects including reforestation, renewable energy, and methane capture.",
+          "She found carbon offset quality varies enormously — she researches before purchasing.",
+          "He found the Australian Carbon Credit Unit scheme a domestic offset mechanism.",
+          "Carbon offsets are a bridge strategy — meaningful while deeper decarbonisation occurs.",
+          "She describes a carbon offset as the acknowledgement that her emissions have a cost — and a responsibility."
+        ]
+      },
+      {
+        "word": "invasive species",
+        "ipa": "/ɪnˈveɪsɪv ˈspiːʃiːz/",
+        "phonetic": "[in-VAY-siv SPEE-sheez]",
+        "meaning": "istilacı türler",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the cane toad the most notorious invasive species in Australian environmental history.",
+          "He volunteered with a group controlling invasive species — removing lantana and cat traps.",
+          "Invasive species are non-native organisms that spread and cause harm to ecosystems.",
+          "She found invasive species management one of the most intensive and expensive conservation challenges.",
+          "He found feral cats the most damaging invasive species to Australia's native wildlife.",
+          "Invasive species in Australia include feral pigs, foxes, cats, carp, and dozens of plant species.",
+          "She found biosecurity measures at the border essential for preventing new invasive species arrivals.",
+          "He learned that European rabbits caused extraordinary landscape change in Australia.",
+          "Invasive species management involves trapping, baiting, biological control, and habitat restoration.",
+          "She describes invasive species as the ecological problem that most vividly shows how connected everything is."
+        ]
+      },
+      {
+        "word": "bush tucker",
+        "ipa": "/bʊʃ ˈtʌkər/",
+        "phonetic": "[bush TUK-uh]",
+        "meaning": "Avustralya yerli gıdaları",
+        "type": "isim öbeği",
+        "sentences": [
+          "She attended a bush tucker tour at the botanic garden — tasting wattleseed, quandong, and finger lime.",
+          "He found bush tucker incorporated into fine Australian dining — a growing and overdue movement.",
+          "Bush tucker refers to food sourced from Australia's native plants and animals, used by Aboriginal peoples.",
+          "She found bush tucker flavours unlike anything else — the finger lime caviar was extraordinary.",
+          "He learned about bush tucker on a guided walk with an Aboriginal elder.",
+          "Bush tucker includes quandong, kakadu plum, wattleseed, lemon myrtle, and native herbs.",
+          "She found bush tucker ingredients increasingly available in Australian supermarkets and food markets.",
+          "He found the kakadu plum the highest vitamin C content of any fruit on earth.",
+          "Bush tucker represents tens of thousands of years of knowledge about Australian ecosystems.",
+          "She describes bush tucker as the food vocabulary that most clearly belongs to this continent."
+        ]
+      },
+      {
+        "word": "climate action",
+        "ipa": "/ˈklaɪmɪt ˈækʃən/",
+        "phonetic": "[KLY-mit AK-shun]",
+        "meaning": "iklim eylemi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She joined the School Strike for Climate Action march — thousands in the streets.",
+          "He found climate action the issue that most motivates young Australians he knows.",
+          "Climate action refers to steps taken to reduce greenhouse gas emissions and adapt to climate change.",
+          "She found climate action at the local level — council planning, tree planting, solar — most tangible.",
+          "He found Australian climate action policy the subject of significant political debate over two decades.",
+          "Climate action includes both mitigation — reducing emissions — and adaptation — adjusting to change.",
+          "She found climate action in her workplace growing — sustainability committees and emission targets.",
+          "He found climate action supported by a majority of Australians in polling.",
+          "Climate action is urgent — the Intergovernmental Panel on Climate Change gives a narrow window.",
+          "She describes climate action as the work that determines what kind of country her children inherit."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 195,
+    "words": [
+      {
+        "word": "habitat",
+        "ipa": "/ˈhæbɪtæt/",
+        "phonetic": "[HAB-ih-tat]",
+        "meaning": "doğal yaşam alanı",
+        "type": "isim",
+        "sentences": [
+          "She planted a wildlife corridor in her backyard — connecting habitat between reserves.",
+          "He found the koala's habitat diminishing rapidly due to land clearing.",
+          "Habitat is the natural environment in which a species lives and finds what it needs to survive.",
+          "She found habitat destruction the primary driver of species decline in Australia.",
+          "He found habitat quality more important than area alone — connectivity matters.",
+          "Habitat loss in Australia accelerated through European settlement and continues today.",
+          "She found habitat restoration programs on her regional council's land management agenda.",
+          "He found hollow-bearing trees critical habitat for dozens of Australian species.",
+          "Habitat management includes controlling weeds, managing fire, and restoring native vegetation.",
+          "She describes habitat as the home that a species did not choose but cannot survive without."
+        ]
+      },
+      {
+        "word": "revegetation",
+        "ipa": "/riːˌvɛdʒɪˈteɪʃən/",
+        "phonetic": "[ree-vej-ih-TAY-shun]",
+        "meaning": "yeniden bitkilendirme",
+        "type": "isim",
+        "sentences": [
+          "She planted three hundred native seedlings as part of a revegetation project on the creek.",
+          "He found revegetation work deeply satisfying — returning a degraded site to function.",
+          "Revegetation is the process of replanting native vegetation on land that has been cleared or degraded.",
+          "She found revegetation most successful when using local provenance seed — plants adapted to the site.",
+          "He volunteered with Greening Australia for a revegetation day — mudbooots, gloves, and purpose.",
+          "Revegetation stabilises soil, reduces erosion, and restores wildlife habitat.",
+          "She found revegetation projects funded through regional natural resource management programs.",
+          "He found revegetation of riparian areas — creek banks — the highest ecological priority.",
+          "Revegetation success requires weed control, adequate rainfall, and follow-up care.",
+          "She describes revegetation as the act of returning to a place what was owed."
+        ]
+      },
+      {
+        "word": "drought",
+        "ipa": "/draʊt/",
+        "phonetic": "[drowt]",
+        "meaning": "kuraklık",
+        "type": "isim",
+        "sentences": [
+          "She lived through the Millennium Drought and changed her gardening permanently.",
+          "He found drought the environmental condition most defining of his regional community.",
+          "Drought is an extended period of below-average rainfall causing water shortage.",
+          "She found drought's impact extended far beyond farms — mental health, community cohesion, and wildlife.",
+          "He found his council's water restrictions the most visible sign of the drought.",
+          "Australia is the driest inhabited continent — drought is part of its climate pattern.",
+          "She found the psychological toll of drought on farming communities significant and underreported.",
+          "He found drought-adapted garden plants invaluable during water restrictions.",
+          "Drought frequency and intensity are increasing with climate change in parts of Australia.",
+          "She describes drought as the slow emergency — it builds without urgency until suddenly it is crisis."
+        ]
+      },
+      {
+        "word": "air quality index",
+        "ipa": "/ɛː ˈkwɒlɪti ˈɪndɛks/",
+        "phonetic": "[air KWOL-ih-tee IN-deks]",
+        "meaning": "hava kalitesi endeksi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She checks the air quality index during bushfire season before outdoor exercise.",
+          "He found the air quality index rated hazardous during the 2020 smoke events in Sydney.",
+          "The air quality index is a measure of how clean or polluted the outdoor air is.",
+          "She found the air quality index app on her phone indispensable during smoky conditions.",
+          "He wore a P2 mask when the air quality index reached hazardous — he was not alone.",
+          "Air quality index data in Australia is available from state environmental authorities.",
+          "She found the air quality index a concept most Australians understood after the 2019-20 fires.",
+          "He found children particularly vulnerable to poor air quality — he kept them indoors.",
+          "Air quality index categories range from good through moderate, poor, very poor, to hazardous.",
+          "She describes checking the air quality index as the habit she acquired during the fires and never lost."
+        ]
+      },
+      {
+        "word": "microplastics",
+        "ipa": "/ˈmaɪkroʊˌplæstɪks/",
+        "phonetic": "[MY-kroh-plas-tiks]",
+        "meaning": "mikroplastikler",
+        "type": "isim (çoğul)",
+        "sentences": [
+          "She found microplastics detected in Australian marine animals — a deeply concerning finding.",
+          "He learned that microplastics from synthetic clothing are released in every wash.",
+          "Microplastics are tiny plastic particles less than five millimetres in size.",
+          "She found microplastics present in tap water, sea salt, and seafood.",
+          "He uses a Guppyfriend washing bag to capture microplastics from synthetic clothing.",
+          "Microplastics accumulate in the food chain — their long-term health impacts are being studied.",
+          "She found microplastics present in remote Australian wilderness areas — they travel far.",
+          "He found reducing synthetic fibre clothing purchase the most direct action he could take.",
+          "Microplastics enter waterways from tyres, synthetic clothing, and fragmenting larger plastics.",
+          "She describes microplastics as the pollution problem invisible to the eye but omnipresent in the body."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 196,
+    "words": [
+      {
+        "word": "go-bag",
+        "ipa": "/ˈɡoʊbæɡ/",
+        "phonetic": "[GOH-bag]",
+        "meaning": "acil durum çantası",
+        "type": "isim öbeği",
+        "sentences": [
+          "She prepared a go-bag for bushfire season — important documents, medication, and essentials.",
+          "He found the go-bag checklist from Queensland Fire and Emergency Services comprehensive.",
+          "A go-bag is a bag packed with essentials ready for rapid evacuation in an emergency.",
+          "She reviewed her go-bag annually — medications expire, documents change.",
+          "He found his go-bag the most important preparation for living in a bushfire-prone area.",
+          "Go-bags should include water, food, medications, documents, phone charger, and clothing.",
+          "She found peace of mind from having her go-bag ready — the decision is already made.",
+          "He added a portable phone battery to his go-bag after seeing how long evacuations lasted.",
+          "Go-bags are recommended for all Australians in disaster-prone areas.",
+          "She describes preparing the go-bag as the act that acknowledges reality — and responds with readiness."
+        ]
+      },
+      {
+        "word": "bushfire survival plan",
+        "ipa": "/ˈbʊʃfaɪər səˈvaɪvəl plæn/",
+        "phonetic": "[BUSH-fy-uh suh-VY-vul plan]",
+        "meaning": "orman yangını hayatta kalma planı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She completed a Bushfire Survival Plan with her family — they all know the trigger and the route.",
+          "He found the Bushfire Survival Plan template from the Rural Fire Service clear and comprehensive.",
+          "A Bushfire Survival Plan outlines when to leave, where to go, and what to take.",
+          "She found the core message of the Bushfire Survival Plan: leaving early is always safer.",
+          "He found the plan most valuable when agreed upon calmly, before the season began.",
+          "Bushfire Survival Plans are promoted by fire authorities across all fire-prone states.",
+          "She found the plan required conversations she had avoided — they were necessary and valuable.",
+          "He registered his Bushfire Survival Plan with the local fire brigade — they could help if needed.",
+          "A Bushfire Survival Plan covers trigger conditions, meeting points, and communication.",
+          "She describes the Bushfire Survival Plan as the most serious conversation her family has annually."
+        ]
+      },
+      {
+        "word": "SES",
+        "ipa": "/ɛs iː ɛs/",
+        "phonetic": "[es ee es]",
+        "meaning": "Devlet Acil Durum Servisi",
+        "type": "kısaltma / özel isim",
+        "sentences": [
+          "She called the SES when the roof was damaged in the hailstorm.",
+          "He volunteers with the SES — he attends training every fortnight.",
+          "The SES is the State Emergency Service — a volunteer emergency organisation in each state.",
+          "She found the SES response after the flood fast and professional.",
+          "He joined the SES after the 2011 Queensland floods — he wanted to be part of the response.",
+          "SES volunteers respond to storms, floods, road crashes, and other emergencies.",
+          "She found the SES app the most practical storm safety tool on her phone.",
+          "He found SES training included chainsaw operation, flood rescue, and damage assessment.",
+          "SES volunteers number over forty thousand across Australia — largely unrecognised heroes.",
+          "She describes the SES as the organisation most visibly present when the emergency is at its worst."
+        ]
+      },
+      {
+        "word": "ecological footprint",
+        "ipa": "/ˌiːkəˈlɒdʒɪkəl ˈfʊtprɪnt/",
+        "phonetic": "[ee-kuh-LOJ-ih-kul FOOT-print]",
+        "meaning": "ekolojik ayak izi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She calculated her ecological footprint — it took three Earths to sustain her lifestyle.",
+          "He found the ecological footprint concept broader than carbon — it includes water and land use.",
+          "An ecological footprint measures how much biologically productive land and water a person requires.",
+          "She found Australians have one of the largest ecological footprints per person globally.",
+          "He found reducing his ecological footprint required changes in diet, transport, and consumption.",
+          "Ecological footprint calculators are available from the Global Footprint Network.",
+          "She found the ecological footprint a useful framework for understanding systemic impact.",
+          "He found the ecological footprint of meat production particularly significant in the calculation.",
+          "Ecological footprint reduction involves lifestyle change and advocacy for systemic reform.",
+          "She describes the ecological footprint as the honest accounting of what her life costs the planet."
+        ]
+      },
+      {
+        "word": "citizen science",
+        "ipa": "/ˈsɪtɪzən ˈsaɪəns/",
+        "phonetic": "[SIT-ih-zun SY-uns]",
+        "meaning": "vatandaş bilimi (gönüllü veri toplama)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She records bird sightings through eBird — her data contributes to citizen science.",
+          "He participates in the Great Backyard Bird Count — Australia's largest citizen science event.",
+          "Citizen science is scientific research conducted with the participation of the general public.",
+          "She found citizen science the most accessible way to contribute meaningfully to environmental research.",
+          "He uses the iNaturalist app to photograph and identify species — every observation matters.",
+          "Citizen science programs in Australia collect data on birds, plants, insects, and water quality.",
+          "She found her citizen science observations submitted to the Atlas of Living Australia.",
+          "He found the annual frog census a beloved citizen science tradition across Australia.",
+          "Citizen science extends the reach of researchers enormously — millions of observations from non-scientists.",
+          "She describes citizen science as the practice that made her a participant in understanding, not just a resident."
+        ]
+      }
+    ]
+  }
+]

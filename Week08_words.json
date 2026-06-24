@@ -1,0 +1,702 @@
+[
+  {
+    "day": 50,
+    "words": [
+      {
+        "word": "Woolworths",
+        "ipa": "/ˈwʊlwɜːθs/",
+        "phonetic": "[WOOL-wurths]",
+        "meaning": "Avustralya'nın en büyük süpermarket zincirlerinden biri (Woolies)",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She does her weekly shopping at Woolworths because it is closest to her house.",
+          "He noticed Woolworths had a half-price special on pasta — he bought six packets.",
+          "Woolworths and Coles are the two dominant supermarket chains in Australia.",
+          "She downloaded the Woolworths app to access digital catalogues and weekly specials.",
+          "He collected Woolworths Everyday Rewards points on every shop for discounted fuel.",
+          "She compared the prices at Woolworths and Aldi before deciding where to shop that week.",
+          "He found the self-service checkout at Woolworths much quicker during the lunch rush.",
+          "She ordered her Woolworths groceries online and had them delivered the next morning.",
+          "He checked the Woolworths app the night before to plan meals around what was on special.",
+          "She picked up the Woolworths home-brand products and found them excellent value."
+        ]
+      },
+      {
+        "word": "Coles",
+        "ipa": "/koʊlz/",
+        "phonetic": "[kohlz]",
+        "meaning": "Avustralya'nın büyük süpermarket zinciri",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "He stops at Coles on the way home from the train station two or three times a week.",
+          "She found the Coles own-brand products good quality at a lower price than name brands.",
+          "Coles runs a half-price catalogue every Wednesday that she browses to plan the week's meals.",
+          "He earned Flybuys points on every Coles purchase and redeemed them for a free shop.",
+          "She appreciated that Coles had extended trading hours during the festive season.",
+          "He used the Coles app to scan and go — skipping the checkout queue entirely.",
+          "She joined the Coles Little Shop promotion for her children and they were very excited.",
+          "He found the Coles deli section well-stocked with a good range of international cheeses.",
+          "She bought Coles home-brand cleaning products and found them as effective as the name brands.",
+          "He pre-ordered the Coles Christmas hamper online in October to avoid the December rush."
+        ]
+      },
+      {
+        "word": "Aldi",
+        "ipa": "/ˈɑːldi/",
+        "phonetic": "[AL-dee]",
+        "meaning": "Avustralya'nın indirimli süpermarketi",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She switched to Aldi for the bulk of her grocery shopping and saved forty dollars a week.",
+          "He discovered Aldi's Special Buys aisle and started checking it every Wednesday and Saturday.",
+          "Aldi offers a limited but carefully selected range of products at very competitive prices.",
+          "She buys fruit, vegetables, and dairy at Aldi and tops up with specialty items elsewhere.",
+          "He was impressed by the quality of Aldi's home-brand pasta, olive oil, and cheese.",
+          "She arrived at Aldi early to get the Special Buys items before they sold out.",
+          "He found Aldi's own-brand coffee beans surprisingly good compared to far more expensive brands.",
+          "She bags her groceries directly into her reusable bags at the Aldi checkout.",
+          "He noticed Aldi does not accept Eftpos for purchases under a certain amount.",
+          "She introduced a friend to Aldi and watched her convert completely within three shops."
+        ]
+      },
+      {
+        "word": "Bunnings",
+        "ipa": "/ˈbʌnɪŋz/",
+        "phonetic": "[BUN-ingz]",
+        "meaning": "Avustralya'nın büyük hırdavat ve yapı marketi (Bunnings Warehouse)",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "He spent three hours at Bunnings on Saturday and came home with everything except what he needed.",
+          "She picked up the garden hose, potting mix, and seedlings from Bunnings in one trip.",
+          "Bunnings is as much a cultural institution in Australia as it is a hardware store.",
+          "He got the sausage sizzle at the Bunnings entrance before heading inside.",
+          "She compared prices online before going to Bunnings to make sure she was getting the best deal.",
+          "He asked a Bunnings team member to help him find the right-sized drill bit for the job.",
+          "She put on her orange apron for a costume party and people kept asking for gardening advice.",
+          "He went to Bunnings for a single lightbulb and left ninety minutes later with a trolley full.",
+          "Bunnings has a lowest price guarantee — if you find it cheaper, they match or beat the price.",
+          "She attended a free Bunnings workshop on weekend and learned how to tile a bathroom floor."
+        ]
+      },
+      {
+        "word": "Big W",
+        "ipa": "/bɪɡ ˈdʌbljuː/",
+        "phonetic": "[big DUB-ul-yoo]",
+        "meaning": "Avustralya'nın ucuz genel mağaza zinciri",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She bought school uniforms, stationery, and lunchboxes all in one trip to Big W.",
+          "He found the Big W toy section a great source for birthday gifts at reasonable prices.",
+          "Big W is often the most affordable option for clothing, homewares, and everyday items.",
+          "She picked up a set of bath towels and a doormat from Big W during the half-yearly sale.",
+          "He bought new sheets and a pillow from Big W and was happy with the quality.",
+          "She buys children's clothing from Big W for school because the kids grow out of it so quickly.",
+          "He found Big W's electronics range surprisingly good for the price.",
+          "She checked the Big W catalogue online before going in to identify the best current deals.",
+          "He appreciated that Big W offered lay-by as a payment option in the lead-up to Christmas.",
+          "She compared prices between Big W and Kmart before buying the kitchen appliance."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 51,
+    "words": [
+      {
+        "word": "Kmart",
+        "ipa": "/ˈkeɪmɑːt/",
+        "phonetic": "[KAY-mart]",
+        "meaning": "Avustralya'nın popüler ucuz ev eşyaları ve giyim mağazası",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She decorated her entire living room with items from Kmart for under two hundred dollars.",
+          "He found a Kmart dupe of an expensive candle holder and the quality was nearly identical.",
+          "Kmart has developed a cult following in Australia for affordable and stylish homewares.",
+          "She browsed the Kmart website late at night and added far too many things to her cart.",
+          "He bought a pair of jeans and a jacket from Kmart and was genuinely impressed.",
+          "She showed her friends a Kmart room makeover she completed for less than fifty dollars.",
+          "He found the Kmart baby and toddler range excellent value for something kids outgrow so fast.",
+          "She keeps a list of things she wants from Kmart and buys them when they go on clearance.",
+          "He went to Kmart for one thing and came out with a full trolley — the usual outcome.",
+          "She joined a Facebook group dedicated to Kmart hacks and home styling on a budget."
+        ]
+      },
+      {
+        "word": "Eftpos",
+        "ipa": "/ˈɛftpɒs/",
+        "phonetic": "[EFT-pos]",
+        "meaning": "elektronik satış noktası ödeme sistemi (Avustralya'ya özgü)",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She tapped her card on the Eftpos machine and the payment went through instantly.",
+          "He was told the Eftpos machine was down — cash only — and he had none.",
+          "Eftpos is Australia's own debit card payment system separate from Visa and Mastercard.",
+          "She checked whether the small market stall had an Eftpos reader before leaving her cash at home.",
+          "He chose the Cheque or Savings option on the Eftpos machine to use his debit account.",
+          "Eftpos transactions in Australia are typically processed at no additional cost to the consumer.",
+          "She tapped her phone on the Eftpos terminal using a digital wallet instead of her card.",
+          "He noticed the Eftpos receipt showed the merchant name, amount, and card type used.",
+          "Eftpos machines are found in virtually every retail store, café, and market in Australia.",
+          "She was relieved when the Eftpos machine worked — she had no cash and the café was busy."
+        ]
+      },
+      {
+        "word": "lay-by",
+        "ipa": "/leɪ baɪ/",
+        "phonetic": "[lay by]",
+        "meaning": "ürünü taksitle ayırtma sistemi (teslim alma önceden tam ödeme)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She put the television on lay-by eight weeks before Christmas to spread the cost.",
+          "He used lay-by for the children's Christmas presents to avoid a large one-off payment.",
+          "Lay-by allows you to reserve an item and pay it off in instalments before taking it home.",
+          "She paid off the lay-by early and collected the item in time for the birthday.",
+          "He found lay-by a responsible alternative to using a credit card for big purchases.",
+          "She set up a monthly lay-by payment directly after pay day so she did not forget.",
+          "He cancelled the lay-by when he found the same item cheaper at another store.",
+          "Lay-by does not charge interest — it is simply a deferred payment and collection arrangement.",
+          "She checked the store's lay-by cancellation policy before starting the arrangement.",
+          "He used lay-by at Big W to secure the last bike in stock before the Christmas rush."
+        ]
+      },
+      {
+        "word": "specials",
+        "ipa": "/ˈspɛʃəlz/",
+        "phonetic": "[SPESH-ulz]",
+        "meaning": "haftalık indirimler, özel fiyatlı ürünler",
+        "type": "isim (çoğul)",
+        "sentences": [
+          "She browses the Coles and Woolworths specials each week and plans meals around them.",
+          "He only bought the items on his list plus anything on the specials that was genuinely useful.",
+          "The specials change every Wednesday at Coles — she checks online the night before.",
+          "She stocked up on pasta and tinned tomatoes when they were on the specials.",
+          "He learned that specials are often half price for a week — and gone the following week.",
+          "She taught her children to look for specials on the staples they buy every week.",
+          "He subscribed to the supermarket email list so the specials arrived in his inbox automatically.",
+          "She found the specials on cleaning products in summer saved her a significant amount.",
+          "He bought a full case of the coffee on special — it was a sixty percent saving.",
+          "She compared the specials across supermarkets using a price-comparison app on her phone."
+        ]
+      },
+      {
+        "word": "self-checkout",
+        "ipa": "/sɛlf ˈtʃɛkaʊt/",
+        "phonetic": "[self CHEK-owt]",
+        "meaning": "self-servis kasa",
+        "type": "isim öbeği",
+        "sentences": [
+          "She used the self-checkout because she only had six items and the manned checkouts were busy.",
+          "He found the self-checkout faster for a small basket but frustrating with a full trolley.",
+          "The self-checkout announced unexpected item in the bagging area and called for assistance.",
+          "She scanned every item carefully at the self-checkout to avoid any errors.",
+          "He preferred the manned checkout for fresh produce that needed to be weighed and coded.",
+          "The self-checkout machine accepted her credit card, cash, and a digital wallet tap.",
+          "She appreciated that the self-checkout allowed her to leave the supermarket faster.",
+          "He had a coupon to redeem at the self-checkout and needed assistance from the attendant.",
+          "The self-checkout area was supervised by a staff member who helped when issues arose.",
+          "She weighed the loose vegetables on the self-checkout scale before selecting the product code."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 52,
+    "words": [
+      {
+        "word": "Boxing Day sales",
+        "ipa": "/ˈbɒksɪŋ deɪ seɪlz/",
+        "phonetic": "[BOK-sing day saylz]",
+        "meaning": "26 Aralık'ta başlayan yılın en büyük indirim günleri",
+        "type": "isim öbeği",
+        "sentences": [
+          "She queued outside the department store at five AM to get into the Boxing Day sales.",
+          "He bought a new television during the Boxing Day sales at forty percent off.",
+          "The Boxing Day sales are the biggest retail event in the Australian shopping calendar.",
+          "She avoided the Boxing Day sales in person and shopped the online deals from home.",
+          "He planned his Boxing Day sales purchases weeks in advance by watching prices.",
+          "The Boxing Day sales traditionally start at midnight online and at six AM in stores.",
+          "She found a washing machine in the Boxing Day sales that was a genuine bargain.",
+          "He was surprised by how crowded the shopping centre was — thousands of people queuing.",
+          "She set a budget for the Boxing Day sales and committed to not spending above it.",
+          "He found that many Boxing Day sales deals were available for the entire week between Christmas and New Year."
+        ]
+      },
+      {
+        "word": "EOFY sale",
+        "ipa": "/iːoʊɛfwaɪ seɪl/",
+        "phonetic": "[ee-oh-EFF-why sayl]",
+        "meaning": "mali yıl sonu indirimi (30 Haziran öncesi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She bought a new laptop during the EOFY sale and claimed it as a work deduction.",
+          "He upgraded his work equipment during the EOFY sale to maximise his tax deduction.",
+          "EOFY stands for end of financial year — the sale runs through June each year.",
+          "She planned her major purchases for the EOFY sale period to get the best prices.",
+          "He bought office furniture during the EOFY sale and claimed the full amount as a deduction.",
+          "The EOFY sale is the best time to buy electronics, furniture, and homewares in Australia.",
+          "She set aside a portion of the tax refund to spend at the next EOFY sale.",
+          "He subscribed to retailer emails to receive early access to EOFY sale offers.",
+          "The EOFY sale at the car dealership offered the strongest discounts she had seen all year.",
+          "She bought a printer for her home office during the EOFY sale for thirty percent off."
+        ]
+      },
+      {
+        "word": "receipt",
+        "ipa": "/rɪˈsiːt/",
+        "phonetic": "[rih-SEET]",
+        "meaning": "fiş, makbuz",
+        "type": "isim",
+        "sentences": [
+          "She kept every receipt from work-related purchases in a folder for her tax return.",
+          "He asked for a receipt when he paid cash so he had proof of the transaction.",
+          "The shop offered an email receipt instead of a printed one — she chose the digital option.",
+          "She returned the faulty item and the shop asked for the original receipt.",
+          "He photographed every receipt with his phone and stored them in a cloud folder.",
+          "She checked the receipt at the register after noticing the special price had not applied.",
+          "He found an old receipt at the bottom of his bag and realised the item was still under warranty.",
+          "She gave the receipt to her accountant along with all her other work-related purchases.",
+          "He always checks his receipt before leaving the shop to make sure everything is correct.",
+          "She needed a tax invoice receipt — not just a basic one — for the work expense claim."
+        ]
+      },
+      {
+        "word": "trolley",
+        "ipa": "/ˈtrɒli/",
+        "phonetic": "[TROL-ee]",
+        "meaning": "alışveriş arabası",
+        "type": "isim",
+        "sentences": [
+          "She needed a trolley coin to unlock a shopping trolley at the Aldi entrance.",
+          "He filled the trolley to the brim — a full week of groceries for the whole family.",
+          "The shopping centre had a new fleet of trolleys that were smoother and easier to steer.",
+          "She let her toddler sit in the trolley seat while she shopped — much easier than holding his hand.",
+          "He returned the trolley to the bay after loading the car — always, without fail.",
+          "The trolley bay was far from where she parked — she made the trip anyway.",
+          "He hated the trolley with the wobbly wheel — he swapped it immediately at the entrance.",
+          "She packed her reusable bags directly into the trolley to make loading the car faster.",
+          "He raced his daughter around the supermarket with the trolley — she steered, he pushed.",
+          "She found the trolley return at Aldi gave her back the coin — a satisfying system."
+        ]
+      },
+      {
+        "word": "reusable bag",
+        "ipa": "/riːˈjuːzəbl bæɡ/",
+        "phonetic": "[ree-YOO-zuh-bul bag]",
+        "meaning": "yeniden kullanılabilir alışveriş çantası",
+        "type": "isim öbeği",
+        "sentences": [
+          "She keeps a stack of reusable bags in the car boot so she is never without one.",
+          "He forgot his reusable bag and bought a green bag at the checkout — again.",
+          "Australia banned single-use plastic bags at major supermarkets — reusable bags are now standard.",
+          "She bought a lightweight foldable reusable bag that fits into her handbag.",
+          "He has accumulated thirty reusable bags over the years — more than he will ever need.",
+          "She chose a reusable bag made from recycled bottles as her favourite everyday grocery carrier.",
+          "He packed the reusable bags with the heaviest items at the bottom to avoid tearing.",
+          "She donated her excess reusable bags to a food bank that distributed them to clients.",
+          "He customised a reusable bag with his favourite band logo — practical and a conversation starter.",
+          "She set a rule — no reusable bag means no shopping trip — it finally broke the forgetting habit."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 53,
+    "words": [
+      {
+        "word": "op shop",
+        "ipa": "/ɒp ʃɒp/",
+        "phonetic": "[op shop]",
+        "meaning": "ikinci el hayır amaçlı mağaza",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found a vintage blazer in the op shop for four dollars — it became her favourite jacket.",
+          "He donated three bags of clothes to the op shop after clearing out his wardrobe.",
+          "Op shops are charity-run second-hand stores — profits go to organisations like the Salvos or Vinnies.",
+          "She takes her children to the op shop for books and toys — excellent value and sustainable.",
+          "He scored a near-new set of golf clubs from the op shop for twenty dollars.",
+          "Op shopping has become increasingly popular with young Australians who value sustainability.",
+          "She checks the op shop near her workplace every Friday lunchtime for new arrivals.",
+          "He found a first-edition novel at the op shop and could not believe it had been donated.",
+          "Op shops in wealthy suburbs often have higher quality donations than those in other areas.",
+          "She ran an op shop styling challenge where she created an entire outfit for under fifteen dollars."
+        ]
+      },
+      {
+        "word": "Vinnies",
+        "ipa": "/ˈvɪniz/",
+        "phonetic": "[VIN-eez]",
+        "meaning": "St Vincent de Paul Society mağazaları (op shop zinciri)",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She donated her old furniture to Vinnies when she moved to a smaller apartment.",
+          "He found an almost-new winter coat at Vinnies for eight dollars.",
+          "Vinnies is the popular name for the St Vincent de Paul Society's chain of op shops.",
+          "She volunteers at Vinnies on Saturday mornings sorting donations and helping customers.",
+          "He was grateful for the Vinnies emergency hamper when he was going through a tough time.",
+          "Vinnies uses its op shop profits to fund welfare services for people in financial crisis.",
+          "She bought her daughter a complete school uniform from Vinnies at the start of the year.",
+          "He dropped off six boxes of books at Vinnies and the staff were genuinely grateful.",
+          "Vinnies has a no-questions-asked assistance policy for people in genuine financial need.",
+          "She found Vinnies the best of the local op shops for quality and variety."
+        ]
+      },
+      {
+        "word": "Salvos",
+        "ipa": "/ˈsælvoʊz/",
+        "phonetic": "[SAL-vohz]",
+        "meaning": "Kurtuluş Ordusu mağazaları ve yardım kuruluşu",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She bought a set of plates and cups from the Salvos for the beach house.",
+          "He called the Salvos when his neighbour needed emergency food relief over Christmas.",
+          "The Salvos — short for the Salvation Army — run both op shops and community welfare programs.",
+          "She donates unused Christmas gifts to the Salvos appeal each year.",
+          "He volunteered at the Salvos soup kitchen on Christmas Day for the third year running.",
+          "The Salvos op shop near the train station had a great selection of vintage homewares.",
+          "She dropped off a bag of warm coats at the Salvos before winter arrived.",
+          "He found the Salvos incredibly helpful when he was transitioning out of homelessness.",
+          "The Salvos red shield appeal raises funds for community welfare programs across Australia.",
+          "She bought all the costumes for the school play from the Salvos for under thirty dollars."
+        ]
+      },
+      {
+        "word": "Gumtree",
+        "ipa": "/ˈɡʌmtriː/",
+        "phonetic": "[GUM-tree]",
+        "meaning": "Avustralya'nın ikinci el eşya ve ilan sitesi",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She sold her old sofa on Gumtree within two hours of posting the listing.",
+          "He found a second-hand mountain bike on Gumtree in excellent condition for half the retail price.",
+          "Gumtree is Australia's largest classified advertising website for buying and selling locally.",
+          "She bought a second-hand cot, high chair, and pram through Gumtree before the baby arrived.",
+          "He always includes clear photos and a fair price when listing items on Gumtree.",
+          "She met the buyer from Gumtree in a public place and brought a friend for safety.",
+          "He searched Gumtree for a specific camera lens and found a perfect one locally.",
+          "She cleared out the garage using Gumtree and made over five hundred dollars in a weekend.",
+          "He checked Gumtree before buying new — he often found what he needed for far less.",
+          "She found a free section on Gumtree and picked up a near-new bookshelf the same day."
+        ]
+      },
+      {
+        "word": "Facebook Marketplace",
+        "ipa": "/ˈfeɪsbʊk ˈmɑːkɪtpleɪs/",
+        "phonetic": "[FAYS-book MAR-kit-plays]",
+        "meaning": "Facebook'un ikinci el alışveriş platformu",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She sold the old dining table on Facebook Marketplace the same afternoon she listed it.",
+          "He found a barely-used gym bench on Facebook Marketplace for forty dollars.",
+          "Facebook Marketplace has become a major platform for buying and selling second-hand goods locally.",
+          "She built almost all her furniture from Facebook Marketplace finds over three years.",
+          "He always checks Facebook Marketplace before buying anything new.",
+          "She was cautious on Facebook Marketplace — she only met buyers in public spaces.",
+          "He listed his spare car parts on Facebook Marketplace and cleared the shed within two weeks.",
+          "She checked the seller's profile before agreeing to buy through Facebook Marketplace.",
+          "He found a free piano through Facebook Marketplace — the owner just wanted it gone.",
+          "She appreciates that Facebook Marketplace shows listings from within her local area first."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 54,
+    "words": [
+      {
+        "word": "shopping centre",
+        "ipa": "/ˈʃɒpɪŋ ˈsɛntə/",
+        "phonetic": "[SHOP-ing SEN-tuh]",
+        "meaning": "alışveriş merkezi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She spent Saturday afternoon at the shopping centre returning a gift and finding something better.",
+          "He met friends at the food court in the shopping centre for lunch.",
+          "The new shopping centre opened with over two hundred stores and a full-sized cinema.",
+          "She avoided the shopping centre on the weekend before Christmas — the crowds were overwhelming.",
+          "He took his car to the mechanic in the shopping centre car park while he shopped.",
+          "She used the parent's room in the shopping centre to feed the baby in privacy.",
+          "He found the shopping centre air conditioning a welcome relief on a forty-degree day.",
+          "The shopping centre was evacuated after a fire alarm — it turned out to be a false alarm.",
+          "She collected a click-and-collect parcel from the store in the shopping centre.",
+          "He spent too much time in the shopping centre and lost track of where he parked the car."
+        ]
+      },
+      {
+        "word": "click and collect",
+        "ipa": "/klɪk ænd kəˈlɛkt/",
+        "phonetic": "[klik and kuh-LEKT]",
+        "meaning": "online sipariş edip mağazadan teslim alma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She used click and collect at Woolworths to avoid walking around the supermarket.",
+          "He ordered the item online and chose click and collect to get it faster than home delivery.",
+          "Click and collect lets you order online and pick up from the store — often within two hours.",
+          "She picked up her click and collect order from the Bunnings drive-through bay.",
+          "He chose click and collect because he needed the item the same day and delivery was too slow.",
+          "She was notified by text when her click and collect order was ready.",
+          "He found click and collect at Coles much faster than his regular weekly shop in store.",
+          "She uses click and collect for bulky items she does not want to carry on public transport.",
+          "He appreciated that click and collect allowed him to plan exactly when to pick up the order.",
+          "She switched to click and collect groceries during the busy period and never looked back."
+        ]
+      },
+      {
+        "word": "price match",
+        "ipa": "/praɪs mætʃ/",
+        "phonetic": "[prys match]",
+        "meaning": "fiyat eşitleme garantisi",
+        "type": "isim / fiil",
+        "sentences": [
+          "She asked the retailer to price match the item she found cheaper at a competitor.",
+          "He showed the staff member a screenshot of the lower price and it was price matched immediately.",
+          "Many major Australian retailers offer a price match guarantee on identical items.",
+          "She always checks whether a store will price match before paying a higher price.",
+          "He price matched the television at Harvey Norman after finding it cheaper at JB Hi-Fi.",
+          "The staff member checked the competitor's website and confirmed the price match was valid.",
+          "She saved sixty dollars by asking for a price match on the coffee machine.",
+          "He was pleasantly surprised — the retailer not only price matched but also gave ten percent off.",
+          "Price matching usually requires the item to be identical, in stock, and available locally.",
+          "She made price matching a standard step in every major purchase decision."
+        ]
+      },
+      {
+        "word": "warranty",
+        "ipa": "/ˈwɒrənti/",
+        "phonetic": "[WOR-un-tee]",
+        "meaning": "garanti belgesi, ürün güvencesi",
+        "type": "isim",
+        "sentences": [
+          "She registered the appliance online to activate the manufacturer's warranty.",
+          "He kept all receipts and warranty cards in a dedicated folder in the filing cabinet.",
+          "The fridge broke down within the two-year warranty period — it was replaced at no cost.",
+          "She checked the warranty terms before deciding between the two vacuum cleaner models.",
+          "He discovered Australian Consumer Law provides automatic guarantees that supplement any written warranty.",
+          "She was told the warranty was void because the item had been repaired by an unlicensed technician.",
+          "He extended the warranty at the point of sale and was glad he did when the laptop failed.",
+          "Under Australian Consumer Law, a retailer cannot simply redirect customers to the manufacturer for warranty claims.",
+          "She found the warranty terms online before the receipt expired and was able to make a claim.",
+          "He photographed the warranty document so he had a backup digital copy."
+        ]
+      },
+      {
+        "word": "consumer rights",
+        "ipa": "/kənˈsjuːmə raɪts/",
+        "phonetic": "[kun-SYOO-muh ryts]",
+        "meaning": "tüketici hakları",
+        "type": "isim öbeği",
+        "sentences": [
+          "She knew her consumer rights and insisted on a replacement when the faulty product was not fixed.",
+          "He looked up the ACCC website to understand his consumer rights before contacting the retailer.",
+          "Australian consumer rights are among the strongest in the world under Australian Consumer Law.",
+          "She asserted her consumer rights when the shop refused to give a refund on a faulty item.",
+          "He was told the store policy was no refunds — he correctly pointed out consumer rights supersede store policy.",
+          "She filed a complaint with Consumer Affairs Victoria after the retailer refused to honour her rights.",
+          "He found the consumer rights section of the ACCC website clear and easy to understand.",
+          "Australian Consumer Law guarantees that products must be of acceptable quality, fit for purpose, and match their description.",
+          "She encouraged her friend to know their consumer rights after they were overcharged.",
+          "He used consumer rights legislation to get a full refund on an unsafe electrical appliance."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 55,
+    "words": [
+      {
+        "word": "Harvey Norman",
+        "ipa": "/ˈhɑːvi ˈnɔːmən/",
+        "phonetic": "[HAR-vee NOR-mun]",
+        "meaning": "Avustralya'nın büyük elektronik ve ev eşyaları mağazası",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She bought a new refrigerator from Harvey Norman and took advantage of the interest-free payment plan.",
+          "He browsed Harvey Norman for a new television before comparing prices online.",
+          "Harvey Norman stocks electronics, appliances, furniture, bedding, and flooring.",
+          "She used the Harvey Norman EOFY sale to buy a new laptop at a substantial discount.",
+          "He found the Harvey Norman staff knowledgeable about the differences between the models.",
+          "She haggled on the price at Harvey Norman and got an extra fifty dollars off.",
+          "He bought the extended warranty at Harvey Norman after his previous appliance broke down.",
+          "She chose Harvey Norman for the interest-free offer — twelve months with no extra cost.",
+          "He compared the Harvey Norman price to JB Hi-Fi and asked for a price match.",
+          "She ordered the mattress online from Harvey Norman and had it delivered and installed."
+        ]
+      },
+      {
+        "word": "JB Hi-Fi",
+        "ipa": "/dʒeɪbiː haɪˈfaɪ/",
+        "phonetic": "[jay-bee HY-fy]",
+        "meaning": "Avustralya'nın büyük elektronik mağazası",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "He bought a new gaming console from JB Hi-Fi and had it set up by the afternoon.",
+          "She browsed the JB Hi-Fi music section and was impressed by the vinyl record range.",
+          "JB Hi-Fi is known for competitive pricing on electronics, music, and entertainment products.",
+          "He found the JB Hi-Fi staff enthusiastic and genuinely knowledgeable about products.",
+          "She checked JB Hi-Fi online before going to the store to know the price beforehand.",
+          "He asked JB Hi-Fi to price match a camera lens he found cheaper on another website.",
+          "She bought a soundbar and smart speaker from JB Hi-Fi during the mid-year sale.",
+          "He found the JB Hi-Fi catalogue useful for tracking which products were on sale each week.",
+          "She appreciated that JB Hi-Fi offered free setup advice with every television purchase.",
+          "He had always bought electronics from JB Hi-Fi and had never had a problem with their service."
+        ]
+      },
+      {
+        "word": "chemist warehouse",
+        "ipa": "/ˈkɛmɪst ˈwɛəhaʊs/",
+        "phonetic": "[KEM-ist WAIR-hows]",
+        "meaning": "Avustralya'nın büyük indirimli eczane zinciri",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She bought her vitamins, skincare, and over-the-counter medicines from Chemist Warehouse.",
+          "He found sunscreen significantly cheaper at Chemist Warehouse than at the supermarket.",
+          "Chemist Warehouse is known for heavily discounted health, beauty, and pharmaceutical products.",
+          "She stocked up on allergy tablets at Chemist Warehouse when they were on a two-for-one deal.",
+          "He browsed the Chemist Warehouse app for the best prices before visiting the store.",
+          "She used Chemist Warehouse for her regular prescription — the dispensing fee was lower there.",
+          "He bought his partner's perfume at Chemist Warehouse at nearly half the department store price.",
+          "She found the Chemist Warehouse baby range very affordable for nappies and formula.",
+          "He compared Chemist Warehouse prices with the supermarket and saved forty percent on vitamins.",
+          "She signed up for the Chemist Warehouse loyalty program for extra discounts and offers."
+        ]
+      },
+      {
+        "word": "David Jones",
+        "ipa": "/ˈdeɪvɪd dʒoʊnz/",
+        "phonetic": "[DAY-vid johnz]",
+        "meaning": "Avustralya'nın üst segment alışveriş merkezi",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She treated herself to a new perfume from the David Jones beauty counter.",
+          "He bought a quality wool suit from David Jones for his sister's wedding.",
+          "David Jones is Australia's oldest department store chain, known for quality and prestige.",
+          "She visited the David Jones food hall for a special occasion hamper.",
+          "He proposed to use the David Jones gift registry for the wedding.",
+          "She enjoyed browsing David Jones at Christmas — the window displays were spectacular.",
+          "He found the David Jones January sales a good time to buy quality clothing at reduced prices.",
+          "She bought a classic leather handbag from David Jones as a significant birthday gift to herself.",
+          "He used the David Jones card for the rewards points — they added up to a meaningful amount.",
+          "She found the David Jones personal shopper service helpful when buying a gift for her mother."
+        ]
+      },
+      {
+        "word": "loyalty card",
+        "ipa": "/ˈlɔɪəlti kɑːd/",
+        "phonetic": "[LOY-ul-tee kard]",
+        "meaning": "sadakat kartı, puan kartı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She handed over her loyalty card before paying so the points were credited to her account.",
+          "He collected enough Flybuys loyalty card points to cover an entire Christmas grocery shop.",
+          "Most major Australian retailers and supermarkets offer a loyalty card rewards program.",
+          "She signed up for the café loyalty card and earned a free coffee after every ten.",
+          "He checked his loyalty card balance online and was surprised how many points had accumulated.",
+          "She uses her loyalty card consistently and redeems points strategically for maximum value.",
+          "He forgot his loyalty card and was told the points could not be added retrospectively.",
+          "She scanned the digital loyalty card on her phone — she had replaced all her physical cards.",
+          "He found that loyalty card programs were worth joining even if he only shopped occasionally.",
+          "She reviewed which loyalty card programs were genuinely rewarding and cancelled the rest."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 56,
+    "words": [
+      {
+        "word": "surcharge",
+        "ipa": "/ˈsɜːtʃɑːdʒ/",
+        "phonetic": "[SUR-charj]",
+        "meaning": "ek ücret (kart ödemesi, hafta sonu veya tatil günü için)",
+        "type": "isim",
+        "sentences": [
+          "She noticed a 1.5 percent surcharge on credit card payments at the café.",
+          "He was surprised by the weekend surcharge on his restaurant bill — ten percent was added.",
+          "Australian restaurants and cafés may legally apply a surcharge on public holidays.",
+          "She asked about the surcharge before ordering — it was clearly displayed on the menu.",
+          "He chose to pay with his debit card to avoid the credit card surcharge.",
+          "Surcharges on card payments in Australia cannot exceed the actual cost to the merchant.",
+          "She appreciated that the menu displayed the weekend surcharge amount upfront.",
+          "He tipped in cash to avoid the surcharge on the card transaction.",
+          "She did not mind the holiday surcharge — it helped ensure staff were paid a fair rate.",
+          "He found the surcharge policy differed between venues — some absorbed the cost entirely."
+        ]
+      },
+      {
+        "word": "public holiday",
+        "ipa": "/ˈpʌblɪk ˈhɒlɪdeɪ/",
+        "phonetic": "[PUB-lik HOL-ih-day]",
+        "meaning": "resmi tatil günü",
+        "type": "isim öbeği",
+        "sentences": [
+          "She was glad to wake up on the public holiday — an unexpected day of rest mid-week.",
+          "He checked the public holiday calendar before booking a restaurant to expect a surcharge.",
+          "Public holidays in Australia are set by each state and vary across the country.",
+          "She received double time and a half wages for working on the public holiday.",
+          "He planned a day trip on the public holiday and found the national park packed with visitors.",
+          "Public holidays include Australia Day, Anzac Day, Easter, and Christmas across all states.",
+          "She used the public holiday to clear her emails and get ahead for the following week.",
+          "He was caught out — the chemist was closed on the public holiday and he needed a prescription.",
+          "Some states observe additional public holidays not shared by others — like Show Day.",
+          "She always checked whether a public holiday applied in her state before making a booking."
+        ]
+      },
+      {
+        "word": "penalty rates",
+        "ipa": "/ˈpɛnəlti reɪts/",
+        "phonetic": "[PEN-ul-tee rayts]",
+        "meaning": "yüksek ücret tarifeleri (hafta sonu ve tatil günlerinde çalışma için)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She earned penalty rates for working on Sunday and the extra pay was welcome.",
+          "He chose weekend shifts specifically because the penalty rates made a big difference.",
+          "Penalty rates are the higher pay rates that apply to work done outside standard hours.",
+          "She was surprised how significantly penalty rates boosted her casual weekly income.",
+          "He understood that changes to penalty rates in some industries remained controversial.",
+          "She checked her award to confirm the correct penalty rate for the public holiday shift.",
+          "He compared penalty rate structures between industries before choosing which casual job to take.",
+          "She was thankful her employer paid penalty rates correctly — not all employers did.",
+          "He calculated his fortnightly income including penalty rates when considering whether to take the job.",
+          "She raised the penalty rates issue with her union delegate after noticing an underpayment."
+        ]
+      },
+      {
+        "word": "ACCC",
+        "ipa": "/eɪsiːsiːsiː/",
+        "phonetic": "[ay-see-see-SEE]",
+        "meaning": "Avustralya Rekabet ve Tüketici Komisyonu",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She reported the misleading price advertising to the ACCC.",
+          "He checked the ACCC website for advice on how to handle a dispute with a retailer.",
+          "The ACCC is the government body responsible for consumer protection and competition law.",
+          "She found the ACCC's SCAMwatch website helpful for identifying and reporting online scams.",
+          "He was relieved when the ACCC took action against the company for false advertising.",
+          "The ACCC investigates businesses that engage in misleading conduct or anti-competitive practices.",
+          "She submitted an ACCC complaint after being charged for a service that was never provided.",
+          "He followed the ACCC's guidance when dealing with an unresponsive warranty claim.",
+          "The ACCC publishes detailed consumer guides on topics from credit to telecommunications.",
+          "She shared the ACCC SCAMwatch link with elderly relatives to help them avoid phone scams."
+        ]
+      },
+      {
+        "word": "SCAMwatch",
+        "ipa": "/skæmwɒtʃ/",
+        "phonetic": "[SKAM-woch]",
+        "meaning": "ACCC'nin dolandırıcılık uyarı ve raporlama sitesi",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She reported the suspicious text message to SCAMwatch straight away.",
+          "He found the SCAMwatch website useful for learning how to recognise common scam types.",
+          "SCAMwatch is run by the ACCC and allows Australians to report and track scams.",
+          "She used SCAMwatch to verify whether the unexpected call from the ATO was legitimate.",
+          "He sent the SCAMwatch link to his parents when they told him about a suspicious call.",
+          "SCAMwatch warns that the ATO will never demand payment by gift card over the phone.",
+          "She subscribed to SCAMwatch email alerts to stay informed about new scam types.",
+          "He reported a fake parcel delivery message to SCAMwatch as soon as he spotted it.",
+          "SCAMwatch data shows Australians lose billions of dollars to scams every year.",
+          "She shared a SCAMwatch article about investment scams at the community group meeting."
+        ]
+      }
+    ]
+  }
+]

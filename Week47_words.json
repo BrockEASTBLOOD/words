@@ -1,0 +1,702 @@
+[
+  {
+    "day": 323,
+    "words": [
+      {
+        "word": "My Aged Care",
+        "ipa": "/maɪ eɪdʒd kɛər/",
+        "phonetic": "[my ayjd kair]",
+        "meaning": "Avustralya yaşlı bakım hizmetleri portalı",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She registered on My Aged Care when her mother could no longer manage daily tasks alone.",
+          "He found My Aged Care the first contact point for navigating Australia's aged care system.",
+          "My Aged Care is the Australian government's central point for aged care information and referrals.",
+          "She called the My Aged Care hotline — the intake assessor organised a home visit within a week.",
+          "He found My Aged Care requiring registration before any funded service could be accessed.",
+          "My Aged Care provides an online portal where clients track their assessment status and service plan.",
+          "She found the My Aged Care website clearer than she expected — the eligibility checker was a useful first step.",
+          "He found My Aged Care coordinating referrals to approved service providers across home care and residential settings.",
+          "My Aged Care connects older Australians to services including home care packages, CHSP, and residential aged care.",
+          "She describes contacting My Aged Care as the first step that most opened the aged care system to her family."
+        ]
+      },
+      {
+        "word": "ACAT",
+        "ipa": "/ˈeɪkæt/",
+        "phonetic": "[AY-kat]",
+        "meaning": "Yaşlı Bakım Değerlendirme Ekibi",
+        "type": "kısaltma",
+        "sentences": [
+          "She requested an ACAT assessment — the team visited her father at home and assessed his care needs.",
+          "He found the ACAT assessment the gateway to higher-level aged care funding in Australia.",
+          "ACAT — Aged Care Assessment Team — is the clinical team that assesses eligibility for government-funded aged care.",
+          "She found the ACAT assessor reviewing physical, cognitive, social, and medical needs in a single home visit.",
+          "He found ACAT approval required before entry to residential aged care or access to a home care package.",
+          "ACAT assessments are free — they are conducted by nurses, social workers, and allied health professionals.",
+          "She found the ACAT process taking two to three weeks from referral to completed assessment.",
+          "He found the ACAT report recommending the appropriate level of care — the family used it to plan next steps.",
+          "ACAT operates in every state and territory — referred to as ACAS in Victoria.",
+          "She describes the ACAT assessment as the clinical conversation that most clearly identified what her mother needed — and what was available."
+        ]
+      },
+      {
+        "word": "home care package",
+        "ipa": "/hoʊm kɛər ˈpækɪdʒ/",
+        "phonetic": "[hohm kair PAK-ij]",
+        "meaning": "evde bakım paketi (hükümet destekli)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She waited fourteen months for a Level 3 home care package — the queue was long but the support was significant.",
+          "He found the home care package covering domestic assistance, personal care, nursing, and allied health.",
+          "A home care package is a government-subsidised bundle of services supporting older Australians to live at home.",
+          "She found home care packages available at four levels — Level 1 for basic needs, Level 4 for high complex care.",
+          "He found the package managed through an approved home care provider — fees and services detailed in a care plan.",
+          "Home care packages are consumer-directed — the client chooses how the funds are allocated across services.",
+          "She found the package funds deposited to an account managed by the provider — she received monthly statements.",
+          "He found the home care package supplemented by her own contribution — the Basic Daily Fee applied.",
+          "Home care packages are assigned by My Aged Care following an ACAT assessment and approval.",
+          "She describes the Level 4 home care package as the support that most enabled her mother to remain in her own home for three more years."
+        ]
+      },
+      {
+        "word": "Commonwealth Home Support Programme",
+        "ipa": "/ˈkɒmənwɛlθ hoʊm səˈpɔːt ˈproʊɡræm/",
+        "phonetic": "[KOM-un-welth hohm suh-PORT PROH-gram]",
+        "meaning": "Commonwealth Ev Destek Programı (temel düzey)",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She accessed the Commonwealth Home Support Programme before her ACAT assessment was completed.",
+          "He found the CHSP the entry-level programme for older Australians needing light support at home.",
+          "The Commonwealth Home Support Programme — CHSP — provides basic home support services for older Australians.",
+          "She found CHSP services including domestic assistance, meals, transport, and social support.",
+          "He found CHSP requiring a client contribution — a modest fee per service determined by income.",
+          "The CHSP is funded by the federal government and delivered by approved community providers.",
+          "She found the CHSP referral faster than a home care package — services could begin within weeks.",
+          "He found the CHSP suitable for light needs — for more complex care, a home care package was more appropriate.",
+          "CHSP services include nursing, allied health, respite, and home maintenance.",
+          "She describes the CHSP domestic assistance as the weekly visit that most maintained her independence in her own home."
+        ]
+      },
+      {
+        "word": "residential aged care",
+        "ipa": "/ˌrɛzɪˈdɛnʃəl eɪdʒd kɛər/",
+        "phonetic": "[rez-ih-DEN-shul ayjd kair]",
+        "meaning": "yaşlı bakım evi (tam zamanlı)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She moved her father into residential aged care when his dementia made living alone unsafe.",
+          "He found residential aged care varying significantly in quality — he visited six facilities before choosing.",
+          "Residential aged care provides twenty-four-hour nursing and personal care for older Australians who can no longer live at home.",
+          "She found the residential aged care facility's room fee, care fee, and means-tested fee the three cost components.",
+          "He found residential aged care requiring an ACAT approval — not every applicant qualified for every facility.",
+          "Residential aged care facilities in Australia are regulated by the Aged Care Quality and Safety Commission.",
+          "She found the star rating system on the My Aged Care website helpful in comparing facilities.",
+          "He found the Royal Commission into Aged Care Quality and Safety transforming standards and accountability.",
+          "Residential aged care provides specialised memory care, palliative care, and respite care options.",
+          "She describes choosing a residential aged care facility as the most difficult family decision she had ever participated in — and most necessary."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 324,
+    "words": [
+      {
+        "word": "means test",
+        "ipa": "/miːnz tɛst/",
+        "phonetic": "[meenz test]",
+        "meaning": "gelir/varlık değerlendirmesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the means test determining how much her father would contribute to his residential aged care fees.",
+          "He found the means test assessing both income and assets — the family home was treated differently from other assets.",
+          "A means test is a financial assessment used to determine a person's contribution to government-funded services.",
+          "She found the means test conducted by Services Australia — the assessor needed tax returns and asset declarations.",
+          "He found the means test reducing aged care fees for people with limited income and assets.",
+          "The means test for aged care considers superannuation, investments, and the value of the family home.",
+          "She found the means test outcome setting the annual means-tested care fee — reviewed each year.",
+          "He found the means test result taking four to six weeks — they planned care costs around the estimate.",
+          "Means testing ensures that those with greater financial resources contribute more to their aged care costs.",
+          "She describes the means test as the financial assessment she most needed a financial advisor to help her understand."
+        ]
+      },
+      {
+        "word": "refundable accommodation deposit",
+        "ipa": "/rɪˈfʌndəbəl əˌkɒməˈdeɪʃən dɪˈpɒzɪt/",
+        "phonetic": "[rih-FUN-duh-bul uh-kom-uh-DAY-shun dih-POZ-it]",
+        "meaning": "iade edilebilir konaklama depozitosu (yaşlı bakım evi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She paid a refundable accommodation deposit of five hundred thousand dollars for her mother's aged care place.",
+          "He found the RAD the most significant upfront cost of entering residential aged care.",
+          "A refundable accommodation deposit — RAD — is a lump sum paid to an aged care facility, refunded when the resident leaves.",
+          "She found the RAD fully refunded when her mother passed away — the estate received the amount minus any unpaid fees.",
+          "He found the RAD alternative — a daily accommodation payment — available if a lump sum was not possible.",
+          "RAD amounts vary by facility and room — advertised on the My Aged Care website.",
+          "She found the RAD negotiated with the facility — she had more flexibility than she expected.",
+          "He found the RAD funds held by the facility — they did not earn interest for the resident.",
+          "The RAD system replaced the bond system in the 2014 Aged Care Act reforms.",
+          "She describes understanding the RAD as the financial education she most needed before her mother entered residential care."
+        ]
+      },
+      {
+        "word": "dementia",
+        "ipa": "/dɪˈmɛnʃə/",
+        "phonetic": "[dih-MEN-shuh]",
+        "meaning": "demans (bunama)",
+        "type": "isim",
+        "sentences": [
+          "She noticed the early signs of dementia in her mother — repetition, confusion about dates, and getting lost locally.",
+          "He found Dementia Australia the most comprehensive support organisation for families affected by the condition.",
+          "Dementia is a syndrome of progressive cognitive decline affecting memory, thinking, behaviour, and the ability to perform daily tasks.",
+          "She found a dementia diagnosis changing the entire family's planning — legal, financial, and care arrangements needed immediate attention.",
+          "He found Alzheimer's disease the most common form of dementia — accounting for sixty to seventy percent of cases.",
+          "Dementia affects almost half a million Australians — a number projected to grow significantly.",
+          "She found the National Dementia Helpline — 1800 100 500 — the most responsive support service for carers.",
+          "He found memory care units in residential aged care facilities providing specialised environments for people with dementia.",
+          "Dementia is not a normal part of ageing — but the risk increases significantly with age.",
+          "She describes receiving her father's dementia diagnosis as the medical news that most changed how she thought about time."
+        ]
+      },
+      {
+        "word": "palliative care",
+        "ipa": "/ˈpæliətɪv kɛər/",
+        "phonetic": "[PAL-ee-uh-tiv kair]",
+        "meaning": "palyatif bakım (yaşam sonu bakımı)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She arranged palliative care at home — her father wanted to die in his own bed, and that wish was respected.",
+          "He found palliative care focused on comfort and quality of life, not curative treatment.",
+          "Palliative care is specialised care for people with life-limiting illness — addressing physical, emotional, social, and spiritual needs.",
+          "She found palliative care available in hospitals, hospices, and at home.",
+          "He found the palliative care team including doctors, nurses, social workers, and chaplains.",
+          "Palliative care in Australia is funded through state health systems and Medicare.",
+          "She found palliative care beginning when curative treatment was no longer appropriate — often months before death.",
+          "He found Palliative Care Australia the peak body providing education and advocacy for the sector.",
+          "Palliative care includes pain management, symptom control, and family support through the dying process.",
+          "She describes the palliative care team as the group of professionals she most wished she had known about earlier."
+        ]
+      },
+      {
+        "word": "advance care directive",
+        "ipa": "/ədˈvɑːns kɛər dɪˈrɛktɪv/",
+        "phonetic": "[ad-VAHNS kair dih-REK-tiv]",
+        "meaning": "ileriye dönük bakım direktifi (sağlık iradesi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She completed her advance care directive before her surgery — she wanted her wishes documented clearly.",
+          "He found advance care directives recognised across all Australian states — each state had slightly different forms.",
+          "An advance care directive is a legal document recording a person's wishes about future medical treatment.",
+          "She found the directive covering decisions about resuscitation, artificial nutrition, and hospitalisation.",
+          "He found the advance care directive most valuable when the person could no longer communicate — it guided the treating team.",
+          "Advance care directives are legal documents — they must be signed, witnessed, and stored where treating clinicians can find them.",
+          "She found the Advance Care Planning Australia website the most useful resource for completing the document.",
+          "He found the conversation about the directive with his parents the most difficult and most necessary he had ever initiated.",
+          "Advance care directives can be updated at any time while the person has capacity.",
+          "She describes completing her advance care directive as the act of love she most hoped her family would never need — but most wanted them to have."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 325,
+    "words": [
+      {
+        "word": "enduring power of attorney",
+        "ipa": "/ɪnˈdjʊərɪŋ paʊər əv əˈtɜːni/",
+        "phonetic": "[in-DYOOR-ing pow-ur uv uh-TUR-nee]",
+        "meaning": "süregelen vekaletname (karar alma yetkisi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She organised an enduring power of attorney for her mother while she still had capacity — it was essential planning.",
+          "He found the enduring power of attorney the most important legal document for aged care planning.",
+          "An enduring power of attorney is a legal document authorising someone to make financial and legal decisions on another's behalf.",
+          "She found the document enduring — it remained valid even if the person lost mental capacity.",
+          "He found a separate enduring power of attorney for health and personal decisions — the two documents covered different areas.",
+          "Enduring powers of attorney in Australia are state-based — each state has its own legislation and forms.",
+          "She found a solicitor the most appropriate person to prepare the document — community legal centres offered low-cost assistance.",
+          "He found the attorney obligated to act in the principal's best interests — the role carried legal responsibility.",
+          "An enduring power of attorney cannot be made after mental capacity is lost — timing was critical.",
+          "She describes establishing the enduring power of attorney as the legal preparation that most protected her family when crisis arrived."
+        ]
+      },
+      {
+        "word": "retirement village",
+        "ipa": "/rɪˈtaɪərmənt ˈvɪlɪdʒ/",
+        "phonetic": "[rih-TY-ur-munt VIL-ij]",
+        "meaning": "emekli köyü / ileri yaş konutu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She moved to a retirement village at seventy-four — she wanted community, security, and independence.",
+          "He found retirement villages varying from basic units to resort-style communities with pools and restaurants.",
+          "A retirement village is a residential community designed for older adults, offering independent living with shared facilities.",
+          "She found the entry contract — the most complex document she had ever signed — requiring a solicitor to review.",
+          "He found the deferred management fee the most significant financial consideration in retirement village contracts.",
+          "Retirement villages in Australia are regulated by state-based retirement villages legislation.",
+          "She found the retirement village providing social connection — the loneliness she had feared never arrived.",
+          "He found the village levying a monthly fee covering maintenance, activities, and facility costs.",
+          "Retirement villages are distinct from aged care — residents are independent, not requiring nursing care.",
+          "She describes the retirement village as the community that most gave her mother a reason to get up and engage with life."
+        ]
+      },
+      {
+        "word": "downsizing",
+        "ipa": "/ˈdaʊnsaɪzɪŋ/",
+        "phonetic": "[DOWN-sy-zing]",
+        "meaning": "küçük eve taşınma (emeklilik dönemi)",
+        "type": "isim",
+        "sentences": [
+          "She found downsizing the most emotionally complex practical task of her parents' retirement.",
+          "He found downsizing releasing capital — the smaller home freed equity for retirement living.",
+          "Downsizing is the process of moving to a smaller, more manageable home in later life.",
+          "She found downsizing conversations requiring sensitivity — the family home held fifty years of memories.",
+          "He found the ATO's downsizer superannuation contribution allowing proceeds from the home sale to be contributed to super.",
+          "Downsizing in Australia was incentivised by the government's downsizer scheme — up to three hundred thousand dollars per person.",
+          "She found downsizing requiring months of decluttering — possessions accumulated over decades needed decisions.",
+          "He found the move to a smaller property reducing maintenance demands — the garden had been the most difficult part.",
+          "Downsizing closer to children or services was common — proximity to support drove location choices.",
+          "She describes helping her parents downsize as the family project that most revealed what they actually valued."
+        ]
+      },
+      {
+        "word": "seniors card",
+        "ipa": "/ˈsiːniərz kɑːd/",
+        "phonetic": "[SEE-nyuz kard]",
+        "meaning": "yaşlılar indirim kartı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She applied for her seniors card at sixty — it was free and provided immediate discounts.",
+          "He found the seniors card the most underutilised financial benefit for older Australians.",
+          "A seniors card is a discount card provided by state governments to older residents.",
+          "She found the seniors card providing discounts on transport, cinema, restaurants, and retail.",
+          "He found eligibility varying by state — typically available to Australians over sixty who work fewer than twenty hours per week.",
+          "Seniors cards are issued free of charge — the application was submitted online.",
+          "She found the Transport for NSW seniors card halving the cost of public transport.",
+          "He found the seniors card accepted at thousands of businesses — the website listed every participating provider.",
+          "Seniors cards are distinct from the Pensioner Concession Card — both provide discounts but through different programs.",
+          "She describes the seniors card as the small credential that most tangibly recognised the stage of life she had entered."
+        ]
+      },
+      {
+        "word": "Age Pension",
+        "ipa": "/eɪdʒ ˈpɛnʃən/",
+        "phonetic": "[ayj PEN-shun]",
+        "meaning": "yaşlılık maaşı (devlet emeklilik ödemesi)",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She became eligible for the Age Pension at sixty-seven — she applied through Services Australia.",
+          "He found the Age Pension the most important safety net for older Australians with limited superannuation.",
+          "The Age Pension is a government income support payment for Australians of qualifying age who meet income and asset tests.",
+          "She found the pension age sixty-seven for both men and women — it had been progressively increased.",
+          "He found the full Age Pension providing approximately nine hundred and fifty dollars per fortnight — supplemented by rent assistance and concession cards.",
+          "Age Pension eligibility requires an income and assets test — superannuation balances and investment income are assessed.",
+          "She found the pension reduced by fifty cents for every dollar of income above the threshold.",
+          "He found the Age Pension reviewed every six months — payments adjusted for inflation.",
+          "Age Pension recipients also receive the Pensioner Concession Card — covering reduced-cost medicines and health services.",
+          "She describes the Age Pension as the financial floor she most valued — modest, but present and reliable."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 326,
+    "words": [
+      {
+        "word": "respite care",
+        "ipa": "/ˈrɛspɪt kɛər/",
+        "phonetic": "[RES-pit kair]",
+        "meaning": "geçici bakım (bakıcıya mola)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She used the respite care allocation in her mother's home care package to take a two-week holiday.",
+          "He found respite care the most underused support available to family carers.",
+          "Respite care is temporary care that gives family carers a break from their caring responsibilities.",
+          "She found respite available in residential facilities, day programs, and through home visiting.",
+          "He found residential respite provided up to sixty-three days per year under the aged care system.",
+          "Respite care can be planned — a holiday — or emergency, when the carer becomes ill.",
+          "She found the respite booking requiring advance notice — popular facilities filled weeks ahead.",
+          "He found Carers Australia providing information about respite access and carer support services.",
+          "Respite care benefits both the carer and the care recipient — fresh relationships improved daily life on return.",
+          "She describes taking respite as the decision she most resisted and most needed — the break restored her capacity to care."
+        ]
+      },
+      {
+        "word": "carer allowance",
+        "ipa": "/ˈkɛərər əˈlaʊəns/",
+        "phonetic": "[KAIR-ur uh-LOW-uns]",
+        "meaning": "bakıcı yardımı (devlet ödemesi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She applied for carer allowance after her husband's stroke — the fortnightly payment helped offset her reduced work hours.",
+          "He found carer allowance the financial recognition least known to family carers.",
+          "Carer allowance is a fortnightly payment from the Australian government for people providing daily care for someone with a disability or illness.",
+          "She found carer allowance paid at approximately one hundred and fifty dollars per fortnight — modest but helpful.",
+          "He found carer allowance income-tested — it was not available to high-income earners.",
+          "Carer allowance is separate from carer payment — carer payment was for full-time carers who could not work.",
+          "She found the application completed online through myGov — the medical certificate required her father's GP signature.",
+          "He found carer allowance complemented by the carer supplement — an annual lump sum payment.",
+          "Carer allowance does not require the carer to live with the person they care for.",
+          "She describes the carer allowance as the financial acknowledgement that most made her feel the system saw the work she was doing."
+        ]
+      },
+      {
+        "word": "elder abuse",
+        "ipa": "/ˈɛldər əˈbjuːs/",
+        "phonetic": "[EL-duh uh-BYOOS]",
+        "meaning": "yaşlı istismarı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found elder abuse the most under-reported form of family violence in Australia.",
+          "He found the Elder Abuse Hotline — 1800 ELDERHelp — the national reporting and support line.",
+          "Elder abuse is the mistreatment of an older person by someone they trust — financial, physical, emotional, or sexual.",
+          "She found financial elder abuse the most common form — unauthorised use of an older person's funds.",
+          "He found elder abuse often perpetrated by family members — the most trusted relationships.",
+          "Elder abuse can occur in the home, in residential care, or in any setting.",
+          "She found the World Elder Abuse Awareness Day on June 15 the moment she most reflected on her duty of care.",
+          "He found the Royal Commission into Aged Care addressing elder abuse systematically for the first time.",
+          "Elder abuse is a human rights issue — the older person's dignity and safety are paramount.",
+          "She describes learning to recognise elder abuse as the knowledge that most changed how she monitored her mother's situation."
+        ]
+      },
+      {
+        "word": "Royal Commission into Aged Care",
+        "ipa": "/ˈrɔɪəl kəˈmɪʃən ˈɪntə eɪdʒd kɛər/",
+        "phonetic": "[ROY-ul kuh-MISH-un IN-tuh ayjd kair]",
+        "meaning": "Yaşlı Bakım Kraliyet Soruşturması",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She followed the Royal Commission into Aged Care closely — the evidence of systemic failure was confronting.",
+          "He found the Royal Commission's final report the most comprehensive examination of aged care in Australian history.",
+          "The Royal Commission into Aged Care Quality and Safety investigated failures in Australia's aged care system.",
+          "She found the Commission hearing evidence of malnutrition, medication misuse, and neglect in residential facilities.",
+          "He found the Commission's final report containing one hundred and forty-eight recommendations.",
+          "The Royal Commission reported in 2021 — the government committed to a significant reform agenda.",
+          "She found the Commission's work driving the introduction of the new Aged Care Act — the most significant reform in decades.",
+          "He found the Commission's televised hearings bringing aged care to public attention in a way that policy documents never had.",
+          "The Royal Commission found that the system was unkind, reflecting a failure of governments over many decades.",
+          "She describes the Royal Commission as the national examination that most honestly named what she had already suspected about aged care."
+        ]
+      },
+      {
+        "word": "aged care workforce",
+        "ipa": "/eɪdʒd kɛər ˈwɜːkfɔːs/",
+        "phonetic": "[ayjd kair WUR-kfors]",
+        "meaning": "yaşlı bakım sektörü çalışanları",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the aged care workforce among the most undervalued groups of workers in Australia.",
+          "He found the sector struggling to attract and retain staff — pay was the most significant barrier.",
+          "The aged care workforce includes personal care workers, nurses, allied health professionals, and administrators.",
+          "She found personal care workers providing the most direct and consistent care — their relationship with residents was irreplaceable.",
+          "He found the Fair Work Commission awarding a fifteen percent wage increase to aged care workers in 2022.",
+          "The aged care workforce is predominantly female — and historically underpaid relative to comparable healthcare roles.",
+          "She found worker-to-resident ratios the most contested standard in aged care — mandated ratios introduced after the Commission.",
+          "He found aged care Certificate III the minimum qualification for personal care workers entering the sector.",
+          "The aged care workforce shortage is a growing challenge — demand will increase as Australia's population ages.",
+          "She describes her appreciation for the aged care workforce as something that grew with every visit she made to her father's facility."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 327,
+    "words": [
+      {
+        "word": "occupational therapist",
+        "ipa": "/ˌɒkjʊˈpeɪʃənəl ˈθɛrəpɪst/",
+        "phonetic": "[ok-yoo-PAY-shun-ul THAIR-uh-pist]",
+        "meaning": "iş uğraşı terapisti",
+        "type": "isim öbeği",
+        "sentences": [
+          "She arranged an occupational therapist assessment after her mother's fall — the home needed modifications.",
+          "He found the occupational therapist the most practical allied health professional in aged care.",
+          "An occupational therapist — OT — helps people participate in meaningful activities despite physical, cognitive, or emotional limitations.",
+          "She found the OT recommending grab rails, a shower chair, and non-slip mats — the changes made a significant difference.",
+          "He found occupational therapy funded through the home care package — the assessment was bulk-billed.",
+          "Occupational therapists conduct home safety assessments, prescribe equipment, and recommend home modifications.",
+          "She found the OT working collaboratively with the physiotherapist and the nursing team.",
+          "He found occupational therapy supporting return to work, independent living, and participation in community activities.",
+          "OTs are registered with the Occupational Therapy Board of Australia — part of AHPRA.",
+          "She describes the OT assessment as the professional visit that most concretely improved her mother's safety at home."
+        ]
+      },
+      {
+        "word": "physiotherapy",
+        "ipa": "/ˌfɪziəʊˈθɛrəpi/",
+        "phonetic": "[fiz-ee-oh-THAIR-uh-pee]",
+        "meaning": "fizyoterapi",
+        "type": "isim",
+        "sentences": [
+          "She attended physiotherapy weekly after her hip replacement — the exercises restored her mobility over three months.",
+          "He found physiotherapy the most effective aged care intervention for preventing falls and maintaining function.",
+          "Physiotherapy is a health profession using physical methods — exercise, massage, and movement — to treat injury and disability.",
+          "She found physiotherapy funded through Medicare for chronic conditions — the care plan allowed five sessions per year.",
+          "He found physiotherapy sessions including strength training, balance exercises, and pain management.",
+          "Physiotherapists in Australia are registered with the Physiotherapy Board — a division of AHPRA.",
+          "She found home physiotherapy available through her mother's home care package — the therapist visited weekly.",
+          "He found the physiotherapist the professional most responsible for his father's successful recovery from the stroke.",
+          "Physiotherapy is also used in hospitals, sports medicine, and disability services.",
+          "She describes the physiotherapy program as the health intervention that most directly restored her confidence in her own body."
+        ]
+      },
+      {
+        "word": "allied health",
+        "ipa": "/ˈælaɪd hɛlθ/",
+        "phonetic": "[AL-yd helth]",
+        "meaning": "yardımcı sağlık hizmetleri",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the allied health team essential to her mother's aged care plan.",
+          "He found allied health professionals the most varied and least understood group in the Australian health system.",
+          "Allied health is a broad term for health professions that are not medicine, dentistry, or nursing.",
+          "She found allied health including physiotherapy, occupational therapy, speech pathology, dietetics, and social work.",
+          "He found allied health services funded through Medicare, NDIS, home care packages, and private health insurance.",
+          "Allied health professionals work across hospitals, aged care, disability, and community settings.",
+          "She found the allied health coordinator the person who most helped her navigate the range of services available.",
+          "He found allied health assessment particularly important after hospitalisation — restoring function before discharge.",
+          "Allied health services are integral to the Chronic Disease Management program under Medicare.",
+          "She describes the allied health team as the professionals who most comprehensively addressed her father's wellbeing beyond his diagnosis."
+        ]
+      },
+      {
+        "word": "mobility aid",
+        "ipa": "/moʊˈbɪlɪti eɪd/",
+        "phonetic": "[moh-BIL-ih-tee ayd]",
+        "meaning": "hareket yardımcı cihazı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She organised a mobility aid assessment — the OT recommended a four-wheeled walker rather than a standard frame.",
+          "He found mobility aids transforming his mother's independence — she could walk to the letterbox again.",
+          "A mobility aid is any device that assists a person with movement — including walking frames, wheelchairs, and crutches.",
+          "She found mobility aids prescribed by an occupational therapist or physiotherapist for safety.",
+          "He found Medicare and NDIS funding available for mobility aids in specific circumstances.",
+          "Mobility aids range from basic walking sticks to powered wheelchairs and motorised scooters.",
+          "She found the mobility scooter the device that most restored her father's ability to participate in the community.",
+          "He found a home assessment important before choosing a mobility aid — the home layout determined the best option.",
+          "Mobility aids are available from pharmacies, medical suppliers, and assistive technology providers.",
+          "She describes the right mobility aid as the equipment that most directly improved her mother's quality of life."
+        ]
+      },
+      {
+        "word": "falls prevention",
+        "ipa": "/fɔːlz prɪˈvɛnʃən/",
+        "phonetic": "[fawlz prih-VEN-shun]",
+        "meaning": "düşme önleme",
+        "type": "isim öbeği",
+        "sentences": [
+          "She enrolled her father in the falls prevention program at the community health centre.",
+          "He found falls prevention the most cost-effective aged care intervention available.",
+          "Falls prevention refers to strategies and programs that reduce the risk of falling in older adults.",
+          "She found the falls prevention assessment covering medication, vision, home hazards, and strength.",
+          "He found that one in three Australians over sixty-five fell each year — the most often cited aged care statistic.",
+          "Falls prevention programs in Australia include Stepping On, A Matter of Balance, and the Otago Exercise Programme.",
+          "She found the exercise component the most effective element — strength and balance training reduced fall risk significantly.",
+          "He found medication review part of falls prevention — some medications increased dizziness and fall risk.",
+          "Falls in older adults can cause hip fractures, hospitalisation, and loss of confidence.",
+          "She describes the falls prevention program as the intervention that most gave her father — and her — confidence to move freely."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 328,
+    "words": [
+      {
+        "word": "cognitive decline",
+        "ipa": "/ˈkɒɡnɪtɪv dɪˈklaɪn/",
+        "phonetic": "[KOG-nih-tiv dih-KLYN]",
+        "meaning": "bilişsel gerileme",
+        "type": "isim öbeği",
+        "sentences": [
+          "She noticed cognitive decline in her father over two years — the changes were subtle at first.",
+          "He found cognitive decline assessed using standardised tools — the MMSE and MoCA were most commonly used.",
+          "Cognitive decline is a reduction in cognitive abilities including memory, attention, language, and problem-solving.",
+          "She found mild cognitive impairment the stage between normal ageing and dementia — monitoring was important.",
+          "He found cognitive decline accelerated by social isolation, depression, and poor sleep.",
+          "Cognitive decline is not inevitable with ageing — lifestyle factors including exercise and diet influence risk.",
+          "She found the GP the first contact for cognitive decline concerns — they arranged neuropsychological assessment.",
+          "He found cognitive decline affecting driving — the OT conducted a driving assessment.",
+          "Cognitive decline can be slowed by mental stimulation, social engagement, physical activity, and good sleep.",
+          "She describes recognising cognitive decline as the shift in understanding that most changed how she spoke to her father."
+        ]
+      },
+      {
+        "word": "social isolation",
+        "ipa": "/ˈsoʊʃəl ˌaɪsəˈleɪʃən/",
+        "phonetic": "[SOH-shul eye-suh-LAY-shun]",
+        "meaning": "sosyal izolasyon",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found social isolation the most invisible health risk facing older Australians living alone.",
+          "He found social isolation as harmful to health as smoking fifteen cigarettes per day — the research was clear.",
+          "Social isolation is the condition of having little or no contact with other people.",
+          "She found her father's social isolation worsening after he stopped driving — the independence loss was the cause.",
+          "He found social isolation contributing to cognitive decline, depression, and physical deterioration.",
+          "Social isolation in older adults increased significantly during the COVID-19 pandemic.",
+          "She found community programs — men's sheds, day centres, and volunteer visitor services — addressing isolation directly.",
+          "He found the Aged Care Quality Standards including social connection as a quality-of-life requirement.",
+          "Social isolation is distinct from loneliness — a person can be surrounded by people and still feel lonely.",
+          "She describes addressing her father's social isolation as the intervention that most improved his mood and his health."
+        ]
+      },
+      {
+        "word": "reminiscence therapy",
+        "ipa": "/ˌrɛmɪˈnɪsəns ˈθɛrəpi/",
+        "phonetic": "[rem-ih-NIS-uns THAIR-uh-pee]",
+        "meaning": "anı terapisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found reminiscence therapy sessions with her mother the most genuinely connecting conversations they had.",
+          "He found reminiscence therapy the most natural activity for people with dementia who retained long-term memories.",
+          "Reminiscence therapy is a therapeutic approach using discussion of past experiences to improve wellbeing.",
+          "She found reminiscence activities including photo books, music from youth, and familiar objects.",
+          "He found reminiscence therapy building self-esteem and reducing depression in aged care residents.",
+          "Reminiscence therapy is delivered individually and in groups — the group format created community among participants.",
+          "She found reminiscence therapy particularly effective in the afternoon — when her mother was most calm.",
+          "He found life story books — compiled with family photographs and memories — a lasting reminiscence tool.",
+          "Reminiscence therapy acknowledges the value of a life lived — it restored dignity for her father.",
+          "She describes the reminiscence session where her mother remembered every detail of her wedding day as the hour she most valued."
+        ]
+      },
+      {
+        "word": "independent living unit",
+        "ipa": "/ˌɪndɪˈpɛndənt ˈlɪvɪŋ ˈjuːnɪt/",
+        "phonetic": "[in-dih-PEN-dunt LIV-ing YOO-nit]",
+        "meaning": "bağımsız yaşam birimi (emekli köyünde)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She moved her parents into an independent living unit — they had their own space but community on the doorstep.",
+          "He found independent living units the most popular entry point into retirement living.",
+          "An independent living unit — ILU — is a self-contained dwelling within a retirement village.",
+          "She found the ILU providing a bedroom, bathroom, kitchen, and living space — a full home at smaller scale.",
+          "He found the maintenance included in the village levy — external upkeep was no longer his parents' concern.",
+          "Independent living units are designed for active, independent older adults — not people requiring nursing care.",
+          "She found the ILU complex including communal gardens, a library, and a social hall.",
+          "He found the ILU purchase not a standard property transaction — the licence to occupy model was common.",
+          "Independent living units are distinct from serviced apartments — residents manage their own daily lives.",
+          "She describes the ILU as the housing choice that most gave her parents community without surrendering independence."
+        ]
+      },
+      {
+        "word": "continence aid",
+        "ipa": "/ˈkɒntɪnəns eɪd/",
+        "phonetic": "[KON-tih-nuns ayd]",
+        "meaning": "kontinans yardımcı ürünü",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found continence aids funded through the Continence Aids Payment Scheme — the annual subsidy helped significantly.",
+          "He found continence aids an important but rarely discussed component of aged care.",
+          "Continence aids are products that manage bladder or bowel conditions — including pads, catheters, and bedding protection.",
+          "She found the CAPS — Continence Aids Payment Scheme — providing eligible Australians with up to six hundred and forty dollars annually.",
+          "He found a continence assessment through the National Continence Helpline — 1800 33 00 66 — the first step.",
+          "Continence aids are prescribed by a continence nurse or physiotherapist.",
+          "She found continence aids reducing embarrassment and improving quality of life — the right product made a real difference.",
+          "He found continence management an important nursing assessment in residential aged care.",
+          "Continence issues affect one in three Australians — they are common, manageable, and not inevitable with ageing.",
+          "She describes the continence assessment as the healthcare appointment she most wished had been offered earlier."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 329,
+    "words": [
+      {
+        "word": "grief counselling",
+        "ipa": "/ɡriːf ˈkaʊnsəlɪŋ/",
+        "phonetic": "[greef KOWN-suh-ling]",
+        "meaning": "yas danışmanlığı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She sought grief counselling six months after her father's death — the delayed grief surprised her.",
+          "He found grief counselling the most commonly needed but least sought support after bereavement.",
+          "Grief counselling is professional support helping individuals process loss and adapt to life after bereavement.",
+          "She found grief counselling available through GPs, psychologists, and community organisations.",
+          "He found the grief counsellor normalising his responses — he had believed his feelings were excessive.",
+          "Grief counselling in Australia is accessible through Medicare — the Better Access initiative provided subsidised sessions.",
+          "She found group grief programs — including GriefLine and the Australian Centre for Grief and Bereavement — profoundly supportive.",
+          "He found grief counselling not accelerating grief but providing a safe space to experience it.",
+          "Grief counselling may be time-limited or ongoing — depending on the person's needs and the nature of the loss.",
+          "She describes grief counselling as the support she most resisted — and most needed — in the year after her mother died."
+        ]
+      },
+      {
+        "word": "bereavement support",
+        "ipa": "/bɪˈriːvmənt səˈpɔːt/",
+        "phonetic": "[bih-REEV-munt suh-PORT]",
+        "meaning": "yas destek hizmetleri",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found bereavement support through her palliative care team — they checked on her for months after her husband died.",
+          "He found bereavement support the most overlooked component of the aged care system.",
+          "Bereavement support provides assistance to people after the death of someone close.",
+          "She found bereavement support including counselling, peer groups, telephone helplines, and community programs.",
+          "He found the Australian Centre for Grief and Bereavement the most comprehensive national resource.",
+          "Bereavement support is provided by palliative care teams, hospices, churches, and community organisations.",
+          "She found GriefLine — 1300 845 745 — the most accessible immediate bereavement support service.",
+          "He found the workplace expecting him back within a week — he needed more bereavement support than his employer anticipated.",
+          "Bereavement support acknowledges that grief is a natural response to loss — not a medical condition requiring treatment.",
+          "She describes the bereavement support group as the place she most felt understood by people who did not need her to explain."
+        ]
+      },
+      {
+        "word": "spiritual care",
+        "ipa": "/ˈspɪrɪtʃuəl kɛər/",
+        "phonetic": "[SPIR-ih-choo-ul kair]",
+        "meaning": "manevi bakım (din ve anlam desteği)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the aged care chaplain providing spiritual care regardless of her mother's religious background.",
+          "He found spiritual care the most holistic and least clinical dimension of aged care.",
+          "Spiritual care addresses a person's need for meaning, purpose, connection, and transcendence.",
+          "She found spiritual care not limited to religion — it included music, nature, reminiscence, and human presence.",
+          "He found the chaplain the most consistent visitor to his father's room — regardless of whether anyone else came.",
+          "Spiritual care in aged care facilities is provided by chaplains, pastoral carers, and trained volunteers.",
+          "She found spiritual care addressing existential questions — what was life for, and was it lived well?",
+          "He found spiritual care valued in diverse communities — adapted to cultural and religious backgrounds.",
+          "Spiritual care is included in the Aged Care Quality Standards as a component of emotional wellbeing.",
+          "She describes the chaplain's weekly visits as the conversations her father most looked forward to — and that most sustained him."
+        ]
+      },
+      {
+        "word": "high care",
+        "ipa": "/haɪ kɛər/",
+        "phonetic": "[hy kair]",
+        "meaning": "yoğun bakım düzeyi (yaşlı bakım evinde)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found her mother reclassified to high care after her second fall — the nursing oversight increased.",
+          "He found high care residents receiving more intensive support — nursing input multiple times daily.",
+          "High care in residential aged care refers to a level of support for people with complex health and personal care needs.",
+          "She found high care including continence management, wound care, medication administration, and mobility assistance.",
+          "He found the daily care fee the same regardless of care level — but the staffing ratio changed.",
+          "High care residents in Australia are assessed using the ACFI — the Aged Care Funding Instrument.",
+          "She found the transition from low to high care prompted by a hospitalisation or significant functional decline.",
+          "He found the high care wing of the facility providing greater supervision and specialised staff.",
+          "High care does not mean reduced dignity — the quality standards applied equally across care levels.",
+          "She describes watching her mother move into high care as the visible marker she most tried to accept with grace."
+        ]
+      },
+      {
+        "word": "aged care reform",
+        "ipa": "/eɪdʒd kɛər rɪˈfɔːm/",
+        "phonetic": "[ayjd kair rih-FORM]",
+        "meaning": "yaşlı bakım reformu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She followed aged care reform news closely — she wanted to know what changes would affect her father's facility.",
+          "He found aged care reform the most significant social policy project of the 2020s in Australia.",
+          "Aged care reform refers to the comprehensive overhaul of Australia's aged care system following the Royal Commission.",
+          "She found the new Aged Care Act replacing decades-old legislation — a fundamental shift in rights and accountability.",
+          "He found the reform agenda including a new Support at Home programme, mandated staffing levels, and improved governance.",
+          "Aged care reform in Australia is funded by significant new government investment — billions committed over the forward estimates.",
+          "She found the statement of rights — a centrepiece of reform — articulating what older Australians could expect.",
+          "He found the reform process slow — implementation took years after the Royal Commission's recommendations were accepted.",
+          "Aged care reform affects providers, workers, and residents — the system-wide change required significant adjustment.",
+          "She describes aged care reform as the policy change she most hoped would arrive before her own generation needed the system."
+        ]
+      }
+    ]
+  }
+]

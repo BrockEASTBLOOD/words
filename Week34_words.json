@@ -1,0 +1,702 @@
+[
+  {
+    "day": 232,
+    "words": [
+      {
+        "word": "netball",
+        "ipa": "/ˈnɛtbɔːl/",
+        "phonetic": "[NET-bawl]",
+        "meaning": "netbol",
+        "type": "isim",
+        "sentences": [
+          "She played netball from age seven through to her early thirties.",
+          "He coached the under-twelve netball team at his daughter's primary school.",
+          "Netball is a ball sport played between two teams of seven players, popular among Australian women.",
+          "She found netball the most widely played team sport for women in Australia.",
+          "He found the local netball association offering registrations every January.",
+          "Netball is played on a rectangular court divided into thirds with no running with the ball.",
+          "She found netball developing teamwork, spatial awareness, and decision-making.",
+          "He found the Australian Diamonds — the national netball team — among the world's best.",
+          "Netball is played in schools, community clubs, and professional leagues across Australia.",
+          "She describes netball as the sport that gave her the most important friendships of her adult life."
+        ]
+      },
+      {
+        "word": "rugby league",
+        "ipa": "/ˈrʌɡbi liːɡ/",
+        "phonetic": "[RUG-bee leeg]",
+        "meaning": "ragbi lig",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found rugby league the dominant code in Queensland and New South Wales.",
+          "He has supported the same NRL team since childhood — through winning and losing seasons.",
+          "Rugby league is a form of rugby played between two thirteen-player teams.",
+          "She found the NRL season the most talked-about sporting competition in Sydney.",
+          "He found State of Origin the most intense rugby league event — Queensland versus New South Wales.",
+          "Rugby league is played professionally in the NRL — National Rugby League — competition.",
+          "She found the rugby league finals each September a major cultural event in its strongholds.",
+          "He found his son's under-nines rugby league team a wonderful introduction to the sport.",
+          "Rugby league developed in Australia as a distinct code from rugby union in 1908.",
+          "She describes rugby league as the sport that most clearly marks which state you come from."
+        ]
+      },
+      {
+        "word": "rugby union",
+        "ipa": "/ˈrʌɡbi ˈjuːniən/",
+        "phonetic": "[RUG-bee YOON-yun]",
+        "meaning": "ragbi union",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found rugby union most prominent in New South Wales, Queensland, and the ACT.",
+          "He played rugby union through school — the contact was intense but the community strong.",
+          "Rugby union is a form of rugby played between two fifteen-player teams.",
+          "She found the Australian Wallabies — the national rugby union team — playing internationally.",
+          "He found the Super Rugby competition featuring Australian teams playing New Zealand and South African sides.",
+          "Rugby union is the global form of rugby — played in over one hundred countries.",
+          "She found rugby union stronger in private schools and certain regional areas of Australia.",
+          "He found the Rugby World Cup the tournament that brought rugby union to the broadest Australian audience.",
+          "Rugby union and rugby league share origins but diverged in the nineteenth century over professionalism.",
+          "She describes rugby union as the code that travels best — she has watched it on three continents."
+        ]
+      },
+      {
+        "word": "soccer",
+        "ipa": "/ˈsɒkər/",
+        "phonetic": "[SOK-uh]",
+        "meaning": "futbol",
+        "type": "isim",
+        "sentences": [
+          "She registered her children in soccer — it was the most accessible entry sport in her suburb.",
+          "He found soccer the most globally diverse sport in Australian communities.",
+          "Soccer, also called football, is the world's most popular sport — played across Australia at all levels.",
+          "She found Australian soccer — the A-League — growing in attendance and quality.",
+          "He found the Matildas — the Australian women's soccer team — achieving their greatest moment at the 2023 World Cup.",
+          "Soccer in Australia is administered by Football Australia — the national governing body.",
+          "She found youth soccer registrations the most culturally diverse sporting environment in her suburb.",
+          "He found the World Cup the soccer event that most captivated Australia — especially in 2022 and 2023.",
+          "Soccer in Australia is called soccer rather than football — to distinguish from AFL, rugby, and league.",
+          "She describes soccer as the sport that needed no translation when she arrived in Australia."
+        ]
+      },
+      {
+        "word": "basketball",
+        "ipa": "/ˈbɑːskɪtbɔːl/",
+        "phonetic": "[BAR-skit-bawl]",
+        "meaning": "basketbol",
+        "type": "isim",
+        "sentences": [
+          "She found her son's basketball skills developing through the local NBL1 club.",
+          "He found the NBL — National Basketball League — growing in Australian sports culture.",
+          "Basketball is a team sport played between two five-player teams on a court.",
+          "She found basketball among the fastest-growing participation sports in Australia.",
+          "He found the Boomers — the Australian men's basketball team — performing well at international level.",
+          "Basketball is played in schools, community gyms, and professional leagues across Australia.",
+          "She found NBA viewership significant in Australia — cultural influence of American sport.",
+          "He found the NBL season running from October to April — complementing the AFL calendar.",
+          "Basketball requires running, jumping, throwing, and team communication — a complete physical sport.",
+          "She describes basketball as the sport that most captured her son's imagination — and hers."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 233,
+    "words": [
+      {
+        "word": "swimming carnival",
+        "ipa": "/ˈswɪmɪŋ ˈkɑːnɪvəl/",
+        "phonetic": "[SWIM-ing KAR-nih-vul]",
+        "meaning": "okul yüzme yarışması",
+        "type": "isim öbeği",
+        "sentences": [
+          "She won the backstroke race at the school swimming carnival — she trained for it.",
+          "He found the swimming carnival the most spectator-friendly school sport event.",
+          "A swimming carnival is a competitive swimming event held by schools as part of their sports program.",
+          "She found the swimming carnival held at the local aquatic centre — an annual highlight.",
+          "He found the school swimming carnival feeding into inter-school and district competition.",
+          "Swimming carnivals include freestyle, backstroke, breaststroke, and butterfly events.",
+          "She found house spirit at the swimming carnival the most visible expression of school culture.",
+          "He volunteered as a lane timekeeper at the swimming carnival — parents were always welcome.",
+          "Swimming carnivals identify talented swimmers who may join a club development pathway.",
+          "She describes the swimming carnival as the school day she remembered most clearly twenty years later."
+        ]
+      },
+      {
+        "word": "surf club",
+        "ipa": "/sɜːf klʌb/",
+        "phonetic": "[surf klub]",
+        "meaning": "sörf kurtarma kulübü",
+        "type": "isim öbeği",
+        "sentences": [
+          "She joined the local surf club at sixteen and remains a patrol member at forty.",
+          "He found the surf club the most community-centred volunteer organisation in his coastal town.",
+          "A surf club, or surf life saving club, provides beach safety patrols and community programs.",
+          "She found the surf club operating the nippers program — children learning beach safety.",
+          "He found Surf Life Saving Australia the largest volunteer organisation in the country.",
+          "Surf clubs patrol Australian beaches on weekends and public holidays through summer.",
+          "She found the surf club building the architectural centrepiece of many Australian beaches.",
+          "He earned his bronze medallion through the surf club — the base qualification for beach patrol.",
+          "Surf clubs provide a pathway from nippers through juniors to senior patrol members.",
+          "She describes the surf club as the institution that most clearly expresses Australia's relationship with the ocean."
+        ]
+      },
+      {
+        "word": "nippers",
+        "ipa": "/ˈnɪpərz/",
+        "phonetic": "[NIP-uz]",
+        "meaning": "çocuklar için sörf kulübü programı",
+        "type": "isim (çoğul)",
+        "sentences": [
+          "She enrolled her daughter in nippers at age five — sand, surf, and sun safety.",
+          "He found nippers the most beloved Australian summer morning activity for families.",
+          "Nippers is a junior beach safety program run by surf life saving clubs for children aged five to thirteen.",
+          "She found nippers teaching ocean awareness, first aid basics, and beach safety.",
+          "He arrived at the beach at eight each Sunday — nippers started promptly.",
+          "Nippers activities include swimming, board paddling, running, and flags.",
+          "She found nippers instilling beach confidence in her daughter that lasted a lifetime.",
+          "He found nippers the first sporting community his children were proud to belong to.",
+          "Nippers operate at surf life saving clubs across all Australian coastal states.",
+          "She describes nippers as the program that taught her daughter the ocean — on the ocean's terms."
+        ]
+      },
+      {
+        "word": "fishing licence",
+        "ipa": "/ˈfɪʃɪŋ ˈlaɪsəns/",
+        "phonetic": "[FISH-ing LY-suns]",
+        "meaning": "balık avlama lisansı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She purchased a fishing licence online before her first weekend trip to the river.",
+          "He found a fishing licence required in most Australian states for recreational fishing.",
+          "A fishing licence is a permit allowing recreational fishing within the rules of each state.",
+          "She found fishing licences exempting children under sixteen in most jurisdictions.",
+          "He found his fishing licence covering freshwater and saltwater fishing in his state.",
+          "Fishing licences in Australia fund conservation, stocking, and fisheries management.",
+          "She found her fishing licence valid for twelve months — purchased through the relevant state authority.",
+          "He found a fishing licence not required in Queensland — an exception worth knowing.",
+          "Fishing without a licence where required attracts significant on-the-spot fines.",
+          "She describes purchasing a fishing licence as the first step in the ritual of a proper Australian fishing weekend."
+        ]
+      },
+      {
+        "word": "catch and release",
+        "ipa": "/kætʃ ænd rɪˈliːs/",
+        "phonetic": "[kach and rih-LEES]",
+        "meaning": "balığı tutup bırakma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She practises catch and release — the sport of fishing without removing fish from the ecosystem.",
+          "He found catch and release most common among fly fishers in Australian rivers.",
+          "Catch and release is a fishing practice where captured fish are returned to the water alive.",
+          "She found catch and release requiring proper technique — barbless hooks and wet hands.",
+          "He found catch and release mandatory in some protected Australian waterways.",
+          "Catch and release supports fish population conservation — pleasure without depletion.",
+          "She found the ethical debate around catch and release ongoing in Australian fishing communities.",
+          "He found catch and release yielding larger fish in well-managed waterways over time.",
+          "Catch and release fish must be handled quickly and returned with minimal stress.",
+          "She describes catch and release as the philosophy that allowed her to love fishing without taking."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 234,
+    "words": [
+      {
+        "word": "gym membership",
+        "ipa": "/dʒɪm ˈmɛmbəʃɪp/",
+        "phonetic": "[jim MEM-buh-ship]",
+        "meaning": "spor salonu üyeliği",
+        "type": "isim öbeği",
+        "sentences": [
+          "She cancelled her gym membership and found outdoor exercise equally effective.",
+          "He found the gym membership the most consistently used subscription in his budget.",
+          "A gym membership provides access to a fitness facility for regular exercise.",
+          "She found gym membership fees ranging from ten to one hundred dollars per month in Australia.",
+          "He found the gym membership freezable during injury or holiday — she used the option.",
+          "Gym memberships in Australia often involve a joining fee and lock-in period — she read the contract.",
+          "She found a twenty-four-hour gym membership perfect for her unpredictable schedule.",
+          "He found his gym membership including group fitness classes — he attended three weekly.",
+          "Gym memberships are deductible only when directly work-related — she checked with her accountant.",
+          "She describes her gym membership as the investment that converted her intention into habit."
+        ]
+      },
+      {
+        "word": "trail running",
+        "ipa": "/treɪl ˈrʌnɪŋ/",
+        "phonetic": "[trayl RUN-ing]",
+        "meaning": "patika koşusu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She discovered trail running after years of road running — the terrain changed everything.",
+          "He found trail running the most mentally engaging form of exercise he had tried.",
+          "Trail running is running on natural surfaces — dirt, rocks, and trails through bush or mountain terrain.",
+          "She found Australian trail running events in every state — from the Blue Mountains to the Dandenongs.",
+          "He found trail running slower but more satisfying than road running.",
+          "Trail running requires awareness of terrain, navigation, and self-sufficiency.",
+          "She found trail running events in Australia including the UTA — Ultra Trail Australia — in the Blue Mountains.",
+          "He found trail running shoes essential — the grip and cushioning differed from road shoes.",
+          "Trail running attracts a community of adventurous, outdoor-oriented runners.",
+          "She describes trail running as the sport that gave her the Australian landscape as her gym."
+        ]
+      },
+      {
+        "word": "paddleboarding",
+        "ipa": "/ˈpædəlbɔːdɪŋ/",
+        "phonetic": "[PAD-ul-bor-ding]",
+        "meaning": "stand-up paddleboard",
+        "type": "isim",
+        "sentences": [
+          "She paddleboards at the bay each Saturday morning — calm water and a sunrise.",
+          "He found paddleboarding one of the most accessible water sports in Australian coastal areas.",
+          "Paddleboarding, or stand-up paddleboarding, involves standing on a wide board and using a paddle.",
+          "She found paddleboarding providing a full-body workout — core, balance, and arms.",
+          "He found inflatable paddleboards convenient — they pack into a bag and fit in his hatch.",
+          "Paddleboarding in Australia is popular in harbours, bays, rivers, and coastal waterways.",
+          "She found paddleboarding clubs operating on the harbour — morning sessions before work.",
+          "He found a paddleboard lesson essential before attempting open water — technique mattered.",
+          "Paddleboarding requires a leash, life jacket, and awareness of weather and current.",
+          "She describes paddleboarding as the activity that most changed her relationship with early mornings."
+        ]
+      },
+      {
+        "word": "leisure centre",
+        "ipa": "/ˈlɛʒər ˈsɛntər/",
+        "phonetic": "[LEZH-uh SEN-tuh]",
+        "meaning": "spor ve eğlence merkezi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She takes her children to the leisure centre on weekends — pool, gym, and courts.",
+          "He found the council-operated leisure centre more affordable than a private gym.",
+          "A leisure centre is a public facility offering pools, gyms, fitness classes, and courts.",
+          "She found the leisure centre pool the most convenient swimming option in her suburb.",
+          "He found the leisure centre's holiday program keeping his children active through January.",
+          "Leisure centres in Australia are typically operated by local councils and subsidised for access.",
+          "She found the leisure centre offering concession pricing — significantly reduced for pensioners.",
+          "He found the leisure centre a multigenerational space — retirees swimming laps beside school students.",
+          "Leisure centres include aquatic facilities, gymnasiums, group fitness rooms, and sometimes courts.",
+          "She describes the leisure centre as the most democratic sporting facility she has access to."
+        ]
+      },
+      {
+        "word": "cycling",
+        "ipa": "/ˈsaɪklɪŋ/",
+        "phonetic": "[SY-kling]",
+        "meaning": "bisiklet sürme",
+        "type": "isim",
+        "sentences": [
+          "She cycles to work three days a week — it is faster than driving and free.",
+          "He found cycling infrastructure in Australian cities improving significantly each year.",
+          "Cycling is the activity of riding a bicycle for transport, recreation, or sport.",
+          "She found dedicated cycling paths in major Australian cities growing in length.",
+          "He found cycling the most time-efficient form of transport for his inner-city commute.",
+          "Cycling in Australia requires a helmet by law — a rule most other countries do not have.",
+          "She found cycling culture in Melbourne among the most developed of any Australian city.",
+          "He found road cycling clubs throughout regional and rural Australia — popular weekend social activity.",
+          "Cycling as sport includes road, mountain bike, track, and criterium — all with Australian competition.",
+          "She describes cycling to work as the daily dose of physical activity that requires no additional time."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 235,
+    "words": [
+      {
+        "word": "boot camp",
+        "ipa": "/buːt kæmp/",
+        "phonetic": "[boot kamp]",
+        "meaning": "askeri tarzda grup egzersiz programı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She attends a boot camp in the park each Tuesday and Thursday morning.",
+          "He found boot camp a highly motivating group fitness format.",
+          "A boot camp is an outdoor group fitness session using bodyweight exercises and interval training.",
+          "She found boot camp accessible without a gym membership — a park and a trainer.",
+          "He found boot camp the most affordable fitness program he had joined.",
+          "Boot camps in Australian parks are common — the mild winter climate supports year-round outdoor training.",
+          "She found boot camp building a community — she looked forward to the people as much as the workout.",
+          "He found boot camp providing accountability — a trainer expected him there.",
+          "Boot camp sessions typically last forty-five to sixty minutes and cost fifteen to thirty dollars.",
+          "She describes boot camp as the fitness format that made exercise feel less like obligation."
+        ]
+      },
+      {
+        "word": "rock climbing",
+        "ipa": "/rɒk ˈklaɪmɪŋ/",
+        "phonetic": "[rok KLY-ming]",
+        "meaning": "kaya tırmanışı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She started indoor rock climbing and found it the most mentally demanding sport she had tried.",
+          "He found the Blue Mountains the most celebrated outdoor rock climbing destination in Australia.",
+          "Rock climbing is the activity of ascending steep rock faces using hands, feet, and equipment.",
+          "She found indoor rock climbing walls at commercial climbing gyms across Australian cities.",
+          "He found rock climbing requiring problem-solving — each route a puzzle to solve with the body.",
+          "Rock climbing in Australia spans traditional, sport, and bouldering disciplines.",
+          "She found the climbing community notably welcoming and inclusive — beginners expected and encouraged.",
+          "He found outdoor rock climbing at Nowra, Arapiles, and the Blue Mountains the best in Australia.",
+          "Rock climbing develops grip strength, body awareness, and fearlessness.",
+          "She describes rock climbing as the sport that most thoroughly occupied both her mind and her body."
+        ]
+      },
+      {
+        "word": "mountain biking",
+        "ipa": "/ˈmaʊntən ˈbaɪkɪŋ/",
+        "phonetic": "[MOWN-tun BY-king]",
+        "meaning": "dağ bisikleti",
+        "type": "isim öbeği",
+        "sentences": [
+          "She started mountain biking on the Stromlo trails in Canberra — beginner-friendly and beautiful.",
+          "He found mountain biking in Australia's trail network among the most developed in the world.",
+          "Mountain biking involves riding off-road bicycles on natural terrain — dirt trails and fire tracks.",
+          "She found mountain biking trails graded green through black — she worked through them progressively.",
+          "He found the trail network at Derby in Tasmania among the best he had ridden globally.",
+          "Mountain biking is increasingly popular in Australian regional towns — trail tourism significant.",
+          "She found mountain biking requiring full-face helmet and body armour for technical descending.",
+          "He found mountain biking communities active on Trailforks — trail conditions and reviews.",
+          "Mountain biking builds core strength, balance, and explosive leg power.",
+          "She describes mountain biking as the sport that most made her feel she could do anything."
+        ]
+      },
+      {
+        "word": "sportsmanship",
+        "ipa": "/ˈspɔːtsmənʃɪp/",
+        "phonetic": "[SPORTS-mun-ship]",
+        "meaning": "spor ahlakı, centilmenlik",
+        "type": "isim",
+        "sentences": [
+          "She impressed by the sportsmanship at the weekend netball — hand-shaking, honest line calls.",
+          "He found sportsmanship actively modelled by coaches in the junior sport system.",
+          "Sportsmanship is fair, generous, and ethical behaviour in sport.",
+          "She found sportsmanship more valued in Australian junior sport than winning at all costs.",
+          "He found poor sportsmanship from a parent on the sideline the most uncomfortable part of junior sport.",
+          "Sportsmanship includes accepting decisions, acknowledging opponents, and playing within the rules.",
+          "She found fair play awards in her children's sport formalising the value of sportsmanship.",
+          "He found sportsmanship the quality most correlated with enjoying sport over a lifetime.",
+          "Sportsmanship extends to coaching — she found the best coaches modelled it consistently.",
+          "She describes sportsmanship as the reason sport is worth teaching — the lessons outlast the score."
+        ]
+      },
+      {
+        "word": "oval",
+        "ipa": "/ˈoʊvəl/",
+        "phonetic": "[OH-vul]",
+        "meaning": "oval spor sahası",
+        "type": "isim",
+        "sentences": [
+          "She runs laps of the oval at dusk — the light at that time is perfect.",
+          "He found the local oval the most used public space in the suburb on weekends.",
+          "An oval is an elliptical sports ground used for cricket, AFL, and community sport.",
+          "She found ovals at every primary and secondary school — the sporting heart of a community.",
+          "He found the MCG — Melbourne Cricket Ground — the largest and most iconic oval in Australia.",
+          "Ovals in Australian communities are used for training, informal sport, and social gatherings.",
+          "She found the oval in her suburb booked every weekend with multiple teams across seasons.",
+          "He found the council oval unlocked at dawn — dog walkers arrived first, cricketers later.",
+          "Ovals host AFL during winter and cricket during summer — the same surface, two seasons.",
+          "She describes the oval as the democratic patch of grass where Australian sport finds its most local expression."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 236,
+    "words": [
+      {
+        "word": "lap swimming",
+        "ipa": "/læp ˈswɪmɪŋ/",
+        "phonetic": "[lap SWIM-ing]",
+        "meaning": "havuz uzunluğu yüzme egzersizi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She swims forty laps before work — the pool opens at five-thirty.",
+          "He found lap swimming the most meditative exercise he had discovered.",
+          "Lap swimming is continuous swimming up and down a pool lane for fitness.",
+          "She found lap swimming the most effective low-impact exercise available.",
+          "He found the aquatic centre lane rules — slower swimmers to the left — important to learn.",
+          "Lap swimming pools in Australian leisure centres are typically twenty-five or fifty metres.",
+          "She found lap swimming twice weekly transforming her shoulder mobility and aerobic capacity.",
+          "He found the lap swimming community at his pool a quiet, disciplined, welcoming group.",
+          "Lap swimming requires goggles, a cap, and consideration for lane-sharing etiquette.",
+          "She describes lap swimming as the hour that most prepares her mind for the day."
+        ]
+      },
+      {
+        "word": "obstacle course",
+        "ipa": "/ˈɒbstɪkəl kɔːs/",
+        "phonetic": "[OB-stih-kul kors]",
+        "meaning": "engel parkuru",
+        "type": "isim öbeği",
+        "sentences": [
+          "She completed her first obstacle course event — Tough Mudder — and loved the camaraderie.",
+          "He found obstacle course events the most socially bonding fitness activity he had participated in.",
+          "An obstacle course is an event combining running with physical challenges — walls, mud, and ropes.",
+          "She found obstacle course events like Spartan Race and Tough Mudder popular in Australia.",
+          "He found the obstacle course community supportive — strangers helping strangers over walls.",
+          "Obstacle course events in Australia are held in regional venues — often farm properties.",
+          "She found the mud, cold, and exhaustion of an obstacle course strangely enjoyable.",
+          "He trained specifically for grip strength before his obstacle course event.",
+          "Obstacle course events are team or individual — she always runs with a group.",
+          "She describes the obstacle course as the fitness event that most reminded her to play."
+        ]
+      },
+      {
+        "word": "aquatic centre",
+        "ipa": "/əˈkwætɪk ˈsɛntər/",
+        "phonetic": "[uh-KWAT-ik SEN-tuh]",
+        "meaning": "yüzme ve su sporları merkezi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She takes the children to the aquatic centre for swimming lessons each Saturday.",
+          "He found the aquatic centre the most used council facility in his suburb.",
+          "An aquatic centre is a facility featuring swimming pools for lap swimming, lessons, and recreation.",
+          "She found her aquatic centre including an indoor and outdoor pool — the outdoor perfect in summer.",
+          "He found the aquatic centre running early morning squad sessions from five-thirty.",
+          "Aquatic centres in Australia typically offer swimming lessons for all ages — from babies to adults.",
+          "She found her aquatic centre hydro pool beneficial for her physio-prescribed rehabilitation.",
+          "He found the aquatic centre the most family-friendly sporting facility in his area.",
+          "Aquatic centres are operated by local councils and open seven days in most areas.",
+          "She describes the aquatic centre as the facility that made her children water-safe — the most important outcome."
+        ]
+      },
+      {
+        "word": "sports complex",
+        "ipa": "/spɔːts ˈkɒmplɛks/",
+        "phonetic": "[sports KOM-pleks]",
+        "meaning": "spor kompleksi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the new sports complex housing netball courts, basketball courts, and a gym.",
+          "He attended the regional sports complex for his daughter's basketball tournament.",
+          "A sports complex is a large facility housing multiple sports venues and amenities.",
+          "She found sports complexes built in partnership between local government and sporting associations.",
+          "He found the sports complex open from six in the morning to ten at night.",
+          "Sports complexes in Australian cities are multipurpose — used across seasons and codes.",
+          "She found the sports complex's synthetic courts enabling year-round play despite weather.",
+          "He found the sports complex café the most reliable post-sport coffee option on the weekend.",
+          "Sports complexes often include change rooms, first aid, and spectator seating.",
+          "She describes the sports complex as the facility where her children grew up — Saturday after Saturday."
+        ]
+      },
+      {
+        "word": "CrossFit",
+        "ipa": "/ˈkrɒsfɪt/",
+        "phonetic": "[KROS-fit]",
+        "meaning": "CrossFit (yüksek yoğunluklu egzersiz programı)",
+        "type": "özel isim",
+        "sentences": [
+          "She trained CrossFit for two years — the community was the most compelling part.",
+          "He found CrossFit the most significant fitness transformation he had experienced.",
+          "CrossFit is a high-intensity fitness program combining weightlifting, gymnastics, and cardio.",
+          "She found CrossFit gyms — called boxes — across every Australian city and regional town.",
+          "He found the CrossFit community competitive but inclusive — he was welcomed as a beginner.",
+          "CrossFit workouts are scalable — she modified movements as she built strength.",
+          "She found the daily CrossFit workout — the WOD, or Workout of the Day — a compelling structure.",
+          "He found CrossFit the program that most quickly built functional strength.",
+          "CrossFit in Australia is popular among emergency services, military, and competitive athletes.",
+          "She describes CrossFit as the gym experience where she found the most unexpected sense of belonging."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 237,
+    "words": [
+      {
+        "word": "velodrome",
+        "ipa": "/ˈvɛlədrəʊm/",
+        "phonetic": "[VEL-oh-drohm]",
+        "meaning": "pistte bisiklet yarış tesisi",
+        "type": "isim",
+        "sentences": [
+          "She started track cycling at the Dunc Gray Velodrome in Sydney.",
+          "He found the Melbourne velodrome in the Melbourne Sports and Aquatic Centre world-class.",
+          "A velodrome is an indoor cycling track for competitive and recreational track cycling.",
+          "She found velodrome cycling unlike road cycling — fixed gear, no brakes, banked corners.",
+          "He found velodrome programs open to beginners — track cycling accessible and supported.",
+          "Australia has produced world and Olympic velodrome champions — Anna Meares and others.",
+          "She found the velodrome community welcoming — she joined a regular Saturday morning session.",
+          "He found the velodrome a thrilling environment — speed, proximity, and precision.",
+          "Velodromes in Australia are found in major cities — Sydney, Melbourne, and Brisbane have world-class facilities.",
+          "She describes the velodrome as the sporting facility that most made her feel she had stepped into an elite world."
+        ]
+      },
+      {
+        "word": "marathon",
+        "ipa": "/ˈmærəθɒn/",
+        "phonetic": "[MA-ruh-thon]",
+        "meaning": "maraton",
+        "type": "isim",
+        "sentences": [
+          "She ran her first marathon at forty — the Melbourne Marathon through the city and Shrine.",
+          "He found marathon training the most disciplined twenty weeks of his year.",
+          "A marathon is a road running race of 42.195 kilometres.",
+          "She found the Melbourne and Sydney marathons the largest in Australia — both filling fields rapidly.",
+          "He found marathon race day the most emotionally overwhelming sporting experience of his life.",
+          "Marathon training builds through progressive long runs — eighteen to thirty-two kilometres on weekends.",
+          "She found a running coach essential for her first marathon — she arrived at the start line healthy.",
+          "He found the marathon crowd the most generous in sport — strangers cheering strangers.",
+          "Marathons in Australia include Melbourne, Sydney, Gold Coast, Adelaide, and Canberra events.",
+          "She describes the marathon finish line as the place she understood for the first time what she was made of."
+        ]
+      },
+      {
+        "word": "golf",
+        "ipa": "/ɡɒlf/",
+        "phonetic": "[golf]",
+        "meaning": "golf",
+        "type": "isim",
+        "sentences": [
+          "She took up golf at fifty and found it the most humbling sport she had attempted.",
+          "He plays golf on Sunday mornings — the course is his weekly meditation.",
+          "Golf is a club-and-ball sport played on a course with a series of holes.",
+          "She found Australia producing world-class golfers — Greg Norman, Adam Scott, and Karrie Webb.",
+          "He found golf accessible through public courses — membership not required for casual play.",
+          "Golf in Australia is played at over one thousand five hundred courses — private, public, and resort.",
+          "She found the golf handicap system allowing players of different ability to compete fairly.",
+          "He found golf the most socially generous sport — four hours of conversation on a course.",
+          "Golf requires equipment, lessons, and time — she invested in all three before her first round.",
+          "She describes golf as the game that most honestly reveals your relationship with patience."
+        ]
+      },
+      {
+        "word": "tennis",
+        "ipa": "/ˈtɛnɪs/",
+        "phonetic": "[TEN-is]",
+        "meaning": "tenis",
+        "type": "isim",
+        "sentences": [
+          "She plays social tennis each Thursday — she has done so for fifteen years.",
+          "He found the Australian Open the most attended Grand Slam tennis event in the world.",
+          "Tennis is a racket sport played between two or four players on a rectangular court.",
+          "She found local tennis clubs accessible — annual membership and casual court hire available.",
+          "He found the Australian Open in January a major Melbourne cultural event — not just a tennis tournament.",
+          "Tennis in Australia has produced champions from Lew Hoad to Lleyton Hewitt and Ash Barty.",
+          "She found hot shot tennis for children the most effective introduction to the sport.",
+          "He found tennis court hire in Australian parks at minimal cost — some councils provide free courts.",
+          "Tennis is played year-round in Australia — the climate supports outdoor courts throughout winter in most states.",
+          "She describes her Thursday tennis as the fixture that anchors her week — come what may."
+        ]
+      },
+      {
+        "word": "lawn bowls",
+        "ipa": "/lɔːn boʊlz/",
+        "phonetic": "[lawn bohlz]",
+        "meaning": "çim bowls oyunu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She joined the bowls club after retirement — the Tuesday afternoon competition was superb.",
+          "He found lawn bowls experiencing a significant revival among younger Australians.",
+          "Lawn bowls is a sport where players roll biased balls on a lawn to get closest to a smaller target ball.",
+          "She found bowls clubs offering barefoot bowls for social events — surprisingly popular.",
+          "He found the lawn bowls club the most socially welcoming sporting community in his suburb.",
+          "Lawn bowls clubs in Australia are often combined with bar, catering, and social facilities.",
+          "She found barefoot bowls the most accessible social activity for corporate events.",
+          "He found lawn bowls requiring subtle technique — the bias, the weight, and the line.",
+          "Lawn bowls clubs are found in almost every Australian suburb and town.",
+          "She describes lawn bowls as the sport that most changed her understanding of what community meant at her age."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 238,
+    "words": [
+      {
+        "word": "water polo",
+        "ipa": "/ˈwɔːtər ˈpoʊloʊ/",
+        "phonetic": "[WOR-tuh POH-loh]",
+        "meaning": "su topu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She played water polo through university — one of the most demanding sports she had tried.",
+          "He found water polo the most physically exhausting sport he watched his daughter play.",
+          "Water polo is a competitive aquatic sport played between two seven-player teams.",
+          "She found water polo requiring strong swimming, ball skills, and tactical intelligence.",
+          "He found the Australian water polo teams — the Sharks and Stingers — competitive at Olympic level.",
+          "Water polo is played in pools across Australia — clubs affiliated with Swimming Australia.",
+          "She found water polo the sport that most developed her lung capacity and endurance.",
+          "He found junior water polo accessible through aquatic centre programs.",
+          "Water polo develops teamwork, spatial awareness, and physical conditioning.",
+          "She describes water polo as the sport that most clearly operates in three dimensions — and demands you think that way."
+        ]
+      },
+      {
+        "word": "touch football",
+        "ipa": "/tʌtʃ ˈfʊtbɔːl/",
+        "phonetic": "[tuch FOOT-bawl]",
+        "meaning": "dokunuşlu futbol (hafif temas sporunun bir türü)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She plays touch football on Thursday evenings — no tackles, but genuinely fast and demanding.",
+          "He found touch football the most accessible football code for mixed-gender adult competition.",
+          "Touch football is a sport similar to rugby league where a touch replaces a tackle.",
+          "She found touch football registrations in most Australian suburbs through Touch Football Australia.",
+          "He found touch football the corporate sport of choice — broad enough for most fitness levels.",
+          "Touch football is played in fields, parks, and purpose-built venues across Australia.",
+          "She found touch football a gateway to rugby league for her children — skills and confidence first.",
+          "He found summer evening touch football competitions well attended across Australian suburbs.",
+          "Touch football requires no contact — she found it the sport she could play injury-free.",
+          "She describes touch football as the sport that gave her the fitness of a contact game without the bruises."
+        ]
+      },
+      {
+        "word": "hockey",
+        "ipa": "/ˈhɒki/",
+        "phonetic": "[HOK-ee]",
+        "meaning": "hokey (çim hokeyi)",
+        "type": "isim",
+        "sentences": [
+          "She played field hockey through school and joined a local club upon moving to the city.",
+          "He found the Kookaburras — the Australian men's hockey team — consistently among the world's best.",
+          "Hockey in Australia typically refers to field hockey — played on synthetic turf with sticks.",
+          "She found hockey clubs in most Australian towns — a widespread and overlooked sport.",
+          "He found the Hockeyroos — the Australian women's team — Olympic champions multiple times.",
+          "Hockey is played on synthetic turf in Australia — natural grass at the highest levels.",
+          "She found hockey the fastest team sport she had played — pace, skill, and precision.",
+          "He found junior hockey programs at Astroturf surfaces across Australian suburbs.",
+          "Hockey requires skill in hitting, passing, and trapping — she found the learning curve steep.",
+          "She describes hockey as the sport that most rewarded her for learning to control the unexpected."
+        ]
+      },
+      {
+        "word": "fair play",
+        "ipa": "/fɛː pleɪ/",
+        "phonetic": "[fair play]",
+        "meaning": "adil oyun, dürüst rekabet",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found fair play actively taught in her children's junior sport.",
+          "He found fair play the value that most distinguished the coaches he admired from those he did not.",
+          "Fair play is the principle of playing within the rules and spirit of a sport.",
+          "She found the Fair Play Code in Australian community sport a structured commitment.",
+          "He found fair play threatened by over-invested parents on sidelines — a recognised problem.",
+          "Fair play in sport includes respecting opponents, officials, and the rules.",
+          "She found her children learning fair play as much from watching adults as from instruction.",
+          "He found fair play awards in his daughter's sport recognising something that mattered.",
+          "Fair play principles apply to coaches, players, parents, and officials equally.",
+          "She describes fair play as the value that determines whether sport is worth playing."
+        ]
+      },
+      {
+        "word": "alcohol-free zone",
+        "ipa": "/ˈælkəhɒl friː zoʊn/",
+        "phonetic": "[AL-kuh-hol free zohn]",
+        "meaning": "alkol yasağı bölgesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the park designated an alcohol-free zone — she respected the rule.",
+          "He found alcohol-free zones marked clearly in public spaces throughout the city.",
+          "An alcohol-free zone is a public area where consuming alcohol is prohibited by council or state law.",
+          "She found alcohol-free zones common around parks, beaches, and event precincts.",
+          "He found the alcohol-free zone at the sports ground preventing the incidents that used to occur.",
+          "Alcohol-free zones in Australia are established by local councils under the Local Government Act.",
+          "She found the beach alcohol-free zone most valued during peak summer periods.",
+          "He found the penalty for drinking in an alcohol-free zone a significant fine.",
+          "Alcohol-free zones support family-friendly public spaces.",
+          "She describes the alcohol-free zone as the designation that made the park genuinely welcoming for everyone."
+        ]
+      }
+    ]
+  }
+]

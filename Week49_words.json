@@ -1,0 +1,702 @@
+[
+  {
+    "day": 337,
+    "words": [
+      {
+        "word": "AFL",
+        "ipa": "/eɪ ɛf ɛl/",
+        "phonetic": "[ay-ef-EL]",
+        "meaning": "Avustralya Futbol Ligi",
+        "type": "kısaltma",
+        "sentences": [
+          "She found the AFL the dominant sporting competition in southern and western Australia.",
+          "He found AFL the sport that most thoroughly organised Australian social life from March to September.",
+          "The AFL — Australian Football League — is the national competition for Australian rules football.",
+          "She found AFL broadcasts on Seven Network and Fox Footy reaching the largest television audiences of the sporting calendar.",
+          "He found the AFL comprising eighteen clubs — from Brisbane to Fremantle — with two expansion clubs added in recent decades.",
+          "AFL games are played on large oval grounds — the skill level and athleticism were striking.",
+          "She found the AFL season running from March to September — the Grand Final in late September.",
+          "He found the AFL the most financially powerful sporting competition in Australia.",
+          "AFL clubs have enormous community roles — schools, multicultural programs, and charitable foundations.",
+          "She describes attending her first AFL match as the experience that most made her understand what Australians meant by their football."
+        ]
+      },
+      {
+        "word": "Australian rules football",
+        "ipa": "/ɒˈstreɪliən ruːlz ˈfʊtbɔːl/",
+        "phonetic": "[o-STRAY-lee-un roolz FOOT-bawl]",
+        "meaning": "Avustralya kuralları futbolu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found Australian rules football the most uniquely Australian sport — nothing else quite resembled it.",
+          "He found Australian rules football originating in Melbourne in 1858 — one of the world's oldest football codes.",
+          "Australian rules football is a field sport played between two teams of eighteen on an oval ground.",
+          "She found the game fast, physical, and high-scoring — the ball moved quickly across a vast field.",
+          "He found Australian rules football played professionally in Victoria, South Australia, Western Australia, and Queensland.",
+          "Australian rules football is distinct from rugby — there are no scrums, lineouts, or offside rules.",
+          "She found the marks — spectacular overhead catches — the most crowd-pleasing moment in the game.",
+          "He found the oval-shaped ball the immediate visual identifier — not round like soccer.",
+          "Australian rules football is the most attended sport in Australia — regularly drawing seventy thousand to the MCG.",
+          "She describes watching Australian rules football for the first time as the sporting experience that most required a patient local guide."
+        ]
+      },
+      {
+        "word": "MCG",
+        "ipa": "/ɛm siː dʒiː/",
+        "phonetic": "[em-see-JEE]",
+        "meaning": "Melbourne Kriket Alanı (büyük stadyum)",
+        "type": "kısaltma",
+        "sentences": [
+          "She attended the Grand Final at the MCG — one hundred thousand people in a single ground.",
+          "He found the MCG the most sacred sporting venue in Australia — possibly the world.",
+          "The MCG — Melbourne Cricket Ground — is Australia's largest stadium and most iconic sporting venue.",
+          "She found the MCG hosting AFL Grand Finals, Boxing Day cricket Tests, and international concerts.",
+          "He found the MCG's capacity of one hundred thousand making it the largest stadium in the southern hemisphere.",
+          "The MCG has hosted two Olympic Games — 1956 and the 2006 Commonwealth Games.",
+          "She found the MCG precinct including the National Sports Museum — the most comprehensive sports history collection in Australia.",
+          "He found the MCG experience requiring early arrival — the carpark filled hours before bouncedown.",
+          "The MCG is located in Yarra Park, Melbourne — easily accessible by train from Flinders Street.",
+          "She describes standing in the MCG for the Grand Final as the Australian experience that most comprehensively overwhelmed her senses."
+        ]
+      },
+      {
+        "word": "barracking",
+        "ipa": "/ˈbærəkɪŋ/",
+        "phonetic": "[BA-ruh-king]",
+        "meaning": "belirli bir takım için tezahürat yapmak",
+        "type": "isim / fiil",
+        "sentences": [
+          "She found barracking for a team the single most rapidly integrating Australian social act available to her.",
+          "He found barracking for a club inherited — children followed parents without question.",
+          "Barracking is the act of loudly supporting a sports team — used in Australia where other countries say 'cheering'.",
+          "She found barracking for Collingwood the choice that most provoked spirited responses from new acquaintances.",
+          "He found which team to barrack for the question most often asked in Australian workplaces.",
+          "Barracking in Australia means supporting — in British English, 'barracking' means heckling — the usage is opposite.",
+          "She found barracking from the stands the most participatory element of attending a live game.",
+          "He found club loyalty the most identity-laden dimension of barracking — it connected families across generations.",
+          "Barracking a team gives an immediate social categorisation — Melbourne or Collingwood, Richmond or Carlton.",
+          "She describes choosing who to barrack for as the one sporting decision that most permanently shaped her Australian social identity."
+        ]
+      },
+      {
+        "word": "Grand Final",
+        "ipa": "/ɡrænd ˈfaɪnəl/",
+        "phonetic": "[grand FY-nul]",
+        "meaning": "şampiyonluk finali (AFL)",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She applied for Grand Final tickets through the ballot — the demand far exceeded the seats available.",
+          "He found Grand Final weekend the most celebrated sporting event in Australia.",
+          "The Grand Final is the AFL season's concluding match — played between the top two teams.",
+          "She found Grand Final Friday — a public holiday in Victoria — the most commercially and culturally significant day of the football calendar.",
+          "He found the Grand Final broadcast reaching the largest television audience of the year.",
+          "The Grand Final is played at the MCG in Melbourne — under normal circumstances — before one hundred thousand spectators.",
+          "She found the Grand Final week including a parade, Brownlow Medal count, and community events.",
+          "He found Grand Final barbecues — the game watched with friends — as important as attending in person.",
+          "The Grand Final result settles debates that had run all season — the winner is premier.",
+          "She describes watching the Grand Final with her Australian colleagues as the afternoon she felt most genuinely part of something shared."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 338,
+    "words": [
+      {
+        "word": "Brownlow Medal",
+        "ipa": "/ˈbraʊnloʊ ˈmɛdəl/",
+        "phonetic": "[BROWN-loh MED-ul]",
+        "meaning": "Brownlow Madalyası (AFL'nin en değerli oyuncu ödülü)",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She watched the Brownlow Medal count on television — the suspense built vote by vote.",
+          "He found the Brownlow Medal the AFL's most prestigious individual award.",
+          "The Brownlow Medal is awarded annually to the AFL's fairest and best player — as judged by field umpires.",
+          "She found the Brownlow count — broadcast live across three hours — a unique sports event.",
+          "He found three votes awarded per game — to the best, second, and third best players.",
+          "The Brownlow Medal cannot be won by a player who was suspended during the season.",
+          "She found the count building anticipation — any player within three votes of the leader could still win.",
+          "He found Brownlow winners almost always later inducted into the AFL Hall of Fame.",
+          "The Brownlow Medal ceremony is held on the Monday before the Grand Final.",
+          "She describes the Brownlow count as the sports broadcast that most convinced her that numbers could be dramatic."
+        ]
+      },
+      {
+        "word": "mark",
+        "ipa": "/mɑːk/",
+        "phonetic": "[mark]",
+        "meaning": "havadan top yakalama (AFL)",
+        "type": "isim",
+        "sentences": [
+          "She found the specky — a spectacular mark — the most crowd-pleasing moment in Australian rules football.",
+          "He found the mark the single skill that most distinguished Australian rules from any other football code.",
+          "In Australian rules football, a mark is awarded when a player catches the ball cleanly from a kick of more than fifteen metres.",
+          "She found the player who takes a mark awarded a free kick — they can kick unimpeded.",
+          "He found the chest mark — clean possession against the body — the most reliable technique.",
+          "The spectacular overhead mark — the 'specky' — involves a player climbing an opponent's back to take the catch.",
+          "She found the Mark of the Year award celebrating the most spectacular mark of the season.",
+          "He found the mark fundamental to the game's flow — it gave the game its distinctive stop-start rhythm.",
+          "A mark is only awarded when the ball has not touched the ground — a dropped catch is not a mark.",
+          "She describes seeing her first spectacular overhead mark as the moment Australian rules football revealed its genius."
+        ]
+      },
+      {
+        "word": "handball",
+        "ipa": "/ˈhændbɔːl/",
+        "phonetic": "[HAND-bawl]",
+        "meaning": "elle pas (AFL)",
+        "type": "isim",
+        "sentences": [
+          "She found the handball the skill that most clearly separated experienced AFL players from beginners.",
+          "He found the handball the fastest method of moving the ball in tight situations.",
+          "In Australian rules football, a handball is the act of punching the ball with a closed fist.",
+          "She found the handball legal in any direction — unlike rugby's restriction to lateral or backward passes.",
+          "He found the handball distinguishing AFL from every other football code — throwing was not permitted.",
+          "A handball must be performed with a closed fist — an open hand pass is a throw and penalised.",
+          "She found the handball enabling rapid ball movement across the ground.",
+          "He found goal assists — the handball immediately before a goal — tracked as a key statistic.",
+          "The handball is used when the player cannot kick — when tackled or when space did not allow a kick.",
+          "She describes learning to handball as the skill most quickly adopted by children playing for the first time."
+        ]
+      },
+      {
+        "word": "behind",
+        "ipa": "/bɪˈhaɪnd/",
+        "phonetic": "[bih-HYND]",
+        "meaning": "bir sayılık gol (AFL)",
+        "type": "isim",
+        "sentences": [
+          "She found the behind the scoring feature most confusing to newcomers — one point instead of six.",
+          "He found behind scores accumulating rapidly — a close game could turn on the behinds.",
+          "In Australian rules football, a behind is worth one point — scored by kicking through the shorter goal posts.",
+          "She found the scoring system unique — a goal is six points, a behind is one.",
+          "He found the behind scored by kicking the ball through between the goal post and the behind post.",
+          "A behind is also awarded when the ball is touched over the goal line.",
+          "She found the scoreboard displaying goals and behinds separately — the format took getting used to.",
+          "He found a score of fourteen goals and eight behinds equal ninety-two points.",
+          "The behind distinguishes AFL scoring from all other football codes — its presence makes close games more dramatic.",
+          "She describes figuring out the behind as the scoring concept that most required someone sitting beside her to explain."
+        ]
+      },
+      {
+        "word": "ruck",
+        "ipa": "/rʌk/",
+        "phonetic": "[ruk]",
+        "meaning": "orta saha oyuncusu (top atışını karşılayan)",
+        "type": "isim",
+        "sentences": [
+          "She found the ruck contest at each ball-up the most physically demanding moment in the game.",
+          "He found ruck work the specialised skill most separating AFL from other football codes.",
+          "In Australian rules football, the ruck is the position contested at stoppages — a taller player who contests the ball-up.",
+          "She found the ruck jumping to tap the ball to a teammate — not catching it.",
+          "He found the ruckman typically the tallest player on the field — over two metres common.",
+          "The ruck contest at the centre bounce opens each quarter and restarts play after goals.",
+          "She found ruck dominance closely correlated with midfield control and scoring opportunities.",
+          "He found the tap work from the ruck a precise and practised skill.",
+          "Ruck players also contest boundary throw-ins and stoppages around the ground.",
+          "She describes watching the ruck contest for the first time as the moment she realised AFL was physically extraordinary."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 339,
+    "words": [
+      {
+        "word": "premiership",
+        "ipa": "/ˈprɛmiəʃɪp/",
+        "phonetic": "[PREM-ee-ur-ship]",
+        "meaning": "şampiyonluk (AFL)",
+        "type": "isim",
+        "sentences": [
+          "She found the premiership the ultimate AFL achievement — club history was measured in premiership count.",
+          "He found the premiership conversation dominating footy discussions from Round One.",
+          "A premiership is the title awarded to the AFL Grand Final winner each season.",
+          "She found Collingwood's sixteen premierships making them the most successful club in the competition's history.",
+          "He found the premiership cup presented on Grand Final day — one of Australian sport's most recognisable trophies.",
+          "A premiership year defined a generation of supporters — the wins were remembered across lifetimes.",
+          "She found the question 'how many flags?' the most immediate measure of club greatness.",
+          "He found first-time premierships — clubs ending long droughts — producing the most emotional celebrations.",
+          "Premiership teams are permanently listed in AFL records — every player part of the official record.",
+          "She describes listening to supporters speak about their club's premiership as the conversation that most revealed what football meant beyond sport."
+        ]
+      },
+      {
+        "word": "interchange",
+        "ipa": "/ˈɪntətʃeɪndʒ/",
+        "phonetic": "[IN-tuh-chaynj]",
+        "meaning": "oyuncu değişim bölgesi (AFL)",
+        "type": "isim",
+        "sentences": [
+          "She found the interchange bench the most constantly moving element of the game — players cycling in and out.",
+          "He found the AFL interchange system allowing unlimited rotations — unlike most other football codes.",
+          "In Australian rules football, the interchange is the area where players rotate on and off the ground.",
+          "She found each team allowed a bench of four interchange players.",
+          "He found the interchange rotation managed by the coach — maximising fitness and matchups.",
+          "The interchange was capped at one hundred and fifty rotations per team per game from 2019 — reducing cycling.",
+          "She found the interchange steward recording every player rotation — the count tracked officially.",
+          "He found the interchange area adjacent to the coaches' box — communication was constant.",
+          "Injured players resting on the interchange bench was distinct from a player being officially substituted.",
+          "She describes the interchange rotation as the tactical element of AFL she found most fascinating once she understood it."
+        ]
+      },
+      {
+        "word": "salary cap",
+        "ipa": "/ˈsæləri kæp/",
+        "phonetic": "[SAL-uh-ree kap]",
+        "meaning": "maaş tavanı (AFL kulüplerinde)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the AFL salary cap the mechanism most responsible for competitive balance across the competition.",
+          "He found salary cap breaches by clubs resulting in significant fines and draft pick penalties.",
+          "A salary cap is the maximum total amount a sports team can spend on player wages.",
+          "She found the AFL total player payments cap negotiated between the AFL and the Players Association.",
+          "He found the salary cap requiring sophisticated list management — every contract fit within the total.",
+          "Salary cap compliance is audited by the AFL — clubs must disclose all payments to players.",
+          "She found the salary cap creating parity — smaller market clubs could compete with wealthy ones.",
+          "He found list managers the most financially sophisticated people in football clubs.",
+          "The salary cap includes base wages, bonuses, and soft money — all payments to players count.",
+          "She describes the salary cap as the AFL rule she found most interesting once she understood it improved the competition."
+        ]
+      },
+      {
+        "word": "AFL draft",
+        "ipa": "/eɪ ɛf ɛl drɑːft/",
+        "phonetic": "[ay-ef-EL drahft]",
+        "meaning": "AFL genç oyuncu seçimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She watched the AFL draft on television — young men's futures changed with a single announcement.",
+          "He found the AFL draft the mechanism clubs used to recruit young players into the competition.",
+          "The AFL draft is an annual event at which clubs select young players to join their lists.",
+          "She found the worst-performing clubs selecting earliest — the reverse-order system promoting competitive equity.",
+          "He found draft pick trading the most complex negotiation in club list management.",
+          "The AFL draft typically includes over eighty selections across multiple rounds.",
+          "She found the draft combine — where players are physically tested — the precursor to the final selections.",
+          "He found academy systems — clubs' local development programs — providing priority access to prospects.",
+          "The AFL draft was held in November — clubs immediately began planning the following season.",
+          "She describes watching a teenager receive their club's call-up at the draft as the moment she most understood sport's power to change a life."
+        ]
+      },
+      {
+        "word": "tribunal",
+        "ipa": "/traɪˈbjuːnəl/",
+        "phonetic": "[try-BYOO-nul]",
+        "meaning": "AFL disiplin kurulu",
+        "type": "isim",
+        "sentences": [
+          "She found the AFL tribunal convened when players were charged with dangerous or rough conduct on the field.",
+          "He found tribunal hearings broadcast — the evidence, charge, and verdict all publicly examined.",
+          "In AFL, the tribunal is the disciplinary body that hears serious conduct charges against players.",
+          "She found the tribunal assessing charges across a range — from reportable incidents to serious striking.",
+          "He found the Match Review Officer — MRO — the first stage, with tribunal the appeal destination.",
+          "Tribunal outcomes included fines, weeks of suspension, and in serious cases longer bans.",
+          "She found the tribunal hearing player and club advocates presenting evidence — a formal legal process.",
+          "He found the tribunal precedent the subject of intense media analysis each week.",
+          "Players could accept the MRO's grading and avoid the tribunal — taking the penalty without challenge.",
+          "She describes the tribunal verdict the team was waiting for as the outcome that most affected their finals campaign."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 340,
+    "words": [
+      {
+        "word": "free kick",
+        "ipa": "/friː kɪk/",
+        "phonetic": "[free kik]",
+        "meaning": "serbest vuruş (AFL)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the free kick the most debated decision in any AFL game — fans disputed every one.",
+          "He found the free kick the most impactful single moment — a goal often followed.",
+          "A free kick in AFL is awarded when a player is penalised for a rule infringement.",
+          "She found free kicks awarded for holding, incorrect disposal, and high contact.",
+          "He found the holding-the-ball decision — a disputed free kick — the most argued call of every season.",
+          "Free kicks are taken from the point of the infringement — or, for a mark, from where the mark was taken.",
+          "She found the fifty-metre penalty — for a player infringing after a free kick — the most severe escalation.",
+          "He found the statistical tracking of free kicks revealing team patterns — some clubs gave away far more than others.",
+          "Free kicks directly inside the fifty-metre arc were statistically likely to produce a goal.",
+          "She describes the contentious free kick in the final quarter as the moment the whole stadium simultaneously expressed an opinion."
+        ]
+      },
+      {
+        "word": "guernsey",
+        "ipa": "/ˈɡɜːnzi/",
+        "phonetic": "[GUR-nzee]",
+        "meaning": "AFL oyuncu forması",
+        "type": "isim",
+        "sentences": [
+          "She bought a guernsey in her club's colours — wearing it to her first game felt like a declaration.",
+          "He found the guernsey design the most instantly recognisable element of club identity.",
+          "A guernsey is the playing jumper worn by Australian rules football players.",
+          "She found guernseys in club colours sold in club shops, supermarkets, and sporting goods stores.",
+          "He found the guernsey design largely unchanged across decades — some clubs had worn the same pattern for over a century.",
+          "Guernseys are numbered — players wear the same number throughout their career at a club.",
+          "She found the retired guernsey number a permanent honour — the great player's number never worn again.",
+          "He found the guernsey the most common gift for Australian football fans — children and adults equally likely to receive one.",
+          "Guernseys are made from lightweight materials — designed for speed and grip in the Australian climate.",
+          "She describes putting on the guernsey for the first time as the moment she chose her club — and it chose her."
+        ]
+      },
+      {
+        "word": "club membership",
+        "ipa": "/klʌb ˈmɛmbəʃɪp/",
+        "phonetic": "[klub MEM-bur-ship]",
+        "meaning": "spor kulübü üyeliği",
+        "type": "isim öbeği",
+        "sentences": [
+          "She bought a club membership in her first year — it came with a guernsey and priority Grand Final access.",
+          "He found club membership the primary financial contribution most fans made to their team.",
+          "A club membership is an annual subscription providing benefits including reserved seating, discounts, and priority tickets.",
+          "She found membership costs ranging from one hundred to five hundred dollars depending on inclusions.",
+          "He found the membership number accumulating — each year of renewal adding to the total count.",
+          "Club membership numbers are a point of pride — large member bases signal community support.",
+          "She found the most devoted members attending every home and away game — a significant travel commitment.",
+          "He found membership waiting lists at the most popular clubs — Grand Final seats tied to membership tenure.",
+          "Club membership also supports the club's community programs and junior development.",
+          "She describes renewing her membership each year as the small annual commitment she most looked forward to making."
+        ]
+      },
+      {
+        "word": "football boot",
+        "ipa": "/ˈfʊtbɔːl buːt/",
+        "phonetic": "[FOOT-bawl boot]",
+        "meaning": "futbol ayakkabısı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found football boots for her son's first junior season at Rebel Sport — the selection was extensive.",
+          "He found the football boot the most specialised piece of AFL equipment.",
+          "A football boot is a studded or spiked shoe designed for playing Australian rules football.",
+          "She found AFL football boots designed for the oval ground surface — different from round-ball football boots.",
+          "He found boots available in low-cut and high-cut styles — the high-cut providing ankle support.",
+          "Football boots in Australia are sold by brands including Nike, Adidas, New Balance, and Asics.",
+          "She found junior football boots available from forty dollars — entry-level was accessible.",
+          "He found the professional players wearing boots made to measure — contracted sponsorships dictated the brand.",
+          "Football boots must be worn in junior competition — safety rules required appropriate footwear.",
+          "She describes buying her son's first football boots as the parenting moment that most committed the family to a new Saturday morning routine."
+        ]
+      },
+      {
+        "word": "footy tipping",
+        "ipa": "/ˈfʊti ˈtɪpɪŋ/",
+        "phonetic": "[FOOT-ee TIP-ing]",
+        "meaning": "footy sonuç tahmin yarışması",
+        "type": "isim öbeği",
+        "sentences": [
+          "She joined the workplace footy tipping competition in her first season — it was the social glue she needed.",
+          "He found footy tipping the AFL's most widely participated non-playing activity.",
+          "Footy tipping is a competition in which participants predict the winners of each AFL round.",
+          "She found footy tipping running in workplaces, families, and social groups across southern and western Australia.",
+          "He found the official AFL Tipping competition free to enter — millions of Australians participated.",
+          "Footy tipping requires weekly selections before games begin — no changing the tip after the first bounce.",
+          "She found the workplace tipping competition the easiest AFL conversation starter — everyone was in it.",
+          "He found the leaderboard the most checked app on the phone each Saturday morning.",
+          "Footy tipping prizes ranged from a pub tab to significant cash in large office competitions.",
+          "She describes footy tipping as the activity that most quickly made her an informed follower — she had to learn the teams to compete."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 341,
+    "words": [
+      {
+        "word": "VFL",
+        "ipa": "/viː ɛf ɛl/",
+        "phonetic": "[vee-ef-EL]",
+        "meaning": "Victoria Futbol Ligi (AFL'nin öncüsü)",
+        "type": "kısaltma",
+        "sentences": [
+          "She found the VFL the Victorian competition from which the modern AFL grew.",
+          "He found VFL records and statistics the most historically deep in Australian sport.",
+          "The VFL — Victorian Football League — was the national competition before it expanded and became the AFL in 1990.",
+          "She found VFL history including clubs like Carlton, Collingwood, and Richmond competing since the late nineteenth century.",
+          "He found the modern VFL operating as a second-tier competition below the AFL.",
+          "VFL clubs now include AFL reserves teams and standalone clubs from Victoria.",
+          "She found older supporters always using VFL when they meant AFL — the habit was deeply set.",
+          "He found the VFL premiership trophy the oldest in the competition — clubs competing for it before Australia federated.",
+          "VFL games are free or low-cost to attend — a different experience from the professional AFL.",
+          "She describes learning the VFL history as the football education that most illuminated how deeply embedded the game was in Victorian identity."
+        ]
+      },
+      {
+        "word": "Norm Smith Medal",
+        "ipa": "/nɔːm smɪθ ˈmɛdəl/",
+        "phonetic": "[norm smith MED-ul]",
+        "meaning": "Grand Final'in en iyi oyuncu ödülü",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She watched the Norm Smith Medal presentation at the MCG — the winner had been clearly outstanding.",
+          "He found the Norm Smith Medal the most prestigious award in Australian sport's grandest day.",
+          "The Norm Smith Medal is awarded to the best player in the AFL Grand Final.",
+          "She found the medal named after the legendary Melbourne player and coach who died in 1973.",
+          "He found the Norm Smith Medal often going to a midfielder or forward — the most influential positions.",
+          "The Norm Smith Medal is voted by a panel of former players and media — announced after the final siren.",
+          "She found multiple Norm Smith Medals rare — the same player winning twice was significant.",
+          "He found the Medal winner invariably from the winning team — a reflection of individual contribution to victory.",
+          "The Norm Smith Medal is presented on the MCG at the conclusion of the Grand Final.",
+          "She describes the Norm Smith Medal announcement as the final act that most dignified the Grand Final experience."
+        ]
+      },
+      {
+        "word": "boundary",
+        "ipa": "/ˈbaʊndri/",
+        "phonetic": "[BOWN-dree]",
+        "meaning": "saha sınırı (AFL)",
+        "type": "isim",
+        "sentences": [
+          "She found the boundary the defining line of the playing field — when the ball crossed it, play stopped.",
+          "He found the boundary throw-in the restart method when the ball went out of play.",
+          "The boundary in AFL is the outer edge of the oval playing surface.",
+          "She found the boundary umpire positioned along the edge, signalling when the ball went out and conducting throw-ins.",
+          "He found the ball going over the boundary resulting in a throw-in from the boundary umpire.",
+          "Players could play on from the boundary if they caught the ball before it crossed the line.",
+          "She found the boundary race the space along the sideline where boundary umpires sprinted to keep pace.",
+          "He found the ball-up option — taken at the centre — used when a throw-in was inconclusive.",
+          "Boundary decisions required precise judgment — the entire ball had to cross the line.",
+          "She describes the ball bouncing along the boundary as the most suspenseful peripheral event in a tightly contested match."
+        ]
+      },
+      {
+        "word": "trade period",
+        "ipa": "/treɪd ˈpɪəriəd/",
+        "phonetic": "[trayd PEER-ee-ud]",
+        "meaning": "AFL oyuncu transfer dönemi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the trade period the most intensely reported fortnight in the AFL calendar outside the finals.",
+          "He found trade period speculation the defining content of football media in October.",
+          "The AFL trade period is an annual window in which clubs exchange players and draft picks.",
+          "She found trade period negotiations involving players, clubs, and agents in complex multi-party deals.",
+          "He found the trade period lasting approximately two weeks — a compressed, high-pressure exchange.",
+          "Trades in AFL involve player-for-player swaps, draft pick exchanges, and combination deals.",
+          "She found the trade period rumour mill the most unreliable but most consumed AFL media.",
+          "He found the off-contract players the most sought — clubs competing for their signatures.",
+          "Trade period outcomes often determined a club's success for years — a good trade was remembered.",
+          "She describes following the trade period for the first time as the experience that most revealed how much football was really a business."
+        ]
+      },
+      {
+        "word": "forward pocket",
+        "ipa": "/ˈfɔːwəd ˈpɒkɪt/",
+        "phonetic": "[FOR-wud POK-it]",
+        "meaning": "öne yakın kanat pozisyonu (AFL)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the forward pocket player the fastest finisher on the ground — small and sharp near goal.",
+          "He found the forward pocket role the most specialised small-person position in AFL.",
+          "A forward pocket is an attacking position in AFL, located in the smaller area near the goal posts.",
+          "She found forward pocket players typically smaller and faster than key forwards.",
+          "He found the forward pocket player's role to receive short kicks or handballs inside fifty and convert for goal.",
+          "Forward pocket players had the highest goal-per-possession rate — every possession was in a scoring position.",
+          "She found the forward pocket rotation common — coaches moved players through the role to match the opposing defender.",
+          "He found the forward pocket contest — a small forward running hard, a backman chasing — exciting to watch.",
+          "The forward pocket is one of six forward flank and pocket positions in AFL.",
+          "She describes the forward pocket player's finish as the skill she most admired — clinical under pressure."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 342,
+    "words": [
+      {
+        "word": "cricket",
+        "ipa": "/ˈkrɪkɪt/",
+        "phonetic": "[KRIK-it]",
+        "meaning": "kriket",
+        "type": "isim",
+        "sentences": [
+          "She found cricket the sport that most demanded patience — both to play and to understand.",
+          "He found cricket the sport most deeply woven into Australian summer culture.",
+          "Cricket is a bat-and-ball sport played between two teams of eleven on a grass field.",
+          "She found the Boxing Day Test at the MCG the most anticipated cricket event of the Australian summer.",
+          "He found Test cricket — played over five days — the format she found most confusing and ultimately most compelling.",
+          "Cricket in Australia is administered by Cricket Australia — the national governing body.",
+          "She found the Big Bash League — the Australian domestic T20 competition — the most accessible format for newcomers.",
+          "He found Australian cricket's history including legendary teams, controversies, and ashes battles stretching back to 1877.",
+          "Cricket is played in summer — the season running from October to March.",
+          "She describes understanding LBW for the first time as the moment cricket stopped being mystifying — and became merely fascinating."
+        ]
+      },
+      {
+        "word": "The Ashes",
+        "ipa": "/ðə ˈæʃɪz/",
+        "phonetic": "[thuh ASH-iz]",
+        "meaning": "Ashes (Avustralya-İngiltere kriket serisi)",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She found The Ashes the cricket series that most reliably produced national fervour in Australia.",
+          "He found The Ashes more than a series — it was a relationship between two countries expressed in cricket.",
+          "The Ashes is a biennial Test cricket series played between Australia and England.",
+          "She found the series name originating in an 1882 newspaper obituary for English cricket — the ashes to be taken to Australia.",
+          "He found The Ashes fought over a small urn — though the urn itself stayed in England.",
+          "Australia has won The Ashes more often than England — the series balance a point of national pride.",
+          "She found the Ashes Tests the longest — and most intensely followed — cricket matches of the Australian summer.",
+          "He found the Boxing Day Ashes Test the most attended single day of cricket in Australia.",
+          "The Ashes produces the most heated banter between Australian and English colleagues in any shared workplace.",
+          "She describes following The Ashes series as the entry point to cricket she most gratefully fell into."
+        ]
+      },
+      {
+        "word": "NRL",
+        "ipa": "/ɛn ɑːr ɛl/",
+        "phonetic": "[en-ar-EL]",
+        "meaning": "Ulusal Ragbi Ligi",
+        "type": "kısaltma",
+        "sentences": [
+          "She found the NRL dominant in Queensland and New South Wales — the south preferred AFL.",
+          "He found the NRL the code that most divided Australian sport geography.",
+          "The NRL — National Rugby League — is the top-level rugby league competition in Australia.",
+          "She found NRL games faster and more physical than she had anticipated.",
+          "He found the NRL featuring sixteen clubs — concentrated in Queensland and New South Wales.",
+          "NRL is distinct from rugby union — the codes separated in 1895 and developed differently.",
+          "She found the NRL season running from March to October — with the Grand Final in late September.",
+          "He found Origin football — the State of Origin series between Queensland and New South Wales — the most intensely contested games of the year.",
+          "NRL is the most popular sport in Queensland — a different football culture from Victoria's AFL dominance.",
+          "She describes watching State of Origin for the first time as the sporting event that most revealed how geography shaped identity in Australia."
+        ]
+      },
+      {
+        "word": "State of Origin",
+        "ipa": "/steɪt əv ˈɒrɪdʒɪn/",
+        "phonetic": "[stayt uv OR-ih-jin]",
+        "meaning": "Eyalet Köken Serisi (QLD vs NSW ragbi ligi)",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She found State of Origin the most emotionally charged sporting event in Queensland each year.",
+          "He found State of Origin the rugby league series that most paralysed Queensland workplaces on game night.",
+          "State of Origin is a rugby league series between Queensland and New South Wales — contested over three games annually.",
+          "She found the series uniquely selecting players based on the state they first represented — not where they played.",
+          "He found State of Origin consistently producing the most physical and skilful rugby league played in the world.",
+          "State of Origin was initiated in 1980 — Queensland had previously been unable to compete against New South Wales.",
+          "She found the State of Origin crowd in Brisbane the loudest she had ever experienced at a sporting event.",
+          "He found Queensland winning more series than New South Wales historically — a statistic Queenslanders knew precisely.",
+          "State of Origin games regularly attract the largest non-Grand Final crowds of the Australian sporting year.",
+          "She describes her first State of Origin night as the event that most made her understand why sport was religion in Queensland."
+        ]
+      },
+      {
+        "word": "A-League",
+        "ipa": "/eɪ liːɡ/",
+        "phonetic": "[ay leeg]",
+        "meaning": "A-Lig (Avustralya futbol ligi)",
+        "type": "özel isim öbeği",
+        "sentences": [
+          "She found the A-League the fastest growing football code among new migrant communities in Australia.",
+          "He found the A-League fielding twelve clubs — from Brisbane to Wellington — across the country.",
+          "The A-League is Australia's top professional football — soccer — league.",
+          "She found the A-League season running from October to May — a different timing from the winter codes.",
+          "He found the A-League less commercially powerful than the AFL or NRL but growing steadily in viewership.",
+          "A-League clubs include Western Sydney Wanderers, Melbourne City, and Sydney FC — teams that had built passionate supporter cultures.",
+          "She found the A-League the most natural sporting entry point for football-playing migrants from Europe, South America, and Asia.",
+          "He found the Socceroos — Australia's national men's football team — drawing viewers beyond regular A-League audiences.",
+          "The A-League women's competition ran concurrently — professional women's football growing in profile.",
+          "She describes attending an A-League derby as the sporting experience that most made her feel her sport had followed her to Australia."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 343,
+    "words": [
+      {
+        "word": "Socceroos",
+        "ipa": "/ˌsɒkəˈruːz/",
+        "phonetic": "[sok-uh-ROOZ]",
+        "meaning": "Avustralya milli futbol takımı (erkekler)",
+        "type": "özel isim",
+        "sentences": [
+          "She found the Socceroos the team she followed most closely — Australia playing football was the most familiar sport.",
+          "He found the Socceroos the national team that had most expanded its global recognition since the 2006 World Cup.",
+          "The Socceroos are Australia's national men's football team.",
+          "She found the Socceroos competing in the Asian Football Confederation — Australia moved from Oceania in 2006.",
+          "He found the Socceroos qualifying for five consecutive World Cup tournaments — the 2006 campaign in Germany the most celebrated.",
+          "The Socceroos reached the 2023 Women's World Cup final on home soil — the Matildas becoming the most talked-about sporting team in the country.",
+          "She found Socceroos matches on free-to-air television when Australia qualified for major tournaments.",
+          "He found the Socceroos' multicultural composition the most direct reflection of Australia's immigration history.",
+          "The Socceroos are nicknamed after the kangaroo — a distinctly Australian identity marker.",
+          "She describes watching the Socceroos play as the moment she felt a uniquely double belonging — to the sport and to the country."
+        ]
+      },
+      {
+        "word": "Matildas",
+        "ipa": "/məˈtɪldəz/",
+        "phonetic": "[muh-TIL-duz]",
+        "meaning": "Avustralya kadın milli futbol takımı",
+        "type": "özel isim",
+        "sentences": [
+          "She found the Matildas the sporting team that most captured Australia's collective imagination in 2023.",
+          "He found the Matildas the most rapidly growth point in Australian sports history.",
+          "The Matildas are Australia's national women's football team.",
+          "She found the 2023 Women's World Cup on Australian and New Zealand soil the most attended women's sporting event in the country's history.",
+          "He found the Matildas reaching the semi-finals of the 2023 World Cup — defeating France on penalties in the quarter-final.",
+          "The Matildas' World Cup run prompted the largest live sports broadcast audiences Australia had seen in decades.",
+          "She found the Matildas making front-page news daily during the tournament — a transformation in how women's sport was covered.",
+          "He found the Matildas inspiring record A-League Women's attendances and television ratings after the World Cup.",
+          "The Matildas are named after the Australian folk song Waltzing Matilda.",
+          "She describes watching the Matildas during the 2023 World Cup as the sporting experience that most made her feel the country had paused together."
+        ]
+      },
+      {
+        "word": "sport culture",
+        "ipa": "/spɔːt ˈkʌltʃər/",
+        "phonetic": "[sport KUL-chuh]",
+        "meaning": "spor kültürü",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found Australian sport culture the most pervasive social organising force she had encountered.",
+          "He found sport culture in Australia cutting across class, background, and politics in a way few other things did.",
+          "Sport culture refers to the values, practices, and social significance attached to sport within a society.",
+          "She found Australian sport culture centred on participation, community, and fair competition.",
+          "He found sport culture embedded in schools — physical education, interschool carnivals, and representative sport.",
+          "Australian sport culture prizes athletic achievement but equally values the club, the team, and the participation.",
+          "She found sport culture shaping weekend schedules, conversation topics, and social identity.",
+          "He found Australian sport culture generating significant national pride — the medal tallies and world rankings were tracked closely.",
+          "Sport culture in Australia includes elite competition, community clubs, recreational participation, and spectatorship.",
+          "She describes absorbing Australian sport culture as the integration process that most unexpectedly gave her community, belonging, and a reason to cheer."
+        ]
+      },
+      {
+        "word": "local footy club",
+        "ipa": "/ˈloʊkəl ˈfʊti klʌb/",
+        "phonetic": "[LOH-kul FOOT-ee klub]",
+        "meaning": "yerel futbol kulübü (topluluk düzeyi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She enrolled her son in the local footy club at age seven — the community welcomed the whole family.",
+          "He found the local footy club the most reliable entry point into Australian community life.",
+          "A local footy club is a community-based Australian rules football club operating below the professional level.",
+          "She found the local footy club providing junior development, senior competition, and social events.",
+          "He found the club's canteen — run by volunteers — the hub of social life on game day.",
+          "Local footy clubs in Australia are typically incorporated associations — run by volunteer committees.",
+          "She found the club's multicultural welcome genuine — her son became the only player from her background, and then not the only one.",
+          "He found AFL club affiliation often passed through local clubs — juniors who played well progressed to state leagues.",
+          "Local footy clubs host the community's Friday night dinners, fundraising evenings, and end-of-season presentations.",
+          "She describes the local footy club as the institution that most efficiently gave her entire family a social home in Australia."
+        ]
+      },
+      {
+        "word": "swimming carnival",
+        "ipa": "/ˈswɪmɪŋ ˈkɑːnɪvəl/",
+        "phonetic": "[SWIM-ing KAR-nih-vul]",
+        "meaning": "okul yüzme karnavalı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the swimming carnival the most quintessentially Australian school event her children attended.",
+          "He found swimming carnivals the most efficiently organised large school event he had witnessed.",
+          "A swimming carnival is a competitive swimming event held at schools — typically annually.",
+          "She found the swimming carnival assigning house colours — red, blue, green, and yellow — the first day her children understood school competition.",
+          "He found the carnival including freestyle, backstroke, breaststroke, butterfly, and novelty events.",
+          "Swimming carnivals are held at public pools or the school pool — entry was mandatory for most year levels.",
+          "She found ribbons and house points awarded — the accumulation over the day deciding the winner.",
+          "He found the swimming carnival culture involving non-swimmers as officials, timekeepers, and supporters.",
+          "Swimming carnivals are followed by athletics carnivals — the full school sport calendar spanning both.",
+          "She describes the swimming carnival as the school event that most immediately made her children feel they were part of something Australian."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "day": 85,
+    "words": [
+      {
+        "word": "prime minister",
+        "ipa": "/praɪm ˈmɪnɪstə/",
+        "phonetic": "[prym MIN-ih-stuh]",
+        "meaning": "başbakan",
+        "type": "isim öbeği",
+        "sentences": [
+          "She watched the prime minister's press conference live on the ABC to hear the policy announcement.",
+          "He wrote a letter to the prime minister about housing affordability and received a formal response.",
+          "The prime minister is the head of the Australian federal government.",
+          "She followed the election campaign closely to understand the prime minister candidates' platforms.",
+          "He found the prime minister's address to the nation reassuring during the crisis.",
+          "The prime minister is appointed by the Governor-General and must hold the confidence of the parliament.",
+          "She visited Parliament House in Canberra and watched question time from the public gallery.",
+          "He was surprised to learn that Australia has had many prime ministers in a relatively short time.",
+          "The prime minister attends the G20 to represent Australia's interests on the world stage.",
+          "She studied Australian history and was struck by how many prime ministers had shaped the nation."
+        ]
+      },
+      {
+        "word": "parliament",
+        "ipa": "/ˈpɑːləmənt/",
+        "phonetic": "[PAR-luh-munt]",
+        "meaning": "parlamento",
+        "type": "isim",
+        "sentences": [
+          "She visited Parliament House in Canberra on a school excursion and found it impressive.",
+          "He watched a parliamentary debate on the ABC iView late at night.",
+          "The Australian Parliament consists of the House of Representatives and the Senate.",
+          "She followed the parliament's sitting schedule to understand when legislation was being debated.",
+          "He explained to his children how parliament makes the laws that govern Australia.",
+          "Parliament is the highest law-making body in Australia and consists of elected representatives.",
+          "She contacted her local member of parliament with a question about the proposed development.",
+          "He learned that parliament sits for a limited number of weeks each year.",
+          "She watched parliament online during a major budget debate and found it riveting.",
+          "He appreciated that anyone can petition parliament — democracy at its most accessible."
+        ]
+      },
+      {
+        "word": "senate",
+        "ipa": "/ˈsɛnɪt/",
+        "phonetic": "[SEN-it]",
+        "meaning": "senato",
+        "type": "isim",
+        "sentences": [
+          "She read about the Senate's role as the review chamber in the Australian Parliament.",
+          "He watched Senate estimates live — the process of scrutinising government departments was revealing.",
+          "The Senate has twelve senators from each state and two from each territory.",
+          "She found the Senate crossbench — independents and minor parties — increasingly influential.",
+          "He studied how the Senate can block or amend legislation passed by the lower house.",
+          "The Senate is often called the states' house because senators represent whole states.",
+          "She contacted her state senator to raise concerns about proposed environmental legislation.",
+          "He admired senators who used their role to scrutinise government spending independently.",
+          "The Senate committee system produces detailed reports on legislation before it is passed.",
+          "She followed the Senate inquiry into the housing crisis and submitted a written response."
+        ]
+      },
+      {
+        "word": "opposition",
+        "ipa": "/ˌɒpəˈzɪʃən/",
+        "phonetic": "[op-uh-ZISH-un]",
+        "meaning": "muhalefet",
+        "type": "isim",
+        "sentences": [
+          "She listened to the opposition leader's budget reply speech to hear the alternative view.",
+          "He found the opposition's questions during question time sharper than he had expected.",
+          "The opposition holds the government to account by scrutinising its decisions and policies.",
+          "She understood that a strong opposition is essential to healthy parliamentary democracy.",
+          "He voted for the opposition at the last election after a decade of supporting the incumbents.",
+          "The opposition party sits across the chamber from the government in the House of Representatives.",
+          "She read the opposition's policy platform carefully before the federal election.",
+          "He watched the opposition spokesperson on climate challenge the minister at Senate estimates.",
+          "The opposition can form the government if it wins a majority at the next election.",
+          "She appreciated that the opposition's role is to challenge — not simply to obstruct."
+        ]
+      },
+      {
+        "word": "Governor-General",
+        "ipa": "/ˌɡʌvənə ˈdʒɛnərəl/",
+        "phonetic": "[GUV-uh-nuh JEN-uh-rul]",
+        "meaning": "Genel Vali (Avustralya'da Kraliçe/Kral'ın temsilcisi)",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She read about the Governor-General's role in the Australian Constitution.",
+          "He attended the Governor-General's citizenship ceremony in the capital.",
+          "The Governor-General is the representative of the King and the ceremonial head of state.",
+          "She learned about the constitutional crisis of 1975 in which the Governor-General dismissed the government.",
+          "He sent a congratulatory letter to the Governor-General upon their appointment.",
+          "The Governor-General formally commissions the prime minister and swears in the cabinet.",
+          "She found the Governor-General's role mostly ceremonial but constitutionally significant.",
+          "He visited Government House and was struck by its historic beauty and grandeur.",
+          "The Governor-General signs legislation passed by the parliament into law.",
+          "She studied the reserve powers of the Governor-General and their controversial application."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 86,
+    "words": [
+      {
+        "word": "federal government",
+        "ipa": "/ˈfɛdərəl ˈɡʌvənmənt/",
+        "phonetic": "[FED-uh-rul GUV-urn-munt]",
+        "meaning": "federal hükümet",
+        "type": "isim öbeği",
+        "sentences": [
+          "She contacted the federal government department about her Medicare eligibility question.",
+          "He followed the federal government's policy announcements during the election campaign.",
+          "The federal government is responsible for defence, immigration, social security, and trade.",
+          "She applied for a federal government grant to support her small business.",
+          "He found the federal government's website well-organised and easy to navigate.",
+          "The federal government funds Medicare, HECS, and Centrelink payments across Australia.",
+          "She attended a federal government consultation session on infrastructure in her city.",
+          "He contributed to the federal government's public inquiry into privacy law reform.",
+          "The federal government and state governments share responsibility for many policy areas.",
+          "She found that understanding which level of government was responsible helped navigate services."
+        ]
+      },
+      {
+        "word": "state government",
+        "ipa": "/steɪt ˈɡʌvənmənt/",
+        "phonetic": "[stayt GUV-urn-munt]",
+        "meaning": "eyalet hükümeti",
+        "type": "isim öbeği",
+        "sentences": [
+          "She contacted the state government about her driver's licence renewal.",
+          "He followed the state government election and was surprised by the result.",
+          "The state government is responsible for schools, hospitals, roads, and police.",
+          "She found the state government's housing affordability package helpful for first home buyers.",
+          "He attended a state government budget briefing organised by his local business chamber.",
+          "State governments levy their own taxes including payroll tax and stamp duty.",
+          "She wrote to the state government minister about the hospital waiting list in her area.",
+          "He found that state government services varied significantly between states.",
+          "The state government runs TAFE and manages public school funding in her state.",
+          "She appreciated that Australia's federal system allowed states to experiment with different approaches."
+        ]
+      },
+      {
+        "word": "territory",
+        "ipa": "/ˈtɛrɪtri/",
+        "phonetic": "[TER-ih-tree]",
+        "meaning": "özerk bölge (Avustralya Başkent Bölgesi ve Kuzey Bölgesi gibi)",
+        "type": "isim",
+        "sentences": [
+          "She moved from Sydney to Darwin and found life in the Northern Territory very different.",
+          "He studied the unique status of territories — they have fewer constitutional rights than states.",
+          "Australia has two self-governing territories — the Australian Capital Territory and the Northern Territory.",
+          "She noted that territory residents also have senators but fewer than each state.",
+          "He found Canberra — the capital of the ACT territory — a planned and liveable city.",
+          "Territory governments can have their laws overridden by the federal parliament unlike states.",
+          "She explored the history of the Northern Territory and its significant Indigenous populations.",
+          "He was surprised that territories did not exist in the original Constitution as they do today.",
+          "The territory government in Canberra runs services for the local community and the national capital.",
+          "She compared the legislation of the ACT and found it often progressive relative to the states."
+        ]
+      },
+      {
+        "word": "councillor",
+        "ipa": "/ˈkaʊnsɪlə/",
+        "phonetic": "[KOWN-sil-uh]",
+        "meaning": "belediye meclis üyesi",
+        "type": "isim",
+        "sentences": [
+          "She voted for the councillor who had championed the new cycling infrastructure.",
+          "He emailed his local councillor about the state of the footpaths in the neighbourhood.",
+          "A councillor represents a ward or division at the local government level.",
+          "She attended the council meeting and was impressed by her councillor's preparation.",
+          "He decided to run for councillor after years of frustration with local planning decisions.",
+          "Councillors are elected every four years and oversee local government administration.",
+          "She found her councillor genuinely responsive — a personal reply within two business days.",
+          "He thanked his councillor for advocating for the playground upgrade in the local park.",
+          "Councillors make decisions about rates, development applications, and community services.",
+          "She volunteered on her councillor's campaign and found the democratic process engaging."
+        ]
+      },
+      {
+        "word": "compulsory voting",
+        "ipa": "/kəmˈpʌlsəri ˈvoʊtɪŋ/",
+        "phonetic": "[kum-PUL-suh-ree VOH-ting]",
+        "meaning": "zorunlu oy kullanma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She explained to her overseas colleague that compulsory voting is the law in Australia.",
+          "He enrolled to vote as soon as he became a citizen — compulsory voting is taken seriously.",
+          "Compulsory voting means all enrolled Australian citizens must vote at federal and state elections.",
+          "She found that compulsory voting produced a more representative and engaged electorate.",
+          "He forgot to vote at a council election and received a fine — he did not forget again.",
+          "Australia introduced compulsory voting in 1924 and voter turnout has been above ninety percent since.",
+          "She debated with friends whether compulsory voting was a strength or a limitation of democracy.",
+          "He appreciated compulsory voting — it meant every voice was counted, not just those motivated to queue.",
+          "Compulsory voting requires enrolment — she updated her address after every move.",
+          "She found the Australian compulsory voting system admired by many other democracies."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 87,
+    "words": [
+      {
+        "word": "polling booth",
+        "ipa": "/ˈpoʊlɪŋ buːð/",
+        "phonetic": "[POH-ling booth]",
+        "meaning": "sandık başı, oy kullanma yeri",
+        "type": "isim öbeği",
+        "sentences": [
+          "She went to the polling booth early to avoid the queue before work.",
+          "He held his democracy sausage proudly outside the polling booth — a national tradition.",
+          "Polling booths are set up in schools, community centres, and public buildings on election day.",
+          "She helped her elderly mother to the polling booth and guided her through the process.",
+          "He volunteered to hand out how-to-vote cards outside the polling booth for his party.",
+          "Polling booths open at eight in the morning and close at six in the evening on election day.",
+          "She voted early at a pre-polling booth to avoid the Saturday rush.",
+          "He appreciated that polling booths were accessible and free of charge.",
+          "Polling booth workers are usually Australian Electoral Commission staff and trained volunteers.",
+          "She showed her teenager around the polling booth — explaining the democracy sausage was not optional."
+        ]
+      },
+      {
+        "word": "preferential voting",
+        "ipa": "/prɪˌfɛrɛnʃl ˈvoʊtɪŋ/",
+        "phonetic": "[prih-feh-REN-shul VOH-ting]",
+        "meaning": "tercihli oy kullanma sistemi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found preferential voting complex at first but understood it after reading the AEC guide.",
+          "He numbered the candidates in order of preference on his House of Representatives ballot.",
+          "Preferential voting allows voters to rank candidates rather than simply choosing one.",
+          "She appreciated that preferential voting meant her vote for a minor party was not wasted.",
+          "He explained to his visiting friend how preferential voting worked and why Australia used it.",
+          "Under preferential voting the candidate who receives a majority of preferences wins.",
+          "She found that preferential voting encouraged voters to consider all candidates, not just the front-runners.",
+          "He numbered six boxes in his lower house ballot — a requirement of full preferential voting.",
+          "Preferential voting can produce different outcomes than first-past-the-post systems.",
+          "She used the AEC's online tool to understand how preferences were distributed in her electorate."
+        ]
+      },
+      {
+        "word": "donkey vote",
+        "ipa": "/ˈdɒŋki voʊt/",
+        "phonetic": "[DONG-kee voht]",
+        "meaning": "sırayla oy verme (adayları düşünmeden 1, 2, 3 diye işaretleme)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She was told a donkey vote was valid but wasted — she always read the ballot carefully.",
+          "He explained that a donkey vote simply numbers from top to bottom without consideration.",
+          "A donkey vote occurs when a voter numbers candidates in order from top to bottom of the ballot.",
+          "She read that candidates at the top of the ballot benefit disproportionately from donkey votes.",
+          "He found the concept of a donkey vote amusing but was careful never to cast one himself.",
+          "Donkey votes are valid votes but do not reflect considered preference.",
+          "She discussed donkey votes with her class when exploring the Australian voting system.",
+          "He preferred an informal vote to a donkey vote — at least that communicated deliberate dissatisfaction.",
+          "The donkey vote effect is real but small — it can matter in very close contests.",
+          "She felt that understanding the system was the antidote to the temptation of a donkey vote."
+        ]
+      },
+      {
+        "word": "electorate",
+        "ipa": "/ɪˈlɛktərɪt/",
+        "phonetic": "[ih-LEK-tuh-rut]",
+        "meaning": "seçim bölgesi; seçmenler topluluğu",
+        "type": "isim",
+        "sentences": [
+          "She checked which federal electorate she lived in on the AEC website.",
+          "He attended a town hall meeting hosted by the local member for their electorate.",
+          "Each electorate elects one member of the House of Representatives.",
+          "She found her electorate was marginal — the winning margin at the last election was under one percent.",
+          "He knew his member of parliament by name because they lived in the same electorate.",
+          "Electorates are redistributed periodically to reflect population changes.",
+          "She enrolled to vote in the new electorate after moving suburbs.",
+          "He read about the history of his electorate and was surprised by how it had changed.",
+          "Electorates vary enormously in size — some are entire outback regions, others cover just a suburb.",
+          "She volunteered in her electorate during the campaign and enjoyed the connection with her community."
+        ]
+      },
+      {
+        "word": "referendum",
+        "ipa": "/ˌrɛfəˈrɛndəm/",
+        "phonetic": "[ref-uh-REN-dum]",
+        "meaning": "referandum, halk oylaması",
+        "type": "isim",
+        "sentences": [
+          "She voted in the Voice to Parliament referendum in 2023 — a historic moment she will not forget.",
+          "He read extensively before forming his view on the referendum question.",
+          "A referendum is required to change the Australian Constitution.",
+          "She found that referendums in Australia require both a national majority and a majority of states to pass.",
+          "He volunteered for the Yes campaign in the referendum and spoke to hundreds of voters.",
+          "Australia has held forty-four referendums since Federation — only eight have passed.",
+          "She found the referendum debate illuminating about deeply held values in the community.",
+          "He was struck by how high the bar was for passing a referendum in Australia.",
+          "The 1967 referendum — which counted Aboriginal Australians in the census — passed with ninety percent support.",
+          "She understood that a referendum was democracy at its most direct."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 88,
+    "words": [
+      {
+        "word": "citizenship test",
+        "ipa": "/ˈsɪtɪzənʃɪp tɛst/",
+        "phonetic": "[SIT-ih-zun-ship test]",
+        "meaning": "vatandaşlık sınavı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She studied the citizenship test booklet for three weeks and passed first time.",
+          "He found the citizenship test covered Australian values, history, and the system of government.",
+          "The Australian citizenship test consists of twenty multiple-choice questions.",
+          "She downloaded the official citizenship test resource and read it cover to cover.",
+          "He helped his workmate prepare for the citizenship test by quizzing him during lunch breaks.",
+          "The citizenship test is conducted online at a Department of Home Affairs office.",
+          "She described the citizenship test as straightforward if you had read the materials.",
+          "He was proud to pass the citizenship test — it marked the final step before the ceremony.",
+          "The citizenship test includes questions about democratic rights, responsibilities, and Australian history.",
+          "She found the citizenship test preparation process helped her understand her new country more deeply."
+        ]
+      },
+      {
+        "word": "permanent residency",
+        "ipa": "/ˈpɜːmənənt ˈrɛzɪdənsi/",
+        "phonetic": "[PUR-muh-nunt REZ-ih-dun-see]",
+        "meaning": "daimi ikamet",
+        "type": "isim öbeği",
+        "sentences": [
+          "She applied for permanent residency after four years on a skilled worker visa.",
+          "He described receiving permanent residency as one of the most significant moments of his life.",
+          "Permanent residency grants the right to live and work in Australia indefinitely.",
+          "She engaged a migration agent to help navigate the permanent residency application process.",
+          "He renewed his permanent residency travel facility to visit family overseas.",
+          "Permanent residency holders are eligible for Medicare and many government services.",
+          "She counted the days until she could apply for permanent residency and then citizenship.",
+          "He explained to his family that permanent residency was not the same as citizenship.",
+          "The permanent residency application required health checks, police clearances, and character tests.",
+          "She was overjoyed when her permanent residency was granted — Australia was truly home now."
+        ]
+      },
+      {
+        "word": "skilled migration",
+        "ipa": "/skɪld maɪˈɡreɪʃən/",
+        "phonetic": "[skild my-GRAY-shun]",
+        "meaning": "nitelikli göç",
+        "type": "isim öbeği",
+        "sentences": [
+          "She came to Australia through the skilled migration program as an engineer.",
+          "He researched the skilled migration points test to understand his eligibility for a visa.",
+          "Skilled migration is a key component of Australia's immigration intake each year.",
+          "She found the skilled migration process required extensive documentation of qualifications and work experience.",
+          "He worked with a registered migration agent to submit his skilled migration application.",
+          "Skilled migration programs are designed to fill gaps in the Australian labour market.",
+          "She was invited to apply under the skilled migration stream based on her occupation and points.",
+          "He appreciated that skilled migration allowed him to contribute meaningfully to Australia's economy.",
+          "Skilled migration accounts for a significant portion of Australia's annual permanent migration program.",
+          "She mentored a new arrival who had come through the skilled migration pathway."
+        ]
+      },
+      {
+        "word": "NDIS",
+        "ipa": "/ɛndɪs/",
+        "phonetic": "[en-DIS]",
+        "meaning": "Ulusal Engelli Sigorta Planı (Engelliler için devlet destek programı)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She applied for NDIS funding to support her son who has autism spectrum disorder.",
+          "He works as an NDIS support coordinator helping participants access the services they need.",
+          "The NDIS provides individualised funding to Australians with permanent and significant disabilities.",
+          "She attended an NDIS planning meeting and learned how to articulate her daughter's support needs.",
+          "He found navigating the NDIS complex — he hired a plan manager to help.",
+          "The NDIS transformed the support available to her family — they finally got the help they needed.",
+          "She advocated for NDIS reforms to make the scheme more accessible and less bureaucratic.",
+          "He volunteers with a disability organisation that helps participants understand their NDIS rights.",
+          "NDIS participants receive a plan outlining the funded supports they can access.",
+          "She found the NDIS staff genuinely supportive when she called to ask about her eligibility."
+        ]
+      },
+      {
+        "word": "ombudsman",
+        "ipa": "/ˈɒmbʊdzmən/",
+        "phonetic": "[OM-budz-mun]",
+        "meaning": "kamu denetçisi, şikayet ofisi",
+        "type": "isim",
+        "sentences": [
+          "She complained to the telecommunications ombudsman when her provider failed to resolve the dispute.",
+          "He contacted the ombudsman after his insurance company rejected his legitimate claim.",
+          "An ombudsman is an independent official who investigates complaints against organisations or government.",
+          "She found the process of contacting the ombudsman straightforward — the online form took minutes.",
+          "He was pleasantly surprised when the ombudsman resolved his complaint within two weeks.",
+          "Australia has ombudsmen at both federal and state level for a range of industries and services.",
+          "She learned about the Financial Services Ombudsman when her bank charged fees incorrectly.",
+          "He recommended the ombudsman to a colleague who was in a dispute with their landlord.",
+          "Ombudsman services are free to consumers and provide an important check on commercial behaviour.",
+          "She described the ombudsman as the system working exactly as it should — protecting the individual."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 89,
+    "words": [
+      {
+        "word": "aged care",
+        "ipa": "/eɪdʒd kɛː/",
+        "phonetic": "[ayjd kair]",
+        "meaning": "yaşlı bakımı hizmetleri",
+        "type": "isim öbeği",
+        "sentences": [
+          "She researched aged care options for her mother who could no longer live independently.",
+          "He advocates for better funding and regulation of the aged care sector.",
+          "Aged care in Australia is funded by the federal government and provided by public and private providers.",
+          "She found the aged care system complex — she called My Aged Care to get guidance.",
+          "He volunteers one afternoon per week at an aged care facility, reading to residents.",
+          "Aged care includes home care packages, respite care, and residential aged care facilities.",
+          "She applied for a home care package to help her father manage at home longer.",
+          "He found the Royal Commission into Aged Care revealed deeply troubling systemic failures.",
+          "Aged care workers are among the most underpaid in Australia despite the demands of their role.",
+          "She found touring aged care facilities an emotionally demanding but necessary process."
+        ]
+      },
+      {
+        "word": "public servant",
+        "ipa": "/ˈpʌblɪk ˈsɜːvənt/",
+        "phonetic": "[PUB-lik SUR-vunt]",
+        "meaning": "devlet memuru",
+        "type": "isim öbeği",
+        "sentences": [
+          "She works as a public servant in the Department of Education in Canberra.",
+          "He has been a public servant for twenty years across three different government departments.",
+          "Public servants implement government policy and deliver services to Australian citizens.",
+          "She found the public service culture values integrity, impartiality, and diligence.",
+          "He found the transition from private sector to public servant surprising — different pace, different purpose.",
+          "Public servants must remain politically neutral regardless of their personal views.",
+          "She took pride in her work as a public servant — she was contributing to the public good.",
+          "He prepared a submission for the Senate committee — a key task of his public servant role.",
+          "Public servants in Australia are bound by the Australian Public Service Code of Conduct.",
+          "She attended a public servant leadership program and found it genuinely transformative."
+        ]
+      },
+      {
+        "word": "FOI",
+        "ipa": "/ɛfəʊˈaɪ/",
+        "phonetic": "[ef-oh-EYE]",
+        "meaning": "Bilgiye Erişim Hakkı (Freedom of Information)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She lodged an FOI request to access the government documents related to the decision.",
+          "He used FOI to obtain his own employment file from a previous employer in the public service.",
+          "FOI — Freedom of Information — gives the public the right to access government documents.",
+          "She found the FOI process slow but eventually received the documents she had requested.",
+          "He wrote about the FOI request in his article and it attracted significant media attention.",
+          "FOI requests can be made online through the relevant federal or state agency.",
+          "She was charged a processing fee for the FOI request but found it worth the cost.",
+          "He was surprised that so many documents were released — the FOI system was more open than he expected.",
+          "FOI is a fundamental pillar of government transparency and democratic accountability.",
+          "She helped her community group lodge an FOI request about the proposed rezoning decision."
+        ]
+      },
+      {
+        "word": "Hansard",
+        "ipa": "/ˈhænsɑːd/",
+        "phonetic": "[HAN-sard]",
+        "meaning": "parlamentodaki konuşmaların resmi tutanağı",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She found the exact words of the minister's speech in the parliamentary Hansard.",
+          "He used Hansard to research the history of the legislation he was analysing.",
+          "Hansard is the official verbatim record of proceedings in the Australian Parliament.",
+          "She searched Hansard online and found references to the issue dating back decades.",
+          "He was pleased that Hansard is publicly available — democracy's paper trail.",
+          "Hansard includes debates, questions, and ministerial statements from both chambers.",
+          "She cited Hansard in her policy paper to demonstrate parliamentary intent.",
+          "He was surprised to find Hansard both searchable and free to access online.",
+          "Hansard has been kept in Australian parliaments since Federation.",
+          "She used Hansard to fact-check a politician's claim — and found it contradicted earlier statements."
+        ]
+      },
+      {
+        "word": "constitution",
+        "ipa": "/ˌkɒnstɪˈtjuːʃən/",
+        "phonetic": "[kon-stih-TYOO-shun]",
+        "meaning": "anayasa",
+        "type": "isim",
+        "sentences": [
+          "She read the Australian Constitution as part of her citizenship preparation.",
+          "He found the Constitution a surprisingly brief document for such a complex democracy.",
+          "The Australian Constitution defines the structure of government and the powers of each branch.",
+          "She learned that the Constitution can only be changed by a referendum.",
+          "He studied the Constitution at university and found it full of important ambiguities.",
+          "The Australian Constitution was drafted in the 1890s and came into effect on the first of January 1901.",
+          "She was fascinated that the Constitution makes no mention of the prime minister.",
+          "He appreciated that the Constitution established the High Court as the ultimate legal authority.",
+          "She found discussions about constitutional reform engaging — particularly around the republic debate.",
+          "He explained the Constitution to his children in simple terms — it is the rulebook for how Australia is governed."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 90,
+    "words": [
+      {
+        "word": "Medicare levy",
+        "ipa": "/ˈmɛdɪkɛː ˈlɛvi/",
+        "phonetic": "[MED-ih-kair LEV-ee]",
+        "meaning": "Sağlık sigortası vergisi (gelirin yüzdesi olarak alınır)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She noticed the Medicare levy deducted from her payslip each fortnight.",
+          "He explained to his son that the Medicare levy funds the public healthcare system.",
+          "The Medicare levy is currently two percent of taxable income for most Australian taxpayers.",
+          "She was exempt from the Medicare levy surcharge because she held private hospital cover.",
+          "He found that the Medicare levy was a small price to pay for universal healthcare access.",
+          "Higher-income earners who do not hold private health insurance pay the Medicare levy surcharge.",
+          "She asked her accountant about the Medicare levy reduction available for low-income earners.",
+          "He calculated his Medicare levy on his tax return and found it lower than he had assumed.",
+          "The Medicare levy was introduced in 1984 alongside the Medicare health insurance scheme.",
+          "She appreciated that the Medicare levy was an equitable way to fund universal health coverage."
+        ]
+      },
+      {
+        "word": "welfare",
+        "ipa": "/ˈwɛlfɛː/",
+        "phonetic": "[WEL-fair]",
+        "meaning": "sosyal yardım, refah",
+        "type": "isim",
+        "sentences": [
+          "She applied for welfare support through Centrelink after losing her job.",
+          "He believes the welfare system should support people through difficulty without creating dependence.",
+          "Welfare payments in Australia include JobSeeker, Youth Allowance, and the Age Pension.",
+          "She volunteered at a welfare support organisation that helped people navigate the system.",
+          "He found the welfare system complex but the staff at Centrelink helpful and patient.",
+          "Welfare spending is a significant component of the federal government budget each year.",
+          "She studied social welfare policy at university and developed strong views on reform.",
+          "He appreciated that Australia had a welfare safety net — not everyone had that security.",
+          "Welfare recipients are required to meet mutual obligation requirements in many payment categories.",
+          "She found the welfare debate in Australia often mischaracterised those who needed support."
+        ]
+      },
+      {
+        "word": "disability support",
+        "ipa": "/ˌdɪsəˈbɪlɪti səˈpɔːt/",
+        "phonetic": "[dis-uh-BIL-ih-tee suh-PORT]",
+        "meaning": "engellilik desteği",
+        "type": "isim öbeği",
+        "sentences": [
+          "She coordinates disability support services for a non-profit in her city.",
+          "He applied for Disability Support Pension after his injury made full-time work impossible.",
+          "Disability support aims to help people with disability live as independently as possible.",
+          "She trained as a disability support worker and found the role challenging and deeply rewarding.",
+          "He advocated for better disability support funding in his submission to the Senate inquiry.",
+          "Disability support workers assist clients with daily living, community participation, and employment.",
+          "She found the disability support sector was chronically underfunded and relied on volunteer goodwill.",
+          "He set up his own disability support plan with the help of his NDIS coordinator.",
+          "Disability support legislation has improved significantly in Australia over the past two decades.",
+          "She described her disability support worker as someone who changed her life every single day."
+        ]
+      },
+      {
+        "word": "Age Pension",
+        "ipa": "/eɪdʒ ˈpɛnʃən/",
+        "phonetic": "[ayj PEN-shun]",
+        "meaning": "yaşlılık maaşı, emeklilik yardımı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She helped her father apply for the Age Pension when he turned sixty-seven.",
+          "He plans his retirement carefully — he does not want to rely solely on the Age Pension.",
+          "The Age Pension provides a fortnightly payment to eligible Australians of qualifying age.",
+          "She found that the Age Pension is means-tested based on income and assets.",
+          "He attended a Centrelink information session about the Age Pension and what to expect.",
+          "The Age Pension eligibility age is currently sixty-seven for both men and women.",
+          "She combined the Age Pension with her superannuation to achieve a comfortable retirement.",
+          "He used the Centrelink Age Pension estimator to plan his retirement date.",
+          "Age Pension rates are indexed twice a year to keep pace with inflation and wages.",
+          "She found that overseas periods could affect Age Pension eligibility — she checked carefully."
+        ]
+      },
+      {
+        "word": "High Court",
+        "ipa": "/haɪ kɔːt/",
+        "phonetic": "[hy kawt]",
+        "meaning": "Avustralya Yüksek Mahkemesi",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She studied the High Court's decision in the Mabo case at university.",
+          "He followed the High Court case on data privacy with great interest.",
+          "The High Court is Australia's highest court and final court of appeal.",
+          "She visited the High Court in Canberra and was struck by the grandeur of the building.",
+          "He read the High Court judgment carefully — legal writing at its most authoritative.",
+          "The High Court has seven justices appointed by the Governor-General on the advice of the government.",
+          "She found High Court decisions on constitutional matters often determined by the narrowest of margins.",
+          "He cited a High Court precedent in his legal submission to make the argument more compelling.",
+          "The High Court cannot be overruled by parliament on constitutional interpretation.",
+          "She followed the High Court challenge to the migration policy with a combination of awe and anxiety."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 91,
+    "words": [
+      {
+        "word": "federation",
+        "ipa": "/ˌfɛdəˈreɪʃən/",
+        "phonetic": "[fed-uh-RAY-shun]",
+        "meaning": "federasyon, birleşme (1901'de Avustralya eyaletlerinin birleşmesi)",
+        "type": "isim",
+        "sentences": [
+          "She learned about Australian federation and the debates that preceded it at school.",
+          "He found the federation architecture of Sydney — with its red brick and terracotta — beautiful.",
+          "Australian Federation occurred on the first of January 1901 when the six colonies united.",
+          "She read about the federation compromise that resulted in the Senate giving states equal representation.",
+          "He traced his family's history to the federation era — his great-grandparents were born before it.",
+          "Federation created the Commonwealth of Australia from six separate British colonies.",
+          "She studied the federation process and was struck by how democratic and contested it was.",
+          "He visited the National Museum in Canberra and found the federation exhibition fascinating.",
+          "Federation established a federal system where some powers are shared and others reserved to states.",
+          "She found the concept of federation — states choosing to pool sovereignty — profoundly significant."
+        ]
+      },
+      {
+        "word": "republic",
+        "ipa": "/rɪˈpʌblɪk/",
+        "phonetic": "[rih-PUB-lik]",
+        "meaning": "cumhuriyet",
+        "type": "isim",
+        "sentences": [
+          "She has long supported Australia becoming a republic with its own head of state.",
+          "He is undecided on the republic debate — he sees merit in both positions.",
+          "A republic is a system of government in which the head of state is elected, not inherited.",
+          "She attended a public forum on the Australian republic and found the discussion respectful.",
+          "He learned that the 1999 referendum on the republic failed due to disagreement on the model.",
+          "The republic debate in Australia concerns whether to replace the monarch as head of state.",
+          "She finds the republic a natural step — a confident nation choosing its own identity.",
+          "He researched the models for an Australian republic and found the direct-election option most appealing.",
+          "Republic discussions in Australia always centre on who would choose the president and how.",
+          "She believes the republic question will be revisited — and this time, she expects a different result."
+        ]
+      },
+      {
+        "word": "Senate estimates",
+        "ipa": "/ˈsɛnɪt ˈɛstɪmɪts/",
+        "phonetic": "[SEN-it ES-tih-mits]",
+        "meaning": "senatoda hükümet harcamalarının incelenmesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She watched the Senate estimates hearing and found the scrutiny of public servants remarkable.",
+          "He followed Senate estimates coverage in the Guardian to understand how money was being spent.",
+          "Senate estimates is the process by which Senate committees examine government spending and activities.",
+          "She appeared before a Senate estimates committee as a departmental officer and found it intense.",
+          "He found that Senate estimates often produced the biggest news stories of the parliamentary calendar.",
+          "Senate estimates hearings are public and broadcast live on the parliament's website.",
+          "She studied the transcripts of Senate estimates to understand how accountability worked in practice.",
+          "He submitted a question through his senator for the estimates committee to put to the department.",
+          "Senate estimates occurs three times a year and can run for many hours across multiple days.",
+          "She found Senate estimates the most powerful tool for holding the executive government to account."
+        ]
+      },
+      {
+        "word": "bipartisan",
+        "ipa": "/ˌbaɪˈpɑːtɪzən/",
+        "phonetic": "[by-PAR-tih-zun]",
+        "meaning": "iki parti tarafından desteklenen, ortak görüşlü",
+        "type": "sıfat",
+        "sentences": [
+          "She was pleased to see bipartisan support for the domestic violence legislation.",
+          "He finds bipartisan agreement on any issue increasingly rare in modern politics.",
+          "Bipartisan means supported by both the government and opposition political parties.",
+          "She described the bipartisan approach to defence policy as one of Australia's great strengths.",
+          "He was surprised that the NDIS had received bipartisan support from the beginning.",
+          "Bipartisan cooperation can break down quickly when politics enters the picture.",
+          "She advocated for a bipartisan approach to addressing climate change for the long term.",
+          "He noted that bipartisan consensus on superannuation had helped build a strong retirement system.",
+          "Bipartisan support for a bill makes its passage through parliament much more straightforward.",
+          "She found the bipartisan tone in the condolence debate striking — the chamber genuinely united."
+        ]
+      },
+      {
+        "word": "Mabo decision",
+        "ipa": "/ˈmɑːboʊ dɪˈsɪʒən/",
+        "phonetic": "[MAH-boh dih-SIZH-un]",
+        "meaning": "Mabo kararı (1992 Yüksek Mahkeme kararı, Aborijin arazi hakları)",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She studied the Mabo decision at university and found it one of the most significant in Australian legal history.",
+          "He found the Mabo decision's impact on land rights profound and still relevant today.",
+          "The Mabo decision overturned the doctrine of terra nullius — the idea that Australia had been empty land.",
+          "She read Eddie Mabo's biography and was moved by his thirty-year fight for justice.",
+          "He explained the Mabo decision to his children in terms of land, belonging, and fairness.",
+          "The Mabo decision was handed down by the High Court in June 1992.",
+          "She found the Mabo decision transformative — it recognised that Indigenous peoples had lived here for tens of thousands of years.",
+          "He visited the Mabo memorial in Thursday Island and felt the weight of the history.",
+          "The Mabo decision led directly to the Native Title Act of 1993.",
+          "She credits the Mabo decision with changing Australia's understanding of its own history."
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "day": 197,
+    "words": [
+      {
+        "word": "transaction account",
+        "ipa": "/trænˈzækʃən əˈkaʊnt/",
+        "phonetic": "[tran-ZAK-shun uh-KOWNT]",
+        "meaning": "vadesiz hesap, çek hesabı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She uses her transaction account for everyday spending — wages in, bills out.",
+          "He found a transaction account with no monthly fee easily — several banks offer them.",
+          "A transaction account is a bank account used for everyday deposits and withdrawals.",
+          "She linked her transaction account to her offset mortgage account to reduce interest.",
+          "He found his transaction account connected to his savings account with instant transfer.",
+          "Transaction accounts in Australia typically come with a debit card for purchases.",
+          "She found her transaction account statements useful for tracking actual spending patterns.",
+          "He reviewed transaction accounts before switching banks — fees, access, and transfer limits.",
+          "Transaction accounts pay little or no interest — they are tools, not growth vehicles.",
+          "She describes her transaction account as the centre of her financial day — everything flows through it."
+        ]
+      },
+      {
+        "word": "offset account",
+        "ipa": "/ˈɒfsɛt əˈkaʊnt/",
+        "phonetic": "[OF-set uh-KOWNT]",
+        "meaning": "mahsup hesabı (mortgage faizini düşüren)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She keeps her salary in her offset account — it reduces the interest on her home loan daily.",
+          "He found the offset account the most powerful feature of his mortgage package.",
+          "An offset account is a transaction account linked to a home loan that reduces the interest charged.",
+          "She found keeping money in the offset account equivalent to earning the mortgage interest rate on savings.",
+          "He found the offset account more effective than a savings account during low interest rate periods.",
+          "Offset accounts are offered by most major Australian lenders as part of home loan packages.",
+          "She moved her emergency fund into the offset account — it earned more by reducing mortgage interest.",
+          "He found the offset account particularly effective during periods of high mortgage interest rates.",
+          "Offset accounts require discipline — the money must stay in to be effective.",
+          "She describes the offset account as the most effective single tool she has used to reduce mortgage cost."
+        ]
+      },
+      {
+        "word": "redraw facility",
+        "ipa": "/ˈriːdrɔː fəˈsɪlɪti/",
+        "phonetic": "[REE-draw fuh-SIL-ih-tee]",
+        "meaning": "konut kredisinden fazla ödenen tutarı geri çekme imkânı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She used the redraw facility to access extra mortgage repayments when the car needed replacement.",
+          "He found the redraw facility a safety net — overpayments available to access if needed.",
+          "A redraw facility allows borrowers to access extra repayments made on a home loan.",
+          "She found the redraw facility encouraged her to pay extra into the mortgage — she could get it back.",
+          "He understood the difference between offset and redraw — both reduce interest, differently.",
+          "Redraw facilities are offered on most variable-rate home loans in Australia.",
+          "She found redraw access came with minimum redraw amounts — she checked her loan conditions.",
+          "He found the redraw facility the feature that made aggressive mortgage repayment psychologically possible.",
+          "Redraw funds reduce your loan balance but are not as freely accessible as an offset account.",
+          "She describes the redraw facility as the mortgage feature that made paying extra feel both smart and safe."
+        ]
+      },
+      {
+        "word": "BSB number",
+        "ipa": "/biː ɛs biː ˈnʌmbər/",
+        "phonetic": "[bee es bee NUM-buh]",
+        "meaning": "Avustralya banka şube kodu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She provided her BSB number and account number for the salary transfer.",
+          "He found every Australian bank account has a unique BSB — six digits identifying the bank and branch.",
+          "A BSB number is a six-digit code that identifies a bank and branch in Australia.",
+          "She found her BSB number on her bank statement and mobile banking app.",
+          "He confirmed the BSB number carefully before transferring a large amount.",
+          "BSB numbers are required for direct deposits, transfers, and BPAY payments.",
+          "She found BSB lookup tools online that could verify a BSB before sending money.",
+          "He learned that BSB stands for Bank State Branch.",
+          "BSB numbers and account numbers together identify a unique Australian bank account.",
+          "She describes verifying the BSB as the small check that prevents costly transfer errors."
+        ]
+      },
+      {
+        "word": "PayID",
+        "ipa": "/ˈpeɪɪd/",
+        "phonetic": "[PAY-id]",
+        "meaning": "NPP ödeme sistemi kimliği (telefon/e-posta ile para transferi)",
+        "type": "özel isim",
+        "sentences": [
+          "She set up PayID using her mobile number — transfers arrive in seconds.",
+          "He found PayID the easiest way to receive payment from friends and family.",
+          "PayID allows money transfers using a phone number or email address instead of BSB and account number.",
+          "She found PayID transfers processed through the New Payments Platform almost instantly.",
+          "He set up PayID for his small business — customers paid without needing his account details.",
+          "PayID is supported by most Australian banks and can be set up through mobile banking.",
+          "She found PayID reduced the risk of entering incorrect account details.",
+          "He confirmed his PayID linked to his business trading account — not his personal account.",
+          "PayID can use a mobile number, email address, or ABN as the identifier.",
+          "She describes PayID as the payment feature that made splitting bills with friends effortless."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 198,
+    "words": [
+      {
+        "word": "BPAY",
+        "ipa": "/biː peɪ/",
+        "phonetic": "[bee pay]",
+        "meaning": "fatura ödeme sistemi",
+        "type": "özel isim",
+        "sentences": [
+          "She pays her council rates by BPAY — it takes seconds from her banking app.",
+          "He found BPAY the most common bill payment method in Australia.",
+          "BPAY is an Australian electronic payment system for paying bills online or by phone.",
+          "She found BPAY details on every utility bill — biller code and reference number.",
+          "He set up BPAY recurring payments for his quarterly insurance premiums.",
+          "BPAY payments typically take one business day to process.",
+          "She found BPAY available through all major Australian banks.",
+          "He found BPAY the clearest evidence of Australia's mature digital banking infrastructure.",
+          "BPAY requires the biller code and reference number — found on each bill.",
+          "She describes BPAY as the Australian bill payment system she would miss most if she moved overseas."
+        ]
+      },
+      {
+        "word": "tap and go",
+        "ipa": "/tæp ænd ɡoʊ/",
+        "phonetic": "[tap and goh]",
+        "meaning": "temassız ödeme",
+        "type": "isim öbeği",
+        "sentences": [
+          "She uses tap and go for almost every transaction — she rarely carries cash.",
+          "He found Australia one of the most advanced countries in tap and go payment adoption.",
+          "Tap and go is a contactless payment method using a card, phone, or wearable device.",
+          "She found tap and go at her local farmers market — even small vendors have terminals.",
+          "He taps his watch to pay — his bank card is linked through the mobile wallet.",
+          "Tap and go payments up to one hundred dollars typically require no PIN in Australia.",
+          "She found tap and go the default payment method across virtually all Australian retailers.",
+          "He found some older venues still cash-only — he always carried a small amount just in case.",
+          "Tap and go uses NFC technology — near field communication between the device and terminal.",
+          "She describes tap and go as the payment experience that made cash feel archaic."
+        ]
+      },
+      {
+        "word": "credit score",
+        "ipa": "/ˈkrɛdɪt skɔː/",
+        "phonetic": "[KRED-it skor]",
+        "meaning": "kredi skoru",
+        "type": "isim öbeği",
+        "sentences": [
+          "She checked her credit score before applying for a home loan.",
+          "He found his credit score had improved after paying bills consistently for two years.",
+          "A credit score is a numerical measure of creditworthiness used by lenders to assess risk.",
+          "She found free credit score services through Credit Savvy and Finder in Australia.",
+          "He found a credit score above seven hundred considered good by most Australian lenders.",
+          "Credit scores in Australia are issued by agencies including Equifax, Experian, and illion.",
+          "She found her credit score affected by the number of credit applications she had made.",
+          "He found paying bills on time the most effective action to improve his credit score.",
+          "Credit scores in Australia now use comprehensive credit reporting — positive history is included.",
+          "She describes monitoring her credit score as the financial habit that gave her confidence before a major application."
+        ]
+      },
+      {
+        "word": "credit report",
+        "ipa": "/ˈkrɛdɪt rɪˈpɔːt/",
+        "phonetic": "[KRED-it rih-PORT]",
+        "meaning": "kredi raporu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She requested her free credit report before applying for a mortgage.",
+          "He found an error in his credit report — a debt listed that he had repaid years earlier.",
+          "A credit report is a detailed record of a person's credit history, compiled by a credit bureau.",
+          "She found the free annual credit report available from Equifax, Experian, and illion.",
+          "He found the credit report included every credit application, account, and repayment history.",
+          "Credit reports in Australia are accessed through the ASIC MoneySmart guidance.",
+          "She found the credit report essential before a major loan application — errors must be corrected first.",
+          "He disputed an error on his credit report — it was corrected within thirty days.",
+          "Credit reports are accessible for free under Australian privacy law.",
+          "She describes requesting her credit report as the financial equivalent of reading her own record."
+        ]
+      },
+      {
+        "word": "direct debit",
+        "ipa": "/dɪˈrɛkt ˈdɛbɪt/",
+        "phonetic": "[dih-REKT DEB-it]",
+        "meaning": "otomatik ödeme talimatı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She set up direct debit for her electricity bill — it is paid automatically each month.",
+          "He found direct debit the most reliable way to ensure bills are never missed.",
+          "Direct debit is an automatic payment where a company withdraws an agreed amount from a bank account.",
+          "She found direct debit discounts offered by utility providers — automatic payments rewarded.",
+          "He checked all his direct debit arrangements annually — some services he had forgotten.",
+          "Direct debit requires written authorisation — the business cannot withdraw without permission.",
+          "She found cancelling a direct debit required notifying both the bank and the company.",
+          "He found direct debit the standard arrangement for gym memberships and subscription services.",
+          "Direct debit differs from a standing order — the company initiates the payment, not the customer.",
+          "She describes direct debit as the automation that keeps her financial obligations invisible but managed."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 199,
+    "words": [
+      {
+        "word": "home loan",
+        "ipa": "/hoʊm loʊn/",
+        "phonetic": "[hohm lohn]",
+        "meaning": "konut kredisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She compared home loans across fifteen lenders before choosing — the rate difference was significant.",
+          "He found the home loan pre-approval process informed him of his borrowing capacity.",
+          "A home loan is money borrowed from a lender to purchase property, repaid with interest over time.",
+          "She found home loan comparison on the Finder and Canstar websites invaluable.",
+          "He found the home loan approval process required payslips, tax returns, and bank statements.",
+          "Home loans in Australia are typically repaid over twenty-five to thirty years.",
+          "She found the variable rate home loan suited her — she could make extra repayments freely.",
+          "He chose a fixed rate home loan for two years — certainty during the interest rate rise cycle.",
+          "Home loans are one of the most significant financial decisions most Australians make.",
+          "She describes finding the right home loan as the research project worth every hour it took."
+        ]
+      },
+      {
+        "word": "pre-approval",
+        "ipa": "/priː əˈpruːvəl/",
+        "phonetic": "[pree uh-PROOV-ul]",
+        "meaning": "ön onay (konut kredisi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She obtained pre-approval before attending auctions — she knew her limit.",
+          "He found pre-approval essential for buying at auction in Australia.",
+          "Pre-approval is a conditional commitment from a lender to provide a home loan up to a certain amount.",
+          "She found the pre-approval process took one week — she was ready when the property came up.",
+          "He found pre-approval gave him confidence in negotiating a private sale.",
+          "Pre-approval is typically valid for three to six months in Australia.",
+          "She found pre-approval did not guarantee final approval — valuation could change the outcome.",
+          "He found getting pre-approval first the single most important step in the buying process.",
+          "Pre-approval requires the same documentation as a full loan application.",
+          "She describes pre-approval as the financial permission slip that made property shopping real."
+        ]
+      },
+      {
+        "word": "refinancing",
+        "ipa": "/ˌriːfaɪˈnænsɪŋ/",
+        "phonetic": "[ree-fy-NAN-sing]",
+        "meaning": "yeniden finansman",
+        "type": "isim",
+        "sentences": [
+          "She saved forty thousand dollars over the life of her loan by refinancing at a lower rate.",
+          "He refinanced his home loan after three years — the market had improved significantly.",
+          "Refinancing is the process of replacing an existing loan with a new one, typically at better terms.",
+          "She found refinancing required a credit check, property valuation, and application process.",
+          "He found a mortgage broker invaluable when refinancing — they compared dozens of lenders.",
+          "Refinancing may reduce monthly repayments, access equity, or consolidate debt.",
+          "She found refinancing costs — break fees, valuation, and application fees — offset by the rate saving.",
+          "He found switching banks during refinancing straightforward — the new lender managed the transfer.",
+          "Refinancing is increasingly common in Australia, particularly when interest rates change significantly.",
+          "She describes refinancing as the financial housekeeping that returned money to her without any extra earning."
+        ]
+      },
+      {
+        "word": "mortgage broker",
+        "ipa": "/ˈmɔːɡɪdʒ ˈbroʊkər/",
+        "phonetic": "[MOR-gij BROH-kuh]",
+        "meaning": "ipotek komisyoncusu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She used a mortgage broker who compared over thirty lenders in an afternoon.",
+          "He found a mortgage broker saved him significant time and identified a better rate than his bank.",
+          "A mortgage broker is an intermediary who helps borrowers find and apply for home loans.",
+          "She found mortgage brokers in Australia free to use — paid by the lender via commission.",
+          "He verified his mortgage broker was licensed with the Australian Credit Licence.",
+          "Mortgage brokers must act in the borrower's best interest — the best interest duty applies.",
+          "She found her mortgage broker invaluable for navigating the first home buyer grants and schemes.",
+          "He found the mortgage broker's access to lenders beyond the major banks genuinely useful.",
+          "Mortgage brokers arrange over fifty percent of new home loans in Australia.",
+          "She describes her mortgage broker as the professional who translated a complex system into clear choice."
+        ]
+      },
+      {
+        "word": "lender",
+        "ipa": "/ˈlɛndər/",
+        "phonetic": "[LEN-duh]",
+        "meaning": "borç veren kurum, kredi kuruluşu",
+        "type": "isim",
+        "sentences": [
+          "She compared lenders before choosing — not all lenders offered the same flexibility.",
+          "He found non-bank lenders sometimes offered more competitive rates than the major banks.",
+          "A lender is a financial institution or individual that provides money for repayment with interest.",
+          "She found Australian lenders required extensive documentation for home loan assessment.",
+          "He found a smaller lender through his broker that offered better terms than the big four.",
+          "Lenders in Australia include banks, credit unions, and non-bank lenders.",
+          "She found lender fees — application, valuation, ongoing — varying significantly.",
+          "He found lender flexibility on extra repayments an important comparison factor.",
+          "Lenders assess serviceability — ability to repay — based on income, expenses, and existing debt.",
+          "She describes choosing a lender as the decision where long-term relationship matters as much as today's rate."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 200,
+    "words": [
+      {
+        "word": "RBA",
+        "ipa": "/ɑː biː eɪ/",
+        "phonetic": "[ar bee ay]",
+        "meaning": "Avustralya Merkez Bankası",
+        "type": "kısaltma / özel isim",
+        "sentences": [
+          "She follows RBA announcements on the first Tuesday of each month.",
+          "He found the RBA cash rate decision affected his variable home loan rate immediately.",
+          "The RBA is the Reserve Bank of Australia — the nation's central bank.",
+          "She found the RBA's primary mandate is price stability — targeting inflation between two and three percent.",
+          "He read the RBA Governor's statement after each rate decision — it signals future direction.",
+          "The RBA meets eleven times per year to decide on the cash rate.",
+          "She found the RBA rate decisions the most consequential announcements in Australian economic life.",
+          "He found the RBA website published detailed analysis, statements, and economic research.",
+          "The RBA manages monetary policy — interest rates and money supply — to support economic stability.",
+          "She describes the RBA cash rate announcement as the monthly news event that most directly affects her household."
+        ]
+      },
+      {
+        "word": "cash rate",
+        "ipa": "/kæʃ reɪt/",
+        "phonetic": "[kash rayt]",
+        "meaning": "politika faiz oranı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She increased her mortgage repayments when the cash rate rose — staying ahead of interest.",
+          "He followed the cash rate closely during the 2022–23 rate rise cycle.",
+          "The cash rate is the interest rate on overnight loans between banks, set by the RBA.",
+          "She found the cash rate rising from near zero to four-point-three percent within two years.",
+          "He found the cash rate movement passed directly to variable home loan borrowers.",
+          "Cash rate changes influence borrowing costs, consumer spending, and economic activity.",
+          "She found the cash rate the most discussed number in Australian personal finance.",
+          "He found that savings account rates also rose with the cash rate — a silver lining for savers.",
+          "The cash rate is the primary tool the RBA uses to manage inflation.",
+          "She describes watching the cash rate as the most direct way she participates in macroeconomics."
+        ]
+      },
+      {
+        "word": "inflation",
+        "ipa": "/ɪnˈfleɪʃən/",
+        "phonetic": "[in-FLAY-shun]",
+        "meaning": "enflasyon",
+        "type": "isim",
+        "sentences": [
+          "She found inflation reducing her purchasing power — the same income bought less each month.",
+          "He found inflation the economic term most discussed at Australian dinner tables in 2022.",
+          "Inflation is the rate at which the general level of prices rises over time.",
+          "She found inflation measured by the Consumer Price Index — released quarterly by the ABS.",
+          "He found food, rent, and energy the sectors most visibly affected by high inflation.",
+          "Inflation above three percent prompts RBA action — typically raising the cash rate.",
+          "She found her pay rise failing to keep pace with inflation — a real wage cut.",
+          "He found inflation eroded the value of cash savings — a reason to invest rather than hold.",
+          "Inflation affects mortgage holders, renters, and businesses in different ways.",
+          "She describes living through high inflation as discovering that every number she relied on had quietly changed."
+        ]
+      },
+      {
+        "word": "cost of living",
+        "ipa": "/kɒst əv ˈlɪvɪŋ/",
+        "phonetic": "[kost uv LIV-ing]",
+        "meaning": "geçim maliyeti",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the cost of living in Sydney the highest of any Australian city.",
+          "He found the cost of living discussion dominating Australian political debate in 2023.",
+          "Cost of living refers to the amount needed to maintain a standard of living in a particular location.",
+          "She found the cost of living increased significantly — groceries, rent, and utilities all rising.",
+          "He found regional areas offered a lower cost of living with comparable quality of life.",
+          "Cost of living pressures in Australia are measured through the CPI and household expenditure surveys.",
+          "She found cost of living relief offered through energy bill rebates and tax cuts in recent budgets.",
+          "He found the cost of living gap between cities and regions widening.",
+          "Cost of living affects housing choice, dietary decisions, and financial stress.",
+          "She describes the cost of living as the economic reality that shapes every practical decision she makes."
+        ]
+      },
+      {
+        "word": "financial hardship",
+        "ipa": "/faɪˈnænʃəl ˈhɑːdʃɪp/",
+        "phonetic": "[fy-NAN-shul HARD-ship]",
+        "meaning": "mali güçlük",
+        "type": "isim öbeği",
+        "sentences": [
+          "She contacted her bank's financial hardship team when she lost her job — they arranged a repayment pause.",
+          "He found his energy provider had a financial hardship program — reduced payments during crisis.",
+          "Financial hardship is a situation where a person cannot meet their financial obligations.",
+          "She found the National Debt Helpline free counselling invaluable during financial hardship.",
+          "He found most Australian lenders required to offer financial hardship assistance under the National Credit Code.",
+          "Financial hardship provisions allow temporary relief — paused payments, reduced amounts.",
+          "She found that contacting providers early in financial hardship produced better outcomes.",
+          "He found financial hardship temporary — with support, he managed and recovered.",
+          "Financial hardship support is available through banks, utilities, and community services.",
+          "She describes reaching out during financial hardship as the hardest and most important call she made."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 201,
+    "words": [
+      {
+        "word": "term deposit",
+        "ipa": "/tɜːm dɪˈpɒzɪt/",
+        "phonetic": "[turm dih-POZ-it]",
+        "meaning": "vadeli mevduat",
+        "type": "isim öbeği",
+        "sentences": [
+          "She placed her emergency fund in a term deposit at six percent — safe and earning.",
+          "He found term deposits attractive during high interest rate periods.",
+          "A term deposit is a savings account that holds money for a fixed term at a fixed interest rate.",
+          "She found term deposit rates higher than savings accounts during the rate rise cycle.",
+          "He locked his funds in a term deposit for twelve months — no access, higher return.",
+          "Term deposits in Australia are protected by the Financial Claims Scheme up to two hundred and fifty thousand dollars.",
+          "She found term deposit rates compared easily on comparison sites.",
+          "He found breaking a term deposit early incurred a penalty — he chose the term carefully.",
+          "Term deposits suit funds not needed in the short term — predictable, secure return.",
+          "She describes a term deposit as the savings vehicle that trades flexibility for certainty."
+        ]
+      },
+      {
+        "word": "comparison rate",
+        "ipa": "/kəmˈpærɪsən reɪt/",
+        "phonetic": "[kum-PAR-ih-sun rayt]",
+        "meaning": "karşılaştırma oranı (gerçek kredi maliyetini gösterir)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She compared home loans using the comparison rate — not just the advertised rate.",
+          "He found the comparison rate included fees and charges the advertised rate hid.",
+          "A comparison rate is a single percentage that combines the interest rate and most fees for a loan.",
+          "She found the comparison rate the most honest single number for loan comparison.",
+          "He found the comparison rate legally required to be displayed alongside home loan advertising in Australia.",
+          "Comparison rates allow borrowers to compare the true cost of different loan products.",
+          "She found some loans with attractive rates had high fees — the comparison rate revealed the reality.",
+          "He found the comparison rate calculated on a standard loan of one hundred and fifty thousand dollars over twenty-five years.",
+          "Comparison rates are important but not perfect — they may not reflect individual circumstances.",
+          "She describes the comparison rate as the number the lender would prefer you not to look at too closely."
+        ]
+      },
+      {
+        "word": "debt consolidation",
+        "ipa": "/dɛt kənˌsɒlɪˈdeɪʃən/",
+        "phonetic": "[det kun-sol-ih-DAY-shun]",
+        "meaning": "borç birleştirme",
+        "type": "isim öbeği",
+        "sentences": [
+          "She consolidated her credit card debts into a single personal loan at lower interest.",
+          "He found debt consolidation simplified his repayments — one payment instead of four.",
+          "Debt consolidation combines multiple debts into a single loan, ideally at a lower interest rate.",
+          "She found debt consolidation effective when the new rate was genuinely lower.",
+          "He was cautioned by his financial counsellor — debt consolidation requires behaviour change to work.",
+          "Debt consolidation into a home loan can reduce the rate but extend the repayment significantly.",
+          "She found debt consolidation most effective combined with closing the consolidated credit accounts.",
+          "He found the National Debt Helpline provided free advice on whether consolidation suited his situation.",
+          "Debt consolidation is not a cure — it is a restructure that requires changed habits.",
+          "She describes debt consolidation as the financial reset that worked because she treated it as one."
+        ]
+      },
+      {
+        "word": "overdraft",
+        "ipa": "/ˈoʊvədrɑːft/",
+        "phonetic": "[OH-vuh-draft]",
+        "meaning": "hesap kredisi, eksi bakiye izni",
+        "type": "isim",
+        "sentences": [
+          "She arranged an overdraft facility with her bank for short-term cash flow gaps.",
+          "He found his account had slipped into overdraft — a fee charged immediately.",
+          "An overdraft allows a bank account to go below zero, with the bank extending short-term credit.",
+          "She found overdraft facilities useful for temporary shortfalls but expensive if used regularly.",
+          "He found the overdraft interest rate significantly higher than his personal loan rate.",
+          "Overdrafts in Australia may be arranged or unarranged — unarranged overdrafts incur higher fees.",
+          "She found the overdraft limit on her transaction account set at one thousand dollars.",
+          "He found his bank's overdraft notification helpful — he transferred funds before incurring fees.",
+          "Overdrafts should be short-term — using one persistently indicates a budget problem.",
+          "She describes the overdraft as the most expensive emergency safety net — useful once, worrying if needed often."
+        ]
+      },
+      {
+        "word": "APRA",
+        "ipa": "/ˈæprə/",
+        "phonetic": "[AP-ruh]",
+        "meaning": "Avustralya İhtiyat Denetimi Otoritesi",
+        "type": "kısaltma / özel isim",
+        "sentences": [
+          "She found APRA regulated Australian banks, superannuation funds, and insurance companies.",
+          "He learned that APRA's role is prudential regulation — ensuring financial institutions remain solvent.",
+          "APRA is the Australian Prudential Regulation Authority.",
+          "She found APRA's capital requirements for banks designed to protect depositors.",
+          "He read APRA's annual statistical release on superannuation fund performance.",
+          "APRA works alongside ASIC — APRA regulates soundness, ASIC regulates conduct.",
+          "She found APRA requiring banks to hold capital buffers against potential losses.",
+          "He found APRA's oversight the reason Australian banks remained stable through the 2008 global financial crisis.",
+          "APRA regulates over five hundred institutions across banking, insurance, and superannuation.",
+          "She describes APRA as the regulator operating quietly in the background — and more important for it."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 202,
+    "words": [
+      {
+        "word": "mobile banking",
+        "ipa": "/ˈmoʊbaɪl ˈbæŋkɪŋ/",
+        "phonetic": "[MOH-byl BANK-ing]",
+        "meaning": "mobil bankacılık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She manages almost all her banking through mobile banking — she has not visited a branch in years.",
+          "He found mobile banking the most significant banking innovation of his adult life.",
+          "Mobile banking allows customers to perform financial transactions via a smartphone application.",
+          "She found mobile banking offered instant transfer confirmation — far faster than internet banking.",
+          "He uses mobile banking to check his balance before every significant purchase.",
+          "Mobile banking apps in Australia offer transfers, bill payment, card management, and alerts.",
+          "She found mobile banking biometric security — fingerprint and face recognition — more secure than she expected.",
+          "He found mobile banking transformed his financial awareness — he checks daily.",
+          "Mobile banking is available from all major Australian banks and many smaller ones.",
+          "She describes mobile banking as the tool that moved financial management from the desk to the moment of need."
+        ]
+      },
+      {
+        "word": "scam",
+        "ipa": "/skæm/",
+        "phonetic": "[skam]",
+        "meaning": "dolandırıcılık",
+        "type": "isim",
+        "sentences": [
+          "She received a scam call claiming to be from the ATO — she hung up immediately.",
+          "He found scam reports to Scamwatch the most important first step after being targeted.",
+          "A scam is a fraudulent scheme designed to trick someone into giving money or personal information.",
+          "She found phone scams claiming to be from her bank the most persistent type.",
+          "He found the ACCC's Scamwatch website comprehensive in identifying current scam types.",
+          "Scams in Australia cost individuals and businesses billions of dollars annually.",
+          "She taught her elderly parents how to identify scam calls — they were specifically targeted.",
+          "He found investment scams using sophisticated websites and fake testimonials.",
+          "Scam awareness is promoted by the ACCC through annual Scam Awareness Week.",
+          "She describes recognising a scam as the critical moment between safety and significant loss."
+        ]
+      },
+      {
+        "word": "identity theft",
+        "ipa": "/aɪˈdɛntɪti θɛft/",
+        "phonetic": "[eye-DEN-tih-tee theft]",
+        "meaning": "kimlik hırsızlığı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She discovered identity theft when a loan application appeared on her credit report.",
+          "He found IDCARE the most useful service for identity theft victims in Australia.",
+          "Identity theft is the fraudulent acquisition and use of another person's personal information.",
+          "She found identity theft prevention required careful management of personal documents.",
+          "He shreds documents containing personal information rather than placing them in recycling.",
+          "Identity theft in Australia is reportable to the Australian Cyber Security Centre.",
+          "She found her credit report the first place identity theft typically becomes visible.",
+          "He found identity theft resolution time-consuming and stressful — weeks of phone calls.",
+          "Identity theft protection includes secure passwords, two-factor authentication, and credit monitoring.",
+          "She describes identity theft as the crime that most undermines the sense that ordinary life is secure."
+        ]
+      },
+      {
+        "word": "insolvency",
+        "ipa": "/ɪnˈsɒlvənsi/",
+        "phonetic": "[in-SOL-vun-see]",
+        "meaning": "iflas, borcunu ödeyememe durumu",
+        "type": "isim",
+        "sentences": [
+          "She sought advice before the business reached insolvency — early action mattered.",
+          "He found insolvency a legal status with specific obligations under Australian law.",
+          "Insolvency is the inability to pay debts as they fall due or where liabilities exceed assets.",
+          "She found personal insolvency options including bankruptcy, debt agreements, and personal insolvency agreements.",
+          "He found the Australian Financial Security Authority the government agency managing personal insolvency.",
+          "Insolvency carries significant consequences — credit restrictions, asset realisation, and public register listing.",
+          "She found a financial counsellor invaluable in exploring alternatives to insolvency.",
+          "He found business insolvency administered through liquidators and the courts.",
+          "Insolvency is a last resort — options should be explored through qualified advisers first.",
+          "She describes confronting insolvency as the most difficult financial experience of her life — and the turning point."
+        ]
+      },
+      {
+        "word": "financial counsellor",
+        "ipa": "/faɪˈnænʃəl ˈkaʊnsələr/",
+        "phonetic": "[fy-NAN-shul KOWN-suh-luh]",
+        "meaning": "ücretsiz mali danışman",
+        "type": "isim öbeği",
+        "sentences": [
+          "She called the National Debt Helpline and was connected to a financial counsellor.",
+          "He found the financial counsellor free of charge — a government-funded community service.",
+          "A financial counsellor provides free, independent advice to people in financial difficulty.",
+          "She found the financial counsellor's advice on negotiating with creditors immediately useful.",
+          "He found financial counsellors distinct from financial advisers — they assist in crisis, not planning.",
+          "Financial counsellors in Australia are funded by government and community organisations.",
+          "She found the financial counsellor non-judgmental — she had feared shame and found support.",
+          "He found a financial counsellor through the Financial Counselling Australia website.",
+          "Financial counsellors can assist with budgeting, debt management, and understanding legal rights.",
+          "She describes the financial counsellor as the professional who most clearly saw her situation without judgement."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 203,
+    "words": [
+      {
+        "word": "bank statement",
+        "ipa": "/bæŋk ˈsteɪtmənt/",
+        "phonetic": "[bank STAYT-munt]",
+        "meaning": "banka ekstresi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She reviews her bank statement monthly — a habit that has caught several billing errors.",
+          "He provided twelve months of bank statements for his home loan application.",
+          "A bank statement is a document showing all transactions on a bank account over a period.",
+          "She found bank statements available through her mobile banking app — no paper needed.",
+          "He found his bank statement the most reliable record of actual spending.",
+          "Bank statements are required for tax returns, loan applications, and rental applications.",
+          "She found reviewing her bank statement the most effective budgeting tool available.",
+          "He printed bank statements for the past three years for a business audit.",
+          "Bank statements in Australia are provided monthly — or on-demand through online banking.",
+          "She describes reviewing the bank statement as the monthly financial check-up that keeps her honest."
+        ]
+      },
+      {
+        "word": "interest rate rise",
+        "ipa": "/ˈɪntrɪst reɪt raɪz/",
+        "phonetic": "[IN-trust rayt ryz]",
+        "meaning": "faiz artışı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She reviewed her mortgage repayments after each interest rate rise.",
+          "He found the interest rate rise cycle of 2022–2023 the most significant in a generation.",
+          "An interest rate rise occurs when the RBA increases the cash rate, raising borrowing costs.",
+          "She found the interest rate rise increased her monthly repayments by three hundred dollars.",
+          "He fixed his home loan rate before the interest rate rise cycle — fortunate timing.",
+          "Interest rate rises reduce borrowing capacity and slow consumer spending.",
+          "She found the interest rate rise impacting her savings account positively — higher returns.",
+          "He found the interest rate rise discussed at every social gathering during 2023.",
+          "Interest rate rises are designed to reduce inflation by slowing spending.",
+          "She describes navigating the interest rate rise as the financial stress test that proved her budget was resilient."
+        ]
+      },
+      {
+        "word": "savings account",
+        "ipa": "/ˈseɪvɪŋz əˈkaʊnt/",
+        "phonetic": "[SAY-vingz uh-KOWNT]",
+        "meaning": "tasarruf hesabı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She opened a high-interest savings account for her home deposit goal.",
+          "He found savings accounts with conditional bonus interest rates rewarding his savings habit.",
+          "A savings account is a bank account designed to hold money and earn interest.",
+          "She found savings account interest rates rising significantly with the cash rate.",
+          "He kept his emergency fund in a savings account — accessible within one business day.",
+          "Savings accounts in Australia may require monthly deposits or no withdrawals to earn bonus interest.",
+          "She compared savings accounts on comparison sites — rates varied by over one percent.",
+          "He separated his savings account from his transaction account — distance reduced impulsive spending.",
+          "Savings accounts protected by the Financial Claims Scheme up to two hundred and fifty thousand dollars.",
+          "She describes the savings account as the financial container that makes a goal tangible."
+        ]
+      },
+      {
+        "word": "PayWave",
+        "ipa": "/ˈpeɪweɪv/",
+        "phonetic": "[PAY-wayv]",
+        "meaning": "temassız kart ödeme (Visa özelliği)",
+        "type": "özel isim",
+        "sentences": [
+          "She taps her card using PayWave at the supermarket — she is through the register in seconds.",
+          "He found PayWave accepted everywhere in Australia — far more ubiquitous than in many countries.",
+          "PayWave is Visa's contactless payment technology for tapping cards at terminals.",
+          "She found PayWave the default payment method at Australian retailers — cash queues are rare.",
+          "He found PayWave limits raised to one hundred dollars without PIN during the pandemic.",
+          "PayWave works by transmitting card data via near-field communication.",
+          "She uses a PayWave-enabled wearable — a small ring that pays with a tap.",
+          "He found PayWave transactions appearing on his account within seconds.",
+          "PayWave and Mastercard's PayPass are equivalent technologies — both widely accepted in Australia.",
+          "She describes PayWave as the technology that made physical cash feel genuinely unnecessary."
+        ]
+      },
+      {
+        "word": "joint account",
+        "ipa": "/dʒɔɪnt əˈkaʊnt/",
+        "phonetic": "[joynt uh-KOWNT]",
+        "meaning": "ortak hesap",
+        "type": "isim öbeği",
+        "sentences": [
+          "She and her partner opened a joint account for household expenses.",
+          "He found the joint account simplified bill splitting and reduced the mental load of managing shared finances.",
+          "A joint account is a bank account held by two or more people who share access.",
+          "She found the joint account required both signatories to agree on significant decisions.",
+          "He found a joint account for shared expenses and separate accounts for personal spending — a practical structure.",
+          "Joint accounts in Australia are subject to joint and several liability — both parties are responsible.",
+          "She found the joint account required closing procedures after separation — a complication to manage early.",
+          "He found his bank set up a joint account at the same branch visit — straightforward.",
+          "Joint accounts provide transparency between partners — both can see all transactions.",
+          "She describes the joint account as the financial structure that made shared life administratively simple."
+        ]
+      }
+    ]
+  }
+]

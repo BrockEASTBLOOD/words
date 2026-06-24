@@ -1,0 +1,702 @@
+[
+  {
+    "day": 22,
+    "words": [
+      {
+        "word": "Medicare card",
+        "ipa": "/ˈmɛdɪkɛː kɑːd/",
+        "phonetic": "[MED-ih-kair kard]",
+        "meaning": "Medicare kimlik kartı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She always carries her Medicare card in her wallet when visiting the doctor.",
+          "He needed his Medicare card number to book an appointment with the specialist.",
+          "Her Medicare card was lost so she ordered a replacement through myGov.",
+          "The receptionist asked for her Medicare card before processing the bulk billing claim.",
+          "He photographed his Medicare card and saved it on his phone for easy access.",
+          "Children can be listed on a parent's Medicare card until they turn fifteen.",
+          "She updated her Medicare card details after changing her name following marriage.",
+          "The pharmacist scanned the Medicare card before dispensing the subsidised medication.",
+          "He was relieved to find his Medicare card at the bottom of his bag at the doctor's.",
+          "Medicare card numbers are sensitive personal information and should be kept private."
+        ]
+      },
+      {
+        "word": "bulk billing",
+        "ipa": "/bʌlk ˈbɪlɪŋ/",
+        "phonetic": "[bulk BIL-ing]",
+        "meaning": "doktorun ücreti doğrudan Medicare'e fatura etmesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "The clinic bulk bills all patients so there is no out-of-pocket cost for consultations.",
+          "She searched online for a bulk billing GP near her suburb to avoid paying a gap fee.",
+          "He was relieved the doctor bulk billed the appointment — money was tight that week.",
+          "Not all specialists bulk bill, so she called ahead to check the cost before attending.",
+          "Bulk billing rates vary across Australia — regional areas tend to have lower rates.",
+          "The government announced new incentives to encourage more GPs to bulk bill patients.",
+          "She always asks whether a practice bulk bills before making a new patient appointment.",
+          "He bulk billed his annual health check and paid nothing on the day.",
+          "Bulk billing means the doctor accepts the Medicare rebate as full payment for the service.",
+          "She appreciated that the community health centre bulk billed all consultations regardless of income."
+        ]
+      },
+      {
+        "word": "GP",
+        "ipa": "/dʒiːpiː/",
+        "phonetic": "[jee-PEE]",
+        "meaning": "aile doktoru, genel pratisyen hekim",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She sees her GP every six months for a general health check and blood pressure monitoring.",
+          "He made an urgent appointment with his GP after developing a persistent cough.",
+          "The GP referred her to a dermatologist after noticing an unusual mole on her shoulder.",
+          "Finding a regular GP who knows your history is important for continuity of care.",
+          "She registered as a patient at a new GP clinic after moving to a different suburb.",
+          "Her GP bulk billed all standard consultations and only charged for longer appointments.",
+          "He called the GP clinic first thing in the morning to get a same-day appointment.",
+          "The GP wrote a mental health care plan so she could access subsidised psychology sessions.",
+          "She trusted her GP to coordinate all her care between multiple specialists.",
+          "He was grateful his GP took the time to explain the diagnosis clearly and in plain language."
+        ]
+      },
+      {
+        "word": "chemist",
+        "ipa": "/ˈkɛmɪst/",
+        "phonetic": "[KEM-ist]",
+        "meaning": "eczane, eczacı",
+        "type": "isim",
+        "sentences": [
+          "She picked up her prescription at the chemist on the way home from the doctor.",
+          "He asked the chemist for advice on the best over-the-counter cold and flu remedy.",
+          "The chemist offered a free blood pressure check while she waited for her prescription.",
+          "She dropped off the prescription at the chemist and returned an hour later to collect it.",
+          "He noticed the chemist sold the same brand of sunscreen for less than the supermarket.",
+          "The chemist explained the possible side effects of the new medication she had been prescribed.",
+          "She visited the chemist for a travel health consultation before her trip to Southeast Asia.",
+          "He filled his prescription at the same chemist every month so they knew his medication history.",
+          "The chemist was open until midnight which was very convenient when the children were sick.",
+          "She asked the chemist whether the new medication was safe to take with her existing prescriptions."
+        ]
+      },
+      {
+        "word": "prescription",
+        "ipa": "/prɪˈskrɪpʃən/",
+        "phonetic": "[prih-SKRIP-shun]",
+        "meaning": "reçete",
+        "type": "isim",
+        "sentences": [
+          "The GP gave her a prescription for antibiotics and told her to complete the full course.",
+          "He had a standing prescription for his blood pressure medication that he renewed every three months.",
+          "The prescription was sent electronically to the chemist through the eScript system.",
+          "She was surprised how affordable the medication was under the Pharmaceutical Benefits Scheme.",
+          "He lost his prescription and had to call the doctor's surgery to get a replacement.",
+          "The prescription clearly stated the dosage, frequency, and duration of the treatment.",
+          "She filled the prescription promptly — the chemist said shortages could occur for this drug.",
+          "His prescription required a new script from the GP before it could be dispensed again.",
+          "She asked the GP to print the prescription rather than send it electronically.",
+          "Prescription medications require a valid script — you cannot purchase them over the counter."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 23,
+    "words": [
+      {
+        "word": "pathology",
+        "ipa": "/pəˈθɒlədʒi/",
+        "phonetic": "[puh-THOL-uh-jee]",
+        "meaning": "tıbbi laboratuvar testi, kan tahlili merkezi",
+        "type": "isim",
+        "sentences": [
+          "The GP ordered a pathology test to check her cholesterol and blood sugar levels.",
+          "He went to the pathology collection centre fasting as instructed for the blood test.",
+          "She received her pathology results through an online patient portal within two days.",
+          "The pathology report showed her iron levels were low and she needed to take supplements.",
+          "He was relieved the pathology results came back normal after the health scare.",
+          "Many pathology collection centres bulk bill patients who hold a valid Medicare card.",
+          "She booked the pathology appointment for early morning before eating breakfast.",
+          "The GP reviewed the pathology results at their follow-up appointment the following week.",
+          "He needed a referral letter from his GP before the pathology centre could process the request.",
+          "She kept a copy of all her pathology results in a health folder for future reference."
+        ]
+      },
+      {
+        "word": "radiology",
+        "ipa": "/ˌreɪdiˈɒlədʒi/",
+        "phonetic": "[ray-dee-OL-uh-jee]",
+        "meaning": "radyoloji, görüntüleme merkezi",
+        "type": "isim",
+        "sentences": [
+          "The GP referred her to a radiology clinic for an ultrasound on her sore shoulder.",
+          "He had an X-ray at the radiology centre and the results were sent directly to his doctor.",
+          "She booked a radiology appointment for a mammogram as part of her routine breast screening.",
+          "The radiology report was reviewed by the specialist before her follow-up consultation.",
+          "He was in and out of the radiology clinic in under thirty minutes for the scan.",
+          "She needed a GP referral letter to attend the radiology clinic and claim the Medicare rebate.",
+          "The radiology clinic offered bulk billing for standard X-rays with a valid Medicare card.",
+          "He had an MRI at the radiology centre and found the machine louder than expected.",
+          "The radiology report confirmed there was no structural damage to the knee joint.",
+          "She appreciated that the radiology clinic texted her when the results were ready for the doctor."
+        ]
+      },
+      {
+        "word": "specialist",
+        "ipa": "/ˈspɛʃəlɪst/",
+        "phonetic": "[SPESH-uh-list]",
+        "meaning": "uzman doktor",
+        "type": "isim",
+        "sentences": [
+          "Her GP referred her to a cardiologist specialist after an abnormal ECG reading.",
+          "He waited three months on the public waiting list to see the orthopaedic specialist.",
+          "The specialist reviewed all her pathology and radiology results before making a diagnosis.",
+          "She went private to see the specialist sooner and used her health insurance to offset the cost.",
+          "He called the specialist's rooms to ask about the gap payment before confirming the booking.",
+          "The specialist recommended surgery after other treatments had not provided any relief.",
+          "She felt reassured after the specialist explained the diagnosis clearly and in plain language.",
+          "He needed a written referral from his GP before the specialist would see him.",
+          "The specialist bulk billed patients referred through the public hospital outpatient system.",
+          "She saw the same specialist every six months to monitor her chronic condition."
+        ]
+      },
+      {
+        "word": "referral",
+        "ipa": "/rɪˈfɜːrəl/",
+        "phonetic": "[rih-FUR-ul]",
+        "meaning": "sevk, hasta yönlendirme mektubu",
+        "type": "isim",
+        "sentences": [
+          "The GP wrote a referral letter so she could see the dermatologist and claim the Medicare rebate.",
+          "He asked for a referral to a physiotherapist after hurting his back at work.",
+          "Without a GP referral, specialist appointments are not covered by Medicare.",
+          "She kept all her referral letters in a folder in case the specialist needed to see them.",
+          "The referral was valid for twelve months for a specialist and three months for allied health.",
+          "He called the specialist's rooms to confirm they accepted the referral before making an appointment.",
+          "The GP sent the referral electronically so the specialist already had it when she arrived.",
+          "She needed a new referral because the previous one had expired before she could get an appointment.",
+          "He was given a referral to a mental health professional through a mental health care plan.",
+          "The referral outlined the reason for the consultation and the patient's relevant medical history."
+        ]
+      },
+      {
+        "word": "waiting list",
+        "ipa": "/ˈweɪtɪŋ lɪst/",
+        "phonetic": "[WAY-ting list]",
+        "meaning": "bekleme listesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "He was placed on a waiting list at the public hospital for knee replacement surgery.",
+          "She waited fourteen months on the waiting list before finally seeing the neurologist.",
+          "The waiting list for public dental treatment in some states can be several years long.",
+          "He paid to see a private specialist to avoid the lengthy public waiting list.",
+          "She asked the GP how to get placed on the waiting list for the public sleep clinic.",
+          "The hospital called to say he had moved up the waiting list and surgery was scheduled soon.",
+          "She asked whether there was any way to be seen sooner given how much pain she was in.",
+          "The government announced funding to reduce waiting lists for elective surgery across the state.",
+          "He was relieved when a cancellation opened up a spot on the waiting list ahead of schedule.",
+          "She contacted several specialists to compare waiting list times before choosing one."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 24,
+    "words": [
+      {
+        "word": "ambulance",
+        "ipa": "/ˈæmbjʊləns/",
+        "phonetic": "[AM-byoo-luns]",
+        "meaning": "ambulans",
+        "type": "isim",
+        "sentences": [
+          "She called triple zero and an ambulance arrived within eight minutes.",
+          "He was taken to hospital by ambulance after collapsing at his workplace.",
+          "Ambulance fees can be very expensive in Australia unless you have ambulance cover.",
+          "She signed up for ambulance membership after receiving a large bill for her callout last year.",
+          "The ambulance crew stabilised her condition before transporting her to the nearest hospital.",
+          "He was grateful the neighbours called an ambulance so quickly when he fell in the garden.",
+          "Queensland and Tasmania offer free ambulance services — other states generally charge a fee.",
+          "She included ambulance cover in her private health insurance policy after moving to Victoria.",
+          "The ambulance officers reassured him throughout the journey and kept him calm.",
+          "He always carries his ambulance membership card in his wallet in case of an emergency."
+        ]
+      },
+      {
+        "word": "emergency department",
+        "ipa": "/ɪˈmɜːdʒənsi dɪˈpɑːtmənt/",
+        "phonetic": "[ih-MUR-jun-see dih-PART-munt]",
+        "meaning": "acil servis",
+        "type": "isim öbeği",
+        "sentences": [
+          "She drove straight to the emergency department when her son had a severe allergic reaction.",
+          "He waited four hours at the emergency department before being seen by a doctor.",
+          "The emergency department nurse assessed her condition and assigned a triage category.",
+          "He was advised by the nurse hotline to go to the emergency department immediately.",
+          "She was admitted to hospital directly from the emergency department after the test results.",
+          "The emergency department was extremely busy on a Friday night as expected.",
+          "He was discharged from the emergency department with a prescription and follow-up instructions.",
+          "Public emergency department visits are covered by Medicare at no cost to the patient.",
+          "She found the emergency department staff professional and reassuring despite the long wait.",
+          "He knew the difference between an urgent care clinic and the emergency department and chose correctly."
+        ]
+      },
+      {
+        "word": "triage",
+        "ipa": "/ˈtriːɑːʒ/",
+        "phonetic": "[TREE-ahzh]",
+        "meaning": "triyaj, aciliyete göre önceliklendirme",
+        "type": "isim / fiil",
+        "sentences": [
+          "The triage nurse assessed each patient and assigned a priority category on arrival.",
+          "She was triaged as category two and seen by a doctor within ten minutes.",
+          "He waited longer than expected because his condition was triaged as non-urgent.",
+          "The triage system ensures the sickest patients are treated first regardless of arrival time.",
+          "She explained her symptoms clearly at triage to ensure she received the correct priority.",
+          "He was triaged as category one and taken directly to the resuscitation room.",
+          "The triage nurse explained that wait times depended on the severity of other patients' conditions.",
+          "She found the triage process efficient — the nurse was calm, thorough, and reassuring.",
+          "He was reassessed at triage after his condition worsened while waiting.",
+          "Triage categories in Australian hospitals range from one for immediate care to five for non-urgent."
+        ]
+      },
+      {
+        "word": "ward",
+        "ipa": "/wɔːd/",
+        "phonetic": "[word]",
+        "meaning": "hastane koğuşu, servis",
+        "type": "isim",
+        "sentences": [
+          "She was moved from the emergency department to a surgical ward after being admitted.",
+          "He spent three nights in the medical ward while doctors monitored his condition.",
+          "Visiting hours on the ward were between two and eight in the evening.",
+          "She found the ward noisy at night but the nursing staff were incredibly attentive.",
+          "He was transferred to a rehabilitation ward to recover before going home.",
+          "The nurse on the ward explained the medication and what to expect over the next few days.",
+          "She was moved to a private room on the ward because her health fund covered it.",
+          "He appreciated that the ward had a television and comfortable chairs for visitors.",
+          "The doctors do their rounds on the ward each morning to review every patient.",
+          "She was discharged from the ward with a detailed care plan and follow-up appointment."
+        ]
+      },
+      {
+        "word": "discharge",
+        "ipa": "/ˈdɪstʃɑːdʒ/",
+        "phonetic": "[DIS-charj]",
+        "meaning": "taburcu etme / taburculuk",
+        "type": "isim / fiil",
+        "sentences": [
+          "The doctor discharged her from hospital after confirming her recovery was on track.",
+          "He received a detailed discharge summary explaining his diagnosis and ongoing medications.",
+          "She was disappointed by the early discharge — she still felt quite unwell.",
+          "The discharge process took two hours while paperwork and prescriptions were arranged.",
+          "He was discharged with instructions to rest, avoid driving, and return if symptoms worsened.",
+          "She needed someone to pick her up at discharge because she could not drive herself home.",
+          "The ward nurse went through the discharge summary carefully before he left the hospital.",
+          "He followed the discharge instructions precisely and recovered without any complications.",
+          "She called the GP the day after discharge to arrange a follow-up appointment.",
+          "The discharge letter was sent directly to her GP so they were informed of the hospital stay."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 25,
+    "words": [
+      {
+        "word": "physiotherapist",
+        "ipa": "/ˌfɪziəʊˈθɛrəpɪst/",
+        "phonetic": "[fiz-ee-oh-THEH-ruh-pist]",
+        "meaning": "fizyoterapist",
+        "type": "isim",
+        "sentences": [
+          "She saw a physiotherapist twice a week after her knee surgery to regain strength and mobility.",
+          "He was referred to a physiotherapist by his GP after straining his lower back at work.",
+          "The physiotherapist assessed her posture and showed her exercises to do at home.",
+          "He had ten sessions with the physiotherapist covered under his health insurance extras.",
+          "She found the physiotherapist's dry needling technique more effective than she expected.",
+          "The physiotherapist explained how poor ergonomics at his desk were contributing to the neck pain.",
+          "She asked the physiotherapist for a home exercise program to continue recovery between sessions.",
+          "He returned to sport six weeks after surgery following clearance from his physiotherapist.",
+          "The physiotherapist used ultrasound therapy to help reduce the inflammation in her shoulder.",
+          "She booked appointments with the physiotherapist through an online system on her phone."
+        ]
+      },
+      {
+        "word": "allied health",
+        "ipa": "/ˈælaɪd hɛlθ/",
+        "phonetic": "[AL-yde helth]",
+        "meaning": "sağlık destek hizmetleri (fizyoterapi, diyetisyen, psikolog vb.)",
+        "type": "isim öbeği",
+        "sentences": [
+          "Allied health professionals include physiotherapists, dietitians, and occupational therapists.",
+          "Her GP wrote a chronic disease management plan so she could access subsidised allied health sessions.",
+          "He found the allied health team at the community health centre supportive and approachable.",
+          "Allied health services are often covered under the extras component of private health insurance.",
+          "She was referred to an allied health professional for support with her diabetes management.",
+          "The allied health clinic bulk billed patients with a valid Medicare chronic disease management plan.",
+          "He attended several allied health appointments before his condition stabilised.",
+          "Allied health services play a crucial role in rehabilitation and long-term health management.",
+          "She appreciated the teamwork between her GP and the allied health team in managing her care.",
+          "Many allied health providers now offer telehealth consultations for patients in regional areas."
+        ]
+      },
+      {
+        "word": "occupational therapist",
+        "ipa": "/ˌɒkjuˈpeɪʃənl ˈθɛrəpɪst/",
+        "phonetic": "[ok-yoo-PAY-shun-ul THEH-ruh-pist]",
+        "meaning": "iş uğraşı terapisti",
+        "type": "isim öbeği",
+        "sentences": [
+          "The occupational therapist helped her mother adapt to daily living after the hip replacement.",
+          "He was referred to an occupational therapist to assess his home for fall hazards.",
+          "The occupational therapist recommended modifications to the bathroom including grab rails.",
+          "She saw an occupational therapist to learn strategies for managing fatigue from her condition.",
+          "The occupational therapist worked with him on returning to work safely after his injury.",
+          "She found the occupational therapist's assessment of her workplace very thorough.",
+          "The occupational therapist provided a written report for the NDIS planning meeting.",
+          "He had not heard of an occupational therapist before — the GP explained their role clearly.",
+          "The occupational therapist taught her energy conservation techniques for daily tasks.",
+          "She was grateful the occupational therapist visited her home rather than requiring her to travel."
+        ]
+      },
+      {
+        "word": "speech therapist",
+        "ipa": "/spiːtʃ ˈθɛrəpɪst/",
+        "phonetic": "[speech THEH-ruh-pist]",
+        "meaning": "konuşma terapisti, dil ve konuşma uzmanı",
+        "type": "isim öbeği",
+        "sentences": [
+          "The speech therapist worked with her son on his pronunciation difficulties at school.",
+          "He was referred to a speech therapist after the stroke affected his ability to communicate.",
+          "The speech therapist used engaging games to make the sessions enjoyable for the young child.",
+          "She attended weekly speech therapy sessions and noticed significant improvement after two months.",
+          "The speech therapist assessed his swallowing difficulties and recommended a modified diet.",
+          "She found a speech therapist who offered telehealth consultations, which saved travelling time.",
+          "The school arranged a speech therapist assessment after teachers noticed the child's language delays.",
+          "He felt more confident speaking in meetings after completing his course with the speech therapist.",
+          "The speech therapist provided a home practice program to reinforce progress between sessions.",
+          "Speech therapy sessions for children are often partially covered by Medicare with a GP referral."
+        ]
+      },
+      {
+        "word": "dietitian",
+        "ipa": "/ˌdaɪəˈtɪʃən/",
+        "phonetic": "[dy-uh-TISH-un]",
+        "meaning": "diyetisyen",
+        "type": "isim",
+        "sentences": [
+          "Her GP referred her to a dietitian after she was diagnosed with type two diabetes.",
+          "The dietitian created a personalised meal plan based on her health goals and food preferences.",
+          "He saw a dietitian to get evidence-based advice on losing weight safely and sustainably.",
+          "The dietitian explained how to read food labels and make better choices at the supermarket.",
+          "She found the dietitian's practical advice far more helpful than anything she had read online.",
+          "He attended five sessions with the dietitian covered under his chronic disease management plan.",
+          "The dietitian recommended increasing fibre and reducing processed foods in his daily diet.",
+          "She was pleased the dietitian did not put her on a restrictive plan — it felt manageable.",
+          "He called the dietitian between sessions when he had questions about a specific food.",
+          "The dietitian worked closely with her GP and physiotherapist to support her overall health."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 26,
+    "words": [
+      {
+        "word": "mental health",
+        "ipa": "/ˈmɛntl hɛlθ/",
+        "phonetic": "[MEN-tul helth]",
+        "meaning": "ruh sağlığı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She spoke openly with her GP about her mental health and was given a referral to a psychologist.",
+          "He took a mental health day from work when he felt overwhelmed and needed to reset.",
+          "The workplace ran a mental health awareness workshop for all staff during October.",
+          "She accessed free mental health support through her employer's employee assistance program.",
+          "He found that exercise, sleep, and connection with friends all supported his mental health.",
+          "The GP created a mental health care plan that covered ten subsidised psychology sessions per year.",
+          "She noticed her mental health improved significantly after reducing her social media use.",
+          "Many Australians experience mental health challenges — it is important to seek support early.",
+          "He felt no shame in talking about mental health after seeing colleagues do the same openly.",
+          "She volunteered with a community mental health organisation on weekends."
+        ]
+      },
+      {
+        "word": "counsellor",
+        "ipa": "/ˈkaʊnsələ/",
+        "phonetic": "[KOWN-suh-luh]",
+        "meaning": "danışman, terapist (psikoterapi değil destek odaklı)",
+        "type": "isim",
+        "sentences": [
+          "She saw a counsellor through her workplace EAP to talk through work-related stress.",
+          "He found the counsellor's non-judgemental approach made it easy to open up.",
+          "The school counsellor supported students who were struggling with exam pressure.",
+          "She booked a counsellor through a community health service at no cost.",
+          "He did not know the difference between a counsellor and a psychologist until the GP explained.",
+          "The counsellor helped her identify the triggers behind her anxiety and develop coping strategies.",
+          "She appreciated that counselling sessions were confidential — it made her feel safe to talk.",
+          "He attended six counselling sessions and felt much better equipped to manage his emotions.",
+          "The couple saw a relationship counsellor before making any major decisions about their future.",
+          "She recommended the counsellor to a friend who was going through a difficult separation."
+        ]
+      },
+      {
+        "word": "psychologist",
+        "ipa": "/saɪˈkɒlədʒɪst/",
+        "phonetic": "[sy-KOL-uh-jist]",
+        "meaning": "psikolog",
+        "type": "isim",
+        "sentences": [
+          "Her GP referred her to a psychologist under a mental health care plan for anxiety treatment.",
+          "He saw the psychologist fortnightly for cognitive behavioural therapy sessions.",
+          "The psychologist helped her understand and change thought patterns that were affecting her mood.",
+          "She paid a gap fee for the psychologist but Medicare covered the majority of the cost.",
+          "He found it helpful to see the same psychologist consistently and build a trusting relationship.",
+          "The psychologist used evidence-based techniques proven to help with depression and anxiety.",
+          "She left each session with practical tools and strategies to use during the week.",
+          "He was initially reluctant to see a psychologist but found it transformative after the first session.",
+          "The psychologist completed a university degree plus additional supervised training to practise.",
+          "She referred her teenager to a psychologist specialising in adolescent mental health."
+        ]
+      },
+      {
+        "word": "psychiatrist",
+        "ipa": "/saɪˈkaɪətrɪst/",
+        "phonetic": "[sy-KY-uh-trist]",
+        "meaning": "psikiyatrist, ruh sağlığı uzmanı doktor",
+        "type": "isim",
+        "sentences": [
+          "Her GP referred her to a psychiatrist for further assessment of her mood disorder.",
+          "He saw the psychiatrist every three months to review his medication and overall mental health.",
+          "Unlike a psychologist, a psychiatrist is a medical doctor who can prescribe medication.",
+          "She waited several months for a public psychiatrist appointment through the hospital system.",
+          "The psychiatrist adjusted his antidepressant medication after reviewing his progress.",
+          "She found the psychiatrist thorough and compassionate during a very difficult period.",
+          "He went private to see the psychiatrist sooner and used his health insurance to reduce the cost.",
+          "The psychiatrist worked closely with her GP and psychologist to coordinate her care.",
+          "She was relieved to finally have a diagnosis after years of struggling without answers.",
+          "The psychiatrist recommended a combination of medication and therapy for the best outcome."
+        ]
+      },
+      {
+        "word": "EAP",
+        "ipa": "/iːeɪpiː/",
+        "phonetic": "[ee-ay-PEE]",
+        "meaning": "işyeri çalışan destek programı",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She accessed the EAP through her employer after going through a difficult personal situation.",
+          "He called the EAP hotline when he felt overwhelmed and was connected to a counsellor within hours.",
+          "EAP sessions are completely confidential — the employer receives no information about the content.",
+          "She did not realise her workplace offered an EAP until a colleague mentioned it.",
+          "He attended three free EAP counselling sessions and found them genuinely helpful.",
+          "The EAP also offered financial counselling and legal advice — not just mental health support.",
+          "She encouraged her team members to use the EAP as a first step when struggling.",
+          "The company promoted the EAP during stressful periods such as organisational change.",
+          "He used the EAP after a workplace conflict and felt better equipped to handle the situation.",
+          "EAP providers in Australia typically offer six to ten free sessions per calendar year."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 27,
+    "words": [
+      {
+        "word": "telehealth",
+        "ipa": "/ˈtɛlɪhɛlθ/",
+        "phonetic": "[TEL-ih-helth]",
+        "meaning": "uzaktan sağlık hizmeti, video veya telefon konsültasyonu",
+        "type": "isim",
+        "sentences": [
+          "She had a telehealth appointment with her GP from home instead of going into the clinic.",
+          "He found telehealth consultations convenient for prescription renewals and follow-up visits.",
+          "Telehealth expanded significantly during the pandemic and has remained popular in Australia.",
+          "She used a telehealth appointment to speak with a psychologist without leaving her rural town.",
+          "The GP conducted the telehealth consultation via video call and could see her face clearly.",
+          "He appreciated telehealth because he did not need to take time off work to see the doctor.",
+          "Telehealth is covered by Medicare for eligible patients and consultation types.",
+          "She had a telehealth appointment with the specialist who was based in a city three hours away.",
+          "He found the telehealth platform easy to use on his phone without any technical difficulties.",
+          "Telehealth has been particularly valuable for patients in remote and regional parts of Australia."
+        ]
+      },
+      {
+        "word": "vaccine",
+        "ipa": "/ˈvæksiːn/",
+        "phonetic": "[VAK-seen]",
+        "meaning": "aşı",
+        "type": "isim",
+        "sentences": [
+          "She received the flu vaccine at her local chemist before the winter season began.",
+          "He checked the Australian immunisation schedule to see which vaccines his children needed.",
+          "The COVID vaccine was offered free of charge to all Australian residents at participating clinics.",
+          "She asked her GP which vaccines were recommended before travelling to Southeast Asia.",
+          "The childhood vaccine program in Australia is one of the most comprehensive in the world.",
+          "He was not aware his tetanus vaccine had lapsed until his GP checked his immunisation records.",
+          "The shingles vaccine is recommended for Australians over the age of sixty.",
+          "She arranged for her whole family to receive the whooping cough vaccine at the same visit.",
+          "The pharmacist administered the vaccine quickly and painlessly with minimal fuss.",
+          "He kept a record of all his vaccines in the Australian Immunisation Register through myGov."
+        ]
+      },
+      {
+        "word": "booster",
+        "ipa": "/ˈbuːstə/",
+        "phonetic": "[BOO-stuh]",
+        "meaning": "hatırlatma dozu, pekiştirici aşı",
+        "type": "isim",
+        "sentences": [
+          "She received a COVID booster dose six months after her second vaccination.",
+          "He was told by his GP that he needed a tetanus booster after stepping on a rusty nail.",
+          "The flu vaccine requires a booster every year because the strain changes each season.",
+          "She booked her booster dose online through the state health department's booking system.",
+          "He received the booster and experienced mild arm soreness for two days — perfectly normal.",
+          "She checked the Australian Immunisation Register to confirm when her booster was due.",
+          "The booster dose significantly increased protection against the virus for vulnerable individuals.",
+          "He drove his elderly mother to the chemist for her booster appointment each winter.",
+          "She set a calendar reminder to book her next booster so she did not miss the recommended timing.",
+          "The school sent a letter reminding parents that boosters were due for children in Year Seven."
+        ]
+      },
+      {
+        "word": "immunisation",
+        "ipa": "/ˌɪmjʊnaɪˈzeɪʃən/",
+        "phonetic": "[im-yoo-ny-ZAY-shun]",
+        "meaning": "bağışıklama, aşılama",
+        "type": "isim",
+        "sentences": [
+          "She checked her child's immunisation records through the Australian Immunisation Register.",
+          "He asked the GP which immunisations were recommended for adults over sixty.",
+          "Some childcare centres require proof of up-to-date immunisation before enrolment.",
+          "She made sure all immunisations were up to date before her daughter started school.",
+          "Immunisation protects not only the individual but also the wider community through herd immunity.",
+          "He updated his immunisation records through myGov after receiving vaccines overseas.",
+          "The immunisation schedule in Australia is free for children under the National Immunisation Program.",
+          "She received a reminder letter from the council about her child's upcoming immunisation.",
+          "Immunisation rates in Australia are monitored closely to prevent outbreaks of preventable diseases.",
+          "He had never considered adult immunisation until his GP raised it during a health check."
+        ]
+      },
+      {
+        "word": "flu shot",
+        "ipa": "/fluː ʃɒt/",
+        "phonetic": "[floo shot]",
+        "meaning": "grip aşısı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She gets the flu shot every year in April before the winter season hits.",
+          "He rolled up his sleeve at the pharmacy counter and had his flu shot in two minutes.",
+          "The flu shot is free for Australians over sixty-five and for pregnant women.",
+          "She booked the flu shot for her whole family at the same time to get it done easily.",
+          "He felt a bit run-down the day after the flu shot but was back to normal the next morning.",
+          "The flu shot does not give you the flu — it teaches your immune system to recognise the virus.",
+          "She had never bothered with the flu shot before but changed her mind after a severe bout last year.",
+          "He encouraged his elderly parents to get the flu shot every year without fail.",
+          "The flu shot is updated annually to match the strains most likely to circulate that season.",
+          "She got the flu shot at the chemist without needing a GP appointment or referral."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 28,
+    "words": [
+      {
+        "word": "private health insurance",
+        "ipa": "/ˈpraɪvɪt hɛlθ ɪnˈʃʊərəns/",
+        "phonetic": "[PRY-vit helth in-SHOOR-uns]",
+        "meaning": "özel sağlık sigortası",
+        "type": "isim öbeği",
+        "sentences": [
+          "She took out private health insurance to avoid the Medicare Levy Surcharge.",
+          "He compared private health insurance policies on a government comparison website before choosing.",
+          "Private health insurance can reduce wait times for elective procedures done in private hospitals.",
+          "She chose a policy with hospital and extras cover to get the broadest possible protection.",
+          "He called his private health insurance provider to ask what was covered before booking surgery.",
+          "Private health insurance premiums increase each April — she reviewed her policy every year.",
+          "She added her newborn to the private health insurance policy within two months of birth.",
+          "He used his private health insurance to see a specialist sooner than the public waiting list allowed.",
+          "Private health insurance in Australia is regulated to ensure minimum standards of cover.",
+          "She compared the value of her private health insurance against what she actually claimed each year."
+        ]
+      },
+      {
+        "word": "hospital cover",
+        "ipa": "/ˈhɒspɪtl ˈkʌvə/",
+        "phonetic": "[HOS-pit-ul KUV-uh]",
+        "meaning": "hastane teminatı (özel sağlık sigortasında)",
+        "type": "isim öbeği",
+        "sentences": [
+          "Her hospital cover allowed her to choose her own surgeon and be treated as a private patient.",
+          "He checked that the procedure was included in his hospital cover before agreeing to the surgery.",
+          "Hospital cover is the component of private health insurance that covers in-hospital treatment.",
+          "She selected a gold tier hospital cover for the most comprehensive level of protection.",
+          "He checked the waiting period on his hospital cover before needing an unexpected procedure.",
+          "Hospital cover does not include dental and optical — those fall under extras cover.",
+          "She called her insurer to confirm her hospital cover included psychiatric treatment.",
+          "He upgraded his hospital cover to include joint replacements before his hip operation.",
+          "Hospital cover can reduce the out-of-pocket cost of staying in a private hospital significantly.",
+          "She found a hospital cover policy with a lower excess that better suited her budget."
+        ]
+      },
+      {
+        "word": "extras cover",
+        "ipa": "/ˈɛkstrəz ˈkʌvə/",
+        "phonetic": "[EK-struz KUV-uh]",
+        "meaning": "ek teminat (diş, gözlük, fizyoterapi vb. için)",
+        "type": "isim öbeği",
+        "sentences": [
+          "Her extras cover included dental, optical, physiotherapy, and chiropractic treatment.",
+          "He checked his annual extras cover limits before booking his dental check-up.",
+          "Extras cover is separate from hospital cover and must be added to the policy individually.",
+          "She used most of her extras cover limit on physiotherapy sessions after her knee injury.",
+          "He was surprised to find his extras cover also included remedial massage.",
+          "She checked whether her new glasses would be covered under her optical extras cover.",
+          "He compared the extras cover limits across three policies before choosing the best value.",
+          "The extras cover waiting periods were different for each service type — dental was twelve months.",
+          "She renewed her extras cover in January specifically to be eligible for dental cover by mid-year.",
+          "He found his extras cover more useful than his hospital cover in the years he stayed healthy."
+        ]
+      },
+      {
+        "word": "gap payment",
+        "ipa": "/ɡæp ˈpeɪmənt/",
+        "phonetic": "[gap PAY-munt]",
+        "meaning": "sağlık sigortası ve Medicare'in karşılamadığı kalan tutar",
+        "type": "isim öbeği",
+        "sentences": [
+          "The specialist charged above the Medicare schedule fee so she had to pay a gap payment.",
+          "He asked the surgeon whether there would be any gap payment before agreeing to the procedure.",
+          "The gap payment for the anaesthetist was an unexpected addition to the surgery costs.",
+          "She asked her insurer how much of the specialist fee would be covered before the appointment.",
+          "He was relieved the hospital agreed to participate in a no-gap arrangement with his insurer.",
+          "Gap payments can vary significantly between practitioners — it pays to ask in advance.",
+          "She kept records of all gap payments to include them in her tax return as medical expenses.",
+          "He negotiated the gap payment with the specialist after explaining his financial situation.",
+          "The gap payment surprised her — she had assumed her private health insurance covered everything.",
+          "She used the insurer's find-a-provider tool to locate practitioners who charged no gap payment."
+        ]
+      },
+      {
+        "word": "waiting period",
+        "ipa": "/ˈweɪtɪŋ ˈpɪərɪəd/",
+        "phonetic": "[WAY-ting PEER-ee-ud]",
+        "meaning": "bekleme süresi (sigorta poliçesinde teminat başlamadan önceki süre)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She had to serve a twelve-month waiting period before her dental cover became active.",
+          "He joined a private health fund before his planned surgery and was warned about the waiting period.",
+          "The waiting period for pre-existing conditions can be up to twelve months under some policies.",
+          "She chose a fund with shorter waiting periods for the services she was most likely to need.",
+          "He called the insurer to confirm whether the procedure was subject to a waiting period.",
+          "The two-month waiting period for hospital cover applied to most treatments except emergencies.",
+          "She was caught out by the waiting period and had to pay the full cost of the treatment herself.",
+          "He switched insurers but his waiting periods were waived because he had previous continuous cover.",
+          "The insurer explained all waiting periods clearly in the product disclosure statement.",
+          "She planned her insurance enrolment carefully to minimise the impact of waiting periods."
+        ]
+      }
+    ]
+  }
+]

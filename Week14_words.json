@@ -1,0 +1,702 @@
+[
+  {
+    "day": 92,
+    "words": [
+      {
+        "word": "smartphone",
+        "ipa": "/ˈsmɑːtfoʊn/",
+        "phonetic": "[SMART-fohn]",
+        "meaning": "akıllı telefon",
+        "type": "isim",
+        "sentences": [
+          "She uses her smartphone for banking, navigation, shopping, and entertainment.",
+          "He dropped his smartphone in the pool at the Australia Day party — a costly mistake.",
+          "Australians are among the highest smartphone users per capita in the world.",
+          "She found her smartphone indispensable when she first arrived — translation, maps, and community all in one.",
+          "He set limits on his children's smartphone use to encourage outdoor time.",
+          "The smartphone has transformed how Australians access government services, health care, and banking.",
+          "She backed up her smartphone to iCloud before travelling to avoid losing her photos.",
+          "He found a great smartphone plan through comparison websites and saved forty dollars a month.",
+          "She uses a refurbished smartphone — it works perfectly and cost a fraction of the new price.",
+          "He found the smartphone's MyGov app made managing Centrelink and ATO accounts far easier."
+        ]
+      },
+      {
+        "word": "app",
+        "ipa": "/æp/",
+        "phonetic": "[ap]",
+        "meaning": "uygulama (mobil)",
+        "type": "isim",
+        "sentences": [
+          "She downloaded the Service NSW app to renew her licence without visiting a service centre.",
+          "He uses the BOM app to check the weather radar every morning before deciding what to wear.",
+          "An app is a software application designed to run on a smartphone or tablet.",
+          "She found the Medicare app useful for tracking claims and updating her banking details.",
+          "He discovered the Opal app made managing his travel card easy from anywhere.",
+          "Apps have changed the way Australians interact with government services, banks, and businesses.",
+          "She uses the Coles and Woolworths apps to check specials and plan her grocery shop.",
+          "He reviewed the security permissions every new app requested before installing it.",
+          "She found apps for everything from parking to council bins to local sports results.",
+          "He deleted unused apps regularly to free storage and reduce the digital clutter on his phone."
+        ]
+      },
+      {
+        "word": "notification",
+        "ipa": "/ˌnoʊtɪfɪˈkeɪʃən/",
+        "phonetic": "[noh-tih-fih-KAY-shun]",
+        "meaning": "bildirim",
+        "type": "isim",
+        "sentences": [
+          "She turned off most notifications on her phone to reclaim her concentration.",
+          "He received a notification from the BOM app warning of severe thunderstorms approaching.",
+          "Notifications are alerts sent by apps to inform users of news, messages, or updates.",
+          "She set up emergency notifications so she would be alerted to bushfire or flood warnings.",
+          "He found that too many notifications were making him anxious and distracted during work.",
+          "She received a Medicare notification confirming her claim had been processed.",
+          "He appreciated push notifications from the Opal app when his balance was running low.",
+          "She adjusted her notification settings during Do Not Disturb hours to protect her sleep.",
+          "He received a tax return notification from the ATO advising his refund had been deposited.",
+          "She found notifications from the Nextdoor app useful for local news but overwhelming if unchecked."
+        ]
+      },
+      {
+        "word": "two-factor authentication",
+        "ipa": "/tuː ˈfæktər ɔːˌθɛntɪˈkeɪʃən/",
+        "phonetic": "[too FAK-tuh aw-then-tih-KAY-shun]",
+        "meaning": "iki aşamalı kimlik doğrulama",
+        "type": "isim öbeği",
+        "sentences": [
+          "She enabled two-factor authentication on her MyGov account to protect her personal information.",
+          "He receives a text message code as part of two-factor authentication when logging into his bank.",
+          "Two-factor authentication adds a second layer of security beyond a password.",
+          "She explained two-factor authentication to her mother and helped her set it up on her email.",
+          "He found that two-factor authentication had prevented an unauthorised login to his account.",
+          "Two-factor authentication combines something you know — a password — with something you have — a device.",
+          "She set up an authenticator app as her preferred method of two-factor authentication.",
+          "He found most Australian government and banking services now require two-factor authentication.",
+          "Two-factor authentication significantly reduces the risk of account compromise.",
+          "She always uses two-factor authentication — it is one of the most effective security steps available."
+        ]
+      },
+      {
+        "word": "phishing",
+        "ipa": "/ˈfɪʃɪŋ/",
+        "phonetic": "[FISH-ing]",
+        "meaning": "oltalama saldırısı (sahte mesaj veya e-posta ile dolandırıcılık)",
+        "type": "isim",
+        "sentences": [
+          "She received a phishing email pretending to be from the ATO demanding immediate payment.",
+          "He reported the phishing text message to the ACMA using the Scamwatch service.",
+          "Phishing is an attempt to obtain personal information by posing as a legitimate organisation.",
+          "She warned her parents about phishing after they almost clicked a fake Medicare link.",
+          "He learned to identify phishing emails by their sense of urgency and suspicious sender addresses.",
+          "Phishing attacks targeting Australians have increased dramatically in recent years.",
+          "She found that the ACCC's Scamwatch website was full of current phishing examples to watch for.",
+          "He deleted the phishing text without clicking the link and reported it to the sender's impersonated organisation.",
+          "Phishing is one of the most common forms of cybercrime targeting Australian individuals and businesses.",
+          "She set up a spam filter that caught most phishing emails before they reached her inbox."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 93,
+    "words": [
+      {
+        "word": "NBN",
+        "ipa": "/ɛnbiːɛn/",
+        "phonetic": "[en-bee-EN]",
+        "meaning": "Ulusal Geniş Bant Ağı (internet altyapısı)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She switched to the NBN when it became available in her street and noticed a significant speed improvement.",
+          "He complained to his provider about NBN speeds and was upgraded to a faster plan at no extra cost.",
+          "The NBN is Australia's national broadband network providing internet access across the country.",
+          "She found the NBN rollout in her regional area long overdue — it transformed her home business.",
+          "He researched the different NBN technologies — fibre to the home was his preferred option.",
+          "NBN plans vary by speed tier and data allowance — she compared options on WhistleOut.",
+          "She uses her NBN connection for working from home, streaming, and family video calls.",
+          "He contacted the NBN Co when his connection was unstable — the technician diagnosed a fault within days.",
+          "NBN availability in rural areas remains patchy — she used the coverage checker before moving.",
+          "She found the NBN significantly improved her ability to access telehealth services from home."
+        ]
+      },
+      {
+        "word": "broadband",
+        "ipa": "/ˈbrɔːdbænd/",
+        "phonetic": "[BRAWD-band]",
+        "meaning": "geniş bant internet",
+        "type": "isim",
+        "sentences": [
+          "She upgraded her broadband plan when her son started studying from home.",
+          "He compared broadband plans on comparison websites and saved thirty dollars a month.",
+          "Broadband is high-speed internet delivered via fibre, cable, or wireless connection.",
+          "She found that reliable broadband is now as essential as electricity and running water.",
+          "He experienced broadband outages during peak hours — a known issue his provider acknowledged.",
+          "Broadband speeds in Australia have improved substantially with the NBN rollout.",
+          "She uses her broadband connection for video conferencing, streaming, and cloud storage.",
+          "He chose an unlimited broadband plan — running out of data mid-month was not an option.",
+          "Broadband availability is a significant factor for families choosing where to buy or rent.",
+          "She found rural broadband speeds much slower than metropolitan equivalents — an ongoing issue."
+        ]
+      },
+      {
+        "word": "streaming",
+        "ipa": "/ˈstriːmɪŋ/",
+        "phonetic": "[STREE-ming]",
+        "meaning": "çevrimiçi içerik izleme/dinleme (Netflix, Spotify vb.)",
+        "type": "isim",
+        "sentences": [
+          "She cancelled her cable subscription when streaming services offered more of what she wanted.",
+          "He manages three streaming subscriptions and reviews them annually to see which he actually uses.",
+          "Streaming has transformed how Australians consume television, film, and music.",
+          "She uses streaming services to watch Australian drama that she could not access on free-to-air.",
+          "He found that streaming quality dropped noticeably during the evening peak hours in his suburb.",
+          "Streaming services available in Australia include Netflix, Stan, Binge, Disney Plus, and Apple TV.",
+          "She subscribes to a music streaming service and has discovered more new artists than ever before.",
+          "He found streaming prices rising across the board — Australians are increasingly choosing fewer services.",
+          "She appreciates that streaming allows her to watch content in Turkish with English subtitles.",
+          "He found streaming a revelatory way to access independent films that never reached his local cinema."
+        ]
+      },
+      {
+        "word": "cybersecurity",
+        "ipa": "/ˌsaɪbəsɪˈkjʊərɪti/",
+        "phonetic": "[sy-buh-sih-KYOO-rih-tee]",
+        "meaning": "siber güvenlik",
+        "type": "isim",
+        "sentences": [
+          "She completed a cybersecurity awareness training at work after the data breach incident.",
+          "He follows the Australian Cyber Security Centre for updates on threats and best practices.",
+          "Cybersecurity protects computer systems, networks, and data from digital attacks.",
+          "She found cybersecurity suddenly relevant when her bank details appeared on the dark web.",
+          "He works in cybersecurity and finds the pace of new threats relentless.",
+          "Cybersecurity is a growing concern for Australian businesses, governments, and individuals.",
+          "She changed all her passwords after the cybersecurity incident at her service provider.",
+          "He teaches cybersecurity basics to small business owners who assume they are too small to be targeted.",
+          "Cybersecurity incidents cost the Australian economy billions of dollars each year.",
+          "She installed security software and enabled automatic updates as her basic cybersecurity practice."
+        ]
+      },
+      {
+        "word": "data breach",
+        "ipa": "/ˈdeɪtə briːtʃ/",
+        "phonetic": "[DAY-tuh breech]",
+        "meaning": "veri ihlali",
+        "type": "isim öbeği",
+        "sentences": [
+          "She received a notification that her information was involved in the Optus data breach.",
+          "He froze his credit file after learning his data was exposed in a large-scale breach.",
+          "A data breach occurs when personal information is accessed, disclosed, or stolen without authorisation.",
+          "She reported the data breach to the Office of the Australian Information Commissioner.",
+          "He found the data breach affecting millions of Australians a wake-up call about digital security.",
+          "Data breaches involving Australian companies must be reported to the OAIC under the Notifiable Data Breaches scheme.",
+          "She changed her passwords across all platforms immediately upon learning of the data breach.",
+          "He attended a webinar about responding to a data breach as a small business owner.",
+          "Data breaches have led to significant reforms in Australia's privacy and cybersecurity laws.",
+          "She monitored her bank accounts closely in the months following the data breach notification."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 94,
+    "words": [
+      {
+        "word": "social media",
+        "ipa": "/ˈsoʊʃl ˈmiːdiə/",
+        "phonetic": "[SOH-shul MEE-dee-uh]",
+        "meaning": "sosyal medya",
+        "type": "isim öbeği",
+        "sentences": [
+          "She uses social media to stay connected with family back home and share photos of Australian life.",
+          "He found social media both a lifeline and a time sink — he had to manage his usage carefully.",
+          "Social media platforms popular in Australia include Instagram, TikTok, Facebook, and LinkedIn.",
+          "She runs her small business primarily through social media marketing.",
+          "He found social media useful for finding local community events and neighbourhood information.",
+          "Australia passed a law restricting social media access for children under sixteen in 2024.",
+          "She has mixed feelings about social media — connection at a cost of attention and privacy.",
+          "He uses social media to follow Australian news journalists and fact-checkers.",
+          "Social media can spread misinformation rapidly — she fact-checks before sharing anything.",
+          "She found social media communities around her hobby interests welcoming and knowledgeable."
+        ]
+      },
+      {
+        "word": "content creator",
+        "ipa": "/ˈkɒntɛnt kriˈeɪtə/",
+        "phonetic": "[KON-tent kree-AY-tuh]",
+        "meaning": "içerik üreticisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She became a content creator sharing her journey as a new Australian on YouTube.",
+          "He follows several Australian content creators who review travel destinations across the country.",
+          "A content creator produces videos, photos, or written material for online audiences.",
+          "She found that being a content creator required consistency, quality, and patience.",
+          "He partnered with a local tourism board as a content creator to promote regional destinations.",
+          "Content creators in Australia must declare gifts and paid partnerships as advertising.",
+          "She built a following of twenty thousand as a content creator sharing migrant life in Australia.",
+          "He studies content creator trends to understand what young Australians are engaging with.",
+          "Content creators often earn income through brand partnerships, sponsorships, and platform revenue.",
+          "She balances her day job with content creation — posting three times a week is her target."
+        ]
+      },
+      {
+        "word": "password manager",
+        "ipa": "/ˈpɑːswɜːd ˈmænɪdʒə/",
+        "phonetic": "[PASS-wurd MAN-ih-juh]",
+        "meaning": "şifre yöneticisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She set up a password manager after reusing the same weak password across dozens of accounts.",
+          "He uses a password manager to generate and store unique strong passwords for every site.",
+          "A password manager securely stores and autofills passwords so users do not need to remember them.",
+          "She found that a password manager was one of the most effective cybersecurity steps she could take.",
+          "He pays a small annual subscription for his password manager — an investment in peace of mind.",
+          "Password managers generate random complex passwords that are nearly impossible to crack.",
+          "She migrated her entire digital life to the password manager in a single afternoon.",
+          "He configured his password manager to alert him if any stored credentials appeared in a data breach.",
+          "Password managers are endorsed by the Australian Cyber Security Centre as a best practice.",
+          "She helped her elderly father set up a password manager and he found it simpler than he expected."
+        ]
+      },
+      {
+        "word": "VPN",
+        "ipa": "/viːpiːɛn/",
+        "phonetic": "[vee-pee-EN]",
+        "meaning": "sanal özel ağ (Virtual Private Network)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She uses a VPN when connecting to public Wi-Fi at the airport or café.",
+          "He found a VPN useful for accessing his home country's streaming content while in Australia.",
+          "A VPN encrypts your internet connection and masks your IP address.",
+          "She set up a VPN on her work laptop as required by company security policy.",
+          "He chose a reputable VPN provider with a no-logs policy for privacy.",
+          "A VPN is particularly useful on unsecured public networks in airports, hotels, and cafes.",
+          "She used a VPN to securely access her workplace systems while working remotely overseas.",
+          "He explained to his friend that a free VPN often means the user is the product.",
+          "VPN usage has grown significantly in Australia as privacy awareness has increased.",
+          "She found her VPN slowed her connection slightly but the security benefit was worth it."
+        ]
+      },
+      {
+        "word": "privacy settings",
+        "ipa": "/ˈprɪvəsi ˈsɛtɪŋz/",
+        "phonetic": "[PRIV-uh-see SET-ingz]",
+        "meaning": "gizlilik ayarları",
+        "type": "isim öbeği",
+        "sentences": [
+          "She reviewed her social media privacy settings after reading about data sharing practices.",
+          "He updates his privacy settings whenever a platform releases a major update.",
+          "Privacy settings control who can see your information and how it is used by platforms.",
+          "She set her Instagram account to private — she only wanted approved followers to see her posts.",
+          "He found reviewing privacy settings time-consuming but worth it for peace of mind.",
+          "Privacy settings in Australia are governed by the Privacy Act which gives consumers certain rights.",
+          "She adjusted the privacy settings on her smart speaker — it did not need to store all conversations.",
+          "He walked through privacy settings with his teenager when they first joined a social media platform.",
+          "Privacy settings are often set to share maximum data by default — she always changes them.",
+          "She found the Australian Privacy Commissioner's website had clear guidance on understanding privacy settings."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 95,
+    "words": [
+      {
+        "word": "podcast",
+        "ipa": "/ˈpɒdkɑːst/",
+        "phonetic": "[POD-karst]",
+        "meaning": "podcast, ses yayını",
+        "type": "isim",
+        "sentences": [
+          "She listens to an Australian politics podcast during her morning commute every day.",
+          "He discovered podcasts were a brilliant way to improve his English listening skills.",
+          "Podcasts are on-demand audio programs covering every imaginable topic.",
+          "She hosts a podcast about migrant experiences in Australia — it has listeners in thirty countries.",
+          "He found Australian true crime podcasts oddly compelling for his late-night listening.",
+          "Podcasts by ABC Radio are available free and cover news, culture, and current affairs.",
+          "She uses the Spotify app to manage her podcast subscriptions and receive new episode notifications.",
+          "He learned more about Australian history through podcasts than he ever did at school.",
+          "Podcasts have given independent voices a platform that traditional media could not offer.",
+          "She recommended a podcast about Australian bushfire science to her neighbour — he was riveted."
+        ]
+      },
+      {
+        "word": "smart speaker",
+        "ipa": "/smɑːt ˈspiːkə/",
+        "phonetic": "[smart SPEE-kuh]",
+        "meaning": "akıllı hoparlör (Google Home, Amazon Echo gibi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She uses her smart speaker to control the lights, play music, and set kitchen timers.",
+          "He asked the smart speaker for the weather forecast every morning before getting dressed.",
+          "Smart speakers use voice recognition to respond to commands and questions.",
+          "She found setting up the smart speaker simple — it was connected within five minutes.",
+          "He was concerned about privacy with the smart speaker always listening and changed its settings.",
+          "Smart speakers can integrate with home automation systems to control appliances and security.",
+          "She uses the smart speaker to play ABC Radio in the kitchen while cooking dinner.",
+          "He found his children's constant questions answered by the smart speaker reduced the questions directed at him.",
+          "Smart speakers in Australia are compatible with services like Spotify, Apple Music, and Alexa.",
+          "She appreciated the smart speaker's hands-free convenience when cooking with messy hands."
+        ]
+      },
+      {
+        "word": "robo-advisor",
+        "ipa": "/ˈroʊboʊ ədˈvaɪzə/",
+        "phonetic": "[ROH-boh ad-VY-zuh]",
+        "meaning": "otomatik yatırım danışmanı (algoritma tabanlı)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She started investing through a robo-advisor after finding traditional financial advice too expensive.",
+          "He found a robo-advisor a low-cost entry point into diversified investing.",
+          "A robo-advisor is an automated platform that manages investments based on your risk profile.",
+          "She answered a series of questions on the robo-advisor platform and had a portfolio within minutes.",
+          "He compared robo-advisors available in Australia and chose one with no account minimum.",
+          "Robo-advisors typically charge lower fees than human financial advisors.",
+          "She found the robo-advisor's dashboard simple and transparent — she knew exactly what she owned.",
+          "He chose a robo-advisor with an ethical investment option aligned with his values.",
+          "Robo-advisors are regulated by ASIC and must meet the same obligations as traditional advisors.",
+          "She recommended a robo-advisor to her sister who wanted to start investing but did not know where to begin."
+        ]
+      },
+      {
+        "word": "digital wallet",
+        "ipa": "/ˈdɪdʒɪtl ˈwɒlɪt/",
+        "phonetic": "[DIJ-ih-tul WOL-it]",
+        "meaning": "dijital cüzdan (Apple Pay, Google Pay gibi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She uses her digital wallet to pay at the supermarket by tapping her phone to the reader.",
+          "He added all his cards to his digital wallet and rarely carries a physical card anymore.",
+          "A digital wallet stores payment card information on your smartphone for contactless transactions.",
+          "She found the digital wallet faster and more convenient than fumbling for a physical card.",
+          "He set up his digital wallet within minutes by entering his bank card details into the app.",
+          "Digital wallets like Apple Pay and Google Pay are accepted at most Australian retailers.",
+          "She uses her digital wallet at the toll booth, the café, and the train station.",
+          "He found his digital wallet provided better fraud protection than a physical card alone.",
+          "Digital wallet adoption in Australia accelerated rapidly during the COVID-19 pandemic.",
+          "She no longer carries cash — her digital wallet and contactless payments cover everything."
+        ]
+      },
+      {
+        "word": "cloud storage",
+        "ipa": "/klaʊd ˈstɔːrɪdʒ/",
+        "phonetic": "[klowd STOR-ij]",
+        "meaning": "bulut depolama",
+        "type": "isim öbeği",
+        "sentences": [
+          "She backs up her family photos to cloud storage every night automatically.",
+          "He uses cloud storage to share large project files with his team across different locations.",
+          "Cloud storage keeps files on remote servers accessible from any device with internet access.",
+          "She lost nothing when her laptop was stolen because everything was in cloud storage.",
+          "He pays for additional cloud storage capacity to accommodate his video library.",
+          "Cloud storage providers popular in Australia include Google Drive, iCloud, and OneDrive.",
+          "She set up automatic cloud storage backup for her small business data.",
+          "He reviewed the privacy policy of his cloud storage provider before uploading sensitive documents.",
+          "Cloud storage has made collaboration on documents in real time straightforward and efficient.",
+          "She taught her parents how to access photos from cloud storage when they could not find them locally."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 96,
+    "words": [
+      {
+        "word": "work from home",
+        "ipa": "/wɜːk frɒm hoʊm/",
+        "phonetic": "[wurk from hohm]",
+        "meaning": "evden çalışma",
+        "type": "fiil öbeği / isim öbeği",
+        "sentences": [
+          "She negotiated a three-day work from home arrangement with her employer.",
+          "He found work from home improved his productivity but tested his self-discipline.",
+          "Work from home became standard practice in Australia during the COVID-19 pandemic.",
+          "She set up a dedicated home office to maintain separation between work and personal life.",
+          "He claimed work from home expenses on his tax return — internet, electricity, and equipment.",
+          "Work from home arrangements are now negotiated in many enterprise agreements.",
+          "She found the work from home days gave her back two hours of commuting time.",
+          "He struggled with the isolation of extended work from home and booked a coworking space twice a week.",
+          "Work from home has reshaped where Australians choose to live — further from the city is now viable.",
+          "She appreciated that work from home allowed her to be present for her children after school."
+        ]
+      },
+      {
+        "word": "video call",
+        "ipa": "/ˈvɪdɪoʊ kɔːl/",
+        "phonetic": "[VID-ee-oh kawl]",
+        "meaning": "görüntülü arama",
+        "type": "isim öbeği",
+        "sentences": [
+          "She scheduled a video call with her family overseas every Sunday evening.",
+          "He preferred a video call to a phone call for complex work discussions.",
+          "Video calls became the primary form of communication for many Australian workers during lockdown.",
+          "She set up a good background and lighting for her video calls to appear professional.",
+          "He found video calls a reasonable substitute for in-person meetings across interstate offices.",
+          "Video call platforms common in Australia include Zoom, Teams, FaceTime, and Google Meet.",
+          "She attends her doctors' telehealth appointments via video call — no need to drive to the clinic.",
+          "He muted himself during the video call when the neighbour started mowing — a necessary habit.",
+          "Video calls have allowed grandparents to watch grandchildren grow up despite the distance.",
+          "She found the video call etiquette at her new workplace required some adjustment."
+        ]
+      },
+      {
+        "word": "online scam",
+        "ipa": "/ˈɒnlaɪn skæm/",
+        "phonetic": "[ON-lyne skam]",
+        "meaning": "çevrimiçi dolandırıcılık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She almost fell for an online scam posing as a parcel delivery notification.",
+          "He reports online scams to Scamwatch to help protect other Australians.",
+          "Online scams cost Australians over three billion dollars in 2023.",
+          "She learned to recognise online scams by their urgency, poor spelling, and suspicious links.",
+          "He received an online scam asking him to verify his bank details via a fake website.",
+          "Online scams targeting Australians include investment fraud, romance scams, and impersonation.",
+          "She educated her elderly parents about online scams — they were frequent targets.",
+          "He never clicks links in unexpected emails or texts — too many online scams use this approach.",
+          "Online scam losses are rising — Australians are urged to stop, check, and protect.",
+          "She found the Scamwatch website an invaluable resource for identifying and reporting online scams."
+        ]
+      },
+      {
+        "word": "e-commerce",
+        "ipa": "/ˈiːˌkɒmɜːs/",
+        "phonetic": "[EE-kom-urs]",
+        "meaning": "elektronik ticaret, online alışveriş",
+        "type": "isim",
+        "sentences": [
+          "She runs an e-commerce business selling handmade candles to customers across Australia.",
+          "He found e-commerce made it easy to buy products unavailable in his regional town.",
+          "E-commerce refers to the buying and selling of goods and services over the internet.",
+          "She uses Shopify to power her e-commerce store and finds the platform well-suited for small business.",
+          "He researches products online before buying — e-commerce has made price comparison simple.",
+          "Australian e-commerce grew significantly during the pandemic and consumer behaviour changed permanently.",
+          "She packages and ships e-commerce orders from her spare bedroom every morning.",
+          "He found Australian consumer protection laws apply to e-commerce purchases just as to physical stores.",
+          "E-commerce businesses must comply with Australian Consumer Law on returns, refunds, and warranties.",
+          "She found managing returns the most challenging part of running an e-commerce business."
+        ]
+      },
+      {
+        "word": "artificial intelligence",
+        "ipa": "/ˌɑːtɪˈfɪʃl ɪnˈtɛlɪdʒəns/",
+        "phonetic": "[ar-tih-FISH-ul in-TEL-ih-juns]",
+        "meaning": "yapay zeka",
+        "type": "isim öbeği",
+        "sentences": [
+          "She uses artificial intelligence tools to draft meeting summaries at her media company.",
+          "He is cautious about artificial intelligence replacing jobs in his industry.",
+          "Artificial intelligence refers to computer systems that perform tasks requiring human-like intelligence.",
+          "She attended a workshop on artificial intelligence ethics run by her professional association.",
+          "He found the artificial intelligence behind his bank's fraud detection impressively accurate.",
+          "Artificial intelligence is transforming healthcare, agriculture, legal services, and education in Australia.",
+          "She is excited about the potential of artificial intelligence in medical diagnosis.",
+          "He questions whose values are embedded in artificial intelligence systems and who decides.",
+          "Artificial intelligence regulation in Australia is actively developing — it is a fast-moving area.",
+          "She believes artificial intelligence is a tool — its impact depends entirely on how it is used."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 97,
+    "words": [
+      {
+        "word": "Wi-Fi",
+        "ipa": "/ˈwaɪfaɪ/",
+        "phonetic": "[WY-fy]",
+        "meaning": "kablosuz internet bağlantısı",
+        "type": "isim",
+        "sentences": [
+          "She connects her laptop to the home Wi-Fi to avoid using mobile data.",
+          "He asked for the Wi-Fi password as soon as he arrived at the holiday rental.",
+          "Wi-Fi provides wireless internet access within a router's broadcast range.",
+          "She experienced slow Wi-Fi during peak hours and contacted her provider about congestion.",
+          "He set up a strong Wi-Fi password and changed it regularly for security.",
+          "Free public Wi-Fi is available in most Australian city centres, libraries, and shopping centres.",
+          "She found her smartphone automatically connected to familiar Wi-Fi networks without prompting.",
+          "He extended the Wi-Fi range to the back garden by adding a mesh network node.",
+          "Wi-Fi on Australian trains and buses varies significantly by city and operator.",
+          "She disabled automatic connection to public Wi-Fi networks — too many security risks."
+        ]
+      },
+      {
+        "word": "data plan",
+        "ipa": "/ˈdeɪtə plæn/",
+        "phonetic": "[DAY-tuh plan]",
+        "meaning": "mobil veri paketi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She upgraded her data plan after constantly running out of mobile data before the month ended.",
+          "He switched to a prepaid data plan that cost half of his previous postpaid contract.",
+          "A data plan defines how much mobile internet data is included in your phone service each month.",
+          "She compared data plans on WhistleOut and found a better deal with the same coverage.",
+          "He turned off background app refresh to make his data plan last longer.",
+          "Unlimited data plans have become more common and affordable in Australia in recent years.",
+          "She uses Wi-Fi at home and work — her smaller data plan is adequate for gaps in between.",
+          "He found that SIM-only data plans offered far better value than handset contracts.",
+          "Data plan inclusions — calls, SMS, and data — vary widely across Australian providers.",
+          "She roamed internationally on her data plan and was billed a very reasonable rate."
+        ]
+      },
+      {
+        "word": "influencer",
+        "ipa": "/ˈɪnfluənsə/",
+        "phonetic": "[IN-floo-un-suh]",
+        "meaning": "sosyal medya fenomeni",
+        "type": "isim",
+        "sentences": [
+          "She followed an Australian influencer who documented her experience as a first-generation migrant.",
+          "He is sceptical of influencer marketing but acknowledges its reach.",
+          "An influencer is someone who uses social media to reach and shape the opinions of a large audience.",
+          "She found an influencer who reviewed Australian products from a Turkish perspective — very useful.",
+          "He was disappointed when an influencer he trusted was found to have received undisclosed payments.",
+          "Influencers in Australia must disclose paid partnerships under consumer protection rules.",
+          "She noticed that micro-influencers with smaller audiences often had more engaged followers.",
+          "He found the influencer ecosystem both creative and deeply commercial.",
+          "Australian influencers cover niches from outdoor adventure to parenting, finance, and food.",
+          "She considers the source carefully — an influencer's recommendations are not the same as independent advice."
+        ]
+      },
+      {
+        "word": "misinformation",
+        "ipa": "/ˌmɪsɪnfəˈmeɪʃən/",
+        "phonetic": "[mis-in-fuh-MAY-shun]",
+        "meaning": "yanlış bilgi, asılsız haber",
+        "type": "isim",
+        "sentences": [
+          "She fact-checks health claims before sharing — misinformation in that area causes real harm.",
+          "He reported misinformation about bushfire evacuation routes to the platform for removal.",
+          "Misinformation is false or inaccurate information, often spread without deliberate intent.",
+          "She found the spread of misinformation during the pandemic genuinely alarming.",
+          "He distinguishes between misinformation — accidentally wrong — and disinformation — deliberately false.",
+          "Misinformation spreads faster on social media than corrections — a well-documented phenomenon.",
+          "She uses RMIT's RMIT ABC Fact Check service to verify claims before accepting them as true.",
+          "He attended a media literacy workshop that taught practical ways to identify misinformation.",
+          "Misinformation during elections is particularly dangerous — she always checks official sources.",
+          "She found teaching her children to question and verify information was the best defence against misinformation."
+        ]
+      },
+      {
+        "word": "telehealth",
+        "ipa": "/ˈtɛlɪhɛlθ/",
+        "phonetic": "[TEL-ih-helth]",
+        "meaning": "uzaktan sağlık hizmetleri (telefon veya video ile doktor görüşmesi)",
+        "type": "isim",
+        "sentences": [
+          "She booked a telehealth appointment with her GP for a repeat prescription — it took ten minutes.",
+          "He found telehealth enormously practical for consulting specialists in other cities.",
+          "Telehealth allows patients to see a doctor by phone or video without visiting a clinic.",
+          "She used telehealth services throughout her pregnancy for routine checks between in-person visits.",
+          "He appreciated that Medicare bulk-billed his telehealth appointment — no out-of-pocket cost.",
+          "Telehealth was rapidly expanded in Australia during the COVID-19 pandemic and has remained available.",
+          "She found telehealth especially valuable for mental health consultations requiring regular contact.",
+          "He organised a telehealth appointment for his mother who cannot drive to the clinic.",
+          "Telehealth has improved access to medical care for Australians in rural and remote areas.",
+          "She described telehealth as transformative for people whose mobility or location limited medical access."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 98,
+    "words": [
+      {
+        "word": "fake news",
+        "ipa": "/feɪk njuːz/",
+        "phonetic": "[fayk nyooz]",
+        "meaning": "sahte haber",
+        "type": "isim öbeği",
+        "sentences": [
+          "She was careful not to share the post until she had confirmed it was not fake news.",
+          "He is frustrated by how convincingly fake news can mimic legitimate journalism.",
+          "Fake news refers to deliberate disinformation presented in the format of news reporting.",
+          "She teaches her students to evaluate sources and identify the hallmarks of fake news.",
+          "He finds the term fake news has been weaponised to discredit legitimate reporting as well.",
+          "Fake news spreads fastest in the moments following a major event when details are still uncertain.",
+          "She uses RMIT ABC Fact Check to assess claims that look like they might be fake news.",
+          "He found that fake news often contains a kernel of truth distorted to provoke an emotional response.",
+          "Fake news about health and elections is of particular concern to Australian authorities.",
+          "She explains to her parents that not everything on Facebook is news — real or fake."
+        ]
+      },
+      {
+        "word": "digital literacy",
+        "ipa": "/ˈdɪdʒɪtl ˈlɪtərəsi/",
+        "phonetic": "[DIJ-ih-tul LIT-uh-ruh-see]",
+        "meaning": "dijital okuryazarlık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She completed a digital literacy course through TAFE to improve her workplace technology skills.",
+          "He believes digital literacy is as fundamental as reading and writing in the twenty-first century.",
+          "Digital literacy includes the ability to find, evaluate, and create digital content responsibly.",
+          "She found digital literacy training helped her mother navigate online banking with confidence.",
+          "He teaches digital literacy at a community college and has found enormous interest from seniors.",
+          "Digital literacy goes beyond using apps — it includes critical thinking about information online.",
+          "She advocates for digital literacy education in schools as a core curriculum subject.",
+          "He found his digital literacy skills were tested when he started a new role with unfamiliar systems.",
+          "Digital literacy programs in Australia target vulnerable groups including the elderly and newly arrived migrants.",
+          "She found that improving her digital literacy opened up employment and service access opportunities."
+        ]
+      },
+      {
+        "word": "subscription",
+        "ipa": "/səbˈskrɪpʃən/",
+        "phonetic": "[sub-SKRIP-shun]",
+        "meaning": "abonelik",
+        "type": "isim",
+        "sentences": [
+          "She audited her subscriptions and cancelled three she had forgotten she was paying for.",
+          "He subscribes to an online news subscription to support quality journalism.",
+          "A subscription is a recurring payment for access to a service, product, or content.",
+          "She uses a budgeting app to track all her monthly subscriptions in one place.",
+          "He found subscription boxes for Australian products a novel and enjoyable gift idea.",
+          "Australian Consumer Law requires subscription terms to be clearly disclosed before purchase.",
+          "She cancelled a subscription during the free trial period and paid nothing.",
+          "He signed up for the annual subscription — it was significantly cheaper than paying monthly.",
+          "Subscription services in Australia now include software, gym memberships, meal kits, and streaming.",
+          "She found the 'subscription economy' convenient but noted how quickly the monthly fees added up."
+        ]
+      },
+      {
+        "word": "online banking",
+        "ipa": "/ˈɒnlaɪn ˈbæŋkɪŋ/",
+        "phonetic": "[ON-lyne BANK-ing]",
+        "meaning": "çevrimiçi bankacılık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She manages all her finances through online banking and has not visited a branch in years.",
+          "He set up online banking the day he arrived in Australia — it made managing money straightforward.",
+          "Online banking allows customers to check balances, transfer money, and pay bills from anywhere.",
+          "She uses online banking to track spending across all her accounts in real time.",
+          "He found online banking with a Big Four bank straightforward to set up with proof of identity.",
+          "Online banking security in Australia includes two-factor authentication and fraud monitoring.",
+          "She set up BPAY payments through online banking to pay her council rates each quarter.",
+          "He transferred money via PayID through online banking — the recipient received it instantly.",
+          "Online banking apps have replaced physical bank visits for most routine transactions.",
+          "She found online banking indispensable when managing accounts across multiple institutions."
+        ]
+      },
+      {
+        "word": "Scamwatch",
+        "ipa": "/ˈskæmwɒtʃ/",
+        "phonetic": "[SKAM-woch]",
+        "meaning": "Avustralya dolandırıcılık uyarı ve raporlama platformu",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She reported the suspicious call to Scamwatch after the caller claimed to be from the ATO.",
+          "He checks Scamwatch regularly to stay informed about current scam tactics in Australia.",
+          "Scamwatch is the ACCC's scam reporting and information service for Australian consumers.",
+          "She found Scamwatch's database of current scams invaluable for protecting her parents.",
+          "He filed a Scamwatch report after receiving an investment scam email promising guaranteed returns.",
+          "Scamwatch data showed that Australians lost over three billion dollars to scams in 2023.",
+          "She shared the Scamwatch website with her community group to help members protect themselves.",
+          "He found that Scamwatch explained exactly how common scams operated — knowledge was protection.",
+          "Scamwatch accepts reports from individuals and businesses about scams targeting Australians.",
+          "She bookmarked Scamwatch and refers to it whenever she receives a suspicious communication."
+        ]
+      }
+    ]
+  }
+]

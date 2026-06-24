@@ -1,0 +1,702 @@
+[
+  {
+    "day": 169,
+    "words": [
+      {
+        "word": "compound interest",
+        "ipa": "/ˈkɒmpaʊnd ˈɪntrɪst/",
+        "phonetic": "[KOM-pownd IN-trust]",
+        "meaning": "bileşik faiz",
+        "type": "isim öbeği",
+        "sentences": [
+          "She understood compound interest at twenty and started investing immediately.",
+          "He describes compound interest as the eighth wonder of the world — Einstein supposedly agreed.",
+          "Compound interest is interest calculated on both the principal and the accumulated interest.",
+          "She found that compound interest made small regular investments enormously powerful over time.",
+          "He visualised compound interest on a graph and found the hockey stick shape genuinely motivating.",
+          "Compound interest works for investors — and against those who carry credit card debt.",
+          "She found compound interest explained clearly in the MoneySmart resources from ASIC.",
+          "He started his children's savings accounts early — compound interest does its best work over decades.",
+          "Understanding compound interest is foundational to financial literacy in Australia.",
+          "She describes compound interest as the invisible engine of long-term wealth building."
+        ]
+      },
+      {
+        "word": "dollar cost averaging",
+        "ipa": "/ˈdɒlə kɒst ˈævərɪdʒɪŋ/",
+        "phonetic": "[DOL-uh kost AV-rij-ing]",
+        "meaning": "düzenli aralıklarla sabit miktarda yatırım yapma stratejisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She invests a fixed amount each month regardless of market conditions — dollar cost averaging.",
+          "He found dollar cost averaging removed the anxiety of trying to time the market.",
+          "Dollar cost averaging involves investing a fixed sum at regular intervals regardless of asset prices.",
+          "She found dollar cost averaging meant she automatically bought more units when prices were low.",
+          "He uses dollar cost averaging for his index fund — it is automated and effortless.",
+          "Dollar cost averaging is widely recommended for long-term investors who are not market experts.",
+          "She found that dollar cost averaging suited her psychologically — no dramatic decisions required.",
+          "He set up an automatic transfer on payday — dollar cost averaging made invisible.",
+          "Dollar cost averaging smooths out market volatility over time.",
+          "She describes dollar cost averaging as the investment strategy that works best for people with lives to live."
+        ]
+      },
+      {
+        "word": "diversification",
+        "ipa": "/daɪˌvɜːsɪfɪˈkeɪʃən/",
+        "phonetic": "[dy-vur-sih-fih-KAY-shun]",
+        "meaning": "yatırım çeşitlendirmesi",
+        "type": "isim",
+        "sentences": [
+          "She diversifies her investments across shares, property, and bonds.",
+          "He learned diversification through the classic expression — never put all your eggs in one basket.",
+          "Diversification is the practice of spreading investments across different asset types to reduce risk.",
+          "She found diversification reduced the emotional impact of any single asset declining.",
+          "He holds Australian and international shares to diversify geographical risk.",
+          "Diversification does not eliminate risk — it manages it by avoiding concentration.",
+          "She found index funds naturally provide diversification — she holds hundreds of companies at once.",
+          "He discusses diversification with his financial adviser every year.",
+          "Diversification across time is also valuable — dollar cost averaging achieves this.",
+          "She describes diversification as the discipline of not letting any single bet determine your future."
+        ]
+      },
+      {
+        "word": "portfolio",
+        "ipa": "/pɔːtˈfoʊlioʊ/",
+        "phonetic": "[port-FOH-lee-oh]",
+        "meaning": "yatırım portföyü",
+        "type": "isim",
+        "sentences": [
+          "She reviews her investment portfolio quarterly with her financial adviser.",
+          "He built his portfolio gradually — shares, super, and a small investment property.",
+          "An investment portfolio is the collection of all financial investments held by an individual.",
+          "She found her portfolio performance correlated with her long-term strategy — reassuring.",
+          "He rebalanced his portfolio when shares grew to represent too large a proportion.",
+          "Portfolio construction involves deciding what to hold, in what proportions, and for what purpose.",
+          "She found online portfolio trackers invaluable for monitoring her investments.",
+          "He diversified his portfolio away from Australian-only exposure after learning about home bias.",
+          "A balanced portfolio might include Australian shares, international shares, property, and bonds.",
+          "She describes her portfolio as the financial structure that allows her future self to breathe."
+        ]
+      },
+      {
+        "word": "asset class",
+        "ipa": "/ˈæsɛt klɑːs/",
+        "phonetic": "[AS-et klass]",
+        "meaning": "varlık sınıfı (hisse, tahvil, gayrimenkul gibi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She holds investments across multiple asset classes — shares, property, and cash.",
+          "He learned that different asset classes behave differently in various market conditions.",
+          "An asset class is a category of investment with similar characteristics and market behaviour.",
+          "She found that understanding asset classes helped her build a genuinely balanced portfolio.",
+          "He found that cash, while low risk, is an important asset class for liquidity.",
+          "Major asset classes include equities, fixed income, property, cash, and commodities.",
+          "She found that asset class performance rotates — yesterday's winner is not always tomorrow's.",
+          "He chose a fund that holds multiple asset classes — the diversification is built in.",
+          "Asset class allocation is one of the most important decisions in portfolio construction.",
+          "She describes understanding asset classes as the foundation of every intelligent investment decision."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 170,
+    "words": [
+      {
+        "word": "property investment",
+        "ipa": "/ˈprɒpəti ɪnˈvɛstmənt/",
+        "phonetic": "[PROP-uh-tee in-VEST-munt]",
+        "meaning": "gayrimenkul yatırımı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She made her first property investment at thirty-two — a two-bedroom unit in a regional town.",
+          "He researches property investment in Australia carefully — the tax and legal implications are significant.",
+          "Property investment involves purchasing real estate to generate rental income or capital growth.",
+          "She found property investment appealing for its tangibility — she could see and touch the asset.",
+          "He discovered that property investment in Australia involves stamp duty, land tax, and council rates.",
+          "Property investment in Australia has been a significant wealth-building strategy for many families.",
+          "She found a buyer's agent invaluable for her first property investment — worth the fee.",
+          "He assessed the property investment using rental yield, location growth, and vacancy rates.",
+          "Property investment requires significant capital — borrowing is typically involved.",
+          "She describes property investment as the entry point into long-term wealth building for many Australians."
+        ]
+      },
+      {
+        "word": "rental yield",
+        "ipa": "/ˈrɛntəl jiːld/",
+        "phonetic": "[REN-tul yeeld]",
+        "meaning": "kira getirisi oranı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She assessed the property's rental yield before buying — annual rent divided by purchase price.",
+          "He found rental yield highest in regional areas but lower capital growth potential.",
+          "Rental yield is the annual rental income expressed as a percentage of the property's value.",
+          "She found a gross rental yield of five percent considered reasonable in the current market.",
+          "He understood the difference between gross and net rental yield — expenses matter.",
+          "Rental yield helps investors compare properties and assess income potential.",
+          "She found that high rental yield areas were not always areas of strong capital growth.",
+          "He calculated the net rental yield after deducting rates, insurance, management fees, and maintenance.",
+          "Rental yield is one metric among many — location, tenant quality, and vacancy rate also matter.",
+          "She describes rental yield as the number that tells you what the property is doing for you right now."
+        ]
+      },
+      {
+        "word": "negative gearing",
+        "ipa": "/ˈnɛɡətɪv ˈɡɪərɪŋ/",
+        "phonetic": "[NEG-uh-tiv GEER-ing]",
+        "meaning": "negatif kaldıraç (kira geliri giderlerden az olduğunda vergi avantajı)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She chose a negatively geared property investment for the tax benefit against her income.",
+          "He discussed negative gearing with his accountant before proceeding.",
+          "Negative gearing occurs when investment costs exceed income, creating a tax-deductible loss.",
+          "She found negative gearing a common strategy among Australian property investors.",
+          "He learned that negative gearing relies on capital growth to be worthwhile long-term.",
+          "Negative gearing allows investors to reduce taxable income by the amount of the investment loss.",
+          "She found negative gearing most advantageous for high-income earners in higher tax brackets.",
+          "He understood the political debate around negative gearing and its effect on housing affordability.",
+          "Negative gearing is unique to a small number of tax systems globally — Australia is notable for it.",
+          "She describes negative gearing as the tax strategy that made property investment viable for many Australians."
+        ]
+      },
+      {
+        "word": "capital growth",
+        "ipa": "/ˈkæpɪtəl ɡroʊθ/",
+        "phonetic": "[KAP-ih-tul grohth]",
+        "meaning": "sermaye büyümesi, değer artışı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She chose her investment property based on the location's strong historical capital growth.",
+          "He found capital growth over ten years exceeded the rental income by a multiple of four.",
+          "Capital growth is the increase in an asset's value over time.",
+          "She found capital growth difficult to predict but historical trends informative.",
+          "He held the investment property for fifteen years to maximise capital growth.",
+          "Capital growth combined with rental yield gives the total return on property investment.",
+          "She found that capital growth in Australian capital cities had been extraordinary over two decades.",
+          "He weighed rental yield against capital growth potential when choosing between two properties.",
+          "Capital growth is not guaranteed — location, infrastructure, and demographics all influence it.",
+          "She describes capital growth as the long game — patience rewarded over years, not months."
+        ]
+      },
+      {
+        "word": "index fund",
+        "ipa": "/ˈɪndɛks fʌnd/",
+        "phonetic": "[IN-deks fund]",
+        "meaning": "endeks fonu (borsa endeksini takip eden yatırım fonu)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She invests in an index fund that tracks the ASX 200 — she owns a piece of Australia's largest companies.",
+          "He chose index funds over actively managed funds after comparing long-term performance data.",
+          "An index fund is an investment fund that tracks a market index, such as the ASX 200 or S&P 500.",
+          "She found index funds have lower fees than actively managed funds — the compound savings are significant.",
+          "He uses Vanguard index funds for his long-term investment portfolio.",
+          "Index funds provide instant diversification — one purchase spreads risk across hundreds of companies.",
+          "She found index fund investing requires minimal knowledge to begin — it grows with time.",
+          "He found the evidence strongly supported index funds outperforming most active fund managers over time.",
+          "Index funds are widely recommended for everyday Australian investors by financial educators.",
+          "She describes index fund investing as the strategy that allows her to benefit from market growth without complexity."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 171,
+    "words": [
+      {
+        "word": "ASX",
+        "ipa": "/eɪ ɛs ɛks/",
+        "phonetic": "[ay es ex]",
+        "meaning": "Avustralya Menkul Kıymetler Borsası",
+        "type": "kısaltma / özel isim",
+        "sentences": [
+          "She watches the ASX daily — it has become part of her morning routine.",
+          "He invested his first share through a brokerage account that connects to the ASX.",
+          "The ASX is the Australian Securities Exchange — where shares in Australian companies are bought and sold.",
+          "She found the ASX 200 index the most commonly referenced benchmark for Australian market performance.",
+          "He discovered that the ASX opens at ten a.m. Sydney time on weekdays.",
+          "The ASX provides real-time price information and company announcements online.",
+          "She found ASX-listed ETFs a practical way to invest in diversified baskets of shares.",
+          "He holds shares in three companies listed on the ASX — one mining, one bank, one technology.",
+          "The ASX is one of the world's largest stock exchanges by market capitalisation.",
+          "She describes the ASX as the marketplace where Australia's corporate economy becomes accessible to everyone."
+        ]
+      },
+      {
+        "word": "brokerage",
+        "ipa": "/ˈbroʊkərɪdʒ/",
+        "phonetic": "[BROH-kuh-rij]",
+        "meaning": "aracılık ücreti; aracı kurum",
+        "type": "isim",
+        "sentences": [
+          "She uses a low-cost online brokerage to buy shares — fees have fallen dramatically.",
+          "He compared brokerage fees before choosing his platform — even small differences compound.",
+          "Brokerage is both the fee paid to execute a trade and the firm that facilitates it.",
+          "She found Pearler, Stake, and CommSec the most common Australian brokerages among individual investors.",
+          "He found that low brokerage encouraged him to invest regularly rather than wait for a large sum.",
+          "Brokerage fees in Australia range from under five dollars to thirty dollars per trade.",
+          "She chose a brokerage that offered CHESS-sponsored holdings — she owns the shares directly.",
+          "He found the brokerage interface intuitive — research, buy, and monitor in one place.",
+          "Brokerage platforms in Australia are regulated by ASIC.",
+          "She describes choosing the right brokerage as the practical first step that makes investment begin."
+        ]
+      },
+      {
+        "word": "emergency fund",
+        "ipa": "/ɪˈmɜːdʒənsi fʌnd/",
+        "phonetic": "[ih-MUR-jun-see fund]",
+        "meaning": "acil durum fonu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She saved three months of expenses as an emergency fund before investing.",
+          "He found the emergency fund the single most stress-reducing financial decision he made.",
+          "An emergency fund is a savings reserve set aside for unexpected expenses or loss of income.",
+          "She kept her emergency fund in a high-interest savings account — accessible and earning.",
+          "He found that having an emergency fund meant he never needed to sell investments at a bad time.",
+          "Financial advisers recommend an emergency fund of three to six months of living expenses.",
+          "She funded her emergency fund first before any other financial goal.",
+          "He used his emergency fund when he was made redundant — it bought him four months of calm.",
+          "An emergency fund prevents reliance on credit when unexpected costs arise.",
+          "She describes the emergency fund as the financial buffer that changes your relationship with uncertainty."
+        ]
+      },
+      {
+        "word": "financial independence",
+        "ipa": "/faɪˈnænʃəl ˌɪndɪˈpɛndəns/",
+        "phonetic": "[fy-NAN-shul in-dih-PEN-duns]",
+        "meaning": "finansal bağımsızlık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She is working towards financial independence — the point where her investments cover her expenses.",
+          "He finds the concept of financial independence more motivating than retirement.",
+          "Financial independence means having sufficient income from investments to live without paid employment.",
+          "She found the FIRE community online — Financial Independence, Retire Early.",
+          "He found financial independence required both high saving rates and intentional investing.",
+          "Financial independence in Australia is achievable with consistent effort and planning — MoneySmart confirms.",
+          "She aims for financial independence at fifty — she is on track.",
+          "He found financial independence aligned with his values — work he chose, not work he needed.",
+          "Financial independence is about options — not necessarily stopping work.",
+          "She describes financial independence as the goal that most clearly articulates what freedom means to her."
+        ]
+      },
+      {
+        "word": "FIRE",
+        "ipa": "/faɪər/",
+        "phonetic": "[fyr]",
+        "meaning": "Finansal Bağımsızlık, Erken Emeklilik (Financial Independence, Retire Early) hareketi",
+        "type": "kısaltma / özel isim",
+        "sentences": [
+          "She found the FIRE movement through a podcast and read everything she could about it.",
+          "He is pursuing a modified version of FIRE — Coast FIRE, where he saves enough to stop adding.",
+          "FIRE stands for Financial Independence, Retire Early — a movement focused on aggressive saving and investing.",
+          "She found FIRE philosophy challenged her assumptions about what work was supposed to mean.",
+          "He found Australian FIRE bloggers valuable — the system here differs from the American version.",
+          "FIRE requires a high savings rate — fifty percent or more in committed practitioners.",
+          "She found FIRE not about retiring to do nothing — but about working on things that matter.",
+          "He calculates his FIRE number as twenty-five times annual expenses.",
+          "FIRE in Australia must account for superannuation access age — a key planning consideration.",
+          "She describes FIRE as the financial philosophy that made her look at every dollar differently."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 172,
+    "words": [
+      {
+        "word": "credit card",
+        "ipa": "/ˈkrɛdɪt kɑːd/",
+        "phonetic": "[KRED-it kard]",
+        "meaning": "kredi kartı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She pays her credit card in full each month — interest is never paid.",
+          "He chose a credit card with no foreign transaction fees for travel.",
+          "A credit card is a payment card allowing purchases on credit, repaid later.",
+          "She found her credit card points programme earns significant value if managed carefully.",
+          "He found that credit card interest rates in Australia range from seventeen to twenty-two percent annually.",
+          "Credit card debt is expensive — the interest can dwarf the original purchase.",
+          "She uses her credit card for points and pays it immediately using direct debit.",
+          "He found the credit card limit a trap — he lowered it to match his monthly spend.",
+          "Credit card statements in Australia are required to show how long it will take to pay with minimum payments.",
+          "She describes a credit card as a useful tool — if you treat it as a charge card rather than a loan."
+        ]
+      },
+      {
+        "word": "balance transfer",
+        "ipa": "/ˈbæləns ˈtrænsfer/",
+        "phonetic": "[BAL-uns TRANS-fur]",
+        "meaning": "kredi kartı borç transferi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She used a balance transfer offer to move her credit card debt to a zero-percent card.",
+          "He found a balance transfer the most useful tool for reducing high-interest credit card debt.",
+          "A balance transfer involves moving debt from one credit card to another, often at a lower rate.",
+          "She read the balance transfer conditions carefully — fees and revert rates matter.",
+          "He found balance transfer offers typically zero percent for twelve to twenty-four months in Australia.",
+          "A balance transfer only works if you pay down the debt before the offer period ends.",
+          "She found the ASIC MoneySmart comparison tool invaluable for finding balance transfer offers.",
+          "He was careful not to use the new card for purchases during a balance transfer period.",
+          "Balance transfer success requires discipline — the offer is a window, not a solution.",
+          "She describes a balance transfer as one of the tools that helped her exit high-interest debt efficiently."
+        ]
+      },
+      {
+        "word": "income protection",
+        "ipa": "/ˈɪnkəm prəˈtɛkʃən/",
+        "phonetic": "[IN-kum pruh-TEK-shun]",
+        "meaning": "gelir koruma sigortası",
+        "type": "isim öbeği",
+        "sentences": [
+          "She took out income protection insurance after becoming self-employed.",
+          "He found income protection the most important personal insurance he held.",
+          "Income protection insurance replaces a portion of income if illness or injury prevents work.",
+          "She found income protection typically covered up to seventy-five percent of her pre-illness income.",
+          "He discussed income protection with his financial adviser as part of his risk planning.",
+          "Income protection premiums may be tax-deductible in Australia — she confirmed this with her accountant.",
+          "She found her superannuation fund included basic income protection — she reviewed its adequacy.",
+          "He found income protection gave him the confidence to take on self-employment.",
+          "Income protection waiting periods vary — thirty, sixty, or ninety days before benefits begin.",
+          "She describes income protection as the insurance that protects every other financial plan."
+        ]
+      },
+      {
+        "word": "estate planning",
+        "ipa": "/ɪˈsteɪt ˈplænɪŋ/",
+        "phonetic": "[ih-STAYT PLAN-ing]",
+        "meaning": "miras planlaması",
+        "type": "isim öbeği",
+        "sentences": [
+          "She completed her estate planning — a will, power of attorney, and advanced health directive.",
+          "He found estate planning less morbid and more empowering than he expected.",
+          "Estate planning involves preparing legal documents to manage your assets and wishes after death.",
+          "She found estate planning essential — without a will, the state decides how assets are distributed.",
+          "He updated his estate planning after the birth of his daughter — guardianship was now critical to address.",
+          "Estate planning in Australia involves wills, testamentary trusts, and superannuation nominations.",
+          "She worked with a solicitor on her estate planning — it took two hours and gave her enormous peace.",
+          "He found his superannuation required a separate nomination — it does not automatically follow the will.",
+          "Estate planning reviews are recommended after major life changes — marriage, children, property purchase.",
+          "She describes estate planning as the final act of care for the people she loves."
+        ]
+      },
+      {
+        "word": "net worth",
+        "ipa": "/nɛt wɜːθ/",
+        "phonetic": "[net wurth]",
+        "meaning": "net değer, öz sermaye (toplam varlıklar eksi borçlar)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She calculates her net worth annually — assets minus liabilities.",
+          "He found tracking net worth the most motivating way to observe financial progress.",
+          "Net worth is the total value of everything you own minus everything you owe.",
+          "She found her net worth growing even through periods of low income — asset growth helped.",
+          "He includes superannuation in his net worth calculation — it is the largest single asset.",
+          "Net worth provides a snapshot of financial health at a point in time.",
+          "She uses a spreadsheet to track net worth — updated on the first of every month.",
+          "He found that paying down the mortgage most rapidly increased his net worth.",
+          "Net worth tracking removes short-term market anxiety — the long-term trend matters more.",
+          "She describes tracking net worth as the financial habit that most clearly shows you where you are going."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 173,
+    "words": [
+      {
+        "word": "remittance",
+        "ipa": "/rɪˈmɪtəns/",
+        "phonetic": "[rih-MIT-uns]",
+        "meaning": "yurt dışına para gönderimi",
+        "type": "isim",
+        "sentences": [
+          "She sends a remittance to her parents in Turkey each month.",
+          "He found the remittance fees varied significantly between providers.",
+          "A remittance is a transfer of money to family or others in another country.",
+          "She found Wise and WorldRemit offered competitive remittance exchange rates.",
+          "He researched remittance options carefully — the fees and exchange rates differ enormously.",
+          "Remittance is economically significant for many countries that receive substantial transfers from diaspora communities.",
+          "She found her bank's international transfer fees for remittance far higher than specialist providers.",
+          "He sends remittance using a scheduled transfer — it is automated and reliable.",
+          "Remittance services must comply with Australian anti-money laundering regulations.",
+          "She describes sending remittance as the financial act that most concretely connects her life in Australia to her family overseas."
+        ]
+      },
+      {
+        "word": "exchange rate",
+        "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+        "phonetic": "[iks-CHAYNJ rayt]",
+        "meaning": "döviz kuru",
+        "type": "isim öbeği",
+        "sentences": [
+          "She monitors the exchange rate between the Australian dollar and the Turkish lira before sending money.",
+          "He found the exchange rate offered by his bank significantly worse than specialist services.",
+          "The exchange rate is the value at which one currency can be exchanged for another.",
+          "She found the Australian dollar exchange rate fluctuates with commodity prices — iron ore in particular.",
+          "He times his currency exchange around exchange rate movements — a modest saving adds up.",
+          "Exchange rates change continuously based on supply, demand, and economic conditions.",
+          "She used a comparison site to find the best exchange rate for her remittance.",
+          "He found spot rate versus bank rate the clearest illustration of exchange rate margin.",
+          "Exchange rate risk affects businesses importing and exporting goods.",
+          "She describes tracking the exchange rate as the most direct measure of how her two countries relate financially."
+        ]
+      },
+      {
+        "word": "financial adviser",
+        "ipa": "/faɪˈnænʃəl ədˈvaɪzə/",
+        "phonetic": "[fy-NAN-shul ad-VY-zuh]",
+        "meaning": "finansal danışman",
+        "type": "isim öbeği",
+        "sentences": [
+          "She saw a financial adviser before making any significant investment decision.",
+          "He found a fee-only financial adviser — one who charged for advice rather than commissions.",
+          "A financial adviser provides professional guidance on investments, insurance, and financial planning.",
+          "She found the financial adviser worth every dollar — the plan gave her clarity.",
+          "He verified his financial adviser was registered on the ASIC financial advisers register.",
+          "Financial adviser fees in Australia vary — hourly, flat fee, or percentage of assets.",
+          "She found the Financial Planning Association website helpful for finding a registered adviser.",
+          "He met his financial adviser annually to review goals, strategy, and circumstances.",
+          "Financial advisers in Australia must act in the client's best interests — the best interest duty.",
+          "She describes the financial adviser relationship as the most valuable professional relationship she has in Australia."
+        ]
+      },
+      {
+        "word": "tax return",
+        "ipa": "/tæks rɪˈtɜːn/",
+        "phonetic": "[taks rih-TURN]",
+        "meaning": "vergi beyannamesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She lodges her tax return in July as soon as the financial year closes.",
+          "He used a registered tax agent to prepare his tax return — the refund exceeded the fee.",
+          "A tax return is a form filed with the ATO declaring income and claiming deductions.",
+          "She found myTax, the ATO's online system, straightforward for a simple tax return.",
+          "He discovered work-related deductions he was entitled to claim on his tax return.",
+          "Tax returns in Australia are due by 31 October unless you use a registered tax agent.",
+          "She found her tax return straightforward this year — single employer, simple deductions.",
+          "He carries receipts throughout the year so his tax return deductions are well documented.",
+          "Tax returns result in either a refund or a bill depending on withholding accuracy through the year.",
+          "She describes lodging her tax return as an annual ritual that either rewards or recalibrates."
+        ]
+      },
+      {
+        "word": "tax agent",
+        "ipa": "/tæks ˈeɪdʒənt/",
+        "phonetic": "[taks AY-junt]",
+        "meaning": "vergi acentesi, muhasebeci",
+        "type": "isim öbeği",
+        "sentences": [
+          "She uses a tax agent to lodge her return — they find deductions she would miss.",
+          "He registered with a tax agent who extended his lodgement deadline to May.",
+          "A tax agent is a registered professional who prepares and lodges tax returns on behalf of clients.",
+          "She found her tax agent identified rental property deductions that doubled her refund.",
+          "He verified his tax agent was registered on the Tax Practitioners Board register.",
+          "Tax agents in Australia must be registered with the Tax Practitioners Board.",
+          "She found the tax agent fee tax-deductible — it pays for itself.",
+          "He switched tax agents when his financial situation became more complex.",
+          "A good tax agent advises throughout the year — not just at lodgement time.",
+          "She describes her tax agent as one of the most useful professionals in her Australian financial life."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 174,
+    "words": [
+      {
+        "word": "interest-free period",
+        "ipa": "/ˈɪntrɪst friː ˈpɪəriəd/",
+        "phonetic": "[IN-trust free PEER-ee-ud]",
+        "meaning": "faizsiz dönem",
+        "type": "isim öbeği",
+        "sentences": [
+          "She uses her credit card's interest-free period strategically — paying before the deadline.",
+          "He found the interest-free period only applied if the full balance was paid on time.",
+          "An interest-free period is the time after a credit card purchase when no interest is charged.",
+          "She found the interest-free period up to fifty-five days on her card — useful for cash flow.",
+          "He learned that the interest-free period does not apply if there is an existing balance.",
+          "Interest-free periods are a benefit of credit cards used correctly — and a trap when misunderstood.",
+          "She automated her credit card payment to avoid accidentally losing the interest-free period.",
+          "He found the interest-free period detailed in his credit card product disclosure statement.",
+          "Interest-free period conditions vary between cards — she reads the fine print carefully.",
+          "She describes the interest-free period as one of the genuine benefits of responsible credit card use."
+        ]
+      },
+      {
+        "word": "stamp duty",
+        "ipa": "/stæmp ˈdjuːti/",
+        "phonetic": "[stamp DYOO-tee]",
+        "meaning": "damga vergisi (gayrimenkul alımında ödenen vergi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She was surprised by the size of the stamp duty on her first property purchase.",
+          "He budgeted for stamp duty separately — it is a significant upfront cost.",
+          "Stamp duty is a government tax applied to property purchases, varying by state in Australia.",
+          "She found first home buyers may receive stamp duty concessions or exemptions.",
+          "He calculated the stamp duty on the property using the state revenue office online calculator.",
+          "Stamp duty in New South Wales can exceed forty thousand dollars on a median-priced home.",
+          "She found that stamp duty was payable within three months of settlement in her state.",
+          "He found the stamp duty system debated in Australia — some economists argue it distorts housing markets.",
+          "Stamp duty varies by property value and state — she checked the specific rates for her purchase.",
+          "She describes stamp duty as one of the most significant and least expected costs of buying property in Australia."
+        ]
+      },
+      {
+        "word": "capital gains tax",
+        "ipa": "/ˈkæpɪtəl ɡeɪnz tæks/",
+        "phonetic": "[KAP-ih-tul gaynz taks]",
+        "meaning": "sermaye kazancı vergisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She sold shares after twelve months to access the capital gains tax fifty-percent discount.",
+          "He discussed capital gains tax with his accountant before selling the investment property.",
+          "Capital gains tax is payable on the profit from selling an asset such as shares or property.",
+          "She found that holding an asset for over twelve months halved the capital gains tax payable.",
+          "He found his primary residence exempt from capital gains tax — an important Australian rule.",
+          "Capital gains tax applies to investment properties but not the home you live in.",
+          "She found capital gains tax complicated when the investment property was part-used personally.",
+          "He included capital gains tax in his property sale calculations to determine actual return.",
+          "Capital gains tax in Australia is calculated on the gain and then included in assessable income.",
+          "She describes capital gains tax as the reminder that profit shared with the government is still profit."
+        ]
+      },
+      {
+        "word": "financial literacy",
+        "ipa": "/faɪˈnænʃəl ˈlɪtərəsi/",
+        "phonetic": "[fy-NAN-shul LIT-uh-ruh-see]",
+        "meaning": "finansal okuryazarlık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She builds financial literacy through books, podcasts, and MoneySmart resources.",
+          "He found financial literacy the most important education not taught in Australian schools.",
+          "Financial literacy is the ability to understand and use financial concepts and tools effectively.",
+          "She found financial literacy correlated strongly with financial wellbeing — knowledge reduces fear.",
+          "He reads The Barefoot Investor as an introduction to financial literacy for everyday Australians.",
+          "Financial literacy programs are offered by community organisations and financial institutions.",
+          "She found financial literacy most powerful when applied — understanding without action changes little.",
+          "He found the ASIC MoneySmart website an excellent free financial literacy resource.",
+          "Financial literacy includes budgeting, saving, investing, debt management, and understanding tax.",
+          "She describes financial literacy as the skill that most changes what the future looks like."
+        ]
+      },
+      {
+        "word": "debt snowball",
+        "ipa": "/dɛt ˈsnoʊbɔːl/",
+        "phonetic": "[det SNOH-bawl]",
+        "meaning": "borç kartopu stratejisi (küçük borçtan büyüğe ödeme)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She used the debt snowball to eliminate three credit cards over eighteen months.",
+          "He chose the debt snowball over the avalanche — the psychological wins mattered to him.",
+          "The debt snowball is a debt repayment strategy starting with the smallest balance first.",
+          "She found the debt snowball motivating — each eliminated debt freed up more payment power.",
+          "He paid minimum payments on all debts except the smallest, which he attacked aggressively.",
+          "The debt snowball was popularised by Dave Ramsey and adapted by Australian financial educators.",
+          "She found the debt snowball less mathematically optimal but more behaviourally effective for her.",
+          "He celebrated each debt elimination — the psychological milestone reinforced the behaviour.",
+          "The debt snowball contrasts with the debt avalanche, which targets highest-interest debt first.",
+          "She describes the debt snowball as the strategy that finally made debt elimination feel possible."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 175,
+    "words": [
+      {
+        "word": "wire transfer",
+        "ipa": "/ˈwaɪər ˈtrænsfer/",
+        "phonetic": "[WY-uh TRANS-fur]",
+        "meaning": "elektronik para transferi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She sent a wire transfer to her family overseas using her bank's international service.",
+          "He found wire transfers through his bank took two to three business days and charged a fee.",
+          "A wire transfer is an electronic method of transferring funds between financial institutions.",
+          "She found specialist services like Wise completed wire transfers faster and cheaper.",
+          "He always verifies the recipient's details before initiating a wire transfer — errors are hard to reverse.",
+          "Wire transfers are commonly used for large international transactions and property settlements.",
+          "She found her bank required additional identification for large wire transfers — fraud prevention.",
+          "He received a wire transfer from the property sale settlement the same day.",
+          "Wire transfer fees vary by bank and destination country.",
+          "She describes a wire transfer as the financial act that most vividly reminds her of living between two countries."
+        ]
+      },
+      {
+        "word": "managed fund",
+        "ipa": "/ˈmænɪdʒd fʌnd/",
+        "phonetic": "[MAN-ijd fund]",
+        "meaning": "yönetilen yatırım fonu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She invested in a managed fund before learning about low-cost index fund alternatives.",
+          "He compared managed fund performance against index fund performance over ten years.",
+          "A managed fund is an investment vehicle where a professional manager selects assets on behalf of investors.",
+          "She found managed funds typically charge higher fees than index funds.",
+          "He found some managed fund managers delivered strong returns but most did not beat the index.",
+          "Managed funds pool money from many investors to purchase a diversified portfolio.",
+          "She found managed funds offered through her superannuation fund at different risk levels.",
+          "He redeemed his managed fund investment and moved to lower-cost index funds.",
+          "Managed funds are regulated in Australia and must publish a product disclosure statement.",
+          "She describes managed funds as the investment category that most benefits from careful fee comparison."
+        ]
+      },
+      {
+        "word": "franking credit",
+        "ipa": "/ˈfræŋkɪŋ ˈkrɛdɪt/",
+        "phonetic": "[FRANK-ing KRED-it]",
+        "meaning": "temettü vergi kredisi (Avustralya'ya özgü)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She received franking credits with her Australian share dividends.",
+          "He found franking credits significantly enhanced the after-tax return of Australian dividend shares.",
+          "Franking credits are tax credits attached to dividends, representing the company tax already paid.",
+          "She found that franking credits reduced her tax payable on dividend income.",
+          "He discussed franking credits with his accountant — they feature in his tax return calculation.",
+          "Franking credits are unique to the Australian imputation system — they prevent double taxation.",
+          "She found retirees particularly value franking credits — they can receive them as cash refunds.",
+          "He chose Australian shares partly for their franking credits — a tax advantage unique to this market.",
+          "Franking credits appear on dividend statements and are claimed in the tax return.",
+          "She describes franking credits as one of the features that makes investing in Australian shares distinctly advantageous."
+        ]
+      },
+      {
+        "word": "financial goal",
+        "ipa": "/faɪˈnænʃəl ɡoʊl/",
+        "phonetic": "[fy-NAN-shul gohl]",
+        "meaning": "finansal hedef",
+        "type": "isim öbeği",
+        "sentences": [
+          "She sets financial goals at the start of each year — specific, measured, and time-bound.",
+          "He found financial goals most powerful when written down and reviewed regularly.",
+          "A financial goal is a specific monetary objective set for a defined time period.",
+          "She found financial goals gave direction to her saving and investing decisions.",
+          "He broke large financial goals into annual milestones — a house deposit in five years.",
+          "Financial goals can include emergency fund, debt freedom, investment milestones, and retirement targets.",
+          "She found linking financial goals to life goals — travel, freedom, family — more motivating.",
+          "He reviews his financial goals with his partner at the end of each year.",
+          "Financial goals without a plan are wishes — she builds a strategy around each one.",
+          "She describes financial goals as the intention that gives money its meaning."
+        ]
+      },
+      {
+        "word": "ASIC",
+        "ipa": "/ˈeɪzɪk/",
+        "phonetic": "[AY-zik]",
+        "meaning": "Avustralya Menkul Kıymetler ve Yatırımlar Komisyonu",
+        "type": "kısaltma / özel isim",
+        "sentences": [
+          "She checks ASIC's register before engaging any financial services provider.",
+          "He found ASIC's MoneySmart website the most accessible free financial education resource in Australia.",
+          "ASIC is the Australian Securities and Investments Commission — Australia's corporate and financial services regulator.",
+          "She reported the suspected investment scam to ASIC — they investigate and warn consumers.",
+          "He found ASIC registration a prerequisite for trusting any investment product or adviser.",
+          "ASIC regulates financial advisers, superannuation funds, and investment products.",
+          "She used the ASIC MoneySmart calculator to model her retirement savings projection.",
+          "He found ASIC's Moneysmart budget planner the most practical starting point for his financial plan.",
+          "ASIC enforces laws that protect investors and consumers in Australian financial markets.",
+          "She describes ASIC as the regulator whose existence allows her to trust the financial system she participates in."
+        ]
+      }
+    ]
+  }
+]

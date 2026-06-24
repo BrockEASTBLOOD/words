@@ -1,0 +1,702 @@
+[
+  {
+    "day": 253,
+    "words": [
+      {
+        "word": "broadsheet",
+        "ipa": "/ˈbrɔːdʃiːt/",
+        "phonetic": "[BRAWD-sheet]",
+        "meaning": "büyük boy ciddi gazete",
+        "type": "isim",
+        "sentences": [
+          "She reads a broadsheet on Sunday mornings — the long-form pieces reward the time.",
+          "He found broadsheets like The Australian and The Sydney Morning Herald carrying in-depth national coverage.",
+          "A broadsheet is a large-format newspaper associated with serious journalism and in-depth reporting.",
+          "She found broadsheets increasingly publishing digital editions — the physical paper declining in circulation.",
+          "He found the broadsheet editorial positions influencing public debate on major national issues.",
+          "Broadsheets in Australia include The Australian, The Age, and The Sydney Morning Herald.",
+          "She found broadsheet journalism covering politics, economics, and international affairs more thoroughly than tabloids.",
+          "He found broadsheet opinion pages the most intellectually stimulating free content he accessed daily.",
+          "Broadsheets are distinguished from tabloids by format, tone, and the depth of coverage.",
+          "She describes the Saturday broadsheet as the reading ritual that most set her week's thinking."
+        ]
+      },
+      {
+        "word": "tabloid",
+        "ipa": "/ˈtæblɔɪd/",
+        "phonetic": "[TAB-loyd]",
+        "meaning": "tabloid gazete (sensasyonel habercilik)",
+        "type": "isim",
+        "sentences": [
+          "She found the tabloid focusing on celebrity, crime, and sport — very different from the broadsheet.",
+          "He found tabloids like the Herald Sun and Daily Telegraph shaping opinion in their cities.",
+          "A tabloid is a smaller-format newspaper typically featuring shorter stories and popular content.",
+          "She found the tabloid front page the most visible daily media artefact in newsagencies and cafes.",
+          "He found tabloid news websites generating the most online traffic in Australia.",
+          "Tabloids in Australia include the Herald Sun, Courier-Mail, and The Daily Telegraph.",
+          "She found tabloid coverage of AFL and NRL the most thorough sports reporting available.",
+          "He found tabloid journalism capable of both populist excess and powerful investigative work.",
+          "Tabloid is also used as an adjective meaning sensational or populist in tone.",
+          "She describes the tabloid as the newspaper that most accurately measured what her city's population cared about on any given day."
+        ]
+      },
+      {
+        "word": "ABC",
+        "ipa": "/ˌeɪ biː ˈsiː/",
+        "phonetic": "[ay-bee-SEE]",
+        "meaning": "Avustralya Yayın Kurumu (kamu yayıncısı)",
+        "type": "kısaltma",
+        "sentences": [
+          "She trusts the ABC for breaking news — its independence from advertising is the reason.",
+          "He found the ABC the most consistently cited trusted news source in Australian surveys.",
+          "The ABC — Australian Broadcasting Corporation — is Australia's national public broadcaster.",
+          "She found ABC News, Radio National, and iview among the most used media platforms in Australia.",
+          "He found the ABC funded by the federal government but editorially independent.",
+          "The ABC produces news, drama, documentaries, children's content, and regional radio.",
+          "She found ABC Radio National's long-form programs the most intellectually rich audio available.",
+          "He found the ABC's regional services essential for communities underserved by commercial media.",
+          "The ABC is often compared to the BBC — public-interest journalism without advertising.",
+          "She describes the ABC as the media institution she most took for granted until she lived without it."
+        ]
+      },
+      {
+        "word": "podcast",
+        "ipa": "/ˈpɒdkɑːst/",
+        "phonetic": "[POD-kast]",
+        "meaning": "podcast (ses/video yayını)",
+        "type": "isim",
+        "sentences": [
+          "She listens to a podcast on the commute — it replaced radio for her three years ago.",
+          "He found Australian podcasts on crime, politics, and history among the most produced globally.",
+          "A podcast is an audio program available on demand through digital platforms.",
+          "She found the ABC producing some of Australia's most popular podcasts — Casefile, The Signal.",
+          "He found podcast advertising the most effective marketing channel for niche Australian audiences.",
+          "Podcasts have democratised audio content — anyone with a microphone can publish.",
+          "She found her podcast listening list her most curated intellectual environment.",
+          "He found podcasting the format that revived his interest in long-form journalism.",
+          "Podcasts are downloaded or streamed through apps like Spotify, Apple Podcasts, and Pocket Casts.",
+          "She describes discovering the right podcast as the finding that most changed how she used her commute."
+        ]
+      },
+      {
+        "word": "documentary",
+        "ipa": "/ˌdɒkjʊˈmɛntəri/",
+        "phonetic": "[dok-yoo-MEN-tuh-ree]",
+        "meaning": "belgesel",
+        "type": "isim",
+        "sentences": [
+          "She watched a documentary on the ABC about the Murray-Darling Basin — it changed her thinking.",
+          "He found Australian documentaries regularly winning international awards.",
+          "A documentary is a non-fiction film or TV program recording real events or issues.",
+          "She found documentary filmmaking one of the most powerful forms of Australian journalism.",
+          "He found Screen Australia funding documentary production — an essential support mechanism.",
+          "Documentaries on Australian history, environment, and culture circulate widely on streaming platforms.",
+          "She found the hot docs streaming library the richest documentary source she had accessed.",
+          "He found a well-made documentary capable of changing public opinion on an issue.",
+          "Documentaries range from investigative exposés to natural history — Australian production covers both.",
+          "She describes a documentary as the format that most efficiently made her care about something she had never considered."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 254,
+    "words": [
+      {
+        "word": "journalist",
+        "ipa": "/ˈdʒɜːnəlɪst/",
+        "phonetic": "[JUR-nuh-list]",
+        "meaning": "gazeteci",
+        "type": "isim",
+        "sentences": [
+          "She aspired to be a journalist — the blend of research, writing, and public impact appealed.",
+          "He found investigative journalists at the ABC and The Guardian producing the most consequential Australian reporting.",
+          "A journalist is a professional who researches, writes, and reports news for publication or broadcast.",
+          "She found Australian journalists protected by shield laws in some states — sources not always required to be disclosed.",
+          "He found journalists working across television, radio, print, and digital platforms.",
+          "Journalists in Australia can train through university journalism degrees or cadetships.",
+          "She found the Media, Entertainment and Arts Alliance — MEAA — the union covering journalists.",
+          "He found journalists facing significant pressures — shrinking newsrooms, digital disruption, and legal threats.",
+          "Journalists are distinct from commentators or opinion writers — news reporters aim for factual accuracy.",
+          "She describes the journalist she most admired as the one who asked the question everyone else avoided."
+        ]
+      },
+      {
+        "word": "editorial",
+        "ipa": "/ˌɛdɪˈtɔːriəl/",
+        "phonetic": "[ed-ih-TOR-ee-ul]",
+        "meaning": "başyazı, yayın kurulu görüşü",
+        "type": "isim",
+        "sentences": [
+          "She reads the editorial to understand the newspaper's institutional position on the issue.",
+          "He found editorials representing the views of the publication — not any individual journalist.",
+          "An editorial is an article expressing the official opinion of the publication's editors.",
+          "She found the editorial board of The Australian often influencing the conservative side of national debates.",
+          "He found editorials distinct from news reporting — explicitly opinion-based.",
+          "Editorials in Australian newspapers address elections, policy, and national character.",
+          "She found editorial independence the most prized quality of a credible news organisation.",
+          "He found the editorial position of a paper often predictable — and sometimes valuable to read anyway.",
+          "Editorial content differs from advertising or sponsored content — the distinction matters.",
+          "She describes reading the editorial as the act of understanding the publication's agenda — not just the news."
+        ]
+      },
+      {
+        "word": "defamation",
+        "ipa": "/ˌdɛfəˈmeɪʃən/",
+        "phonetic": "[def-uh-MAY-shun]",
+        "meaning": "iftira, hakaret (hukuki)",
+        "type": "isim",
+        "sentences": [
+          "She found defamation law significantly shaping what Australian journalists published.",
+          "He found Australia's defamation law among the most plaintiff-friendly in the common law world.",
+          "Defamation is a false statement that damages a person's reputation — actionable in Australian courts.",
+          "She found defamation cases in Australia commonly brought by public figures against news organisations.",
+          "He found defamation law in Australia applying to online publications as well as print.",
+          "Defamation requires proving the statement was published, identified the plaintiff, and caused reputational harm.",
+          "She found truth the main defence to a defamation claim — if it happened, it can be reported.",
+          "He found Australia reforming its defamation law in 2021 — updating it for the digital age.",
+          "Defamation suits against individual journalists had a chilling effect on public interest reporting.",
+          "She describes learning defamation law as essential context for understanding what Australian media chose not to publish."
+        ]
+      },
+      {
+        "word": "press freedom",
+        "ipa": "/prɛs ˈfriːdəm/",
+        "phonetic": "[pres FREE-dum]",
+        "meaning": "basın özgürlüğü",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found press freedom in Australia regularly tested by government secrecy and police raids.",
+          "He found Australia ranking lower than expected on global press freedom indices.",
+          "Press freedom is the right of journalists to report without government interference or censorship.",
+          "She found the 2019 AFP raids on the ABC and News Corp journalist alarming to press freedom advocates.",
+          "He found the press freedom coalition — formed by Australian media organisations — lobbying for stronger protection.",
+          "Press freedom is protected by convention in Australia — no explicit constitutional right to free speech exists.",
+          "She found whistleblower protections closely tied to press freedom — both weakened simultaneously.",
+          "He found press freedom advocacy the most urgently underdiscussed issue in Australian media policy.",
+          "Press freedom enables accountability journalism — without it, power cannot be scrutinised.",
+          "She describes press freedom as the condition that most determined whether Australian journalism could function."
+        ]
+      },
+      {
+        "word": "fact-checking",
+        "ipa": "/fækt ˈtʃɛkɪŋ/",
+        "phonetic": "[fakt CHEK-ing]",
+        "meaning": "gerçek doğrulama",
+        "type": "isim",
+        "sentences": [
+          "She uses the RMIT ABC Fact Check service before sharing political claims online.",
+          "He found fact-checking organisations the most valuable addition to Australian media in the last decade.",
+          "Fact-checking is the practice of verifying whether public claims are accurate and evidence-based.",
+          "She found RMIT ABC Fact Check and AAP FactCheck the main Australian fact-checking services.",
+          "He found fact-checking most critical during election campaigns — misleading claims proliferated.",
+          "Fact-checking applies journalistic rigour to political and public health claims.",
+          "She found the fact-checking process assigning ratings — true, mostly true, misleading, false.",
+          "He found fact-checking articles the most shared items from serious news organisations.",
+          "Fact-checking organisations are themselves subject to scrutiny — transparency in method is essential.",
+          "She describes fact-checking as the media habit that most improved the quality of her public conversations."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 255,
+    "words": [
+      {
+        "word": "whistleblower",
+        "ipa": "/ˈwɪsəlbloʊər/",
+        "phonetic": "[WIS-ul-bloh-uh]",
+        "meaning": "muhbir, ihbarcı",
+        "type": "isim",
+        "sentences": [
+          "She found whistleblower protections in Australia weaker than advocates believed necessary.",
+          "He found the whistleblower the source behind the most significant Australian investigative journalism.",
+          "A whistleblower is a person who exposes wrongdoing within an organisation, often at personal risk.",
+          "She found Australian whistleblowers facing prosecution under secrecy laws rather than protection.",
+          "He found the Public Interest Disclosure Act intended to protect government whistleblowers.",
+          "Whistleblowers in Australia have exposed defence contractor misconduct, government waste, and police corruption.",
+          "She found journalist shield laws critical for protecting whistleblowers' identities.",
+          "He found the prosecution of David McBride — an ADF whistleblower — the most prominent recent case.",
+          "Whistleblower protection reform has been a consistent media freedom recommendation in Australia.",
+          "She describes the whistleblower as the source most essential to the journalism that actually changed things."
+        ]
+      },
+      {
+        "word": "paywall",
+        "ipa": "/ˈpeɪwɔːl/",
+        "phonetic": "[PAY-wawl]",
+        "meaning": "ücretli içerik duvarı",
+        "type": "isim",
+        "sentences": [
+          "She subscribes to two newspapers behind paywalls — she considers quality journalism worth paying for.",
+          "He found paywalls the dominant funding model for Australian digital journalism.",
+          "A paywall is a barrier requiring payment or subscription to access online content.",
+          "She found The Australian, The Age, and The Sydney Morning Herald operating metered paywalls.",
+          "He found the paywall debate dividing views — public interest content versus sustainable journalism.",
+          "Paywalls allow news organisations to replace collapsing print advertising revenue.",
+          "She found soft paywalls allowing a limited number of free articles per month before payment.",
+          "He found paywall subscriptions often discounted — fifty to seventy percent off for the first year.",
+          "Paywalls fund newsrooms but restrict access — a tension Australian media policy has not resolved.",
+          "She describes paying for a paywall subscription as the consumer decision that most directly supported journalism."
+        ]
+      },
+      {
+        "word": "media literacy",
+        "ipa": "/ˈmiːdiə ˈlɪtərəsi/",
+        "phonetic": "[MEE-dee-uh LIT-uh-ruh-see]",
+        "meaning": "medya okuryazarlığı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found media literacy the most important skill her children needed before secondary school.",
+          "He found media literacy education in Australian schools underdeveloped relative to the scale of the problem.",
+          "Media literacy is the ability to access, analyse, evaluate, and create media content critically.",
+          "She found media literacy covering source evaluation, bias recognition, and misinformation detection.",
+          "He found eSafety Commissioner resources providing media literacy tools for Australian families.",
+          "Media literacy helps audiences distinguish news from opinion, satire from reporting, and evidence from assertion.",
+          "She found media literacy workshops offered through community centres and public libraries.",
+          "He found media literacy the most practically useful subject he had not been taught at school.",
+          "Media literacy is increasingly essential — the volume and velocity of information have transformed the challenge.",
+          "She describes media literacy as the skill that most changed what she noticed while reading the news."
+        ]
+      },
+      {
+        "word": "misinformation",
+        "ipa": "/ˌmɪsɪnfəˈmeɪʃən/",
+        "phonetic": "[mis-in-fuh-MAY-shun]",
+        "meaning": "yanlış bilgi (kasıtsız)",
+        "type": "isim",
+        "sentences": [
+          "She found misinformation spreading faster during the bushfire season than any journalist could correct.",
+          "He found the distinction between misinformation and disinformation worth understanding — intent matters.",
+          "Misinformation is false or inaccurate information spread without intent to deceive.",
+          "She found the ACMA — Australian Communications and Media Authority — developing misinformation codes.",
+          "He found health misinformation the most consequential in terms of measurable harm.",
+          "Misinformation thrives on ambiguity, fear, and the speed of social sharing.",
+          "She found Australian public libraries running misinformation awareness sessions — well attended.",
+          "He found platform responsibility for misinformation a central policy debate in Australian parliament.",
+          "Misinformation about voting, vaccines, and disasters required the most rapid response from authorities.",
+          "She describes encountering misinformation as the daily challenge that most required her to slow down before sharing."
+        ]
+      },
+      {
+        "word": "news cycle",
+        "ipa": "/njuːz ˈsaɪkəl/",
+        "phonetic": "[nyooz SY-kul]",
+        "meaning": "haber döngüsü",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the twenty-four-hour news cycle demanding more content than quality journalism could sustain.",
+          "He found the news cycle accelerating — what was breaking news at nine was old by noon.",
+          "The news cycle is the period within which news is gathered, reported, and replaced by new stories.",
+          "She found the news cycle driving political behaviour — announcements timed to each morning cycle.",
+          "He found the news cycle leaving complex policy stories inadequately covered.",
+          "The digital news cycle in Australia runs continuously — overnight stories break without editors present.",
+          "She found the news cycle exhausting to follow closely — and dangerous to ignore entirely.",
+          "He found breaking news on Twitter ahead of news sites by minutes — the cycle had shortened again.",
+          "The news cycle rewards immediacy over accuracy — corrections follow but rarely catch the original story.",
+          "She describes stepping back from the news cycle as the media habit that most improved her week."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 256,
+    "words": [
+      {
+        "word": "press conference",
+        "ipa": "/prɛs ˈkɒnfərəns/",
+        "phonetic": "[pres KON-fuh-runs]",
+        "meaning": "basın toplantısı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She watched the prime minister's press conference — the journalists' questions were pointed.",
+          "He found daily press conferences the most direct access to political decision-making.",
+          "A press conference is a meeting where a public figure makes a statement and answers journalists' questions.",
+          "She found press conferences at Parliament House in Canberra the most formal setting.",
+          "He found COVID-era press conferences the most watched daily media event in Australian history.",
+          "Press conferences are transcribed and published in Hansard when conducted by ministers.",
+          "She found the press gallery journalists the most experienced and persistent questioners.",
+          "He found press conference management a distinct political skill — some leaders excelled, others faltered.",
+          "Press conferences can be called at short notice — breaking news often dictates the schedule.",
+          "She describes watching a well-conducted press conference as a masterclass in the adversarial accountability of democracy."
+        ]
+      },
+      {
+        "word": "investigative journalism",
+        "ipa": "/ɪnˈvɛstɪɡətɪv ˈdʒɜːnəlɪzəm/",
+        "phonetic": "[in-VES-tih-gay-tiv JUR-nuh-liz-um]",
+        "meaning": "araştırmacı gazetecilik",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found investigative journalism the most labour-intensive and socially valuable form of reporting.",
+          "He found the ABC and The Age conducting the most sustained investigative journalism in Australia.",
+          "Investigative journalism involves in-depth, original research into matters of public concern.",
+          "She found the Walkley Award — Australia's top journalism prize — regularly honouring investigative work.",
+          "He found investigative journalism most threatened by shrinking newsroom budgets.",
+          "Investigative journalism has exposed water theft, aged care neglect, and defence procurement failures in Australia.",
+          "She found the Guardian Australia's investigative team consistently producing consequential work.",
+          "He found investigative journalism requiring months of work before a story could be published.",
+          "Investigative journalism is protected by shield laws in some Australian states.",
+          "She describes investigative journalism as the form that most justified the existence of a free press."
+        ]
+      },
+      {
+        "word": "media ownership",
+        "ipa": "/ˈmiːdiə ˈoʊnəʃɪp/",
+        "phonetic": "[MEE-dee-uh OH-nuh-ship]",
+        "meaning": "medya sahipliği",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found Australian media ownership among the most concentrated of any democracy in the world.",
+          "He found media ownership rules reformed in 2017 — consolidation increased significantly after.",
+          "Media ownership refers to who owns and controls newspapers, television, radio, and online news outlets.",
+          "She found News Corp — Rupert Murdoch's company — the largest media owner in Australia.",
+          "He found Nine Entertainment owning The Sydney Morning Herald, The Age, and Channel Nine.",
+          "Media ownership concentration reduces the diversity of perspectives available to Australians.",
+          "She found the ACCC reviewing media ownership and its implications for plurality.",
+          "He found ownership influence on editorial direction a persistent concern for press freedom advocates.",
+          "Media ownership in regional Australia has declined — many towns losing their local paper entirely.",
+          "She describes understanding media ownership as the context that most explained what she was reading and why."
+        ]
+      },
+      {
+        "word": "content creator",
+        "ipa": "/ˈkɒntɛnt kriˈeɪtər/",
+        "phonetic": "[KON-tent kree-AY-tuh]",
+        "meaning": "içerik üreticisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She became a content creator after her career change — building an audience around sustainable living.",
+          "He found content creators increasingly influencing Australian consumer behaviour.",
+          "A content creator produces digital content — video, audio, writing, or images — for online audiences.",
+          "She found content creators operating across YouTube, Instagram, TikTok, and podcasts.",
+          "He found Australian content creators building global audiences through relatable, niche content.",
+          "Content creators earn through advertising, sponsorship, merchandise, and subscription platforms.",
+          "She found content creation a legitimate career pathway — recognised by the ATO for tax purposes.",
+          "He found the line between content creator and journalist blurring — audiences not always distinguishing.",
+          "Content creators are subject to advertising disclosure rules — sponsored content must be declared.",
+          "She describes becoming a content creator as the career pivot that most surprised everyone who knew her, including herself."
+        ]
+      },
+      {
+        "word": "Walkley Award",
+        "ipa": "/ˈwɔːkli əˈwɔːd/",
+        "phonetic": "[WAWK-lee uh-WORD]",
+        "meaning": "Avustralya'nın en prestijli gazetecilik ödülü",
+        "type": "özel isim",
+        "sentences": [
+          "She attended the Walkley Award ceremony — the night Australian journalism celebrated itself.",
+          "He found a Walkley Award the most prestigious recognition a working journalist could receive in Australia.",
+          "The Walkley Award is Australia's peak award for journalistic excellence.",
+          "She found Walkley Awards presented annually across categories: news, features, photography, and investigation.",
+          "He found Walkley Award nominations recognising regional and community journalism alongside national outlets.",
+          "The Walkley Foundation also administers training and advocacy programs for Australian journalism.",
+          "She found the Walkley Award named after Sir William Gaston Walkley — an industry benefactor.",
+          "He found past Walkley Award winners producing some of the most significant Australian journalism.",
+          "Walkley Awards cover print, broadcast, digital, and photojournalism.",
+          "She describes attending the Walkley ceremony as the evening that most made her proud to work in journalism."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 257,
+    "words": [
+      {
+        "word": "prime time",
+        "ipa": "/praɪm taɪm/",
+        "phonetic": "[prym tym]",
+        "meaning": "yayıncılıkta en çok izlenen saat dilimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the seven o'clock news the defining prime time broadcast in Australian television.",
+          "He found prime time television ratings determining which programs survived and which were cancelled.",
+          "Prime time is the period of highest television viewership — typically seven to nine-thirty in the evening.",
+          "She found prime time drama on Australian free-to-air television the most contested creative space.",
+          "He found the prime time news bulletins on Seven, Nine, and Ten competing fiercely for audience.",
+          "Prime time advertising on Australian television commanded the highest rates.",
+          "She found the prime time audience shifting to streaming — traditional ratings declining.",
+          "He found reality television dominating Australian prime time — cooking, renovation, and talent competitions.",
+          "Prime time scheduling in Australian television accounts for the family viewing block after dinner.",
+          "She describes prime time as the hours that most revealed what a generation of Australians chose to share."
+        ]
+      },
+      {
+        "word": "ratings",
+        "ipa": "/ˈreɪtɪŋz/",
+        "phonetic": "[RAY-tingz]",
+        "meaning": "izleyici/dinleyici oranları",
+        "type": "isim (çoğul)",
+        "sentences": [
+          "She found television ratings in Australia measured by OzTAM — the official audience measurement service.",
+          "He found the Monday ratings release the most anxiously watched metric in Australian television production.",
+          "Ratings are audience measurement statistics showing how many people watched or listened to a program.",
+          "She found the ratings for the AFL Grand Final consistently the highest of any broadcast in the year.",
+          "He found radio ratings — measured by GfK — determining advertising rates and programming decisions.",
+          "Ratings in Australia are a key driver of program commissioning and cancellation.",
+          "She found consolidated ratings — including time-shifted viewing — changing which programs appeared successful.",
+          "He found the ratings model evolving — streaming platforms using different audience metrics.",
+          "Ratings serve commercial broadcasters differently from public ones — the ABC is less ratings-driven.",
+          "She describes the ratings system as the measurement that most clearly showed what Australians actually watched, not what they said they watched."
+        ]
+      },
+      {
+        "word": "community radio",
+        "ipa": "/kəˈmjuːnɪti ˈreɪdiəʊ/",
+        "phonetic": "[kuh-MYOO-nih-tee RAY-dee-oh]",
+        "meaning": "topluluk radyosu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She volunteers at the local community radio station — presenting a two-hour world music program.",
+          "He found community radio the most locally responsive media in Australian towns and suburbs.",
+          "Community radio is a non-commercial broadcasting sector serving specific geographic or interest communities.",
+          "She found over four hundred and fifty community radio stations operating across Australia.",
+          "He found community radio carrying content that commercial and public broadcasters did not — niche and important.",
+          "Community radio in Australia is funded through subscriptions, events, and some government grants.",
+          "She found youth community radio stations like FBi and Triple R launching many Australian music careers.",
+          "He found community radio the sector most reflective of local identity and alternative voices.",
+          "Community radio stations must hold a community broadcasting licence from the ACMA.",
+          "She describes community radio as the medium that most faithfully served the people who needed it rather than the people who were profitable."
+        ]
+      },
+      {
+        "word": "newsroom",
+        "ipa": "/ˈnjuːzrʊm/",
+        "phonetic": "[NYOOZ-room]",
+        "meaning": "haber merkezi",
+        "type": "isim",
+        "sentences": [
+          "She walked into the newsroom on her first day and found organised chaos — exactly as expected.",
+          "He found Australian newsrooms losing significant headcount over the past decade.",
+          "A newsroom is the workspace where journalists gather news, write stories, and produce content.",
+          "She found the ABC newsroom in Ultimo the largest news gathering operation in Australia.",
+          "He found newsrooms integrating print, digital, video, and social media teams — often under pressure.",
+          "Newsrooms in Australia have contracted — but some new digital-only newsrooms have emerged.",
+          "She found newsroom culture shaped by deadlines, competition, and the adrenaline of breaking news.",
+          "He found regional newsrooms the most vulnerable — single-journalist operations covering entire shires.",
+          "Newsrooms are increasingly remote — journalists working across cities and time zones.",
+          "She describes the newsroom as the place she most felt the gap between the importance of journalism and its financial sustainability."
+        ]
+      },
+      {
+        "word": "media release",
+        "ipa": "/ˈmiːdiə rɪˈliːs/",
+        "phonetic": "[MEE-dee-uh rih-LEES]",
+        "meaning": "basın bülteni",
+        "type": "isim öbeği",
+        "sentences": [
+          "She wrote the media release for the organisation's campaign launch — it was picked up by three outlets.",
+          "He found media releases the primary tool through which organisations communicated with journalists.",
+          "A media release is a written statement issued to journalists to announce news or a position.",
+          "She found media releases ideally under four hundred words — journalists skimming for the lead.",
+          "He found the media release format having a clear news angle, quotes, and contact details.",
+          "Media releases are distributed through services like AAP MediaNet and directly to journalist contacts.",
+          "She found poorly written media releases ignored — the angle had to be clear in the headline.",
+          "He found government departments issuing dozens of media releases daily — creating significant noise.",
+          "Media releases are sometimes published verbatim — an efficiency for time-poor journalists.",
+          "She describes writing a successful media release as the communication skill that most required thinking like a journalist."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 258,
+    "words": [
+      {
+        "word": "influencer",
+        "ipa": "/ˈɪnflʊənsər/",
+        "phonetic": "[IN-floo-un-suh]",
+        "meaning": "sosyal medya fenomeni",
+        "type": "isim",
+        "sentences": [
+          "She found Australian influencers generating significant consumer purchasing behaviour across beauty and lifestyle.",
+          "He found the influencer economy reshaping advertising — brands reaching target audiences directly.",
+          "An influencer is a person with a significant online following who can affect the opinions or purchases of their audience.",
+          "She found Australian influencers required by the ACCC to disclose paid promotions.",
+          "He found micro-influencers — smaller, engaged followings — often more effective than celebrity accounts.",
+          "Influencers in Australia operate across Instagram, TikTok, YouTube, and emerging platforms.",
+          "She found influencer marketing in food, travel, parenting, and fitness particularly developed in Australia.",
+          "He found the influencer economy creating income for Australians without traditional employment.",
+          "Influencers are responsible for the claims they make — the ACCC and TGA regulate health claims.",
+          "She describes the influencer as the media phenomenon that most disrupted what she understood about trust and advertising."
+        ]
+      },
+      {
+        "word": "algorithm",
+        "ipa": "/ˈælɡərɪðəm/",
+        "phonetic": "[AL-guh-rith-um]",
+        "meaning": "algoritma",
+        "type": "isim",
+        "sentences": [
+          "She found the platform's algorithm deciding what she saw — and shaping what she believed.",
+          "He found algorithms the least transparent and most consequential technology in Australian public life.",
+          "An algorithm is a set of rules used by a computer system to make decisions — including what content to show.",
+          "She found social media algorithms rewarding outrage and engagement over accuracy and nuance.",
+          "He found the algorithm determining which news his family saw — and creating filter bubbles.",
+          "Algorithms used by platforms are not publicly disclosed — a transparency problem regulators were addressing.",
+          "She found the Australian government developing legislation targeting harmful algorithm-driven content.",
+          "He found understanding algorithms the knowledge that most changed how he used social platforms.",
+          "Algorithms in hiring, lending, and policing are increasingly scrutinised for bias.",
+          "She describes the algorithm as the invisible editor she had not agreed to employ."
+        ]
+      },
+      {
+        "word": "clickbait",
+        "ipa": "/ˈklɪkbeɪt/",
+        "phonetic": "[KLIK-bayt]",
+        "meaning": "tıklama tuzağı, yanıltıcı başlık",
+        "type": "isim",
+        "sentences": [
+          "She ignored the clickbait headline — she had learned to distrust the format.",
+          "He found clickbait the lowest form of digital publishing — designed for engagement, not information.",
+          "Clickbait is online content designed to attract clicks through sensational or misleading headlines.",
+          "She found clickbait eroding the credibility of legitimate news alongside it.",
+          "He found clickbait generating advertising revenue regardless of content quality.",
+          "Clickbait headlines often withhold information to provoke curiosity — a deliberate manipulation.",
+          "She found Australian news sites under commercial pressure to produce clickbait alongside quality content.",
+          "He found media literacy training specifically addressing clickbait recognition.",
+          "Clickbait is not always false — sometimes the story matches the headline — but the intent is manipulative.",
+          "She describes clickbait as the format that most accurately measured her own susceptibility to curiosity."
+        ]
+      },
+      {
+        "word": "newsfeed",
+        "ipa": "/ˈnjuːzfiːd/",
+        "phonetic": "[NYOOZ-feed]",
+        "meaning": "haber akışı",
+        "type": "isim",
+        "sentences": [
+          "She curated her newsfeed carefully — she wanted analysis, not outrage.",
+          "He found his newsfeed the most influential factor shaping his daily news consumption.",
+          "A newsfeed is a continuously updated stream of content on social platforms or news aggregators.",
+          "She found her newsfeed reflecting her prior engagement rather than an objective selection of news.",
+          "He found the newsfeed format consuming more of his time than he intended.",
+          "Newsfeeds in Australia are dominated by Facebook, Instagram, and news apps.",
+          "She found pausing her newsfeed and reading a specific publication more satisfying.",
+          "He found the newsfeed format poorly suited to complex, long-form journalism.",
+          "Newsfeeds personalise content — two people in the same city may see entirely different stories.",
+          "She describes her newsfeed as the lens she most needed to deliberately adjust."
+        ]
+      },
+      {
+        "word": "media bias",
+        "ipa": "/ˈmiːdiə ˈbaɪəs/",
+        "phonetic": "[MEE-dee-uh BY-us]",
+        "meaning": "medya taraflılığı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found media bias an accusation levelled at every major outlet — from every direction simultaneously.",
+          "He found understanding media bias the most practically useful media literacy skill.",
+          "Media bias is the tendency of media organisations to present news in a manner that favours a particular viewpoint.",
+          "She found Australian media bias analyses regularly placing commercial outlets to the right of the ABC.",
+          "He found media bias operating through selection — which stories were covered — as much as framing.",
+          "Media bias is not always intentional — structural and commercial pressures shape output.",
+          "She found reading across outlets with different perspectives the most effective correction for media bias.",
+          "He found media bias a legitimate concern and a convenient dismissal — used to deflect inconvenient coverage.",
+          "Media bias in Australia is studied by researchers at Deakin, Monash, and UTS.",
+          "She describes recognising media bias as the critical skill that most improved her ability to stay informed rather than just engaged."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 259,
+    "words": [
+      {
+        "word": "live cross",
+        "ipa": "/laɪv krɒs/",
+        "phonetic": "[lyv kros]",
+        "meaning": "canlı bağlantı (TV habercilik)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She watched the live cross from Canberra — the correspondent outside parliament spoke over the division bells.",
+          "He found live crosses the format most likely to produce unscripted, revealing moments.",
+          "A live cross is a real-time connection during a broadcast to a journalist or correspondent at a remote location.",
+          "She found live crosses from disaster zones the most viscerally immediate television.",
+          "He found the live cross a demanding format — the journalist speaking without a script in often difficult conditions.",
+          "Live crosses in Australian television are standard in news bulletins and current affairs.",
+          "She found technical failures during live crosses — a common source of unintentional comedy.",
+          "He found the live cross from regional Australia a rare but important window into non-metropolitan life.",
+          "Live crosses require planning and coordination — the satellite truck must be in position before air time.",
+          "She describes watching a live cross from a bushfire zone as the television moment she most struggled to process in real time."
+        ]
+      },
+      {
+        "word": "correspondent",
+        "ipa": "/ˌkɒrɪˈspɒndənt/",
+        "phonetic": "[ko-rih-SPON-dunt]",
+        "meaning": "muhabir, özel haberci",
+        "type": "isim",
+        "sentences": [
+          "She followed the ABC's foreign correspondent reports — Australia's window to the world.",
+          "He found the foreign correspondent role among the most physically demanding in journalism.",
+          "A correspondent is a journalist reporting from a specific location or on a specific topic for a media organisation.",
+          "She found the ABC's foreign correspondent program one of the most trusted and respected in Australian media.",
+          "He found correspondents based in Jakarta, Washington, Beijing, and London reporting to Australian audiences.",
+          "Correspondents provide context that wire services cannot — local understanding built over years.",
+          "She found correspondents returning to Australia speaking at events — their access to audiences admirable.",
+          "He found the defence correspondent role especially challenging — source protection in national security reporting.",
+          "Correspondents can be staff journalists or freelancers — many international reporters work both ways.",
+          "She describes the foreign correspondent as the journalist whose work most reminded her how large the world was."
+        ]
+      },
+      {
+        "word": "AAP",
+        "ipa": "/eɪ eɪ ˈpiː/",
+        "phonetic": "[ay-ay-PEE]",
+        "meaning": "Avustralya Basın Ajansı",
+        "type": "kısaltma",
+        "sentences": [
+          "She found the AAP wire service underpinning much of the factual news that Australian outlets published.",
+          "He found AAP FactCheck a significant public service after the agency nearly closed in 2020.",
+          "AAP — Australian Associated Press — is Australia's national wire service providing news to media organisations.",
+          "She found AAP almost shutting down in 2020 before a rescue by philanthropists — a close call for journalism.",
+          "He found AAP supplying news to regional papers, broadcasters, and digital outlets who could not staff their own reporters.",
+          "AAP covers courts, parliament, sport, and breaking news — the infrastructure of Australian news.",
+          "She found AAP also operating a photo wire service — pictures distributed to subscribing outlets.",
+          "He found AAP the source credited at the bottom of many shorter news stories across multiple outlets.",
+          "AAP also runs the media release distribution service MediaNet.",
+          "She describes AAP as the institution most invisible to readers and most essential to what they read."
+        ]
+      },
+      {
+        "word": "public broadcasting",
+        "ipa": "/ˈpʌblɪk ˈbrɔːdkɑːstɪŋ/",
+        "phonetic": "[PUB-lik BRAWD-kas-ting]",
+        "meaning": "kamu yayıncılığı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found public broadcasting — the ABC and SBS — the media sector she most valued.",
+          "He found public broadcasting distinct from state broadcasting — independent of government direction.",
+          "Public broadcasting is media funded by the government but editorially independent — serving the public interest.",
+          "She found public broadcasting in Australia under ongoing funding pressure from successive governments.",
+          "He found public broadcasting providing services commercial media would not — indigenous languages, regional coverage.",
+          "Public broadcasting is justified by market failures — content audiences need but advertisers will not fund.",
+          "She found the ABC's charter requiring it to inform, educate, and entertain all Australians.",
+          "He found public broadcasting the most trusted media sector in Australian audience surveys consistently.",
+          "Public broadcasting includes radio, television, online, and regional services.",
+          "She describes public broadcasting as the sector she most wanted to protect when she thought about what Australian democracy required."
+        ]
+      },
+      {
+        "word": "column",
+        "ipa": "/ˈkɒləm/",
+        "phonetic": "[KOL-um]",
+        "meaning": "köşe yazısı",
+        "type": "isim",
+        "sentences": [
+          "She reads the same columnist each week — the voice is consistent and the reasoning careful.",
+          "He found a great newspaper column the most direct form of journalism — one person's argument.",
+          "A column is a regularly published opinion piece by a named writer in a newspaper or magazine.",
+          "She found Australian columnists ranging from former politicians to academics to career journalists.",
+          "He found the opinion column a different genre from the news article — argument, not report.",
+          "Columns allow writers to take positions that news reporting cannot — explicitly.",
+          "She found the weekend magazine column the reading ritual that most reliably provoked her to think.",
+          "He found columnist diversity — across politics, background, and experience — enriching Australian public debate.",
+          "A column differs from an editorial — it represents the columnist's view, not the publication's position.",
+          "She describes the column she had read for fifteen years as the voice she most trusted to be honest with her."
+        ]
+      }
+    ]
+  }
+]

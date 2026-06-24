@@ -1,0 +1,702 @@
+[
+  {
+    "day": 204,
+    "words": [
+      {
+        "word": "morning tea",
+        "ipa": "/ˈmɔːnɪŋ tiː/",
+        "phonetic": "[MOR-ning tee]",
+        "meaning": "sabah çay molası (Avustralya iş kültürü)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She brings something to morning tea on her birthday — homemade biscuits this year.",
+          "He found morning tea the most distinctly Australian workplace ritual.",
+          "Morning tea is a mid-morning break with tea, coffee, and often food, common in Australian workplaces.",
+          "She found morning tea the informal moment where the team actually connected each day.",
+          "He organised morning tea for the farewell — a lamington cake and sandwiches.",
+          "Morning tea in Australian offices typically happens around ten or ten-thirty.",
+          "She found morning tea conversations more productive than many formal meetings.",
+          "He found that morning tea baked goods were the fastest way to become popular in a new workplace.",
+          "Morning tea is often a communal affair — someone brings something, others contribute.",
+          "She describes morning tea as the ritual that most clearly separates Australian workplace culture from others."
+        ]
+      },
+      {
+        "word": "performance review",
+        "ipa": "/pəˈfɔːməns rɪˈvjuː/",
+        "phonetic": "[puh-FOR-muns rih-VYOO]",
+        "meaning": "performans değerlendirmesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She prepared for her performance review by documenting her achievements for the year.",
+          "He found the performance review conversation more honest than he expected.",
+          "A performance review is a formal assessment of an employee's work against agreed objectives.",
+          "She found performance reviews occurring annually or bi-annually in most Australian workplaces.",
+          "He found the performance review the appropriate moment to discuss salary and career development.",
+          "Performance reviews in Australia typically involve self-assessment and manager feedback.",
+          "She prepared specific examples for her performance review — outcomes, not just effort.",
+          "He found his manager's feedback in the performance review genuinely useful for professional growth.",
+          "Performance reviews may feed into promotion, salary adjustment, and development planning.",
+          "She describes the performance review as the annual conversation she most benefits from preparing for."
+        ]
+      },
+      {
+        "word": "onboarding",
+        "ipa": "/ˈɒnbɔːdɪŋ/",
+        "phonetic": "[ON-bor-ding]",
+        "meaning": "işe alım süreci, oryantasyon",
+        "type": "isim",
+        "sentences": [
+          "She found the onboarding program at her new employer thorough — two weeks of structured introduction.",
+          "He found poor onboarding the most common reason new hires left within six months.",
+          "Onboarding is the process of integrating a new employee into an organisation.",
+          "She found onboarding included IT setup, compliance training, and team introductions.",
+          "He found his onboarding buddy invaluable — a colleague who answered the questions he was afraid to ask.",
+          "Onboarding in Australian workplaces includes mandatory safety inductions in many industries.",
+          "She found the quality of onboarding strongly predicted her satisfaction in a new role.",
+          "He designed the onboarding program for his team — he knew how critical first impressions were.",
+          "Onboarding typically covers systems access, policies, culture, and role expectations.",
+          "She describes effective onboarding as the beginning of retention — it signals how much you are valued."
+        ]
+      },
+      {
+        "word": "probationary period",
+        "ipa": "/prəˈbeɪʃənəri ˈpɪəriəd/",
+        "phonetic": "[pruh-BAY-shun-uh-ree PEER-ee-ud]",
+        "meaning": "deneme süresi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She completed her probationary period and was confirmed in the permanent role.",
+          "He found the probationary period an opportunity to demonstrate capability and fit.",
+          "A probationary period is a trial period at the start of employment during which performance is assessed.",
+          "She found probationary periods in Australia typically three to six months.",
+          "He was cautious during his probationary period — unfair dismissal protections do not apply.",
+          "Probationary periods allow employers to assess the suitability of a new hire.",
+          "She found her employer extended the probationary period — and used it constructively with clear feedback.",
+          "He found the probationary period review a helpful structured conversation about expectations.",
+          "Employees on probation have fewer Fair Work Act protections in Australia.",
+          "She describes the probationary period as the time to demonstrate who you are — in full."
+        ]
+      },
+      {
+        "word": "flexible work",
+        "ipa": "/ˈflɛksɪbəl wɜːk/",
+        "phonetic": "[FLEK-sih-bul wurk]",
+        "meaning": "esnek çalışma düzeni",
+        "type": "isim öbeği",
+        "sentences": [
+          "She negotiated flexible work arrangements when her children started school.",
+          "He found flexible work the benefit he most valued — more than salary.",
+          "Flexible work includes varied start and finish times, compressed weeks, or location flexibility.",
+          "She found her employer's flexible work policy genuinely implemented — not just policy on paper.",
+          "He found flexible work under the Fair Work Act a legal right for eligible employees.",
+          "Flexible work requests in Australia may be made by parents, carers, and employees over fifty-five.",
+          "She found flexible work reduced her commute time and improved her family life significantly.",
+          "He found the productivity argument for flexible work compelling — and his manager agreed.",
+          "Flexible work arrangements must be agreed between employer and employee.",
+          "She describes flexible work as the workplace condition that most changed her quality of daily life."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 205,
+    "words": [
+      {
+        "word": "hybrid work",
+        "ipa": "/ˈhaɪbrɪd wɜːk/",
+        "phonetic": "[HY-brid wurk]",
+        "meaning": "hibrit çalışma (ofis ve evden)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She works hybrid — three days in the office, two at home.",
+          "He found hybrid work the post-pandemic arrangement most Australian knowledge workers preferred.",
+          "Hybrid work combines working from the office and from another location, typically home.",
+          "She found hybrid work reduced her commuting cost by forty percent.",
+          "He found hybrid work required deliberate communication — information gaps appeared without intention.",
+          "Hybrid work policies vary widely across Australian organisations — negotiated individually.",
+          "She found hybrid work challenging for new team members — onboarding was harder.",
+          "He appreciated hybrid work for the focus time at home and the collaboration time in the office.",
+          "Hybrid work has reshaped Australian office culture — hot-desking, smaller footprints, video calls.",
+          "She describes hybrid work as the arrangement that gave her the best of both working environments."
+        ]
+      },
+      {
+        "word": "hot-desking",
+        "ipa": "/hɒt ˈdɛskɪŋ/",
+        "phonetic": "[hot DES-king]",
+        "meaning": "paylaşımlı masa çalışma sistemi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She finds hot-desking challenging — she prefers a consistent workspace.",
+          "He found hot-desking reduced office space but increased locker use significantly.",
+          "Hot-desking is a workplace arrangement where desks are shared and not assigned to specific employees.",
+          "She found hot-desking required booking a desk through an app in advance.",
+          "He found hot-desking created informal cross-team connections he would not have made otherwise.",
+          "Hot-desking became common in Australian offices as hybrid work normalised.",
+          "She found hot-desking required disciplined daily setup and pack-down habits.",
+          "He found hot-desking worked well for staff with predictable schedules — less so for others.",
+          "Hot-desking reduces costs for organisations — fewer dedicated desks for more staff.",
+          "She describes hot-desking as the workplace change she least chose but eventually adapted to."
+        ]
+      },
+      {
+        "word": "roster",
+        "ipa": "/ˈrɒstər/",
+        "phonetic": "[ROS-tuh]",
+        "meaning": "vardiya çizelgesi, iş programı",
+        "type": "isim",
+        "sentences": [
+          "She checks the roster on Sunday night to plan her week.",
+          "He found the roster posted online — he could swap shifts with colleagues directly.",
+          "A roster is a schedule showing who is working on which days and times.",
+          "She found roster management in hospitality the most complex administrative task.",
+          "He found his roster changed at short notice — a common experience in retail.",
+          "Rosters in Australian workplaces must comply with minimum notice requirements under awards.",
+          "She found the roster app her employer used allowed shift swap requests efficiently.",
+          "He found rostering in healthcare the most challenging scheduling environment.",
+          "Rosters balance staff availability, customer demand, and award conditions.",
+          "She describes the roster as the document that most determines the rhythm of her week."
+        ]
+      },
+      {
+        "word": "penalty rate",
+        "ipa": "/ˈpɛnəlti reɪt/",
+        "phonetic": "[PEN-ul-tee rayt]",
+        "meaning": "mesai ücreti (hafta sonu ve tatil günleri için)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She earned penalty rates working Saturday and Sunday — significantly more per hour.",
+          "He found penalty rates the subject of ongoing political debate in Australia.",
+          "Penalty rates are higher pay rates for working outside standard hours — weekends, public holidays.",
+          "She found penalty rates outlined in her industrial award — she checked each rate carefully.",
+          "He chose weekend shifts specifically for the penalty rates — it accelerated his savings goal.",
+          "Penalty rates in Australia were reduced for some workers in 2017 — a contested Fair Work decision.",
+          "She found penalty rates applying to hospitality, retail, and fast food most commonly.",
+          "He found his penalty rate for Sunday work at time-and-a-half a meaningful contribution to his income.",
+          "Penalty rates reflect the sacrifice of working when others are not — weekends and public holidays.",
+          "She describes penalty rates as one of the most important protections in the Australian employment system."
+        ]
+      },
+      {
+        "word": "time in lieu",
+        "ipa": "/taɪm ɪn ljuː/",
+        "phonetic": "[tym in lyoo]",
+        "meaning": "fazla mesai karşılığı izin",
+        "type": "isim öbeği",
+        "sentences": [
+          "She accumulated time in lieu after the project crunch and took a week off.",
+          "He found time in lieu preferable to overtime payment — extra days off were more valuable.",
+          "Time in lieu is time off work granted to compensate for extra hours worked.",
+          "She found time in lieu arrangements required written agreement with the employer.",
+          "He found time in lieu accruing across the quarter — he took three days at Easter.",
+          "Time in lieu is common for salaried employees who cannot receive overtime payments.",
+          "She found time in lieu needing to be taken within a defined period — it lapsed otherwise.",
+          "He found the Fair Work Act provisions on time in lieu complex — award and agreement specific.",
+          "Time in lieu gives workers flexibility in when they take their compensation.",
+          "She describes time in lieu as the arrangement that felt more respectful of her time than money."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 206,
+    "words": [
+      {
+        "word": "resignation",
+        "ipa": "/ˌrɛzɪɡˈneɪʃən/",
+        "phonetic": "[rez-ig-NAY-shun]",
+        "meaning": "istifa",
+        "type": "isim",
+        "sentences": [
+          "She submitted her resignation with two weeks notice — the minimum required under her contract.",
+          "He found his resignation received warmly — the relationship mattered more than the decision.",
+          "A resignation is the voluntary act of leaving a job.",
+          "She found her resignation letter brief and professional — two sentences and gratitude.",
+          "He found his notice period negotiable — he started the new role earlier by arrangement.",
+          "Resignation notice periods in Australia are typically specified in the contract or award.",
+          "She found her resignation opened a conversation about what might have kept her.",
+          "He found the period between resignation and departure uncomfortable — but manageable.",
+          "Resignation is a right — it requires only the agreed notice period.",
+          "She describes her resignation as the decision she took longest to make and least regretted after."
+        ]
+      },
+      {
+        "word": "redundancy",
+        "ipa": "/rɪˈdʌndənsi/",
+        "phonetic": "[rih-DUN-dun-see]",
+        "meaning": "işten çıkarma (pozisyon kaldırma)",
+        "type": "isim",
+        "sentences": [
+          "She was given notice of redundancy when the company restructured.",
+          "He found the redundancy payment calculated on years of service — the Fair Work Act prescribes the formula.",
+          "Redundancy occurs when an employer no longer requires a position and terminates the employee.",
+          "She found redundancy genuinely difficult — even when expected, the identity loss surprised her.",
+          "He found his redundancy package included four weeks per year of service.",
+          "Redundancy in Australia is a protected concept — genuine redundancy requires specific conditions.",
+          "She found the redundancy conversation handled with respect by her manager — it was appreciated.",
+          "He found redundancy payment taxed at a concessional rate in Australia.",
+          "Redundancy may qualify for Centrelink support — she filed immediately.",
+          "She describes redundancy as the ending that became the beginning — though she could not see that at the time."
+        ]
+      },
+      {
+        "word": "exit interview",
+        "ipa": "/ˈɛksɪt ˈɪntəvjuː/",
+        "phonetic": "[EK-sit IN-tuh-vyoo]",
+        "meaning": "işten ayrılma görüşmesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She participated in an exit interview and gave honest feedback — the manager deserved to know.",
+          "He found the exit interview an opportunity to say things that might help those who stayed.",
+          "An exit interview is a meeting between an employer and a departing employee to gather feedback.",
+          "She found exit interview confidentiality genuinely observed — she was candid.",
+          "He found exit interviews often conducted by HR rather than the direct manager — more comfortable.",
+          "Exit interviews help organisations understand the reasons people leave and improve retention.",
+          "She found her exit interview resulted in changes to the onboarding program — her feedback was acted upon.",
+          "He found the exit interview questions insightful — they prompted reflection about what he valued.",
+          "Exit interviews are voluntary but often valuable — both for the organisation and the departing employee.",
+          "She describes the exit interview as the final professional gift she gave to the team she was leaving."
+        ]
+      },
+      {
+        "word": "psychological safety",
+        "ipa": "/ˌsaɪkəˈlɒdʒɪkəl ˈseɪfti/",
+        "phonetic": "[sy-kuh-LOJ-ih-kul SAYF-tee]",
+        "meaning": "psikolojik güvenlik (iş ortamı)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found psychological safety the most important factor in whether teams innovated.",
+          "He felt psychological safety in his team — he could raise concerns without fear.",
+          "Psychological safety is the belief that one can speak up, take risks, and make mistakes without punishment.",
+          "She found psychological safety correlated directly with team performance in research she read.",
+          "He found his manager actively created psychological safety — she modelled vulnerability.",
+          "Psychological safety does not mean comfort — it means honest engagement without fear.",
+          "She found workplaces without psychological safety characterised by silence and conformity.",
+          "He found building psychological safety required consistency — trust built slowly and broke fast.",
+          "Psychological safety is now a central concept in Australian workplace wellbeing programs.",
+          "She describes psychological safety as the condition that determines whether a team can become exceptional."
+        ]
+      },
+      {
+        "word": "upskilling",
+        "ipa": "/ˈʌpˌskɪlɪŋ/",
+        "phonetic": "[UP-skil-ing]",
+        "meaning": "beceri geliştirme, yeni beceriler kazanma",
+        "type": "isim",
+        "sentences": [
+          "She invested in upskilling through online courses during the redundancy period.",
+          "He found upskilling through LinkedIn Learning during the work-from-home period transformative.",
+          "Upskilling is the process of learning new or improved skills to remain current or advance.",
+          "She found upskilling in data analysis the most marketable investment of her time.",
+          "He found his employer funded upskilling through the company's professional development budget.",
+          "Upskilling is increasingly important as technology changes job requirements rapidly.",
+          "She found free upskilling available through TAFE and government initiatives.",
+          "He found upskilling gave him confidence in a changing industry — he could see the path.",
+          "Upskilling differs from reskilling — she improved existing skills rather than learning entirely new ones.",
+          "She describes upskilling as the professional investment with the most direct return on future security."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 207,
+    "words": [
+      {
+        "word": "workplace diversity",
+        "ipa": "/ˈwɜːkpleɪs daɪˈvɜːsɪti/",
+        "phonetic": "[WURK-plays dy-VUR-sih-tee]",
+        "meaning": "işyeri çeşitliliği",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found workplace diversity measured not just in demographics but in diversity of thought.",
+          "He found his team's workplace diversity the most valuable asset for problem-solving.",
+          "Workplace diversity refers to having employees from varied backgrounds, experiences, and perspectives.",
+          "She found workplace diversity initiatives required structural change — not just awareness training.",
+          "He found diverse teams produced measurably better decisions in his organisation.",
+          "Workplace diversity in Australia is shaped by the country's multicultural population.",
+          "She found workplace diversity policies supported by the Australian Human Rights Commission guidelines.",
+          "He found the lived diversity of his workplace enriched both the work and the culture.",
+          "Workplace diversity requires inclusion — representation alone is insufficient.",
+          "She describes workplace diversity as the condition that most expanded her professional perspective."
+        ]
+      },
+      {
+        "word": "inclusive language",
+        "ipa": "/ɪnˈkluːsɪv ˈlæŋɡwɪdʒ/",
+        "phonetic": "[in-KLOO-siv LANG-gwij]",
+        "meaning": "kapsayıcı dil",
+        "type": "isim öbeği",
+        "sentences": [
+          "She updated her email templates to use inclusive language — they and their instead of he or she.",
+          "He found inclusive language training at his organisation genuinely changed how meetings ran.",
+          "Inclusive language uses words and expressions that avoid marginalising or excluding people.",
+          "She found inclusive language extending beyond gender to disability, culture, and age.",
+          "He found the shift to inclusive language in Australian workplaces gradual and largely uncontested.",
+          "Inclusive language in the workplace creates a culture where everyone feels acknowledged.",
+          "She found Australian Public Service agencies leading on inclusive language guidance.",
+          "He found inclusive language most impactful when embedded in everyday communication — not just policy.",
+          "Inclusive language includes person-first language, avoiding assumptions, and using preferred names.",
+          "She describes inclusive language as the small linguistic changes that make a large cultural statement."
+        ]
+      },
+      {
+        "word": "mentoring",
+        "ipa": "/ˈmɛntərɪŋ/",
+        "phonetic": "[MEN-tuh-ring]",
+        "meaning": "mentorluk",
+        "type": "isim",
+        "sentences": [
+          "She found mentoring the most valuable professional development she had received.",
+          "He established a mentoring relationship with a senior colleague — informal, monthly coffee.",
+          "Mentoring is a relationship where an experienced person guides and supports another's development.",
+          "She found mentoring programs in her company matched junior and senior staff across departments.",
+          "He found becoming a mentor as valuable as being one — it clarified his own thinking.",
+          "Mentoring in Australia is structured through programs in many industries and professional associations.",
+          "She found her mentor's honest challenge more valuable than praise.",
+          "He found the mentoring relationship built slowly — trust preceded insight.",
+          "Mentoring supports career navigation, skill development, and professional confidence.",
+          "She describes her mentor as the person who asked the questions she had avoided asking herself."
+        ]
+      },
+      {
+        "word": "professional development",
+        "ipa": "/prəˈfɛʃənəl dɪˈvɛləpmənt/",
+        "phonetic": "[pruh-FESH-un-ul dih-VEL-up-munt]",
+        "meaning": "mesleki gelişim",
+        "type": "isim öbeği",
+        "sentences": [
+          "She allocated her professional development budget to a conference and an online course.",
+          "He found professional development the benefit most undersold in job advertising — and most valued once in role.",
+          "Professional development is learning and activities that enhance professional skills and knowledge.",
+          "She found professional development mandatory in her registered profession — continuing education hours.",
+          "He found his employer's professional development budget covering conferences, courses, and books.",
+          "Professional development in Australia is supported through tax-deductible self-education expenses.",
+          "She found professional development conversations the most useful part of her performance review.",
+          "He found informal professional development — reading, podcasts, and peer discussion — equally valuable.",
+          "Professional development keeps skills current in rapidly changing industries.",
+          "She describes professional development as the investment that most protects her employability."
+        ]
+      },
+      {
+        "word": "action items",
+        "ipa": "/ˈækʃən ˈaɪtəmz/",
+        "phonetic": "[AK-shun EYE-tumz]",
+        "meaning": "yapılacaklar listesi (toplantı sonrası)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She captures action items at the end of every meeting — owner and deadline assigned.",
+          "He found meetings without action items rarely led to change.",
+          "Action items are specific tasks assigned to individuals as outcomes of a meeting.",
+          "She found action items the bridge between meeting and movement — without them, conversations evaporate.",
+          "He sends action items to the team within an hour of the meeting ending.",
+          "Action items should include who is responsible, what the task is, and when it is due.",
+          "She found reviewing action items the best way to open the following week's meeting.",
+          "He found action items enabling follow-up without micromanagement — accountability without surveillance.",
+          "Action items are the measurable evidence that a meeting was productive.",
+          "She describes capturing action items as the five minutes that determines whether the next hour was worth having."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 208,
+    "words": [
+      {
+        "word": "shift work",
+        "ipa": "/ʃɪft wɜːk/",
+        "phonetic": "[shift wurk]",
+        "meaning": "vardiyalı çalışma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She works shift work as a nurse — rotating mornings, afternoons, and nights.",
+          "He found shift work the most disruptive factor in his sleep and social life.",
+          "Shift work involves working outside standard business hours on a rotating or fixed schedule.",
+          "She found shift work allowances outlined in her nursing enterprise agreement.",
+          "He found shift work well-compensated — penalty rates, shift allowances, and loading.",
+          "Shift work is common in healthcare, hospitality, manufacturing, and emergency services.",
+          "She found the body clock adjustment to night shift took three days — and never felt natural.",
+          "He found rotating shift work the most challenging health-wise — irregular sleep patterns.",
+          "Shift workers in Australia are entitled to rostered days off and overtime conditions.",
+          "She describes shift work as the arrangement that taught her everything about valuing sleep."
+        ]
+      },
+      {
+        "word": "enterprise agreement",
+        "ipa": "/ˈɛntəpraɪz əˈɡriːmənt/",
+        "phonetic": "[EN-tuh-pryz uh-GREE-munt]",
+        "meaning": "toplu iş sözleşmesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found her enterprise agreement set better conditions than the minimum award.",
+          "He voted in favour of the new enterprise agreement — the pay rise was significant.",
+          "An enterprise agreement is a legally binding agreement between an employer and employees on pay and conditions.",
+          "She found the enterprise agreement negotiation took eight months — complex but worth it.",
+          "He found his enterprise agreement covering wages, hours, leave, and dispute resolution.",
+          "Enterprise agreements must be approved by the Fair Work Commission.",
+          "She found enterprise agreements applying to specific workplaces — more tailored than awards.",
+          "He found the enterprise agreement negotiation involved the union as representative.",
+          "Enterprise agreements must provide terms at least as beneficial as the relevant Modern Award.",
+          "She describes the enterprise agreement as the document that defines the workplace contract — everyone should read it."
+        ]
+      },
+      {
+        "word": "Modern Award",
+        "ipa": "/ˈmɒdən əˈwɔːd/",
+        "phonetic": "[MOD-un uh-WORD]",
+        "meaning": "modern çalışma standartları belgesi",
+        "type": "özel isim",
+        "sentences": [
+          "She found her Modern Award setting minimum wage and conditions for the retail industry.",
+          "He looked up his Modern Award on the Fair Work website — he wanted to understand his entitlements.",
+          "A Modern Award is a legal document setting minimum pay and conditions for an industry or occupation.",
+          "She found Modern Awards covering over one hundred and twenty industries and occupations in Australia.",
+          "He found the Restaurant Industry Award the relevant document for his hospitality work.",
+          "Modern Awards are maintained by the Fair Work Commission and reviewed annually.",
+          "She found Modern Award conditions the safety net — enterprise agreements could improve but not reduce them.",
+          "He found the Pay Calculator on the Fair Work website identified his award correctly.",
+          "Modern Awards include minimum wages, penalty rates, allowances, and leave entitlements.",
+          "She describes the Modern Award as the minimum standard that protects workers who cannot negotiate individually."
+        ]
+      },
+      {
+        "word": "Fair Work Commission",
+        "ipa": "/fɛː wɜːk kəˈmɪʃən/",
+        "phonetic": "[fair wurk kuh-MISH-un]",
+        "meaning": "Adil Çalışma Komisyonu (Avustralya)",
+        "type": "özel isim",
+        "sentences": [
+          "She lodged a complaint with the Fair Work Commission after her unfair dismissal.",
+          "He found the Fair Work Commission the umpire of Australian workplace relations.",
+          "The Fair Work Commission is Australia's national workplace relations tribunal.",
+          "She found the Fair Work Commission resolved her unfair dismissal claim within three months.",
+          "He found the Fair Work Commission website the most authoritative source for employment law questions.",
+          "The Fair Work Commission sets minimum wages, approves enterprise agreements, and resolves disputes.",
+          "She found the Fair Work Commission processes available without a lawyer — she represented herself.",
+          "He found the Fair Work Ombudsman distinct from the Commission — one enforces, one adjudicates.",
+          "The Fair Work Commission handles unfair dismissal, enterprise bargaining, and industrial action.",
+          "She describes the Fair Work Commission as the institution that makes Australian workplace rights real."
+        ]
+      },
+      {
+        "word": "open plan office",
+        "ipa": "/ˈoʊpən plæn ˈɒfɪs/",
+        "phonetic": "[OH-pun plan OF-is]",
+        "meaning": "açık ofis düzeni",
+        "type": "isim öbeği",
+        "sentences": [
+          "She finds the open plan office effective for collaboration — and difficult for concentration.",
+          "He found the open plan office the dominant design in Australian corporate workplaces.",
+          "An open plan office has no private offices or cubicles — a shared, open workspace.",
+          "She found noise-cancelling headphones essential for focused work in the open plan office.",
+          "He found the open plan office required new norms — noise, movement, and phone calls.",
+          "Open plan offices reduce cost per square metre — a key driver of their adoption.",
+          "She found the open plan office improved some team relationships and complicated others.",
+          "He found focus rooms — small, bookable quiet spaces — essential in a well-designed open plan office.",
+          "Open plan offices are increasingly complemented by collaboration spaces and quiet zones.",
+          "She describes the open plan office as the workspace that demanded she learn to manage her own attention."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 209,
+    "words": [
+      {
+        "word": "EAP",
+        "ipa": "/iː eɪ piː/",
+        "phonetic": "[ee ay pee]",
+        "meaning": "Çalışan Destek Programı",
+        "type": "kısaltma",
+        "sentences": [
+          "She accessed the EAP when she was struggling — six free sessions with a psychologist.",
+          "He reminded his team about the EAP during a difficult period — uptake increased.",
+          "EAP stands for Employee Assistance Program — confidential counselling for workplace and personal issues.",
+          "She found the EAP completely confidential — her employer had no access to her sessions.",
+          "He found the EAP offering financial, legal, and mental health support.",
+          "EAPs are offered by most medium and large Australian employers.",
+          "She found the EAP available to immediate family members — an important additional benefit.",
+          "He used the EAP financial counselling service during a difficult personal financial period.",
+          "EAP sessions in Australia typically include six to eight free sessions per issue per year.",
+          "She describes the EAP as the workplace benefit most people use only when they most need it."
+        ]
+      },
+      {
+        "word": "overtime",
+        "ipa": "/ˈoʊvətaɪm/",
+        "phonetic": "[OH-vuh-tym]",
+        "meaning": "fazla mesai",
+        "type": "isim",
+        "sentences": [
+          "She worked overtime during the end-of-year crunch — time-and-a-half on weekdays.",
+          "He found overtime payment mandatory when hours exceeded the award provisions.",
+          "Overtime is work performed beyond standard contracted hours, typically at a higher pay rate.",
+          "She found overtime rates in her award at time-and-a-half and double-time for extended hours.",
+          "He found his salaried role excluded from overtime — a condition he checked before accepting.",
+          "Overtime in Australia must comply with award or enterprise agreement provisions.",
+          "She found overtime approved by her manager in writing — verbal approval was not reliable.",
+          "He found overtime the fastest way to accelerate his savings goal — a short-term strategy.",
+          "Overtime must not unreasonably extend working hours under the National Employment Standards.",
+          "She describes overtime as the financial reward for time given — she values the time more now."
+        ]
+      },
+      {
+        "word": "induction",
+        "ipa": "/ɪnˈdʌkʃən/",
+        "phonetic": "[in-DUK-shun]",
+        "meaning": "oryantasyon eğitimi, işe başlama eğitimi",
+        "type": "isim",
+        "sentences": [
+          "She completed a full-day induction before starting on the shop floor.",
+          "He found the induction covered safety, policy, and culture — a good start.",
+          "An induction is a formal introduction to the workplace, its processes, and expectations.",
+          "She found induction mandatory in her construction role — safety training first.",
+          "He found his induction thorough — systems access, fire evacuation, and code of conduct.",
+          "Induction in Australian workplaces includes workplace health and safety information.",
+          "She found the induction helped her understand the organisation before her first real challenge.",
+          "He found online induction modules available before his first day — he arrived prepared.",
+          "Induction sets expectations, reduces anxiety, and begins the process of cultural integration.",
+          "She describes a well-designed induction as the employer's first opportunity to show who they really are."
+        ]
+      },
+      {
+        "word": "speaking up",
+        "ipa": "/ˈspiːkɪŋ ʌp/",
+        "phonetic": "[SPEE-king up]",
+        "meaning": "sesini yükseltme, itiraz etme",
+        "type": "fiil öbeği",
+        "sentences": [
+          "She found speaking up in meetings easier once she had built a track record.",
+          "He found speaking up about a workplace safety issue protected him — and others.",
+          "Speaking up means voicing concerns, ideas, or disagreements in a workplace context.",
+          "She found speaking up culturally different in Australia to her previous workplace — more expected.",
+          "He found the organisation's culture of speaking up genuine — dissent was welcomed, not punished.",
+          "Speaking up is facilitated by psychological safety — silence is a symptom of its absence.",
+          "She found speaking up in a new role required confidence built through small contributions first.",
+          "He found that speaking up about error caught a costly mistake before it became catastrophic.",
+          "Speaking up is protected under Australian whistle-blower legislation in specific circumstances.",
+          "She describes speaking up as the professional courage that separates those who improve their environment from those who endure it."
+        ]
+      },
+      {
+        "word": "job advertisement",
+        "ipa": "/dʒɒb ˈædvətɪzmənt/",
+        "phonetic": "[job AD-vuh-tyz-munt]",
+        "meaning": "iş ilanı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the job advertisement on SEEK — the most common job platform in Australia.",
+          "He reads job advertisements carefully — the language reveals as much as the content.",
+          "A job advertisement is a public notice of a vacancy, describing the role and requirements.",
+          "She found job advertisements on LinkedIn, SEEK, Indeed, and employer websites.",
+          "He found job advertisements for government roles particularly detailed — selection criteria listed.",
+          "Job advertisements in Australia typically include salary range, location, and closing date.",
+          "She found job advertisements with salary transparency far more respectful of her time.",
+          "He found the job advertisement understated — the role was far more interesting than described.",
+          "Job advertisements are the first impression of an employer's culture and communication.",
+          "She describes reading a well-written job advertisement as the moment the possibility became real."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 210,
+    "words": [
+      {
+        "word": "reference",
+        "ipa": "/ˈrɛfrəns/",
+        "phonetic": "[REF-rents]",
+        "meaning": "referans, iş referansı",
+        "type": "isim",
+        "sentences": [
+          "She asked her manager for a reference before the application was submitted.",
+          "He found a strong reference the most influential element in the selection process.",
+          "A reference is a person who vouches for another's character, skills, and work history.",
+          "She found Australian employers typically checking two references before an offer.",
+          "He maintained reference relationships — keeping former managers informed of his career progress.",
+          "References in Australia are usually checked verbally by phone — written letters less common.",
+          "She found her best reference was a colleague who had observed her work closely over years.",
+          "He provided three references from different roles — range across career was valued.",
+          "References require advance permission — she always asked before listing someone.",
+          "She describes a trusted reference as the professional voucher whose word carries more than any resume."
+        ]
+      },
+      {
+        "word": "interview",
+        "ipa": "/ˈɪntəvjuː/",
+        "phonetic": "[IN-tuh-vyoo]",
+        "meaning": "iş görüşmesi",
+        "type": "isim",
+        "sentences": [
+          "She prepared for the interview with the STAR method — Situation, Task, Action, Result.",
+          "He found Australian interviews typically conversational rather than interrogative.",
+          "An interview is a formal meeting between an employer and a job applicant to assess suitability.",
+          "She found panel interviews common in government — three or four interviewers at once.",
+          "He found the interview an equal exchange — he was assessing the employer as much as they assessed him.",
+          "Interviews in Australia often include behavioural questions — Tell me about a time when...",
+          "She found researching the organisation before the interview demonstrably valuable.",
+          "He found asking thoughtful questions at the end of the interview consistently impressed hiring managers.",
+          "Interviews in Australia are typically followed by reference checks before an offer.",
+          "She describes the interview as the conversation that most benefits from honest preparation."
+        ]
+      },
+      {
+        "word": "workplace health and safety",
+        "ipa": "/ˈwɜːkpleɪs hɛlθ ænd ˈseɪfti/",
+        "phonetic": "[WURK-plays helth and SAYF-tee]",
+        "meaning": "iş sağlığı ve güvenliği (WHS)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She completed the workplace health and safety induction before starting on site.",
+          "He found workplace health and safety legislation in Australia among the most comprehensive in the world.",
+          "Workplace health and safety, or WHS, refers to policies and practices protecting worker wellbeing.",
+          "She found WHS obligations applying to employers, workers, and visitors to a workplace.",
+          "He reported a workplace health and safety issue — a wet floor without signage.",
+          "Workplace health and safety is regulated by state agencies — WorkSafe Victoria, SafeWork NSW.",
+          "She found the Work Health and Safety Act 2011 the primary national framework.",
+          "He found WHS training mandatory for his role in construction and resources.",
+          "Workplace health and safety incidents must be reported to the relevant authority.",
+          "She describes workplace health and safety as the framework that says every worker deserves to go home unharmed."
+        ]
+      },
+      {
+        "word": "resume",
+        "ipa": "/ˈrɛzjʊmeɪ/",
+        "phonetic": "[REZ-yoo-may]",
+        "meaning": "özgeçmiş",
+        "type": "isim",
+        "sentences": [
+          "She updated her resume before the application — the two-page limit was challenging.",
+          "He found Australian resumes shorter than American equivalents — two to three pages preferred.",
+          "A resume is a document summarising a person's education, work experience, and skills.",
+          "She found her resume most effective when tailored to the specific role and organisation.",
+          "He found the resume reviewed for thirty seconds before a decision to interview — layout mattered.",
+          "Resumes in Australia typically include contact details, summary, experience, and education.",
+          "She found a skills section at the top of her resume helped it pass automated screening.",
+          "He found a clear, well-formatted resume as important as the content — first impressions matter.",
+          "Resumes in Australia do not typically include a photo — unlike European conventions.",
+          "She describes a strong resume as the document that earns the right to a conversation."
+        ]
+      },
+      {
+        "word": "cover letter",
+        "ipa": "/ˈkʌvər ˈlɛtər/",
+        "phonetic": "[KUV-uh LET-uh]",
+        "meaning": "ön yazı, başvuru mektubu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She wrote a cover letter that directly addressed why she wanted this role in this organisation.",
+          "He found a well-crafted cover letter the differentiator between similar resumes.",
+          "A cover letter is a letter accompanying a job application that introduces the applicant.",
+          "She found the cover letter the place to show personality that the resume could not.",
+          "He found cover letters required for government applications — and taken seriously.",
+          "Cover letters in Australia are typically one page — three to four short paragraphs.",
+          "She found the cover letter most effective when addressing the employer's specific needs.",
+          "He found generic cover letters immediately obvious — and quickly discarded.",
+          "A cover letter explains why the applicant wants the role and what they offer.",
+          "She describes the cover letter as the application's opening argument — it deserves the same care as the resume."
+        ]
+      }
+    ]
+  }
+]

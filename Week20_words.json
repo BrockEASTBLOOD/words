@@ -1,0 +1,702 @@
+[
+  {
+    "day": 134,
+    "words": [
+      {
+        "word": "solicitor",
+        "ipa": "/səˈlɪsɪtə/",
+        "phonetic": "[suh-LIS-ih-tuh]",
+        "meaning": "avukat (danışmanlık yapan ve belge hazırlayan)",
+        "type": "isim",
+        "sentences": [
+          "She engaged a solicitor to review the contract before she signed the lease.",
+          "He used a solicitor for the conveyancing on the property purchase.",
+          "A solicitor provides legal advice, prepares legal documents, and represents clients in some courts.",
+          "She found her solicitor thorough and clear — legal jargon was always explained in plain language.",
+          "He contacted a solicitor when the employment dispute became too complex to handle alone.",
+          "Solicitors in Australia are admitted to practise by the Supreme Court of their state.",
+          "She asked the solicitor for a fee estimate before committing — no surprises.",
+          "He found a solicitor through the Law Society's referral service.",
+          "Solicitors and barristers have distinct roles — solicitors typically advise and prepare, barristers advocate in court.",
+          "She describes her solicitor as the calm professional presence in an otherwise stressful legal process."
+        ]
+      },
+      {
+        "word": "barrister",
+        "ipa": "/ˈbærɪstə/",
+        "phonetic": "[BAH-rih-stuh]",
+        "meaning": "savunma avukatı (mahkemede savunma yapan)",
+        "type": "isim",
+        "sentences": [
+          "She hired a barrister to represent her at the Supreme Court hearing.",
+          "He watched a barrister argue the case with a command of law and language he found awe-inspiring.",
+          "A barrister specialises in advocacy and litigation — appearing in court on behalf of clients.",
+          "She found the barrister's advice frank — they did not sugarcoat the prospects.",
+          "He understood that the barrister was briefed by his solicitor — the two worked together.",
+          "Barristers in Australia wear wigs and gowns in some formal court settings.",
+          "She briefed the barrister through her solicitor — this is the standard process in Australia.",
+          "He found the barrister an expensive but essential investment in the outcome of the case.",
+          "Barristers operate independently — they are briefed by solicitors rather than dealing directly with clients.",
+          "She describes watching her barrister in court as witnessing a rare and skilled professional performance."
+        ]
+      },
+      {
+        "word": "magistrate",
+        "ipa": "/ˈmædʒɪstreɪt/",
+        "phonetic": "[MAJ-ih-strayt]",
+        "meaning": "sulh hâkimi, küçük dava yargıcı",
+        "type": "isim",
+        "sentences": [
+          "She appeared before the magistrate for the minor traffic matter and the fine was reduced.",
+          "He watched the magistrate handle a dozen cases in the morning with calm efficiency.",
+          "A magistrate presides over a Local or Magistrates Court and handles summary offences and minor matters.",
+          "She found the magistrate courteous and gave clear reasons for the decision.",
+          "He was surprised by how quickly the matter was dealt with before the magistrate.",
+          "Magistrates courts handle most criminal matters in Australia at first instance.",
+          "She appeared without a lawyer before the magistrate — many civil matters allow self-representation.",
+          "He found the magistrate's questions clarifying — they were working to understand the facts.",
+          "Magistrates are appointed by the state government and hold a judicial commission.",
+          "She describes the Local Court experience as less intimidating than she expected — structured but accessible."
+        ]
+      },
+      {
+        "word": "jury",
+        "ipa": "/ˈdʒʊəri/",
+        "phonetic": "[JOOR-ee]",
+        "meaning": "jüri",
+        "type": "isim",
+        "sentences": [
+          "She served on a jury for a ten-day criminal trial — the experience shaped how she saw justice.",
+          "He was called for jury duty and was selected for a fraud case that ran for four weeks.",
+          "A jury is a group of ordinary citizens selected to determine the facts in a legal case.",
+          "She found jury deliberations challenging — reaching consensus with eleven others required patience.",
+          "He respected the jury system despite its imperfections — it places faith in the community.",
+          "Juries in Australia typically consist of twelve people in criminal matters.",
+          "She explained jury duty to her colleague who had been summoned — the pay was modest but the role was important.",
+          "He was excused from jury duty due to his role in law enforcement.",
+          "Jury verdicts in Australian criminal cases generally require unanimity.",
+          "She describes jury service as the most direct democratic responsibility she has ever fulfilled."
+        ]
+      },
+      {
+        "word": "verdict",
+        "ipa": "/ˈvɜːdɪkt/",
+        "phonetic": "[VUR-dikt]",
+        "meaning": "karar, hüküm",
+        "type": "isim",
+        "sentences": [
+          "She waited nervously for the verdict — two weeks of evidence was coming to an end.",
+          "He heard the verdict read aloud and felt a wave of relief that justice had been done.",
+          "A verdict is the formal decision of a jury or judge at the conclusion of a legal case.",
+          "She found the not guilty verdict difficult to understand given the evidence.",
+          "He researched what a hung jury means when the verdict could not be unanimous.",
+          "Verdicts in Australian criminal courts require proof beyond reasonable doubt.",
+          "She was moved by the quiet dignity of the verdict reading in the courtroom.",
+          "He read coverage of the verdict and found the public reaction divided but civil.",
+          "Verdicts can be appealed through the court system if legal error occurred.",
+          "She describes sitting in a courtroom awaiting a verdict as one of the most concentrated silences she has known."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 135,
+    "words": [
+      {
+        "word": "infringement notice",
+        "ipa": "/ɪnˈfrɪndʒmənt ˈnoʊtɪs/",
+        "phonetic": "[in-FRINJ-munt NOH-tis]",
+        "meaning": "ihlal bildirimi, ceza fişi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She received an infringement notice for parking in a clearway zone for fifteen minutes.",
+          "He found an infringement notice on his windscreen and paid the fine online the same day.",
+          "An infringement notice — commonly called a fine — is issued for minor regulatory breaches.",
+          "She contested the infringement notice and it was withdrawn due to the circumstances.",
+          "He received an infringement notice for exceeding the speed limit by five kilometres.",
+          "Infringement notices can be issued by police, councils, and regulatory bodies across Australia.",
+          "She paid the infringement notice within the twenty-one day period to avoid the late payment increase.",
+          "He found the infringement notice amount reasonable for the offence — appropriate deterrence.",
+          "Infringement notices can be appealed or reviewed — she requested a review of the circumstances.",
+          "She describes the infringement notice system as the state's way of saying you owe the community something."
+        ]
+      },
+      {
+        "word": "contract",
+        "ipa": "/ˈkɒntrækt/",
+        "phonetic": "[KON-trakt]",
+        "meaning": "sözleşme, kontrat",
+        "type": "isim",
+        "sentences": [
+          "She read the contract carefully before signing — every clause had implications.",
+          "He engaged a solicitor to review the contract before he committed to the business deal.",
+          "A contract is a legally binding agreement between two or more parties.",
+          "She found the employment contract fair but asked for one amendment before signing.",
+          "He breached the contract inadvertently and sought legal advice immediately.",
+          "Contracts must include offer, acceptance, consideration, and intention to be legally binding.",
+          "She found the rental contract included standard clauses she had not expected.",
+          "He signed the supply contract after negotiating better payment terms.",
+          "Contracts in Australia can be verbal but written contracts are far easier to enforce.",
+          "She describes understanding contracts as one of the most practical legal skills for everyday life."
+        ]
+      },
+      {
+        "word": "witness",
+        "ipa": "/ˈwɪtnɪs/",
+        "phonetic": "[WIT-nis]",
+        "meaning": "tanık; tanıklık etmek",
+        "type": "isim / fiil",
+        "sentences": [
+          "She agreed to be a witness at the civil dispute hearing and provided a written statement.",
+          "He witnessed the signing of the will and had to sign himself as a witness.",
+          "A witness is someone who observed an event or signs a legal document to confirm its authenticity.",
+          "She found giving witness evidence in court challenging — cross-examination was intense.",
+          "He was contacted as a potential witness to the workplace incident he had observed.",
+          "Witnesses to legal documents must not be beneficiaries of those documents in most cases.",
+          "She told the truth as a witness — accuracy was paramount.",
+          "He found that being a witness to injustice was not enough — he needed to act on what he had seen.",
+          "Witnesses can be subpoenaed to appear in court and must comply with the order.",
+          "She describes giving witness evidence as a civic duty she was nervous about but committed to fulfilling."
+        ]
+      },
+      {
+        "word": "consumer rights",
+        "ipa": "/kənˈsjuːmər raɪts/",
+        "phonetic": "[kun-SYOO-muh ryts]",
+        "meaning": "tüketici hakları",
+        "type": "isim öbeği",
+        "sentences": [
+          "She knew her consumer rights and insisted on a refund when the product failed within three months.",
+          "He cited the Australian Consumer Law when the retailer refused to repair the faulty appliance.",
+          "Consumer rights in Australia are protected by the Australian Consumer Law regardless of any retailer policy.",
+          "She found that consumer rights applied to services as well as products.",
+          "He contacted ACCC when the business refused to honour its consumer rights obligations.",
+          "Under Australian consumer rights, goods must be of acceptable quality, fit for purpose, and match descriptions.",
+          "She was entitled to a remedy — repair, replacement, or refund — when the product failed.",
+          "He printed out the consumer rights information from the ACCC website before visiting the store.",
+          "Consumer rights protections cannot be overridden by a store's no-refund policy.",
+          "She describes knowing her consumer rights as one of the most empowering pieces of knowledge she has gained."
+        ]
+      },
+      {
+        "word": "liability",
+        "ipa": "/ˌlaɪəˈbɪlɪti/",
+        "phonetic": "[ly-uh-BIL-ih-tee]",
+        "meaning": "hukuki sorumluluk, yükümlülük",
+        "type": "isim",
+        "sentences": [
+          "She took out public liability insurance before the community event.",
+          "He understood that as a business owner, personal liability could extend to him if incorporated incorrectly.",
+          "Liability is the legal responsibility for something — particularly damage, debt, or injury.",
+          "She found the contract excluded liability for consequential loss — a standard clause to watch for.",
+          "He checked his professional liability insurance covered the new type of work he was taking on.",
+          "Liability can be limited or excluded by contract terms but cannot override statutory protections.",
+          "She was advised to operate through a company to limit personal liability.",
+          "He found the liability section of the contract the most complex to interpret without advice.",
+          "Product liability laws in Australia protect consumers if goods cause injury or damage.",
+          "She describes understanding liability as the area of law that affects every business decision."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 136,
+    "words": [
+      {
+        "word": "police statement",
+        "ipa": "/pəˈliːs ˈsteɪtmənt/",
+        "phonetic": "[puh-LEES STAYT-munt]",
+        "meaning": "polis ifadesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She provided a police statement after the car accident while the details were fresh.",
+          "He gave a police statement at the station about the theft from his vehicle.",
+          "A police statement is a formal written record of a person's account of events to police.",
+          "She read the police statement carefully before signing — accuracy was important.",
+          "He asked the officer to correct a detail in the police statement before he signed it.",
+          "Police statements become part of the evidence in any subsequent legal proceeding.",
+          "She found giving a police statement straightforward — the officer asked clear questions.",
+          "He gave his police statement voluntarily — he was a witness, not a suspect.",
+          "Police statements should be given truthfully — false statements can constitute perjury.",
+          "She describes writing the police statement as a focused exercise in recalling every detail accurately."
+        ]
+      },
+      {
+        "word": "evidence",
+        "ipa": "/ˈɛvɪdəns/",
+        "phonetic": "[EV-ih-duns]",
+        "meaning": "kanıt, delil",
+        "type": "isim",
+        "sentences": [
+          "She kept every email and invoice as evidence in the commercial dispute.",
+          "He was asked to provide photographic evidence of the damage for the insurance claim.",
+          "Evidence is information presented in a legal proceeding to prove or disprove facts.",
+          "She found that documentary evidence — emails and contracts — carried more weight than verbal accounts.",
+          "He organised his evidence chronologically before the mediation to present it clearly.",
+          "Evidence in Australian courts must be relevant and admissible — not all evidence can be used.",
+          "She asked the solicitor which evidence was most likely to support her case.",
+          "He preserved the CCTV footage as evidence before the system recorded over it.",
+          "Evidence presented to a court must be reliable — hearsay evidence is often excluded.",
+          "She describes gathering evidence as the most time-consuming but critical part of preparing a case."
+        ]
+      },
+      {
+        "word": "fine",
+        "ipa": "/faɪn/",
+        "phonetic": "[fyn]",
+        "meaning": "para cezası",
+        "type": "isim",
+        "sentences": [
+          "She received a fine for running a red light captured by a traffic camera.",
+          "He paid the fine online within three days to avoid any additional fees.",
+          "A fine is a financial penalty issued for a regulatory breach or minor offence.",
+          "She found the fine for littering at the park surprisingly significant — deterrence by design.",
+          "He contested the parking fine and had it withdrawn after demonstrating a mechanical breakdown.",
+          "Fines in Australia can be paid online, by phone, or at a Service NSW centre.",
+          "She found that fines for mobile phone use while driving had increased substantially.",
+          "He reviews fine notices carefully — he found an error in the vehicle registration recorded.",
+          "Unpaid fines can accrue late fees and ultimately result in licence suspension in some states.",
+          "She describes the fine system as the most quotidian encounter most Australians have with the law."
+        ]
+      },
+      {
+        "word": "parole",
+        "ipa": "/pəˈroʊl/",
+        "phonetic": "[puh-ROHL]",
+        "meaning": "şartlı tahliye",
+        "type": "isim",
+        "sentences": [
+          "She studied the parole system as part of her criminology degree.",
+          "He read about the conditions of parole attached to the early release decision.",
+          "Parole is the conditional release of a prisoner before the full sentence is served.",
+          "She found the parole conditions — regular reporting, curfews, no contact orders — designed to reduce reoffending.",
+          "He attended a community forum on parole reform and the principles of rehabilitation.",
+          "Parole decisions in Australia are made by the relevant state's Parole Board.",
+          "She found the debate around community protection versus rehabilitation central to parole policy.",
+          "He followed the high-profile parole decision in the media and noted the community response.",
+          "Parole breaches result in return to prison to complete the original sentence.",
+          "She describes parole as one of the criminal justice system's most complex and contested mechanisms."
+        ]
+      },
+      {
+        "word": "probate",
+        "ipa": "/ˈproʊbeɪt/",
+        "phonetic": "[PROH-bayt]",
+        "meaning": "vasiyetnamenin mahkemede onaylanması",
+        "type": "isim",
+        "sentences": [
+          "She applied for probate as the executor of her father's estate.",
+          "He found the probate process straightforward — the solicitor managed all the paperwork.",
+          "Probate is the legal process of proving a will is valid and authorising the executor to administer the estate.",
+          "She found probate took four months from application to grant — longer than expected.",
+          "He learned that some assets do not require probate — they pass directly to nominated beneficiaries.",
+          "Probate fees in Australia are based on the value of the estate.",
+          "She received the grant of probate and began distributing the estate according to the will.",
+          "He advised his siblings to be patient with probate — it takes time even in uncomplicated estates.",
+          "Probate is not always required — the nature and ownership of assets determines the need.",
+          "She describes probate as the administrative obligation of grief — necessary but not urgent."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 137,
+    "words": [
+      {
+        "word": "speeding fine",
+        "ipa": "/ˈspiːdɪŋ faɪn/",
+        "phonetic": "[SPEE-ding fyn]",
+        "meaning": "hız ihlali cezası",
+        "type": "isim öbeği",
+        "sentences": [
+          "She received a speeding fine from a fixed speed camera on the motorway.",
+          "He was caught by a mobile speed camera and received the fine notice in the mail.",
+          "A speeding fine is issued when a driver exceeds the posted speed limit.",
+          "She paid the speeding fine online within the nominated period.",
+          "He contested the speeding fine on the grounds that the sign was obscured — unsuccessfully.",
+          "Speeding fines in Australia vary by how much the limit was exceeded and the state.",
+          "She found the point-based demerit system attached to speeding fines a strong deterrent.",
+          "He lost his licence after accumulating too many demerit points from speeding fines.",
+          "Speeding fines are issued by police officers and traffic cameras across Australia.",
+          "She describes the speeding fine as an expensive reminder that speed limits exist for good reason."
+        ]
+      },
+      {
+        "word": "demerit points",
+        "ipa": "/dɪˈmɛrɪt pɔɪnts/",
+        "phonetic": "[dih-MER-it poyts]",
+        "meaning": "trafik ceza puanları",
+        "type": "isim öbeği",
+        "sentences": [
+          "She had accumulated four demerit points and drove carefully to protect her remaining points.",
+          "He lost his licence after reaching thirteen demerit points in three years.",
+          "Demerit points are added to a driver's record for each traffic offence committed.",
+          "She found the demerit points scheme an effective way to identify and deter repeat offenders.",
+          "He checked his demerit points balance on the Service NSW website.",
+          "Demerit points reset partially after certain periods — she confirmed the rules for her state.",
+          "She received a double-demerit notice over the Easter long weekend — school zone offences were doubled.",
+          "He found that exceeding the demerit limit resulted in automatic licence suspension.",
+          "Demerit points apply for mobile phone use, speeding, seatbelt breaches, and other offences.",
+          "She describes demerit points as the driving record that follows you — she keeps hers clean."
+        ]
+      },
+      {
+        "word": "estate",
+        "ipa": "/ɪˈsteɪt/",
+        "phonetic": "[ih-STAYT]",
+        "meaning": "miras, mülkiyet (vefat sonrası)",
+        "type": "isim",
+        "sentences": [
+          "She is the executor of her mother's estate — the responsibility includes selling the house.",
+          "He received a share of the estate after his grandmother passed away.",
+          "An estate includes all assets, debts, and obligations left by a person after their death.",
+          "She found administering the estate more complex than she had anticipated — professional help was needed.",
+          "He listed all assets and liabilities to determine the value of the estate.",
+          "Estates are distributed according to the will or, if none exists, the laws of intestacy.",
+          "She attended a family meeting about the estate distribution — transparency was important.",
+          "He found that estate administration could take twelve to eighteen months for a complex estate.",
+          "Debts of the estate must be paid before assets are distributed to beneficiaries.",
+          "She describes managing an estate as a serious responsibility that required more legal knowledge than she had."
+        ]
+      },
+      {
+        "word": "executor",
+        "ipa": "/ɪɡˈzɛkjʊtə/",
+        "phonetic": "[ig-ZEK-yoo-tuh]",
+        "meaning": "vasiyetin uygulayıcısı, vasi",
+        "type": "isim",
+        "sentences": [
+          "She was named executor in her father's will and took the role seriously.",
+          "He consulted a solicitor to help him carry out his executor duties correctly.",
+          "An executor is the person appointed to carry out the instructions in a will.",
+          "She found the executor role demanding — banks, superannuation funds, and Centrelink all required documentation.",
+          "He renounced his role as executor when the complexity of the estate was beyond him — a legitimate option.",
+          "Executors have legal obligations to administer the estate in good faith and according to the will.",
+          "She kept detailed records of every executor decision and expenditure.",
+          "He found being executor tested his relationship with siblings — clear communication was essential.",
+          "Executors can claim reimbursement for reasonable expenses incurred in administering the estate.",
+          "She describes the executor role as love expressed through paperwork — painstaking but meaningful."
+        ]
+      },
+      {
+        "word": "ACCC",
+        "ipa": "/eɪsiːsiːsiː/",
+        "phonetic": "[ay-see-see-SEE]",
+        "meaning": "Avustralya Rekabet ve Tüketici Komisyonu",
+        "type": "kısaltma (isim özel ad)",
+        "sentences": [
+          "She reported the misleading advertising to the ACCC after the product failed to deliver on its claims.",
+          "He found the ACCC website an excellent resource for understanding consumer and competition laws.",
+          "The ACCC — Australian Competition and Consumer Commission — enforces competition and consumer protection law.",
+          "She followed the ACCC's investigation into supermarket pricing practices.",
+          "He uses the ACCC's product safety website to check recalls before buying second-hand items.",
+          "The ACCC can take action against businesses for misleading conduct, price fixing, and anti-competitive behaviour.",
+          "She contacted the ACCC after the airline refused to refund a cancelled flight.",
+          "He appreciated that the ACCC provided clear consumer guidance in plain language.",
+          "The ACCC issues product safety alerts she checks regularly — especially for children's products.",
+          "She describes the ACCC as the umpire of the marketplace — and grateful it exists."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 138,
+    "words": [
+      {
+        "word": "native title",
+        "ipa": "/ˈneɪtɪv ˈtaɪtl/",
+        "phonetic": "[NAY-tiv TY-tul]",
+        "meaning": "Aborijin arazi hakkı tescili",
+        "type": "isim öbeği",
+        "sentences": [
+          "She studied native title law as part of her environmental law elective.",
+          "He learned that native title recognises the rights and interests of Aboriginal peoples in their land.",
+          "Native title is the recognition in Australian law of Aboriginal and Torres Strait Islander peoples' connection to Country.",
+          "She found the native title claim process long, complex, and expensive for communities.",
+          "He read about the first native title determination in Australia — Mabo — and its significance.",
+          "Native title rights can include rights to live on land, access resources, and perform ceremonies.",
+          "She attended a native title ceremony where a community's rights were formally recognised.",
+          "He found native title law one of the most complex and rapidly developing areas of Australian law.",
+          "Native title exists alongside — not instead of — other forms of land tenure.",
+          "She describes native title determination as one of the most significant acts of legal recognition in Australian history."
+        ]
+      },
+      {
+        "word": "Fair Trading",
+        "ipa": "/fɛː ˈtreɪdɪŋ/",
+        "phonetic": "[fair TRAYD-ing]",
+        "meaning": "Adil Ticaret ofisi (tüketici şikayetleri)",
+        "type": "isim öbeği (özel ad)",
+        "sentences": [
+          "She lodged a complaint with Fair Trading when the builder refused to rectify defective work.",
+          "He contacted NSW Fair Trading when the landlord refused to return the bond.",
+          "Fair Trading is a state government body that handles consumer and business disputes.",
+          "She found Fair Trading mediation resolved her dispute without needing to go to tribunal.",
+          "He used the Fair Trading website to understand his rights in a residential tenancy dispute.",
+          "Fair Trading can investigate complaints and take action against businesses that breach the law.",
+          "She received a full refund after Fair Trading contacted the business on her behalf.",
+          "He found Fair Trading useful for disputes under ten thousand dollars that did not warrant legal action.",
+          "Fair Trading services vary by state — NSW, Victoria, Queensland each has its own equivalent body.",
+          "She describes Fair Trading as the consumer's first port of call when a business behaves badly."
+        ]
+      },
+      {
+        "word": "civil dispute",
+        "ipa": "/ˈsɪvl dɪˈspjuːt/",
+        "phonetic": "[SIV-ul dis-PYOOT]",
+        "meaning": "hukuki uyuşmazlık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She took her landlord to the Civil and Administrative Tribunal to recover her bond.",
+          "He resolved the civil dispute through mediation — it saved the time and cost of a hearing.",
+          "A civil dispute is a legal disagreement between private parties over rights, contracts, or property.",
+          "She found civil disputes can be resolved through mediation, tribunals, or courts depending on the type.",
+          "He filed a civil dispute claim in the small claims division for a contract debt under five thousand dollars.",
+          "Civil disputes are distinct from criminal matters — the state is not a party.",
+          "She found the civil dispute process at the tribunal much more accessible than she had expected.",
+          "He represented himself in the civil dispute and was impressed by how the tribunal supported self-represented parties.",
+          "Civil disputes are governed by civil procedure rules that vary by jurisdiction.",
+          "She describes the civil dispute process as slow but ultimately fair — she prevailed."
+        ]
+      },
+      {
+        "word": "tribunal",
+        "ipa": "/traɪˈbjuːnl/",
+        "phonetic": "[try-BYOO-nul]",
+        "meaning": "idare mahkemesi, tahkim kurulu",
+        "type": "isim",
+        "sentences": [
+          "She appeared before the NSW Civil and Administrative Tribunal for the tenancy bond dispute.",
+          "He found the tribunal process less formal than a court but equally binding in its decisions.",
+          "A tribunal is a body that adjudicates disputes in a particular area of law.",
+          "She prepared thoroughly for the tribunal hearing — it required organised evidence and a clear argument.",
+          "He found the tribunal accessible for self-represented parties — staff helped navigate the process.",
+          "Tribunals in Australia cover areas including tenancy, planning, guardianship, and administrative review.",
+          "She found the tribunal decision clear and reasons well-explained.",
+          "He appealed the tribunal decision to the Supreme Court when a legal error was identified.",
+          "Tribunals aim to be faster and cheaper than courts — she found this to be largely true.",
+          "She describes the tribunal as the right forum — proportionate to the size and nature of the dispute."
+        ]
+      },
+      {
+        "word": "statute of limitations",
+        "ipa": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃənz/",
+        "phonetic": "[STACH-oot uv lim-ih-TAY-shunz]",
+        "meaning": "zamanaşımı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She was advised to act quickly — the statute of limitations for the claim was approaching.",
+          "He discovered the statute of limitations on his debt had passed — the creditor could no longer sue.",
+          "A statute of limitations sets the time period within which legal action must be commenced.",
+          "She found the statute of limitations for personal injury claims in her state was three years.",
+          "He asked his solicitor urgently about the statute of limitations before deciding whether to file.",
+          "The statute of limitations varies by type of claim and by state in Australia.",
+          "She learned that some matters have no statute of limitations — serious criminal offences for example.",
+          "He found the concept of statute of limitations complex but essential to legal planning.",
+          "Missing the statute of limitations meant she could not pursue the claim — she acted in time.",
+          "She describes understanding the statute of limitations as one of the most practically important legal concepts."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 139,
+    "words": [
+      {
+        "word": "domestic violence order",
+        "ipa": "/dəˈmɛstɪk ˈvaɪələns ˈɔːdə/",
+        "phonetic": "[duh-MES-tik VY-uh-luns OR-duh]",
+        "meaning": "aile içi şiddet koruma kararı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She obtained a domestic violence order to protect herself and her children.",
+          "He helped his neighbour understand how to apply for a domestic violence order.",
+          "A domestic violence order legally prohibits the respondent from approaching or contacting the protected person.",
+          "She found the process of obtaining a domestic violence order supported by police.",
+          "He learned that breaching a domestic violence order is a criminal offence — not a civil matter.",
+          "Domestic violence orders are available at the Local Court or through police in urgent situations.",
+          "She renewed the domestic violence order when the protected period expired.",
+          "He understood that a domestic violence order was a protective tool — not a guarantee of safety.",
+          "Domestic violence orders are made under state and territory legislation across Australia.",
+          "She describes the domestic violence order as the legal boundary that helped her begin to feel safe."
+        ]
+      },
+      {
+        "word": "safe house",
+        "ipa": "/seɪf haʊs/",
+        "phonetic": "[sayf hows]",
+        "meaning": "güvenli sığınak (şiddet mağdurları için)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She and her children spent two weeks in a safe house while she sorted out her next steps.",
+          "He donated to an organisation operating safe houses for domestic violence survivors.",
+          "A safe house provides temporary accommodation for people fleeing domestic violence or danger.",
+          "She found the safe house workers compassionate and practical — both things were needed.",
+          "He learned that safe house locations are strictly confidential to protect residents.",
+          "Safe houses in Australia are operated by specialist domestic violence support services.",
+          "She found the safe house connected her with legal advice, financial support, and counselling.",
+          "He's grateful the safe house network exists — without it, she had nowhere to go that night.",
+          "Safe house availability is limited — she advises anyone needing one to call 1800RESPECT first.",
+          "She describes the safe house as the first safe night she had experienced in years."
+        ]
+      },
+      {
+        "word": "1800RESPECT",
+        "ipa": "/wʌn eɪt hʌndrəd rɪˈspɛkt/",
+        "phonetic": "[wun ay-teen-HUN-dred rih-SPEKT]",
+        "meaning": "Avustralya ulusal aile içi şiddet yardım hattı",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She called 1800RESPECT when she was ready to seek help — the counsellor was calm and clear.",
+          "He has the 1800RESPECT number saved and shares it whenever it might be needed.",
+          "1800RESPECT is Australia's national sexual assault, domestic and family violence counselling service.",
+          "She found 1800RESPECT available twenty-four hours, seven days a week — when she was ready, it was there.",
+          "He attended a workplace presentation and learned about 1800RESPECT as a resource for anyone needing help.",
+          "1800RESPECT provides counselling, information, and referrals to local support services.",
+          "She used the 1800RESPECT chat service — she was not ready to speak aloud.",
+          "He shared the 1800RESPECT number with his family so everyone knew it existed.",
+          "1800RESPECT counsellors are trained specifically in trauma and family violence response.",
+          "She describes 1800RESPECT as the voice that helped her see a way forward when everything felt impossible."
+        ]
+      },
+      {
+        "word": "guardianship",
+        "ipa": "/ˈɡɑːdiənʃɪp/",
+        "phonetic": "[GAR-dee-un-ship]",
+        "meaning": "vesayet, velayet hakkı",
+        "type": "isim",
+        "sentences": [
+          "She was appointed as legal guardian for her nephew after his parents died.",
+          "He applied to the Guardianship Tribunal for appointment as his father's guardian.",
+          "Guardianship grants a person the legal authority to make decisions on behalf of someone who cannot.",
+          "She found the guardianship application process thorough — the system protected the vulnerable person.",
+          "He worked with a social worker to navigate the guardianship process for his elderly mother.",
+          "Guardianship in Australia can be limited to certain decisions — financial, medical, or lifestyle.",
+          "She takes the guardianship responsibility seriously — every decision is for her nephew's benefit.",
+          "He learned that guardianship differs from power of attorney — one applies during capacity, the other not.",
+          "Guardianship applications are assessed by the state's guardianship tribunal.",
+          "She describes guardianship as one of the most profound legal obligations she has taken on."
+        ]
+      },
+      {
+        "word": "intellectual property",
+        "ipa": "/ˌɪntəˈlɛktʃʊəl ˈprɒpəti/",
+        "phonetic": "[in-tuh-LEK-choo-ul PROP-uh-tee]",
+        "meaning": "fikri mülkiyet",
+        "type": "isim öbeği",
+        "sentences": [
+          "She registered her logo as a trademark to protect her intellectual property.",
+          "He consulted an IP lawyer about copyright protection for his software.",
+          "Intellectual property refers to creative works and inventions that can be legally owned and protected.",
+          "She learned that copyright in Australia arises automatically — no registration is required.",
+          "He filed a patent for his invention through IP Australia.",
+          "Intellectual property law covers copyright, trademarks, patents, and designs.",
+          "She found her artwork reproduced without permission — a clear intellectual property infringement.",
+          "He attended a workshop on intellectual property for small businesses — the information was invaluable.",
+          "Intellectual property protection encourages innovation by allowing creators to benefit from their work.",
+          "She describes intellectual property as the legal framework that makes creative work viable as a living."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 140,
+    "words": [
+      {
+        "word": "tax return",
+        "ipa": "/tæks rɪˈtɜːn/",
+        "phonetic": "[taks rih-TURN]",
+        "meaning": "vergi beyannamesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She lodges her tax return every year in July — she does it herself through MyTax.",
+          "He uses an accountant for his tax return because his investment income makes it complex.",
+          "A tax return is the annual declaration of income and deductions submitted to the ATO.",
+          "She found the MyTax tool pre-populated most information — lodging took forty minutes.",
+          "He received a significant refund from his tax return and used it to pay down the mortgage.",
+          "Tax returns must be lodged by the thirty-first of October unless you use a registered tax agent.",
+          "She keeps receipts throughout the year to substantiate her tax return deductions.",
+          "He found the ATO's Tax Withheld Calculator useful for checking his employer's withholding.",
+          "Tax returns should be accurate — penalties apply for false declarations.",
+          "She describes the tax return as an annual ritual — occasionally rewarding, always necessary."
+        ]
+      },
+      {
+        "word": "tax agent",
+        "ipa": "/tæks ˈeɪdʒənt/",
+        "phonetic": "[taks AY-junt]",
+        "meaning": "vergi danışmanı, muhasebeci",
+        "type": "isim öbeği",
+        "sentences": [
+          "She uses a registered tax agent who extends her lodgement deadline to May the following year.",
+          "He found a tax agent saved him more than her fee through deductions he had missed.",
+          "A tax agent is a professional registered with the Tax Practitioners Board to prepare tax returns.",
+          "She chose a tax agent with experience in working-from-home deductions.",
+          "He found the tax agent's advice on depreciation and salary sacrifice options genuinely valuable.",
+          "Registered tax agents can extend the lodgement deadline and represent clients with the ATO.",
+          "She changed tax agents after finding one who specialised in investment properties.",
+          "He trusts his tax agent completely — the relationship spans fifteen years.",
+          "Tax agents charge fees that vary by complexity — she confirms the fee estimate upfront.",
+          "She describes her tax agent as the person who turns tax from a burden into a manageable annual task."
+        ]
+      },
+      {
+        "word": "WorkSafe",
+        "ipa": "/wɜːkseɪf/",
+        "phonetic": "[WURK-sayf]",
+        "meaning": "İş Güvenliği kurumu",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She reported the hazardous workplace condition to WorkSafe when the employer failed to act.",
+          "He attended a WorkSafe training session on manual handling to reduce injury risk.",
+          "WorkSafe is the workplace health and safety regulator in Victoria — SafeWork in NSW.",
+          "She found the WorkSafe inspector responsive and thorough when investigating the complaint.",
+          "He knew his right to stop unsafe work — WorkSafe confirmed this right when he called.",
+          "WorkSafe investigates serious workplace incidents and can prosecute employers for breaches.",
+          "She used the WorkSafe website to access a risk assessment template for her workplace.",
+          "He reported a near-miss to WorkSafe — prevention matters as much as accident response.",
+          "WorkSafe levies are paid by employers to fund the workers compensation scheme.",
+          "She describes WorkSafe as the regulator that makes Australian workplaces safer than in many countries."
+        ]
+      },
+      {
+        "word": "workers compensation",
+        "ipa": "/ˈwɜːkəz ˌkɒmpənˈseɪʃən/",
+        "phonetic": "[WUR-kuz kom-pun-SAY-shun]",
+        "meaning": "iş kazası tazminatı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She made a workers compensation claim after injuring her back lifting boxes at work.",
+          "He was off work for eight weeks on workers compensation following the forklift accident.",
+          "Workers compensation provides income replacement and medical benefits to employees injured at work.",
+          "She found the workers compensation process required medical evidence and employer notification.",
+          "He was surprised that workers compensation also covered injuries during work-related travel.",
+          "Workers compensation is compulsory insurance all Australian employers must hold.",
+          "She returned to work on modified duties while her workers compensation claim was ongoing.",
+          "He engaged an independent medical examiner as required by the workers compensation insurer.",
+          "Workers compensation disputes can be taken to a tribunal or commission if not resolved.",
+          "She describes workers compensation as a safety net she was glad existed when she needed it."
+        ]
+      },
+      {
+        "word": "unfair dismissal",
+        "ipa": "/ˌʌnfɛː dɪˈsmɪsl/",
+        "phonetic": "[un-fair dis-MIS-ul]",
+        "meaning": "haksız işten çıkarma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She lodged an unfair dismissal application with the Fair Work Commission within the twenty-one day deadline.",
+          "He consulted a solicitor after being dismissed without a valid reason — unfair dismissal was likely.",
+          "Unfair dismissal occurs when an employee is terminated in a harsh, unjust, or unreasonable manner.",
+          "She found the unfair dismissal process began with conciliation — most cases settle at that stage.",
+          "He documented every step of the performance management process — evidence for any unfair dismissal claim.",
+          "Unfair dismissal applications must be lodged within twenty-one days of the dismissal date.",
+          "She received a settlement offer at conciliation and accepted — she did not want to continue the stress.",
+          "He found the Fair Work Commission's unfair dismissal process well-structured.",
+          "Employees must have minimum employment periods before being eligible to make unfair dismissal claims.",
+          "She describes the unfair dismissal process as emotionally draining but ultimately validating."
+        ]
+      }
+    ]
+  }
+]

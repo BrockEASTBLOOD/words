@@ -1,0 +1,702 @@
+[
+  {
+    "day": 15,
+    "words": [
+      {
+        "word": "Medicare",
+        "ipa": "/ˈmɛdɪkɛː/",
+        "phonetic": "[MED-ih-kair]",
+        "meaning": "Avustralya devlet sağlık sigortası",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She enrolled in Medicare as soon as she became a permanent resident of Australia.",
+          "Medicare covered the bulk of the GP consultation fee so she only paid a small gap.",
+          "He carried his Medicare card in his wallet alongside his driver's licence.",
+          "Medicare does not cover dental treatment, so she took out private health insurance.",
+          "The hospital visit was fully covered by Medicare because it was a public hospital.",
+          "She updated her Medicare details through the myGov portal after changing her address.",
+          "Medicare numbers are required when filling out most medical forms in Australia.",
+          "He was relieved to find the specialist bulk billed and he paid nothing out of pocket through Medicare.",
+          "Medicare rebates apply to a wide range of medical services listed on the Medicare Benefits Schedule.",
+          "She explained the Medicare system to her newly arrived colleague from overseas."
+        ]
+      },
+      {
+        "word": "Centrelink",
+        "ipa": "/ˈsɛntəlɪŋk/",
+        "phonetic": "[SEN-tuh-link]",
+        "meaning": "Avustralya sosyal yardım kurumu",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "He registered with Centrelink after being made redundant from his manufacturing job.",
+          "She received a Centrelink family payment to help with the cost of raising three children.",
+          "The Centrelink office was busy all morning — the queue stretched out the door.",
+          "He managed his Centrelink payments and reporting obligations entirely through the myGov app.",
+          "She was required to report her casual work income to Centrelink every fortnight.",
+          "Centrelink administers payments including JobSeeker, Youth Allowance, and the Age Pension.",
+          "He called Centrelink three times before finally speaking to someone about his claim.",
+          "She updated her bank details with Centrelink promptly after switching accounts.",
+          "The Centrelink mutual obligation requirement meant he had to apply for a set number of jobs each month.",
+          "She found the Centrelink website difficult to navigate and went to the office in person instead."
+        ]
+      },
+      {
+        "word": "superannuation",
+        "ipa": "/ˌsuːpərˌænjuˈeɪʃən/",
+        "phonetic": "[soo-puh-RAN-yoo-AY-shun]",
+        "meaning": "emeklilik fonu, süper fonu",
+        "type": "isim",
+        "sentences": [
+          "Australian employers are required by law to pay superannuation on top of your salary.",
+          "She consolidated her three old superannuation accounts into one to save on fees.",
+          "He checked his superannuation balance on the ATO website through his myGov account.",
+          "Superannuation contributions are taxed at a concessional rate of fifteen percent.",
+          "She chose an ethical superannuation fund that invested in renewable energy projects.",
+          "He increased his voluntary superannuation contributions to reduce his taxable income.",
+          "Superannuation cannot normally be accessed until you reach your preservation age.",
+          "The employer was paying superannuation late — she reported it to the ATO.",
+          "She attended a free superannuation information session run by her employer.",
+          "Understanding your superannuation is one of the most important financial steps you can take in Australia."
+        ]
+      },
+      {
+        "word": "BPAY",
+        "ipa": "/biːpeɪ/",
+        "phonetic": "[BEE-pay]",
+        "meaning": "elektronik fatura ödeme sistemi",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She paid the council rates using BPAY through her online banking portal.",
+          "The electricity bill had a BPAY biller code and reference number printed on the front.",
+          "He set up BPAY to pay his phone bill automatically each month from his bank account.",
+          "BPAY is accepted by thousands of Australian businesses, government agencies, and utilities.",
+          "She paid the TAFE enrolment fee via BPAY the day before the semester started.",
+          "He used BPAY to pay his strata levy without needing to write a cheque.",
+          "BPAY payments are processed within one to two business days depending on your bank.",
+          "She called the biller to confirm the correct BPAY reference number before paying.",
+          "He preferred BPAY over card payments for large bills because it felt more secure.",
+          "BPAY is available through almost every major Australian bank's internet and mobile banking."
+        ]
+      },
+      {
+        "word": "Afterpay",
+        "ipa": "/ˈɑːftəpeɪ/",
+        "phonetic": "[AAF-tuh-pay]",
+        "meaning": "şimdi al, sonra öde uygulaması",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She used Afterpay to spread the cost of new work shoes over four fortnightly payments.",
+          "He set up Afterpay on his phone and used it for the first time at a clothing store.",
+          "Afterpay does not charge interest but does charge a late fee if you miss a payment.",
+          "She made sure her Afterpay payments were scheduled away from other big bills.",
+          "Many Australians use Afterpay for everyday purchases like clothes, homewares, and electronics.",
+          "He was surprised by how many local shops now accepted Afterpay at the checkout.",
+          "She used Afterpay responsibly and always made sure she could afford the instalments.",
+          "Afterpay spending can add up quickly if you are not tracking your total commitments.",
+          "He cancelled his Afterpay account after finding it led to impulse buying too easily.",
+          "Financial counsellors advise treating Afterpay as a form of debt and budgeting accordingly."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 16,
+    "words": [
+      {
+        "word": "myGov",
+        "ipa": "/maɪɡɒv/",
+        "phonetic": "[my-GOV]",
+        "meaning": "Avustralya devlet hizmetleri çevrimiçi portalı",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She linked her Medicare, Centrelink, and ATO accounts to myGov for easy access.",
+          "He submitted his tax return online through the myGov portal in under thirty minutes.",
+          "myGov allows Australians to access a wide range of government services in one place.",
+          "She reset her myGov password after being locked out of her account.",
+          "He updated his address with Medicare and the ATO at the same time through myGov.",
+          "She checked her superannuation balance and employment history directly through myGov.",
+          "myGov sends important correspondence to your inbox instead of by post.",
+          "He found the myGov app on his phone more convenient than using a desktop browser.",
+          "She set up two-factor authentication on her myGov account for extra security.",
+          "Most interactions with Centrelink and the ATO can now be completed through myGov online."
+        ]
+      },
+      {
+        "word": "ATO",
+        "ipa": "/eɪtiːəʊ/",
+        "phonetic": "[ay-tee-OH]",
+        "meaning": "Avustralya Vergi Dairesi",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "The ATO sent her a notice of assessment after she lodged her tax return.",
+          "He called the ATO to ask about deductions he could claim as a work-from-home employee.",
+          "The ATO detected the discrepancy between her reported income and her bank deposits.",
+          "She registered her ABN with the ATO when she started working as a freelancer.",
+          "The ATO website has a tax withheld calculator that is very easy to use.",
+          "He received a tax refund of eight hundred dollars from the ATO in early August.",
+          "The ATO requires businesses to report their employees' income through Single Touch Payroll.",
+          "She found the ATO online chat service helpful when she had a question about her deductions.",
+          "The ATO pre-filled much of her tax return information from employer and bank data.",
+          "He set up a payment plan with the ATO after struggling to pay his tax debt in full."
+        ]
+      },
+      {
+        "word": "GST",
+        "ipa": "/dʒiːɛstiː/",
+        "phonetic": "[jee-ess-TEE]",
+        "meaning": "mal ve hizmet vergisi (yüzde on)",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "GST is a ten percent tax applied to most goods and services sold in Australia.",
+          "She checked whether the quoted price included GST before agreeing to the work.",
+          "He registered for GST once his business turnover exceeded the threshold of seventy-five thousand dollars.",
+          "The invoice clearly showed the price before GST and the total amount including GST.",
+          "GST-registered businesses collect GST on sales and claim it back on purchases.",
+          "She asked the accountant whether her service was GST-exempt or GST-applicable.",
+          "Basic food items like fresh fruit and vegetables are GST-free in Australia.",
+          "He lodged his quarterly business activity statement to report the GST collected and paid.",
+          "The tax reform that introduced GST in Australia came into effect in July 2000.",
+          "She always checks receipts to see whether GST has been included in the price shown."
+        ]
+      },
+      {
+        "word": "tax return",
+        "ipa": "/tæks rɪˈtɜːn/",
+        "phonetic": "[taks rih-TURN]",
+        "meaning": "vergi beyannamesi ve iadesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She lodged her tax return in July and received her refund within two weeks.",
+          "He used a registered tax agent to prepare his tax return because his finances were complex.",
+          "The tax return deadline for individuals is the thirty-first of October each year.",
+          "She claimed work-related expenses on her tax return and received a larger refund.",
+          "He forgot to include his bank interest in his tax return and had to amend it.",
+          "The ATO pre-fills much of the tax return with information from employers and banks.",
+          "She lodged her tax return through myGov without needing an accountant.",
+          "He was disappointed his tax return resulted in a small debt rather than a refund.",
+          "Keeping receipts throughout the year makes preparing your tax return much easier.",
+          "She helped her elderly neighbour lodge his tax return online for the very first time."
+        ]
+      },
+      {
+        "word": "payslip",
+        "ipa": "/ˈpeɪslɪp/",
+        "phonetic": "[PAY-slip]",
+        "meaning": "maaş bordrosu, ücret belgesi",
+        "type": "isim",
+        "sentences": [
+          "She checked her payslip carefully to make sure the superannuation contribution was correct.",
+          "His payslip showed the gross earnings, tax withheld, and net pay clearly.",
+          "Employers in Australia are legally required to provide a payslip within one business day of payment.",
+          "She saved her last three payslips to submit as part of her rental application.",
+          "He noticed the wrong tax rate on his payslip and called payroll to have it corrected.",
+          "The payslip listed all deductions including income tax, union fees, and salary sacrificed super.",
+          "She received her payslip by email each fortnight instead of a printed paper copy.",
+          "He used his payslip to prove his income when applying for a car loan.",
+          "The payslip showed she had taken two days of personal leave during the pay period.",
+          "She kept all her payslips in a folder in case she needed them for the ATO."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 17,
+    "words": [
+      {
+        "word": "offset account",
+        "ipa": "/ˈɒfsɛt əˈkaʊnt/",
+        "phonetic": "[OFF-set uh-KOWNT]",
+        "meaning": "mortgage dengeleme hesabı",
+        "type": "isim öbeği",
+        "sentences": [
+          "Every dollar in the offset account reduces the interest charged on their home loan.",
+          "She kept her salary in the offset account to minimise interest on the mortgage.",
+          "He asked the bank whether the home loan came with a linked offset account.",
+          "Using an offset account instead of a savings account saved them thousands in interest.",
+          "She transferred any spare cash into the offset account at the end of each month.",
+          "The offset account works like a transaction account but reduces your loan balance for interest purposes.",
+          "He explained the offset account concept to his sister who was buying her first home.",
+          "Their financial advisor recommended maximising the offset account before making extra repayments.",
+          "She linked both partners' salaries to the same offset account to maximise the benefit.",
+          "Offset accounts are most effective when you keep as much money in them as possible."
+        ]
+      },
+      {
+        "word": "term deposit",
+        "ipa": "/tɜːm dɪˈpɒzɪt/",
+        "phonetic": "[turm dih-POZ-it]",
+        "meaning": "vadeli mevduat",
+        "type": "isim öbeği",
+        "sentences": [
+          "She placed twenty thousand dollars in a term deposit for twelve months at a competitive interest rate.",
+          "He chose a term deposit because it guaranteed a fixed return with no risk to his savings.",
+          "Term deposits are protected by the Australian government financial claims scheme up to a limit.",
+          "She compared term deposit rates across several banks before committing to one.",
+          "He broke the term deposit early to cover unexpected medical expenses and paid a penalty.",
+          "The term deposit matured and she rolled it over for another six months at the new rate.",
+          "Term deposits suit people who do not need access to their money in the short term.",
+          "She opened a term deposit for her daughter's university fund when the child was born.",
+          "The bank called to remind him the term deposit was due to mature the following week.",
+          "He preferred a term deposit over shares because of the certainty of the return."
+        ]
+      },
+      {
+        "word": "credit score",
+        "ipa": "/ˈkrɛdɪt skɔː/",
+        "phonetic": "[KRED-it skor]",
+        "meaning": "kredi notu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She checked her credit score for free before applying for a home loan.",
+          "His credit score was affected by a missed credit card payment two years earlier.",
+          "A strong credit score makes it easier to get approved for a mortgage at a better rate.",
+          "She paid all her bills on time specifically to maintain a healthy credit score.",
+          "He was surprised his credit score was lower than expected after checking it online.",
+          "Applying for too many loans in a short period can negatively impact your credit score.",
+          "She used a free credit score service to monitor her score quarterly.",
+          "The lender explained that her credit score was one of several factors considered in the application.",
+          "He worked to improve his credit score over eighteen months before applying for a loan.",
+          "Paying off credit card debt on time each month is one of the best ways to build a good credit score."
+        ]
+      },
+      {
+        "word": "direct debit",
+        "ipa": "/daɪˈrɛkt ˈdɛbɪt/",
+        "phonetic": "[dy-REKT DEB-it]",
+        "meaning": "otomatik ödeme talimatı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She set up a direct debit for her electricity bill so she never had to remember to pay it.",
+          "The gym membership came out as a direct debit every fortnight from his transaction account.",
+          "He cancelled the direct debit after switching to a different insurance provider.",
+          "A direct debit failed because there were insufficient funds in the account that morning.",
+          "She authorised a direct debit for her mortgage repayment on the same day as her pay day.",
+          "He checked his bank statement monthly to make sure no unexpected direct debits were running.",
+          "Direct debit is convenient but it is important to keep enough money in your account to cover payments.",
+          "She set up direct debits for all her regular bills and only kept enough in the account to cover them.",
+          "The company required a direct debit authority form before they could begin the subscription.",
+          "He was surprised to find an old direct debit still running for a streaming service he had cancelled."
+        ]
+      },
+      {
+        "word": "PayID",
+        "ipa": "/peɪaɪdiː/",
+        "phonetic": "[PAY-eye-dee]",
+        "meaning": "telefon veya e-posta ile banka transferi sistemi",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "She set up her mobile number as a PayID so friends could transfer money easily.",
+          "He sent the rent payment to the landlord's PayID in seconds from his banking app.",
+          "PayID allows instant bank transfers without needing a BSB and account number.",
+          "She used her email address as her PayID for her small business transactions.",
+          "He transferred money to the wrong PayID by mistake and had to request it back urgently.",
+          "Setting up PayID took less than two minutes through her bank's mobile app.",
+          "PayID is linked to Australia's New Payments Platform for real-time bank transfers.",
+          "She confirmed the PayID name matched the recipient before finalising the transfer.",
+          "He preferred PayID over cash when splitting dinner bills with friends.",
+          "PayID has made peer-to-peer payments much faster and simpler across Australian banks."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 18,
+    "words": [
+      {
+        "word": "buy now pay later",
+        "ipa": "/baɪ naʊ peɪ ˈleɪtə/",
+        "phonetic": "[by now pay LAY-tuh]",
+        "meaning": "şimdi al sonra öde sistemi",
+        "type": "isim öbeği",
+        "sentences": [
+          "Buy now pay later services have become extremely common in Australian retail.",
+          "She used a buy now pay later service to spread the cost of her new laptop over eight weeks.",
+          "He found buy now pay later convenient but acknowledged it was still a form of debt.",
+          "Buy now pay later options appear at checkout in many online and physical stores across Australia.",
+          "She made sure she could afford the full repayment before using any buy now pay later service.",
+          "The financial counsellor warned that buy now pay later could lead to debt accumulation if misused.",
+          "He turned off buy now pay later notifications on his phone to reduce the temptation to spend.",
+          "Buy now pay later providers must now comply with stronger consumer protection regulations in Australia.",
+          "She tracked all her buy now pay later commitments in a spreadsheet to avoid missing payments.",
+          "Many young Australians use buy now pay later services without fully understanding the risks involved."
+        ]
+      },
+      {
+        "word": "overdraft",
+        "ipa": "/ˈoʊvədræft/",
+        "phonetic": "[OH-vuh-draft]",
+        "meaning": "hesap açığı, eksi bakiye",
+        "type": "isim",
+        "sentences": [
+          "His account went into overdraft after an unexpected bill came out before his pay arrived.",
+          "She set up an overdraft facility as a safety net for occasional short-term cash shortfalls.",
+          "The bank charged a monthly fee and daily interest whenever the account was in overdraft.",
+          "He checked his account balance daily to avoid accidentally going into overdraft.",
+          "She cleared the overdraft as soon as her salary hit the account.",
+          "Using an overdraft regularly suggests it may be time to review your household budget.",
+          "The bank approved a two-thousand-dollar overdraft on her everyday transaction account.",
+          "He was embarrassed when his card was declined at the checkout — the overdraft limit had been reached.",
+          "She contacted the bank to discuss a temporary overdraft increase during a difficult period.",
+          "An overdraft can be a useful safety net but it should not be relied on as a regular income supplement."
+        ]
+      },
+      {
+        "word": "interest rate",
+        "ipa": "/ˈɪntrəst reɪt/",
+        "phonetic": "[IN-trest rayt]",
+        "meaning": "faiz oranı",
+        "type": "isim öbeği",
+        "sentences": [
+          "The Reserve Bank of Australia raised the interest rate again to help slow inflation.",
+          "She fixed her home loan interest rate for two years to protect against further increases.",
+          "He compared interest rates across four banks before choosing a mortgage lender.",
+          "Rising interest rates meant her monthly mortgage repayment increased significantly.",
+          "She asked her broker whether a variable or fixed interest rate suited her situation better.",
+          "The interest rate on her savings account was higher than the big four banks were offering.",
+          "He called his bank to negotiate a lower interest rate on his home loan.",
+          "Interest rate changes announced by the Reserve Bank affect millions of Australian households.",
+          "She calculated how much more she would pay over the life of the loan at a higher interest rate.",
+          "He refinanced his mortgage when a competitor bank offered a noticeably lower interest rate."
+        ]
+      },
+      {
+        "word": "mortgage",
+        "ipa": "/ˈmɔːɡɪdʒ/",
+        "phonetic": "[MOR-gij]",
+        "meaning": "konut kredisi, ipotek",
+        "type": "isim",
+        "sentences": [
+          "They took out a mortgage with a thirty-year term to buy their first home together.",
+          "She made fortnightly mortgage repayments instead of monthly to pay it off sooner.",
+          "He was stressed about keeping up with the mortgage after the interest rate increased twice.",
+          "The bank approved their mortgage application after reviewing three months of bank statements.",
+          "She used an online mortgage calculator to estimate their borrowing capacity before applying.",
+          "He refinanced the mortgage to a lower rate and saved over two hundred dollars a month.",
+          "Making extra mortgage repayments can shave years off the loan term and save thousands in interest.",
+          "She put any tax refund or bonus directly onto the mortgage to reduce the principal.",
+          "He got independent legal advice before signing the mortgage documents.",
+          "The mortgage broker found them a better deal than what their own bank was offering."
+        ]
+      },
+      {
+        "word": "deposit",
+        "ipa": "/dɪˈpɒzɪt/",
+        "phonetic": "[dih-POZ-it]",
+        "meaning": "peşinat, ön ödeme",
+        "type": "isim",
+        "sentences": [
+          "They saved for three years to have enough for a twenty percent deposit on a home.",
+          "She paid a ten percent deposit on the day the contract of sale was signed.",
+          "He needed a larger deposit to avoid paying lenders mortgage insurance on the loan.",
+          "The government First Home Guarantee allows eligible buyers to purchase with a five percent deposit.",
+          "She transferred the deposit to the real estate agent's trust account after the cooling-off period.",
+          "He felt proud the day he handed over the deposit — years of careful saving had paid off.",
+          "A larger deposit means borrowing less, which results in lower repayments and less interest paid.",
+          "She calculated exactly how long it would take to save the required deposit at her current rate.",
+          "The deposit is held in a trust account and is not released until settlement is complete.",
+          "He used a financial advisor to create a deposit savings plan with a clear target date."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 19,
+    "words": [
+      {
+        "word": "financial advisor",
+        "ipa": "/faɪˈnænʃəl ədˈvaɪzə/",
+        "phonetic": "[fy-NAN-shul ad-VY-zuh]",
+        "meaning": "mali danışman",
+        "type": "isim öbeği",
+        "sentences": [
+          "She made an appointment with a financial advisor before making any decisions about her superannuation.",
+          "He found a fee-for-service financial advisor who charged by the hour rather than earning commissions.",
+          "The financial advisor created a personalised plan covering savings, insurance, and retirement.",
+          "She asked the financial advisor whether she should fix or keep a variable rate on the mortgage.",
+          "A good financial advisor will disclose any conflicts of interest before offering advice.",
+          "He visited the financial advisor after receiving a small inheritance and needed guidance.",
+          "The financial advisor recommended consolidating his superannuation accounts to reduce annual fees.",
+          "She valued the financial advisor's guidance during the stressful period of buying her first home.",
+          "Financial advisors in Australia must hold an Australian Financial Services licence.",
+          "He realised he had been paying too much in fees after his first meeting with a financial advisor."
+        ]
+      },
+      {
+        "word": "accountant",
+        "ipa": "/əˈkaʊntənt/",
+        "phonetic": "[uh-KOWN-tunt]",
+        "meaning": "muhasebeci",
+        "type": "isim",
+        "sentences": [
+          "She hired an accountant to prepare her tax return because she had investment income.",
+          "His accountant found several deductions he had not considered and increased his refund significantly.",
+          "The accountant set up a simple bookkeeping system for her new small business.",
+          "He met with his accountant every year in August to review his financial position.",
+          "The accountant advised her to keep all receipts for work-related expenses throughout the year.",
+          "She trusted her accountant to lodge the business activity statement each quarter on time.",
+          "He paid the accountant's fee from his tax refund — it was well worth the cost.",
+          "The accountant explained the difference between a sole trader structure and a company.",
+          "She recommended her accountant to several colleagues who were also starting small businesses.",
+          "A registered tax agent accountant can lodge tax returns after the standard October deadline."
+        ]
+      },
+      {
+        "word": "invoice",
+        "ipa": "/ˈɪnvɔɪs/",
+        "phonetic": "[IN-voys]",
+        "meaning": "fatura",
+        "type": "isim",
+        "sentences": [
+          "She sent the invoice to the client within twenty-four hours of completing the project.",
+          "The invoice clearly itemised each service provided along with the GST amount.",
+          "He set a payment term of fourteen days on all invoices sent to clients.",
+          "She followed up on an overdue invoice after the thirty-day payment period had passed.",
+          "The accountant advised him to number every invoice sequentially for proper record-keeping.",
+          "She used free invoicing software to create and track all her freelance invoices.",
+          "The invoice included his ABN so the client could claim the GST back if registered.",
+          "He was frustrated when a large client consistently paid invoices thirty days late.",
+          "She kept digital copies of every invoice she had ever sent in a cloud storage folder.",
+          "The invoice must include specific information to be valid for GST purposes in Australia."
+        ]
+      },
+      {
+        "word": "ABN",
+        "ipa": "/eɪbiːɛn/",
+        "phonetic": "[ay-bee-EN]",
+        "meaning": "Avustralya İşletme Numarası",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She registered for an ABN through the Australian Business Register website in about ten minutes.",
+          "He included his ABN on every invoice he sent to clients as required by the ATO.",
+          "Without an ABN, businesses are required to withhold tax at the highest rate from payments.",
+          "She checked that her new contractor had a valid ABN before processing any payments.",
+          "He applied for an ABN when he started selling handmade goods at local markets on weekends.",
+          "Your ABN stays with you even if you change the name or structure of your business.",
+          "She used her ABN to register for GST once her annual turnover exceeded the threshold.",
+          "Having an ABN does not mean you are automatically registered for GST.",
+          "He looked up a supplier's ABN on the public ABN Lookup tool to verify it was current.",
+          "The ATO can cancel an ABN if a business is no longer operating or active."
+        ]
+      },
+      {
+        "word": "sole trader",
+        "ipa": "/soʊl ˈtreɪdə/",
+        "phonetic": "[sohl TRAY-duh]",
+        "meaning": "şahıs şirketi sahibi, bağımsız çalışan",
+        "type": "isim öbeği",
+        "sentences": [
+          "She operates as a sole trader under her own name and manages all her own finances.",
+          "A sole trader structure is the simplest way to run a small business in Australia.",
+          "He registered as a sole trader when he started his landscaping business after leaving his job.",
+          "As a sole trader, she is personally liable for all business debts and obligations.",
+          "The accountant advised him to keep personal and business finances completely separate as a sole trader.",
+          "She lodged her sole trader income as part of her individual tax return each year.",
+          "Sole traders must still register for GST if their turnover exceeds the threshold.",
+          "He employed one part-time assistant even though he operated as a sole trader.",
+          "Being a sole trader gives flexibility but means no paid sick leave or annual leave entitlements.",
+          "She transitioned from sole trader to a company structure as her business grew larger."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 20,
+    "words": [
+      {
+        "word": "shares",
+        "ipa": "/ʃɛəz/",
+        "phonetic": "[shairz]",
+        "meaning": "hisse senetleri",
+        "type": "isim (çoğul)",
+        "sentences": [
+          "She bought shares in an Australian mining company through an online brokerage account.",
+          "He sold his shares at a profit after holding them for two years.",
+          "The value of her shares dropped sharply during the market correction last month.",
+          "He started investing in shares with small amounts to learn how the market worked.",
+          "She held a diversified portfolio of Australian and international shares.",
+          "Dividends from her shares provided a regular stream of passive income each year.",
+          "He spoke to a financial advisor before making any decisions about buying shares.",
+          "Shares are considered a long-term investment — short-term fluctuations are normal.",
+          "She used a regular investment plan to buy a fixed dollar amount of shares each month.",
+          "He included the capital gain from selling shares in his tax return for the financial year."
+        ]
+      },
+      {
+        "word": "ETF",
+        "ipa": "/iːtiːɛf/",
+        "phonetic": "[ee-tee-EF]",
+        "meaning": "borsa yatırım fonu",
+        "type": "kısaltma (isim)",
+        "sentences": [
+          "She invested in a broad market ETF to gain exposure to hundreds of companies at once.",
+          "ETFs trade on the Australian Securities Exchange just like individual company shares.",
+          "He chose a low-cost index ETF rather than actively managed funds to reduce fees.",
+          "An ETF can track a share index, a sector, bonds, or even commodities.",
+          "She drip-fed money into her ETF each month as part of her long-term savings strategy.",
+          "He liked that the ETF automatically rebalanced its holdings to track the index.",
+          "ETFs are popular with younger Australian investors because of their low cost and simplicity.",
+          "She compared the management expense ratios of several ETFs before making a selection.",
+          "He discussed ETF options with his financial advisor during their annual review.",
+          "The ETF paid a quarterly distribution that she had automatically reinvested back into the fund."
+        ]
+      },
+      {
+        "word": "dividend",
+        "ipa": "/ˈdɪvɪdɛnd/",
+        "phonetic": "[DIV-ih-dend]",
+        "meaning": "temettü, hisse kâr payı",
+        "type": "isim",
+        "sentences": [
+          "She received a dividend payment from her Australian shares twice a year.",
+          "The dividend came with full franking credits, which reduced her overall tax payable.",
+          "He reinvested his dividends to buy additional shares rather than taking the cash.",
+          "Australian companies commonly pay franked dividends, which carry a tax credit attached.",
+          "She checked the dividend history of the company before deciding to invest.",
+          "The dividend yield was four percent — better than a term deposit at the current rates.",
+          "He factored the expected dividend into his investment return calculations for the year.",
+          "The company announced a higher than expected dividend and the share price rose sharply.",
+          "She declared all dividend income on her tax return as required by the ATO.",
+          "Understanding franking credits on dividends can be complex — he asked his accountant to explain."
+        ]
+      },
+      {
+        "word": "insurance",
+        "ipa": "/ɪnˈʃʊərəns/",
+        "phonetic": "[in-SHOOR-uns]",
+        "meaning": "sigorta",
+        "type": "isim",
+        "sentences": [
+          "She compared insurance quotes from several providers before renewing her home and contents policy.",
+          "He took out income protection insurance after becoming self-employed as a sole trader.",
+          "The insurance covered the full cost of replacing her car after the hailstorm damaged it.",
+          "She disclosed all relevant information to the insurer to ensure her insurance was valid.",
+          "He read the product disclosure statement carefully before signing up for any insurance.",
+          "Their home insurance did not cover flood — she updated the policy immediately after learning this.",
+          "She lodged an insurance claim online and received a decision within three business days.",
+          "He reviewed all his insurance policies each year to make sure they still met his needs.",
+          "Travel insurance is strongly recommended before travelling overseas from Australia.",
+          "She found a better insurance deal by going through a comparison website."
+        ]
+      },
+      {
+        "word": "premium",
+        "ipa": "/ˈpriːmiəm/",
+        "phonetic": "[PREE-mee-um]",
+        "meaning": "sigorta primi, poliçe bedeli",
+        "type": "isim",
+        "sentences": [
+          "Her car insurance premium went up at renewal because she had made a claim the previous year.",
+          "He chose a higher excess on his home insurance policy to bring down the annual premium.",
+          "The health insurance premium increased by four percent at the start of the financial year.",
+          "She paid the premium monthly rather than annually to spread the cost across the year.",
+          "He compared premiums from five different insurers before deciding on the best value.",
+          "The insurance premium was tax-deductible because the policy covered her income as a sole trader.",
+          "She set up a direct debit so the premium was never accidentally missed.",
+          "He was surprised how much the premium dropped when he updated his vehicle's value accurately.",
+          "The premium for landlord insurance was a legitimate deduction on his investment property.",
+          "She asked whether bundling home and contents insurance would reduce the combined premium."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 21,
+    "words": [
+      {
+        "word": "budget",
+        "ipa": "/ˈbʌdʒɪt/",
+        "phonetic": "[BUJ-it]",
+        "meaning": "bütçe",
+        "type": "isim / fiil",
+        "sentences": [
+          "She created a monthly budget to track exactly where her money was going each week.",
+          "He was surprised how much money he was spending on takeaway once he started budgeting.",
+          "The family sat down together to review their budget after the interest rate rose again.",
+          "She used a free budgeting app to categorise and monitor all her daily spending.",
+          "He set a strict budget for the home renovation to avoid blowing out the overall cost.",
+          "Sticking to a budget meant they had enough savings for a holiday at the end of the year.",
+          "She included everything in the budget — groceries, petrol, subscriptions, and coffee.",
+          "He asked his accountant for help creating a realistic budget for his new small business.",
+          "The council announced a budget shortfall and deferred several planned infrastructure projects.",
+          "She felt far more in control of her finances once she committed to a simple weekly budget."
+        ]
+      },
+      {
+        "word": "savings",
+        "ipa": "/ˈseɪvɪŋz/",
+        "phonetic": "[SAY-vingz]",
+        "meaning": "birikimler, tasarruf",
+        "type": "isim (çoğul)",
+        "sentences": [
+          "She put ten percent of every pay into a dedicated savings account for the house deposit.",
+          "His savings grew steadily once he automated a transfer on the same day as his pay.",
+          "The emergency savings fund covered three months of living expenses — very reassuring.",
+          "She used the fifty-thirty-twenty rule to divide her income between needs, wants, and savings.",
+          "He dipped into his savings when the car needed urgent repairs and then rebuilt it quickly.",
+          "High-interest savings accounts are worth comparing across banks to maximise returns.",
+          "She kept her savings separate from her everyday account so she wasn't tempted to spend them.",
+          "He set a savings goal for a trip to Japan and reached it in fourteen months.",
+          "The financial advisor praised her disciplined approach to building savings over time.",
+          "She taught her teenage children the habit of putting a portion of every dollar earned into savings."
+        ]
+      },
+      {
+        "word": "cash flow",
+        "ipa": "/kæʃ floʊ/",
+        "phonetic": "[kash floh]",
+        "meaning": "nakit akışı",
+        "type": "isim öbeği",
+        "sentences": [
+          "Her small business had healthy revenue but poor cash flow because clients paid slowly.",
+          "He tracked the monthly cash flow on a simple spreadsheet to make sure bills were covered.",
+          "Positive cash flow means more money is coming in than going out each month.",
+          "She timed her invoice due dates carefully to smooth out the cash flow through the month.",
+          "The accountant prepared a cash flow forecast to help plan for quieter trading periods.",
+          "He struggled with cash flow in his first year of business despite having plenty of work.",
+          "She applied for a small business overdraft to cover short-term cash flow shortfalls.",
+          "Good cash flow management is one of the most important skills for any small business owner.",
+          "He was relieved when a large client paid early and improved the monthly cash flow.",
+          "She negotiated shorter payment terms with new clients to improve her business cash flow."
+        ]
+      },
+      {
+        "word": "net worth",
+        "ipa": "/nɛt wɜːθ/",
+        "phonetic": "[net wurth]",
+        "meaning": "net değer, toplam servet",
+        "type": "isim öbeği",
+        "sentences": [
+          "She calculated her net worth by adding up all her assets and subtracting her debts.",
+          "His net worth increased significantly after paying off the car loan and building savings.",
+          "Net worth includes superannuation, property equity, shares, and savings minus any liabilities.",
+          "She reviewed her net worth each January to track her overall financial progress.",
+          "He was surprised that his net worth was negative in his mid-twenties — mortgage exceeded his assets.",
+          "The financial advisor said focusing on growing net worth was more important than income alone.",
+          "She shared her net worth journey on a personal finance blog to motivate other young Australians.",
+          "Paying down the mortgage increases net worth even when the share market is performing poorly.",
+          "He used a simple spreadsheet to track his net worth every six months over ten years.",
+          "Understanding your net worth gives you a clear picture of where you stand financially."
+        ]
+      },
+      {
+        "word": "financial goal",
+        "ipa": "/faɪˈnænʃəl ɡoʊl/",
+        "phonetic": "[fy-NAN-shul gohl]",
+        "meaning": "finansal hedef",
+        "type": "isim öbeği",
+        "sentences": [
+          "Her financial goal for the year was to save twenty thousand dollars for a house deposit.",
+          "He wrote down his financial goals and reviewed them with his financial advisor each year.",
+          "Setting clear financial goals makes it much easier to make decisions about spending and saving.",
+          "She broke her long-term financial goal into smaller monthly milestones she could track.",
+          "His most important financial goal was to pay off the mortgage before he turned fifty.",
+          "She shared her financial goals with her partner so they could work toward them together.",
+          "Retiring comfortably was a long-term financial goal that guided all her saving decisions.",
+          "He used a goal-setting app to track progress toward three separate financial goals at once.",
+          "The financial advisor helped them prioritise which financial goals to tackle first.",
+          "She celebrated reaching each financial goal — no matter how small — to stay motivated."
+        ]
+      }
+    ]
+  }
+]

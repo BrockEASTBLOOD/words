@@ -1,0 +1,702 @@
+[
+  {
+    "day": 8,
+    "words": [
+      {
+        "word": "landlord",
+        "ipa": "/ˈlændlɔːd/",
+        "phonetic": "[LAND-lord]",
+        "meaning": "ev sahibi, kiraya veren",
+        "type": "isim",
+        "sentences": [
+          "The landlord agreed to fix the leaking roof before the next rental payment was due.",
+          "She contacted the landlord straight away when the hot water system stopped working.",
+          "Under Australian tenancy law, the landlord must give proper notice before entering the property.",
+          "The landlord increased the rent by fifteen dollars a week at the end of the lease.",
+          "He had a great relationship with his landlord — any issue was sorted within the day.",
+          "The landlord lives overseas and uses a property manager to handle everything locally.",
+          "She asked the landlord for permission before hanging any pictures on the walls.",
+          "The landlord was required by law to lodge the bond with the relevant tenancy authority.",
+          "He found a new tenant quickly because he kept the property in excellent condition.",
+          "The landlord provided a written condition report before the tenant moved in."
+        ]
+      },
+      {
+        "word": "bond",
+        "ipa": "/bɒnd/",
+        "phonetic": "[bond]",
+        "meaning": "kiracı depozitosu, güvence bedeli",
+        "type": "isim",
+        "sentences": [
+          "She paid four weeks bond upfront before getting the keys to the rental property.",
+          "The bond must be lodged with the state tenancy authority within a set number of days.",
+          "He got his full bond back because he left the property in perfect condition.",
+          "The landlord tried to claim the bond for general wear and tear, which is not allowed.",
+          "She had a dispute about the bond and took it to the tenancy tribunal to resolve.",
+          "Always do a thorough condition report at move-in to protect your bond at the end.",
+          "The bond was equivalent to one month's rent for the two-bedroom unit.",
+          "He saved for months just to cover the bond and first month's rent in advance.",
+          "Bond claims must be supported by evidence such as photos and receipts.",
+          "She received her bond refund within two weeks of vacating the property."
+        ]
+      },
+      {
+        "word": "strata",
+        "ipa": "/ˈstrɑːtə/",
+        "phonetic": "[STRAA-tuh]",
+        "meaning": "kat mülkiyeti yönetim sistemi",
+        "type": "isim",
+        "sentences": [
+          "The apartment is under strata title, which means owners share common areas and costs.",
+          "She paid her strata fees each quarter — they covered building insurance and maintenance.",
+          "The strata committee voted to repaint the entire building exterior this financial year.",
+          "He checked the strata report carefully before making an offer on the apartment.",
+          "Strata living means you need approval before making structural changes to your unit.",
+          "The strata manager organised a plumber to fix the shared pipe that burst in the wall.",
+          "She attended the annual general meeting to have a say in strata decisions.",
+          "The strata levies went up this year because of the cost of major roof repairs.",
+          "He found the strata by-laws online before signing the contract of sale.",
+          "Disputes between strata residents are handled through the strata committee first."
+        ]
+      },
+      {
+        "word": "ensuite",
+        "ipa": "/ɒnˈswiːt/",
+        "phonetic": "[on-SWEET]",
+        "meaning": "banyolu yatak odası",
+        "type": "isim",
+        "sentences": [
+          "The master bedroom has an ensuite with a double vanity and walk-in shower.",
+          "She loved the ensuite — no more sharing the main bathroom with the flatmates.",
+          "The agent highlighted the ensuite as a key selling point for the property.",
+          "Having an ensuite in the main bedroom adds real value to a home in this market.",
+          "He renovated the ensuite first because the tiles were cracked and the tap was leaking.",
+          "The new build comes with an ensuite off every bedroom — very practical for families.",
+          "She listed the property as four bedrooms, two bathrooms and one ensuite.",
+          "The ensuite was small but well laid out with good storage under the vanity.",
+          "He appreciated the ensuite on busy weekday mornings when everyone was rushing.",
+          "The real estate ad said master with ensuite — that was the first thing she checked."
+        ]
+      },
+      {
+        "word": "pergola",
+        "ipa": "/ˈpɜːɡələ/",
+        "phonetic": "[PUR-guh-luh]",
+        "meaning": "bahçe çardağı, sundurma",
+        "type": "isim",
+        "sentences": [
+          "They built a pergola over the decking area to provide shade for outdoor entertaining.",
+          "The pergola was strung with fairy lights for the summer garden party.",
+          "He got a council permit before constructing the pergola in the backyard.",
+          "She grew wisteria up the pergola posts — it looked beautiful every spring.",
+          "The pergola made a big difference to how much time they actually spent outdoors.",
+          "A colorbond pergola is low maintenance and handles the Australian sun very well.",
+          "They sat under the pergola every evening after work to wind down.",
+          "The real estate listing mentioned a large entertaining pergola as a key feature.",
+          "He built the pergola himself over a long weekend with help from a couple of mates.",
+          "The pergola was positioned to catch the afternoon sea breeze perfectly."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 9,
+    "words": [
+      {
+        "word": "granny flat",
+        "ipa": "/ˈɡræni flæt/",
+        "phonetic": "[GRAN-ee flat]",
+        "meaning": "bahçedeki küçük ek konut birimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "They built a granny flat in the backyard to earn extra rental income.",
+          "Her mum moved into the granny flat so the family could be close but still have privacy.",
+          "The granny flat has its own entrance, bathroom, kitchen and laundry — very self-contained.",
+          "Council approval is required before you can build a granny flat on your property.",
+          "He rented out the granny flat to a TAFE student to help cover the mortgage.",
+          "A granny flat can add significant value to a property in the current housing market.",
+          "The granny flat was originally built for her parents but is now listed on a rental site.",
+          "She converted the old garage into a granny flat after a full renovation.",
+          "The granny flat has its own electricity meter and water connection.",
+          "Many families use a granny flat to house adult children who cannot afford local rent."
+        ]
+      },
+      {
+        "word": "colorbond",
+        "ipa": "/ˈkʌləbɒnd/",
+        "phonetic": "[KUL-uh-bond]",
+        "meaning": "çelik çatı ve çit malzemesi (Avustralya markası)",
+        "type": "isim (özel ad)",
+        "sentences": [
+          "They replaced the old terracotta tiles with a colorbond roof — far more durable.",
+          "The colorbond fence keeps the neighbours' dogs out and gives the yard real privacy.",
+          "Colorbond roofing is extremely popular in Australian suburbs because of the heat.",
+          "She chose a dark grey colorbond for the shed to match the main house.",
+          "The colorbond gate at the side of the house slides open automatically.",
+          "He priced up both colorbond and timber fencing — colorbond worked out cheaper long term.",
+          "Colorbond does not rust, rot, or need regular painting like timber does.",
+          "The new development has colorbond roofs throughout — a very clean modern look.",
+          "She asked the tradie to quote on a full colorbond fence along the back boundary.",
+          "Colorbond comes in a wide range of colours to suit different architectural styles."
+        ]
+      },
+      {
+        "word": "heritage listing",
+        "ipa": "/ˈhɛrɪtɪdʒ ˈlɪstɪŋ/",
+        "phonetic": "[HER-ih-tij LIS-ting]",
+        "meaning": "tarihi yapı tescili",
+        "type": "isim öbeği",
+        "sentences": [
+          "The old bluestone cottage has a heritage listing, so major changes require council approval.",
+          "She fell in love with the property but checked the heritage listing conditions first.",
+          "A heritage listing can restrict what renovations you are allowed to do to a home.",
+          "He was surprised to learn the inner-city terrace had a heritage listing attached.",
+          "The heritage listing protects the original facade from being altered or demolished.",
+          "She consulted a heritage architect before submitting the renovation application to council.",
+          "A heritage listing can add value by preserving the historic character of a home.",
+          "The suburb has several streets with heritage listings covering the entire streetscape.",
+          "He found out about the heritage listing during the due diligence period before settlement.",
+          "Heritage listing requirements vary between local councils across different states."
+        ]
+      },
+      {
+        "word": "kerb appeal",
+        "ipa": "/kɜːb əˈpiːl/",
+        "phonetic": "[kurb uh-PEEL]",
+        "meaning": "evin sokaktan görünüş çekiciliği",
+        "type": "isim öbeği",
+        "sentences": [
+          "They repainted the front fence and planted new gardens to boost the kerb appeal.",
+          "The agent said good kerb appeal could add tens of thousands to the sale price.",
+          "She power-washed the driveway to improve the kerb appeal before the open inspection.",
+          "A fresh coat of paint on the front door makes a huge difference to kerb appeal.",
+          "He trimmed the overgrown hedge out front to immediately lift the kerb appeal.",
+          "The vendor spent a weekend tidying the front yard specifically for kerb appeal.",
+          "Buyers form an opinion in the first thirty seconds — kerb appeal really matters.",
+          "She added potted plants and a new letterbox to give the home better kerb appeal.",
+          "The real estate agent recommended decluttering the front porch to maximise kerb appeal.",
+          "Good kerb appeal draws buyers in before they have even stepped through the front door."
+        ]
+      },
+      {
+        "word": "open inspection",
+        "ipa": "/ˈoʊpən ɪnˈspɛkʃən/",
+        "phonetic": "[OH-pun in-SPEK-shun]",
+        "meaning": "açık ev, satılık ev gezisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She went to three open inspections on Saturday morning before finding the right place.",
+          "The open inspection was scheduled for thirty minutes between ten and ten-thirty.",
+          "He turned up early to the open inspection to beat the crowd of buyers.",
+          "The agent greeted everyone at the door and handed out printed floor plans at the open inspection.",
+          "She always takes notes and photos during an open inspection to compare properties later.",
+          "The open inspection drew over forty groups through the property in half an hour.",
+          "He noticed a crack in the wall during the open inspection and flagged it with the agent.",
+          "She signed the inspection sheet at the open inspection to be added to the contact list.",
+          "The open inspection times are listed on the real estate website every Thursday.",
+          "They attended six open inspections before making their first offer on a property."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 10,
+    "words": [
+      {
+        "word": "auction",
+        "ipa": "/ˈɔːkʃən/",
+        "phonetic": "[AWK-shun]",
+        "meaning": "müzayede, açık artırma",
+        "type": "isim",
+        "sentences": [
+          "The property sold at auction for well above the reserve price last Saturday.",
+          "She was nervous bidding at auction for the first time but kept a clear budget in mind.",
+          "Auctions are very common in Melbourne and Sydney — many properties never go to private sale.",
+          "He registered to bid at the auction the day before so he had his number ready.",
+          "The auctioneer called the property on the market at eight hundred and fifty thousand dollars.",
+          "They missed out at auction by five thousand dollars — incredibly frustrating.",
+          "She watched several auctions before bidding at one herself to understand how they work.",
+          "The auction was held in the front garden with a large crowd of hopeful buyers.",
+          "He got pre-approved for his home loan before attending any auctions.",
+          "Auction results for the suburb were published online every Saturday evening."
+        ]
+      },
+      {
+        "word": "settlement",
+        "ipa": "/ˈsɛtəlmənt/",
+        "phonetic": "[SET-ul-munt]",
+        "meaning": "tapu devri, mülkiyet kapanışı",
+        "type": "isim",
+        "sentences": [
+          "Settlement is the day ownership of the property officially transfers to the buyer.",
+          "She arranged to take the day off work because settlement was at two in the afternoon.",
+          "The bank released the mortgage funds to the seller's account on settlement day.",
+          "He had a final inspection of the property the morning before settlement.",
+          "Settlement was delayed by a week because one of the documents had not been signed.",
+          "On settlement day she finally got the keys and couldn't believe it was all real.",
+          "Their conveyancer handled all the paperwork and attended settlement on their behalf.",
+          "The standard settlement period in South Australia is thirty days after the contract date.",
+          "She counted down the days to settlement after months of searching for the right home.",
+          "Any issues found during the final inspection should be resolved before settlement."
+        ]
+      },
+      {
+        "word": "conveyancer",
+        "ipa": "/kənˈveɪənsə/",
+        "phonetic": "[kun-VAY-un-suh]",
+        "meaning": "tapu devri uzmanı, mülk transferi avukatı",
+        "type": "isim",
+        "sentences": [
+          "She hired a licensed conveyancer to handle all the legal paperwork for the property purchase.",
+          "The conveyancer reviewed the contract of sale thoroughly before she signed anything.",
+          "He compared quotes from three conveyancers before choosing one with good reviews.",
+          "The conveyancer discovered a covenant on the title that restricted certain future uses.",
+          "Using a conveyancer is more affordable than using a solicitor for a straightforward purchase.",
+          "The conveyancer explained every clause in the contract in plain language.",
+          "She asked the conveyancer about the heritage listing before making an offer.",
+          "The conveyancer liaised with the bank to make sure funds were ready for settlement day.",
+          "He recommended their conveyancer to friends who were also buying their first home.",
+          "A good conveyancer will flag any red flags in a contract before you commit to buying."
+        ]
+      },
+      {
+        "word": "building inspection",
+        "ipa": "/ˈbɪldɪŋ ɪnˈspɛkʃən/",
+        "phonetic": "[BIL-ding in-SPEK-shun]",
+        "meaning": "bina denetimi, yapı incelemesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "He organised a building inspection before signing the contract to avoid any nasty surprises.",
+          "The building inspection report revealed significant cracking in the rear retaining wall.",
+          "She always gets a building inspection done — it's one of the best investments before buying.",
+          "The inspector found rising damp in the laundry during the building inspection.",
+          "A building inspection typically costs between four hundred and eight hundred dollars.",
+          "He used the building inspection report to negotiate the price down significantly.",
+          "The building inspector checked the roof, subfloor, walls, and electrical safety switches.",
+          "She was relieved when the building inspection came back with only minor issues.",
+          "The building inspection must be done before the cooling-off period ends.",
+          "They made their offer subject to a satisfactory building and pest inspection result."
+        ]
+      },
+      {
+        "word": "pest inspection",
+        "ipa": "/pɛst ɪnˈspɛkʃən/",
+        "phonetic": "[pest in-SPEK-shun]",
+        "meaning": "haşere denetimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "The pest inspection uncovered active termite damage in the subfloor of the property.",
+          "She booked a combined building and pest inspection to save both time and money.",
+          "A pest inspection is absolutely essential in Australia due to the risk of termites.",
+          "The pest inspector used a moisture meter and thermal camera to detect hidden activity.",
+          "He was relieved when the pest inspection came back completely clear.",
+          "They dropped their offer after the pest inspection found evidence of past termite treatment.",
+          "A pest inspection should always be done before purchasing any residential property.",
+          "The pest inspector checked every room, the roof void, and the subfloor thoroughly.",
+          "She asked the pest inspector whether the previous treatment had been successful.",
+          "A clear pest inspection report gave them the confidence to proceed with the purchase."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 11,
+    "words": [
+      {
+        "word": "tenant",
+        "ipa": "/ˈtɛnənt/",
+        "phonetic": "[TEN-unt]",
+        "meaning": "kiracı",
+        "type": "isim",
+        "sentences": [
+          "The tenant reported the broken heater to the property manager on the same day.",
+          "Under the Residential Tenancies Act, a tenant has the right to quiet enjoyment.",
+          "She has been a reliable tenant for three years — always pays rent on time.",
+          "The tenant gave four weeks written notice before vacating the property.",
+          "He found a new tenant within a week of listing the property on a rental website.",
+          "The landlord cannot enter the property without giving the tenant proper advance notice.",
+          "A good tenant who cares for the property is worth keeping with a fair rent increase.",
+          "She helped the tenant understand their rights when the landlord tried to end the lease early.",
+          "The tenant was responsible for keeping the garden tidy under the terms of the lease.",
+          "Tenants in Australia are protected by state-based residential tenancy legislation."
+        ]
+      },
+      {
+        "word": "lease",
+        "ipa": "/liːs/",
+        "phonetic": "[lees]",
+        "meaning": "kira sözleşmesi",
+        "type": "isim",
+        "sentences": [
+          "She signed a twelve-month lease before moving into the apartment near the university.",
+          "The lease clearly states that no pets are permitted without the landlord's written approval.",
+          "He renewed his lease for another year because the suburb suited him perfectly.",
+          "Breaking a lease early in Australia can result in costs such as re-letting fees.",
+          "She read every clause in the lease carefully before adding her signature.",
+          "The lease was drawn up by the property manager and signed by all parties.",
+          "He asked the property manager to add a clause allowing him to work from home.",
+          "At the end of the lease, the property must be returned in the same condition as documented.",
+          "She negotiated the rent amount before signing the lease to lock in a fair rate.",
+          "A periodic lease runs month to month after the fixed term has expired."
+        ]
+      },
+      {
+        "word": "property manager",
+        "ipa": "/ˈprɒpəti ˈmænɪdʒə/",
+        "phonetic": "[PROP-uh-tee MAN-ih-juh]",
+        "meaning": "mülk yöneticisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "The property manager handled all communications between the landlord and tenant.",
+          "She called the property manager as soon as she noticed the water stain on the ceiling.",
+          "The property manager conducted a routine inspection every six months under the lease terms.",
+          "He chose a property manager with a strong local reputation to look after his investment.",
+          "The property manager advertised the vacancy and screened all rental applications.",
+          "She asked the property manager for a copy of the inspection report after each visit.",
+          "The property manager organised emergency repairs for the broken hot water system overnight.",
+          "He paid the property manager a percentage of the weekly rent as a management fee.",
+          "A good property manager protects both the landlord's asset and the tenant's rights.",
+          "The property manager lodged the bond with the tenancy authority on the day of the move-in."
+        ]
+      },
+      {
+        "word": "real estate agent",
+        "ipa": "/rɪəl ɪˈsteɪt ˈeɪdʒənt/",
+        "phonetic": "[reel ih-STAYT AY-junt]",
+        "meaning": "emlakçı, gayrimenkul danışmanı",
+        "type": "isim öbeği",
+        "sentences": [
+          "The real estate agent guided them through the whole process from inspection to settlement.",
+          "She chose a real estate agent who had strong recent sales in their specific suburb.",
+          "The real estate agent advised them to price the property competitively for a quick sale.",
+          "He asked the real estate agent about recent comparable sales before making an offer.",
+          "The real estate agent held four open inspections and received eleven offers within the week.",
+          "She found a real estate agent through a personal recommendation from a neighbour.",
+          "The real estate agent negotiated on their behalf and achieved a result above expectations.",
+          "Real estate agents in Australia must hold a valid licence in their state.",
+          "He appreciated that the real estate agent was honest about the property's limitations.",
+          "The real estate agent provided a detailed market appraisal before they listed the property."
+        ]
+      },
+      {
+        "word": "rental increase",
+        "ipa": "/ˈrɛntəl ˈɪŋkriːs/",
+        "phonetic": "[REN-tul IN-krees]",
+        "meaning": "kira artışı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She received a letter from the property manager with a rental increase of thirty dollars per week.",
+          "Tenants must be given a minimum amount of notice before any rental increase takes effect.",
+          "The rental increase was frustrating but still below what similar properties were charging nearby.",
+          "He negotiated a smaller rental increase by pointing out his reliable payment history.",
+          "Rental increases in some states are limited by regulations to protect tenants from large jumps.",
+          "She budgeted carefully when she heard a rental increase was likely at the end of the lease.",
+          "The property manager justified the rental increase by citing rising market rates in the suburb.",
+          "He contacted the tenancy authority to check whether the rental increase was legally valid.",
+          "Families on low incomes are most affected by sudden rental increases in tight markets.",
+          "She decided to look for another place after receiving the second rental increase in a year."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 12,
+    "words": [
+      {
+        "word": "stamp duty",
+        "ipa": "/stæmp ˈdjuːti/",
+        "phonetic": "[stamp DYOO-tee]",
+        "meaning": "tapu harcı, damga vergisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "They budgeted carefully for stamp duty on top of the purchase price and deposit.",
+          "First home buyers in South Australia may be eligible for a stamp duty concession.",
+          "Stamp duty on a seven hundred thousand dollar property was approximately twenty-eight thousand dollars.",
+          "She was surprised by how much stamp duty added to the total cost of buying the home.",
+          "He calculated the stamp duty using the state revenue office online calculator.",
+          "Stamp duty must be paid within a set number of days after the contract is signed.",
+          "The government announced changes to stamp duty thresholds for first home buyers.",
+          "Stamp duty rates differ between states — always check the rules in your specific state.",
+          "She factored stamp duty into her total budget well before making any offers.",
+          "He asked the conveyancer to confirm the exact stamp duty amount before settlement."
+        ]
+      },
+      {
+        "word": "land tax",
+        "ipa": "/lænd tæks/",
+        "phonetic": "[land taks]",
+        "meaning": "arazi vergisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "Investors who own multiple properties may be liable for land tax each financial year.",
+          "She was surprised to receive a land tax assessment for her investment property.",
+          "Land tax is calculated based on the total unimproved value of land you own.",
+          "He checked whether the property would attract land tax before completing the purchase.",
+          "Principal place of residence is generally exempt from land tax in most Australian states.",
+          "The land tax threshold varies between states — some are much higher than others.",
+          "She spoke to her accountant about how to manage her land tax obligations effectively.",
+          "Land tax revenue helps fund state government services and infrastructure projects.",
+          "He appealed the land tax assessment because he believed the valuation was too high.",
+          "The property manager reminded the investor that land tax is not recoverable from the tenant."
+        ]
+      },
+      {
+        "word": "council rates",
+        "ipa": "/ˈkaʊnsəl reɪts/",
+        "phonetic": "[KOWN-sul rayts]",
+        "meaning": "belediye vergisi",
+        "type": "isim öbeği",
+        "sentences": [
+          "Council rates are paid quarterly and help fund local roads, parks, and rubbish collection.",
+          "She set up a direct debit to make sure council rates were paid automatically on time.",
+          "The council rates increased this year because of major infrastructure improvements in the area.",
+          "He checked the council rates amount listed in the sales contract before signing.",
+          "Council rates are based on the assessed capital value of the land and improvements.",
+          "She applied for a council rates concession as a low-income pensioner homeowner.",
+          "Tenants do not usually pay council rates directly — that is the owner's responsibility.",
+          "He paid council rates in full for the year to avoid the quarterly instalment fees.",
+          "The council rates notice arrived in July and was due before the end of September.",
+          "She called the council to query the rates notice because the amount seemed too high."
+        ]
+      },
+      {
+        "word": "body corporate",
+        "ipa": "/ˈbɒdi ˈkɔːpərɪt/",
+        "phonetic": "[BOD-ee KOR-puh-rut]",
+        "meaning": "site veya apartman yönetim kurulu",
+        "type": "isim öbeği",
+        "sentences": [
+          "The body corporate is responsible for maintaining all the common areas of the apartment complex.",
+          "She attended the body corporate annual general meeting to vote on the proposed repairs.",
+          "The body corporate levied a special contribution for unexpected structural work on the car park.",
+          "He asked to see the body corporate meeting minutes before purchasing the apartment.",
+          "The body corporate by-laws prohibited hanging washing on balconies visible from the street.",
+          "A well-run body corporate keeps the building in great condition and maintains property values.",
+          "She raised a maintenance request with the body corporate about the flickering foyer lights.",
+          "The body corporate insurance covered damage to the building's common property.",
+          "He complained to the body corporate after his neighbour repeatedly breached the noise rules.",
+          "The body corporate hired a strata manager to handle the day-to-day administration."
+        ]
+      },
+      {
+        "word": "strata levy",
+        "ipa": "/ˈstrɑːtə ˈlɛvi/",
+        "phonetic": "[STRAA-tuh LEV-ee]",
+        "meaning": "site yönetim aidatı",
+        "type": "isim öbeği",
+        "sentences": [
+          "The strata levy is paid quarterly and covers building insurance, cleaning, and garden maintenance.",
+          "She budgeted for the strata levy on top of the mortgage repayment when calculating affordability.",
+          "The strata levy increased significantly after the building needed a new roof this year.",
+          "He asked the strata manager for a full breakdown of what the levy actually covers.",
+          "A high strata levy may indicate a building with ongoing maintenance issues to investigate.",
+          "She set up automatic payments so the strata levy was never paid late.",
+          "The strata levy for that complex was unusually low because there was a healthy sinking fund.",
+          "He compared strata levies across three apartment buildings before making his final decision.",
+          "Unpaid strata levies can result in penalties and interest charges under the strata rules.",
+          "The strata levy notice was sent by email at the beginning of each quarter."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 13,
+    "words": [
+      {
+        "word": "solar panels",
+        "ipa": "/ˈsoʊlər ˈpænəlz/",
+        "phonetic": "[SOH-luh PAN-ulz]",
+        "meaning": "güneş panelleri",
+        "type": "isim öbeği",
+        "sentences": [
+          "They installed solar panels on the roof and cut their electricity bill by more than half.",
+          "The solar panels generate enough power to run the house through most of the day.",
+          "She got three quotes before choosing a solar panel system for her home.",
+          "Solar panels are a very popular upgrade in Australian homes because of the abundant sunshine.",
+          "He checked whether the solar panels were included in the sale or excluded from the contract.",
+          "The solar panels fed excess energy back into the grid and earned a small feed-in tariff.",
+          "She applied for a government rebate to offset the upfront cost of the solar panels.",
+          "The real estate listing highlighted the solar panels as a major feature of the property.",
+          "He asked a licensed installer to inspect the existing solar panels before buying the house.",
+          "Solar panels typically pay for themselves within five to seven years in Australia."
+        ]
+      },
+      {
+        "word": "rainwater tank",
+        "ipa": "/ˈreɪnwɔːtə tæŋk/",
+        "phonetic": "[RAYN-waw-tuh tank]",
+        "meaning": "yağmur suyu deposu",
+        "type": "isim öbeği",
+        "sentences": [
+          "The rainwater tank collects roof runoff and feeds directly into the toilet and laundry.",
+          "She installed a five-thousand-litre rainwater tank to reduce reliance on mains water.",
+          "During the drought, the rainwater tank was the only water source for the vegetable garden.",
+          "He connected the rainwater tank to the drip irrigation system in the backyard.",
+          "Many councils offer rebates to encourage homeowners to install a rainwater tank.",
+          "The rainwater tank was empty after three months without any significant rainfall.",
+          "She had the rainwater tank professionally cleaned and inspected every two years.",
+          "The plumber connected the rainwater tank to the garden tap and one indoor toilet.",
+          "A rainwater tank reduces household water bills and is better for the environment.",
+          "The property listing mentioned a large colorbond rainwater tank at the side of the house."
+        ]
+      },
+      {
+        "word": "split system",
+        "ipa": "/splɪt ˈsɪstəm/",
+        "phonetic": "[split SIS-tum]",
+        "meaning": "split tip klima",
+        "type": "isim öbeği",
+        "sentences": [
+          "They installed a split system in the main bedroom to cope with the summer heat.",
+          "The split system heats in winter and cools in summer — very practical all year round.",
+          "She asked the landlord to install a split system before signing the lease.",
+          "The sparky ran the cabling for the new split system through the ceiling cavity.",
+          "A reverse-cycle split system is the most energy-efficient option for Australian climates.",
+          "He cleaned the filters on the split system every few months to keep it running efficiently.",
+          "The split system made a huge difference to comfort levels during the January heatwave.",
+          "She got a five-star energy-rated split system to keep running costs as low as possible.",
+          "The property had a split system in the living area and a ceiling fan in each bedroom.",
+          "He compared several split system brands at the hardware store before choosing one."
+        ]
+      },
+      {
+        "word": "ducted heating",
+        "ipa": "/ˈdʌktɪd ˈhiːtɪŋ/",
+        "phonetic": "[DUK-tid HEE-ting]",
+        "meaning": "merkezi ısıtma sistemi, borulu ısıtma",
+        "type": "isim öbeği",
+        "sentences": [
+          "The house has ducted heating throughout — every room stays warm in winter.",
+          "She set the ducted heating to come on thirty minutes before the alarm each morning.",
+          "Ducted heating is more common in Melbourne and Canberra where winters are genuinely cold.",
+          "He had the ducted heating serviced before winter to make sure it was running efficiently.",
+          "The ducted heating runs on natural gas, which is cheaper than electric heating in this area.",
+          "She liked being able to zone the ducted heating so different rooms had different temperatures.",
+          "The landlord had recently replaced the ducted heating unit — the whole system was new.",
+          "He checked the ducted heating during the building inspection to confirm it was working.",
+          "Ducted heating circulates warm air through ceiling vents in each room of the home.",
+          "She found the ducted heating expensive to run but absolutely essential in a cold snap."
+        ]
+      },
+      {
+        "word": "evaporative cooling",
+        "ipa": "/ɪˈvæpərətɪv ˈkuːlɪŋ/",
+        "phonetic": "[ih-VAP-uh-ruh-tiv KOO-ling]",
+        "meaning": "buharlaşmalı soğutma sistemi",
+        "type": "isim öbeği",
+        "sentences": [
+          "Evaporative cooling works best in dry climates like Adelaide, Perth, and inland areas.",
+          "She opened the windows while running the evaporative cooling to allow proper airflow.",
+          "The evaporative cooling system uses water to cool the air — much cheaper to run than refrigerated air.",
+          "He had the evaporative cooling pads replaced at the start of every summer season.",
+          "Evaporative cooling is less effective on very humid days because the air is already moist.",
+          "The real estate listing mentioned evaporative cooling as a feature of the home.",
+          "She turned on the evaporative cooling at noon and the house cooled down within the hour.",
+          "He compared evaporative cooling with refrigerated air conditioning before choosing a system.",
+          "The evaporative cooling unit sits on the roof and draws in fresh outside air.",
+          "Running evaporative cooling costs a fraction of what a refrigerated system uses."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 14,
+    "words": [
+      {
+        "word": "decking",
+        "ipa": "/ˈdɛkɪŋ/",
+        "phonetic": "[DEK-ing]",
+        "meaning": "tahta dış teras",
+        "type": "isim",
+        "sentences": [
+          "They built a large decking area off the back of the house for outdoor entertaining.",
+          "The decking needed oiling every two years to protect the timber from the sun and rain.",
+          "She chose hardwood decking because it is more durable than treated pine.",
+          "The decking was the main reason they fell in love with the property at the open inspection.",
+          "He stained the decking a dark colour to match the new pergola they had built.",
+          "The tradie replaced three rotting boards and re-oiled the entire decking over the weekend.",
+          "Children played on the decking while the adults sat around the barbie nearby.",
+          "She added outdoor furniture and string lights to make the decking a real entertaining space.",
+          "The building inspector flagged the decking as needing some minor structural work.",
+          "Composite decking is becoming popular because it never needs sanding or oiling."
+        ]
+      },
+      {
+        "word": "verandah",
+        "ipa": "/vəˈrændə/",
+        "phonetic": "[vuh-RAN-duh]",
+        "meaning": "veranda, örtülü dış sundurma",
+        "type": "isim",
+        "sentences": [
+          "The old Queenslander had a wide verandah wrapping around three sides of the house.",
+          "They sat on the verandah every evening to watch the sun set over the paddock.",
+          "She hung a hammock on the verandah for afternoon naps during the holidays.",
+          "The verandah kept the main rooms cool in summer by blocking direct sunlight.",
+          "He painted the verandah floorboards the same heritage green as the window frames.",
+          "The verandah is a classic feature of traditional Australian country homesteads.",
+          "She arranged cane furniture on the verandah to create a relaxed outdoor sitting area.",
+          "The cat slept on the verandah railing every morning in the early sun.",
+          "He replaced the fly screens on the verandah doors before the summer mozzie season.",
+          "A verandah adds great liveable outdoor space without requiring council approval in most cases."
+        ]
+      },
+      {
+        "word": "carport",
+        "ipa": "/ˈkɑːpɔːt/",
+        "phonetic": "[KAA-port]",
+        "meaning": "açık garaj, araç sundurması",
+        "type": "isim",
+        "sentences": [
+          "The carport protects the car from the sun, hail, and bird droppings.",
+          "She had a carport built on the side of the house after her car got hail damage.",
+          "The property has a single garage and a separate carport for a second vehicle.",
+          "He parked his ute under the carport and used the garage for his tools and workshop.",
+          "A carport is much cheaper to build than a fully enclosed garage.",
+          "The carport is made from colorbond steel and has a clear roof sheet along one side.",
+          "She asked the council whether she needed a permit to build the carport.",
+          "The real estate listing described the property as having a double carport and garden shed.",
+          "He built the carport over a long weekend with some help from his mate, who's a tradie.",
+          "The carport was big enough to fit the ute and the trailer side by side."
+        ]
+      },
+      {
+        "word": "skylight",
+        "ipa": "/ˈskaɪlaɪt/",
+        "phonetic": "[SKY-lyt]",
+        "meaning": "tavan penceresi, aydınlatma kubbesi",
+        "type": "isim",
+        "sentences": [
+          "The skylight in the kitchen floods the room with natural light throughout the day.",
+          "She had a skylight installed in the dark hallway to avoid using artificial lighting.",
+          "The sparky wired a ventilating skylight in the bathroom to reduce condensation and moisture.",
+          "He replaced the old leaking skylight during the renovation with a high-quality double-glazed unit.",
+          "A skylight can reduce electricity bills by bringing in natural daylight to dark interior spaces.",
+          "She loved lying in bed and looking up through the skylight at the stars at night.",
+          "The building inspector noted the skylight seal was showing signs of wear and needed replacing.",
+          "He chose a tubular skylight for the laundry — compact and very effective.",
+          "The kitchen skylight was positioned to capture the morning light from the east.",
+          "She asked the tradie for a quote on adding a skylight to the south-facing study."
+        ]
+      },
+      {
+        "word": "fly screen",
+        "ipa": "/flaɪ skriːn/",
+        "phonetic": "[fly skreen]",
+        "meaning": "sineklik, böcek teli",
+        "type": "isim",
+        "sentences": [
+          "She fitted fly screens to every window before the summer mozzie season arrived.",
+          "The fly screen on the back door had a small tear — the mozzies were getting in at night.",
+          "He replaced all the fly screens when he renovated the house — the old ones were rusty.",
+          "A good fly screen lets in the breeze while keeping insects completely out.",
+          "She asked the landlord to repair the broken fly screen within the first week of moving in.",
+          "The fly screen on the verandah door swings shut automatically with a spring mechanism.",
+          "He cut the fly screen material to size and stapled it onto the timber frame himself.",
+          "Fly screens are considered a standard fixture in Australian homes, especially in summer.",
+          "The children pushed out the fly screen while playing and the mozzies got into the bedroom.",
+          "She bought magnetic fly screens for the doorways so they open and close easily."
+        ]
+      }
+    ]
+  }
+]

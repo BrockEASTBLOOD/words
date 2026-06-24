@@ -1,0 +1,702 @@
+[
+  {
+    "day": 1,
+    "words": [
+      {
+        "word": "arvo",
+        "ipa": "/ˈɑːvəʊ/",
+        "phonetic": "[AA-voh]",
+        "meaning": "öğleden sonra",
+        "type": "isim (argo)",
+        "sentences": [
+          "She'll drop by this arvo after her shift at the hospital.",
+          "The footy starts this arvo at three — don't be late.",
+          "We usually hit the beach on a hot arvo like this one.",
+          "Can you come over this arvo for a cuppa and a catch-up?",
+          "He knocked off early and spent the arvo in the garden.",
+          "The kids have soccer training this arvo, so dinner will be late.",
+          "I'll pop into the servo this arvo to grab some snacks for the trip.",
+          "It's a ripper arvo — perfect weather for a swim at the local pool.",
+          "She's usually free in the arvo if you want to catch up over coffee.",
+          "The markets run every Sunday arvo down by the river — worth a visit."
+        ]
+      },
+      {
+        "word": "servo",
+        "ipa": "/ˈsɜːvəʊ/",
+        "phonetic": "[SUR-voh]",
+        "meaning": "benzin istasyonu",
+        "type": "isim (argo)",
+        "sentences": [
+          "I'll swing by the servo on the way home to fill up the tank.",
+          "The servo on Main North Road has the cheapest fuel in the suburb.",
+          "She grabbed a meat pie from the servo for a quick lunch.",
+          "We stopped at the servo to check the tyre pressure before the long drive.",
+          "The servo is open twenty-four hours, so no rush to get there.",
+          "He picked up some milk at the servo since the supermarket was already closed.",
+          "Our local servo has a decent café now — the coffee's actually not bad.",
+          "I always get my car washed at the servo down the road on weekends.",
+          "The servo was packed on the long weekend with people heading up north.",
+          "She paid at the servo with her phone — no cash or card needed."
+        ]
+      },
+      {
+        "word": "barbie",
+        "ipa": "/ˈbɑːbi/",
+        "phonetic": "[BAA-bee]",
+        "meaning": "barbekü",
+        "type": "isim (argo)",
+        "sentences": [
+          "We're having a barbie on Saturday arvo — bring a plate to share.",
+          "He threw some snags and chicken wings on the barbie for everyone.",
+          "The barbie at the park is free to use on weekends — first in, best dressed.",
+          "Don't forget the tomato sauce for the barbie — it's non-negotiable.",
+          "She cleaned the barbie thoroughly before the guests arrived.",
+          "We always do a big barbie on Australia Day with the whole street.",
+          "The barbie was still smoking when the southerly change came through.",
+          "Dad's in charge of the barbie — that's always been the rule.",
+          "They had a massive barbie after the footy grand final to celebrate.",
+          "You can't beat a barbie by the beach on a long summer arvo."
+        ]
+      },
+      {
+        "word": "mozzie",
+        "ipa": "/ˈmɒzi/",
+        "phonetic": "[MOZ-ee]",
+        "meaning": "sivrisinek",
+        "type": "isim (argo)",
+        "sentences": [
+          "Put some repellent on before you go out — the mozzies are terrible tonight.",
+          "A mozzie bit me right on the ankle while I was sitting at the barbie.",
+          "The mozzie net over the bed is a lifesaver when you're camping up north.",
+          "She couldn't sleep because a mozzie kept buzzing near her ear all night.",
+          "The mozzies come out around dusk, so cover up your arms and legs.",
+          "He slapped at a mozzie and knocked his tinnie off the table.",
+          "Burning a citronella candle helps keep the mozzies away at outdoor gatherings.",
+          "The mozzies are fierce near the creek this time of year — take care.",
+          "I got five mozzie bites just from taking the bins out last night.",
+          "They decided to move dinner inside because the mozzies were unbearable."
+        ]
+      },
+      {
+        "word": "bloke",
+        "ipa": "/bləʊk/",
+        "phonetic": "[blohk]",
+        "meaning": "adam, erkek",
+        "type": "isim (argo)",
+        "sentences": [
+          "He's a good bloke — always helps out at the neighbourhood working bee.",
+          "Some bloke at the servo gave me a hand with my flat tyre, no questions asked.",
+          "She said the new neighbour seems like a decent bloke from what she can tell.",
+          "The bloke at the council counter sorted out my rego issue straight away.",
+          "He's just a regular bloke who loves his footy and a cold tinnie on weekends.",
+          "A bloke from work dropped off some tools I needed for the bathroom reno.",
+          "That bloke has been volunteering at the food bank every Saturday for years.",
+          "He's the kind of bloke who'd give you the shirt off his back.",
+          "The bloke running the sausage sizzle at the school fete was incredibly friendly.",
+          "She introduced me to a bloke from her TAFE class who's looking for work."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 2,
+    "words": [
+      {
+        "word": "ripper",
+        "ipa": "/ˈrɪpə/",
+        "phonetic": "[RIP-uh]",
+        "meaning": "harika, mükemmel",
+        "type": "sıfat / ünlem (argo)",
+        "sentences": [
+          "That was a ripper game of footy last Saturday — best one this season.",
+          "She got the promotion — ripper news for the whole team.",
+          "It's a ripper day for a walk along the coastal path.",
+          "He cooked a ripper roast for the family get-together on Sunday.",
+          "Ripper effort from all the kids at the school fun run this morning.",
+          "The new café down the road is a ripper spot for a weekend brekkie.",
+          "What a ripper of a sunset over the hills — I had to take a photo.",
+          "She gave a ripper speech at the year twelve graduation ceremony.",
+          "That's a ripper idea — let's run with it and see how it goes.",
+          "He rode a ripper wave at the surf lifesaving carnival on the weekend."
+        ]
+      },
+      {
+        "word": "footy",
+        "ipa": "/ˈfʊti/",
+        "phonetic": "[FOOT-ee]",
+        "meaning": "Avustralya futbolu (AFL)",
+        "type": "isim (argo)",
+        "sentences": [
+          "We watch the footy every Saturday arvo without fail — it's a ritual.",
+          "The kids started playing footy at the local club for the first time this season.",
+          "She's not into footy but always comes along for the atmosphere and the snags.",
+          "He kicked the winning goal in the footy grand final — the crowd went wild.",
+          "Footy training is on Tuesday and Thursday evenings at the oval.",
+          "They were doing footy tipping at the office all week — everyone's in.",
+          "The footy oval is just around the corner from our place — very handy.",
+          "It's a big footy round this weekend with three local derbies on the card.",
+          "He grew up playing footy in the country before moving to the city for work.",
+          "The footy season runs from March all the way through to the grand final in September."
+        ]
+      },
+      {
+        "word": "ute",
+        "ipa": "/juːt/",
+        "phonetic": "[yoot]",
+        "meaning": "pikap kamyonet",
+        "type": "isim (argo)",
+        "sentences": [
+          "He loaded the ute with timber from the hardware store for the decking job.",
+          "She borrowed her dad's ute to move the old couch to the tip.",
+          "The tradie pulled up in a white ute with all his tools rattling in the back.",
+          "We threw the bikes in the ute and headed out to the trail for the day.",
+          "His ute has a bullbar fitted — really handy on country roads at night.",
+          "The ute tray was full of mulch from the garden centre for the front yard.",
+          "You always see utes lined up at the local servo on Monday mornings.",
+          "She upgraded to a dual-cab ute when she started her landscaping business.",
+          "The ute wouldn't start this morning so he had to call roadside assist.",
+          "A ute with a dog in the back is one of the most classic Aussie sights."
+        ]
+      },
+      {
+        "word": "tradie",
+        "ipa": "/ˈtreɪdi/",
+        "phonetic": "[TRAY-dee]",
+        "meaning": "zanaatkâr, tamirci",
+        "type": "isim (argo)",
+        "sentences": [
+          "The tradie came around to fix the leaking tap first thing in the morning.",
+          "It's hard to get a reliable tradie on short notice these days — book early.",
+          "She's studying to become a sparky — tradies are in very high demand right now.",
+          "The tradie left his tools in the driveway and had to come back for them.",
+          "Our tradie gave us a fair price for the bathroom renovation — no hidden costs.",
+          "He's a tradie who runs his own business as a sole trader with an ABN.",
+          "Always get a licenced tradie for electrical or plumbing work — no shortcuts.",
+          "The tradie finished the bathroom tiling two days ahead of schedule.",
+          "She asked the tradie for a written quote before agreeing to any of the work.",
+          "Good tradies are worth their weight in gold in a fast-growing suburb like ours."
+        ]
+      },
+      {
+        "word": "crikey",
+        "ipa": "/ˈkraɪki/",
+        "phonetic": "[KRAY-kee]",
+        "meaning": "vay canına!, aman Allahım!",
+        "type": "ünlem (argo)",
+        "sentences": [
+          "Crikey, that storm came out of nowhere — the garden is soaked.",
+          "Crikey, look at the size of that spider on the bathroom wall!",
+          "She said crikey when she opened the electricity bill for the summer quarter.",
+          "Crikey, the queue at the post office is out the door and down the street today.",
+          "He muttered crikey when he checked the price of petrol at the servo.",
+          "Crikey, it's hot today — the thermometer is pushing forty-two degrees.",
+          "Crikey, the kids have grown so much since I last saw them at Christmas.",
+          "She let out a crikey when the mozzie landed right on her nose.",
+          "Crikey, I forgot to pay the council rates — they were due last week.",
+          "Crikey, the traffic on the ring road is an absolute nightmare this arvo."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 3,
+    "words": [
+      {
+        "word": "cheeky",
+        "ipa": "/ˈtʃiːki/",
+        "phonetic": "[CHEE-kee]",
+        "meaning": "küstahça cüretli; şakacı, arsız",
+        "type": "sıfat",
+        "sentences": [
+          "He gave a cheeky grin and grabbed the last snag off the barbie.",
+          "She sent a cheeky message to her colleague about the manager's new haircut.",
+          "The kids were being cheeky at the dinner table and wouldn't stop giggling.",
+          "He had a cheeky bet on the footy tipping competition this week.",
+          "She snuck a cheeky coffee before the eight o'clock morning meeting.",
+          "That was a cheeky move, jumping the queue at the checkout like that.",
+          "He made a cheeky comment that got the whole team laughing in the briefing.",
+          "She booked a cheeky long weekend away without telling her family first.",
+          "The toddler gave a cheeky laugh and ran off wearing Dad's sunnies.",
+          "He put in a cheeky lowball offer on the property just to see what would happen."
+        ]
+      },
+      {
+        "word": "bogan",
+        "ipa": "/ˈboʊɡən/",
+        "phonetic": "[BOH-gun]",
+        "meaning": "kaba, görgüsüz kişi",
+        "type": "isim (argo)",
+        "sentences": [
+          "The bogan at the servo was revving his ute loudly for absolutely no reason.",
+          "She joked that wearing socks with thongs is the peak of bogan style.",
+          "He calls himself a bogan with total pride — trackies, thongs, and all.",
+          "The crowd at the show was a mix of families, tradies, and bogans.",
+          "She laughed at her brother's bogan playlist full of old-school rock anthems.",
+          "Both bogans and professionals lined up eagerly for the sausage sizzle.",
+          "He turned up to the fancy restaurant in a singlet like a proper bogan.",
+          "There's nothing wrong with being a bit of a bogan on a lazy weekend.",
+          "The bogan in the next campsite had his music cranked up all night long.",
+          "She said bogan in a joking way and he took it in perfectly good spirits."
+        ]
+      },
+      {
+        "word": "drongo",
+        "ipa": "/ˈdrɒŋɡəʊ/",
+        "phonetic": "[DRONG-oh]",
+        "meaning": "aptal, salak",
+        "type": "isim (argo)",
+        "sentences": [
+          "What a drongo — he locked his keys in the car again this morning.",
+          "Don't be a drongo; always check the weather before heading out camping.",
+          "She called him a drongo when he showed up without the footy tickets.",
+          "The drongo at the self-checkout held up the entire lane with his confusion.",
+          "He's not really a drongo — he just tends to rush things and make silly mistakes.",
+          "Don't be a drongo about sun safety — slip, slop, slap and seek shade every day.",
+          "What kind of drongo parks right in front of a fire hydrant?",
+          "She said it affectionately — calling someone a drongo is almost a term of endearment.",
+          "The drongo spilled his drink all over the footy program before the first bounce.",
+          "He felt like a complete drongo after turning up to the wrong meeting room."
+        ]
+      },
+      {
+        "word": "beaut",
+        "ipa": "/bjuːt/",
+        "phonetic": "[byoot]",
+        "meaning": "harika, muhteşem",
+        "type": "sıfat / ünlem (argo)",
+        "sentences": [
+          "Beaut day for a drive up into the hills — not a cloud in the sky.",
+          "She said beaut and gave a big thumbs up when she heard the good news.",
+          "That's a beaut goal — right in the top corner from thirty metres out.",
+          "What a beaut little café — hidden right down a quiet back laneway.",
+          "He scored a beaut deal on a barely used ute from a tradie who was retiring.",
+          "The sunset over the bay last night was an absolute beaut — stunning colours.",
+          "Beaut effort from everyone who showed up to the working bee this morning.",
+          "She found a beaut pavlova recipe that the whole family absolutely loved.",
+          "That's just beaut — thanks heaps, I really appreciate your help today.",
+          "He landed a beaut fish at the river on Sunday morning — kept it for dinner."
+        ]
+      },
+      {
+        "word": "yarn",
+        "ipa": "/jɑːn/",
+        "phonetic": "[yaarn]",
+        "meaning": "sohbet, hikâye; sohbet etmek",
+        "type": "isim / fiil (argo)",
+        "sentences": [
+          "We had a good yarn over a cuppa after the community meeting finished.",
+          "He spun quite a yarn about how he nearly got lost in the bush for two days.",
+          "She stopped for a yarn with the neighbour over the back fence on her way in.",
+          "Come in and have a yarn — I'll put the kettle on and we can catch up properly.",
+          "They had a long yarn at the footy about the glory days of the local club.",
+          "The old fella at the RSL had a yarn with anyone who'd stop and listen.",
+          "She yarned with her sister for over an hour on the phone last Sunday night.",
+          "It started as a quick yarn and somehow turned into a three-hour catch-up.",
+          "He's great for a yarn but not always great at getting to the actual point.",
+          "They had a yarn with the bloke at the sausage sizzle stall and ended up staying all arvo."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 4,
+    "words": [
+      {
+        "word": "ambo",
+        "ipa": "/ˈæmboʊ/",
+        "phonetic": "[AM-boh]",
+        "meaning": "ambulans; paramedik",
+        "type": "isim (argo)",
+        "sentences": [
+          "She called triple zero and the ambo arrived within eight minutes.",
+          "The ambo crew did an amazing job keeping him stable at the footy match.",
+          "He retrained as an ambo after spending years working in construction.",
+          "The ambo had to navigate through peak-hour traffic to reach the accident scene.",
+          "She thanked the ambo officers for staying calm and reassuring her mum.",
+          "There's a serious shortage of ambos across many regional areas of Australia.",
+          "The ambo service is free if you hold an ambulance subscription or private cover.",
+          "He waved down the ambo when he saw the man collapse on the footpath.",
+          "She applied for a volunteer ambo position in her small country town.",
+          "The ambo station is just down the road from the school — very reassuring for parents."
+        ]
+      },
+      {
+        "word": "brekkie",
+        "ipa": "/ˈbrɛki/",
+        "phonetic": "[BREK-ee]",
+        "meaning": "kahvaltı",
+        "type": "isim (argo)",
+        "sentences": [
+          "She cooked a big brekkie for the whole family on Sunday — eggs, bacon, the works.",
+          "He skips brekkie during the week but goes completely all out on weekends.",
+          "They grabbed brekkie at the café before heading to the farmers market.",
+          "Brekkie wraps are on special at the servo until ten in the morning.",
+          "She makes a brekkie smoothie every morning to save time on the commute.",
+          "The hotel included a full cooked brekkie in the nightly room rate.",
+          "He was late to the meeting because he stopped for brekkie on the way in.",
+          "Weetbix and a big glass of Milo — that's his classic Aussie brekkie.",
+          "They do a ripper brekkie at that new place on the corner — highly recommend it.",
+          "She packed brekkie bars for the kids to eat on the tram ride to school."
+        ]
+      },
+      {
+        "word": "chook",
+        "ipa": "/tʃʊk/",
+        "phonetic": "[chook]",
+        "meaning": "tavuk",
+        "type": "isim (argo)",
+        "sentences": [
+          "She picked up a hot roast chook from the supermarket for a quick weeknight dinner.",
+          "They keep chooks in the backyard and get fresh eggs every single morning.",
+          "He grabbed a chook from the servo — dinner sorted in under five minutes.",
+          "The chooks escaped through a gap in the fence and got into the veggie garden again.",
+          "Roast chook with roasted veggies is a classic and easy Sunday night dinner.",
+          "She added leftover chook to a fresh salad for a quick and easy lunch the next day.",
+          "The kids love the job of collecting eggs from the chooks each morning before school.",
+          "He bought a chook for ten dollars at the footy club's annual fundraiser.",
+          "Nothing beats cold leftover chook in a bread roll for a simple picnic lunch.",
+          "She uses the chook carcass to make a rich homemade stock for winter soups."
+        ]
+      },
+      {
+        "word": "esky",
+        "ipa": "/ˈɛski/",
+        "phonetic": "[ES-kee]",
+        "meaning": "buzluk, soğutucu çanta",
+        "type": "isim (argo)",
+        "sentences": [
+          "Pack the esky with drinks and plenty of ice before we head down to the beach.",
+          "He grabbed the esky out of the ute and set it up near the barbie.",
+          "The esky kept all the seafood perfectly fresh throughout the whole fishing trip.",
+          "She filled the esky the night before so everything was cold by morning.",
+          "Don't forget the esky — it's going to be a scorcher today, easily thirty-eight.",
+          "The esky at the cricket was absolutely packed with tinnies and cold water.",
+          "He sat on the esky at the barbie because there weren't enough chairs for everyone.",
+          "She brought a small esky on the tram for the outdoor summer concert.",
+          "The esky was still half-cold the next morning — great quality insulation.",
+          "You simply cannot go to the beach in an Australian summer without a good esky."
+        ]
+      },
+      {
+        "word": "garbo",
+        "ipa": "/ˈɡɑːbəʊ/",
+        "phonetic": "[GAA-boh]",
+        "meaning": "çöp toplayıcı",
+        "type": "isim (argo)",
+        "sentences": [
+          "The garbo comes very early on Thursday mornings — put your bins out the night before.",
+          "She always waves to the garbo who takes extra care with the recycling bins.",
+          "He worked as a garbo for many years before retraining as a sparky.",
+          "The garbo missed our street today because of the public holiday schedule.",
+          "She left a card and chocolates out for the garbo crew at Christmas time.",
+          "The garbo shift starts at four in the morning throughout the hot summer months.",
+          "He had a chat with the garbo about the council's new green waste bin system.",
+          "The garbo noticed the bin was badly overflowing but still managed to take it all.",
+          "She asked the garbo which items actually go in the yellow-lid recycling bin.",
+          "Being a garbo is physically demanding but absolutely essential work for our community."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 5,
+    "words": [
+      {
+        "word": "heaps",
+        "ipa": "/hiːps/",
+        "phonetic": "[heeps]",
+        "meaning": "çok, bir sürü",
+        "type": "zarf / sıfat (argo)",
+        "sentences": [
+          "Thanks heaps for helping me move all that furniture over the weekend.",
+          "There were heaps of people at the farmers market this morning — very busy.",
+          "She's heaps better at parallel parking than I'll ever be.",
+          "He's got heaps of experience in hospitality — at least five or six years.",
+          "There's heaps of free parking near the oval on weekday mornings.",
+          "I learned heaps at the professional development day on Friday — really valuable.",
+          "She had heaps of fun at the school sports carnival despite the heat.",
+          "It costs heaps to rent anywhere near the CBD these days — unbelievable.",
+          "He was heaps nervous before the job interview but he absolutely nailed it.",
+          "There are heaps of great cafés along that strip — just pick any one and enjoy."
+        ]
+      },
+      {
+        "word": "lollies",
+        "ipa": "/ˈlɒliz/",
+        "phonetic": "[LOL-eez]",
+        "meaning": "şeker, şekerleme",
+        "type": "isim (argo)",
+        "sentences": [
+          "She bought a big bag of mixed lollies for the kids at the school fete.",
+          "The party bag had a mix of lollies, mini chips, and a small toy inside.",
+          "He grabbed a pack of lollies at the servo for the long road trip ahead.",
+          "The lolly shop at the market has heaps of old-school varieties kids love.",
+          "She carefully rationed the lollies so the kids wouldn't get a massive sugar rush.",
+          "They passed a bag of lollies around during the long drive up to Queensland.",
+          "The lollies at the cinema cost almost as much as the actual movie ticket.",
+          "He hadn't had lollies in years and she bought his favourite ones as a surprise.",
+          "The school sent home a note banning lollies from lunchboxes this term.",
+          "She filled the piñata with a mix of lollies and coins for the birthday party."
+        ]
+      },
+      {
+        "word": "maccas",
+        "ipa": "/ˈmækəz/",
+        "phonetic": "[MAK-uz]",
+        "meaning": "McDonald's",
+        "type": "isim (argo)",
+        "sentences": [
+          "He organised a maccas run for the whole team after the footy match.",
+          "She's been going to maccas for brekkie every single Friday for years now.",
+          "The kids wanted maccas after the swimming carnival — they'd earned it.",
+          "They pulled into maccas on the highway for a quick feed and a break.",
+          "The maccas drive-through queue was backed up all the way to the road at midnight.",
+          "He sent his mate on a maccas run during the long afternoon meeting.",
+          "She admitted she absolutely loves a maccas soft serve on a forty-degree day.",
+          "They used to hang out at maccas after school every single afternoon.",
+          "The maccas near the hospital is open twenty-four hours for night shift workers.",
+          "He got his very first job at maccas when he was just fifteen years old."
+        ]
+      },
+      {
+        "word": "mate",
+        "ipa": "/meɪt/",
+        "phonetic": "[mayt]",
+        "meaning": "arkadaş, dost",
+        "type": "isim (argo)",
+        "sentences": [
+          "He's been my mate ever since we started at TAFE together three years ago.",
+          "Thanks a lot, mate — I really appreciate the help moving that heavy couch.",
+          "She called her mate to come and pick her up when the tram broke down.",
+          "Hey mate, do you happen to know where the nearest chemist is from here?",
+          "A good mate will show up with a ute when you need help moving house.",
+          "His mate put in a good word and got him a job interview at the company.",
+          "She ran into an old mate from high school at the farmers market on Sunday.",
+          "No worries at all, mate — I'm happy to give you a lift to the station.",
+          "He introduced himself to the new neighbour with a simple nod and a mate.",
+          "In Australia, even a complete stranger on the street can be called mate."
+        ]
+      },
+      {
+        "word": "no worries",
+        "ipa": "/nəʊ ˈwʌriz/",
+        "phonetic": "[noh WUR-eez]",
+        "meaning": "sorun değil, merak etme",
+        "type": "deyim (argo)",
+        "sentences": [
+          "No worries at all — I can cover your shift on Saturday morning.",
+          "She said no worries when he apologised for being five minutes late.",
+          "No worries, we'll sort everything out properly first thing in the morning.",
+          "He knocked over a drink and everyone around the barbie said no worries.",
+          "No worries, mate — the door is always open whenever you need to visit.",
+          "She forgot to bring a plate to the barbie and everybody said no worries.",
+          "No worries about the payment — just transfer it whenever you get a chance.",
+          "He said no worries when asked to stay back late and finish the urgent report.",
+          "In Australia, no worries is practically the unofficial national phrase.",
+          "No worries — the kids are absolutely welcome to sleep over if the trains stop."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 6,
+    "words": [
+      {
+        "word": "ocker",
+        "ipa": "/ˈɒkə/",
+        "phonetic": "[OK-uh]",
+        "meaning": "tipik kaba Avustralyalı",
+        "type": "isim / sıfat (argo)",
+        "sentences": [
+          "He wore thongs and a singlet to the wedding — pure ocker style right there.",
+          "She did a spot-on ocker impression that had the whole room in absolute stitches.",
+          "He's openly proud of his ocker ways — cold tinnies and backyard cricket on weekends.",
+          "The ocker dad at the barbie called every single sausage a mystery bag.",
+          "She laughed at how ocker her own accent sounded on the voice recording.",
+          "He's an ocker at heart but does clean up pretty well for a night out.",
+          "The ocker bloke at the servo offered to fix her flat tyre without even being asked.",
+          "Their ocker sense of humour took some of the new arrivals a while to get used to.",
+          "He turned up to the corporate networking event in true ocker fashion.",
+          "Being called an ocker isn't always an insult — for some it's a real badge of honour."
+        ]
+      },
+      {
+        "word": "reckon",
+        "ipa": "/ˈrɛkən/",
+        "phonetic": "[REK-un]",
+        "meaning": "sanmak, düşünmek",
+        "type": "fiil (argo)",
+        "sentences": [
+          "I reckon it'll rain heavily this arvo — those clouds look very dark.",
+          "Do you reckon the footy will be on free-to-air television this weekend?",
+          "She reckons the new café on the corner is the best one in the whole suburb.",
+          "I reckon we should leave by seven to get ahead of the morning traffic.",
+          "He reckoned the job would take a week — it ended up taking three.",
+          "Reckon you could give me a hand moving the couch on Saturday morning?",
+          "I reckon it's worth getting repaired rather than buying a brand new one.",
+          "She reckoned the council rates would definitely go up again this financial year.",
+          "Do you reckon this tradie will actually show up on time for once?",
+          "I reckon he's honestly the best sparky we've ever hired for this house."
+        ]
+      },
+      {
+        "word": "sanger",
+        "ipa": "/ˈsæŋɡə/",
+        "phonetic": "[SANG-uh]",
+        "meaning": "sandviç",
+        "type": "isim (argo)",
+        "sentences": [
+          "He made a vegemite sanger for his lunchbox every single day without fail.",
+          "The school canteen does a really good cheese and salad sanger for four dollars.",
+          "She grabbed a sanger from the servo to eat on the train ride into work.",
+          "Nothing beats a chicken sanger after a long morning session at the oval.",
+          "He ordered a massive steak sanger at the pub — it was as big as his head.",
+          "The sanger van at the Sunday market does the absolute best porchetta rolls.",
+          "She packed sangers and a bag of chips for the kids to eat at the beach.",
+          "A sanger and a cold drink was all he needed after the big move.",
+          "That café does fancy sangers now — smashed avo, poached eggs and everything.",
+          "He ate his sanger while waiting in the queue at the Centrelink office."
+        ]
+      },
+      {
+        "word": "sickie",
+        "ipa": "/ˈsɪki/",
+        "phonetic": "[SIK-ee]",
+        "meaning": "hastalık izni; sahte hastalık izni",
+        "type": "isim (argo)",
+        "sentences": [
+          "He chucked a sickie on the very day of the big presentation.",
+          "She actually was genuinely sick this time — it was no cheeky sickie.",
+          "The boss knew exactly who had pulled a sickie on the Monday after the grand final.",
+          "I've got four sickies left for the year and I might just need one very soon.",
+          "He chucked a sickie to take the kids to the Royal Show for the day.",
+          "She felt a bit guilty about the sickie but she really needed the day to recover.",
+          "The whole team noticed that three people had a sickie on the same Monday.",
+          "He called in with a sickie but posted beach photos on Instagram by lunchtime.",
+          "She never pulls a sickie — the whole office would notice her absence immediately.",
+          "Under the enterprise agreement, any unused sickies do not carry over to next year."
+        ]
+      },
+      {
+        "word": "smoko",
+        "ipa": "/ˈsmoʊkoʊ/",
+        "phonetic": "[SMOH-koh]",
+        "meaning": "sigara molası; çay-kahve molası",
+        "type": "isim (argo)",
+        "sentences": [
+          "The tradies downed tools and stopped for a smoko at ten o'clock sharp.",
+          "He quit smoking years ago but still takes a smoko break to get some fresh air.",
+          "She always catches up with her work colleague during smoko most mornings.",
+          "The smoko room at the old factory has been converted into a modern break room.",
+          "He missed the start of the meeting because he was out on smoko.",
+          "A lot of disputes used to get settled informally over a smoko back in the day.",
+          "She skips smoko altogether and uses that time to leave half an hour earlier.",
+          "The site safety rules clearly state smoko is ten minutes, not thirty.",
+          "He takes his smoko break near the water — best spot on the whole construction site.",
+          "Even the non-smokers on site take a smoko break — it has always been a social thing."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 7,
+    "words": [
+      {
+        "word": "snag",
+        "ipa": "/snæɡ/",
+        "phonetic": "[snag]",
+        "meaning": "sosis, sucuk",
+        "type": "isim (argo)",
+        "sentences": [
+          "She grabbed a snag in bread at the Bunnings sausage sizzle on Saturday morning.",
+          "He threw a dozen snags on the barbie for everyone at the working bee.",
+          "The snags at the school fundraiser were selling for three dollars each.",
+          "A snag in white bread with fried onions and tomato sauce is a Saturday tradition.",
+          "He burned the snags a little on one side but honestly nobody minded.",
+          "She couldn't believe how long the snag queue outside the polling booth was.",
+          "The hardware store sausage sizzle is basically an Aussie cultural institution.",
+          "He's been flipping snags at the NAIDOC Week community event for years.",
+          "A plate of snags, some salad, and a bread roll — that's the working bee lunch sorted.",
+          "She made sure the snags were halal so everyone at the multicultural event could eat."
+        ]
+      },
+      {
+        "word": "sparky",
+        "ipa": "/ˈspɑːki/",
+        "phonetic": "[SPAA-kee]",
+        "meaning": "elektrikçi",
+        "type": "isim (argo)",
+        "sentences": [
+          "We need to ring the sparky to sort out the dodgy power point in the kitchen.",
+          "She's finishing her sparky apprenticeship at a local electrical contracting firm.",
+          "The sparky finished all the rewiring job in just two days — well ahead of schedule.",
+          "He said the sparky quoted very fairly — not cheap but definitely not overpriced.",
+          "A fully licensed sparky must do all electrical work in Australian homes by law.",
+          "She searched for a sparky near me and found three with excellent online reviews.",
+          "The sparky noticed the old switchboard and flagged it immediately as a safety risk.",
+          "He became a qualified sparky after completing his VET course at the local TAFE.",
+          "A good sparky is absolutely worth their weight in gold during a house renovation.",
+          "The sparky issued a compliance certificate as soon as he finished the installation."
+        ]
+      },
+      {
+        "word": "sunnies",
+        "ipa": "/ˈsʌniz/",
+        "phonetic": "[SUN-eez]",
+        "meaning": "güneş gözlüğü",
+        "type": "isim (argo)",
+        "sentences": [
+          "She forgot her sunnies and squinted the entire walk down to the beach.",
+          "He left his sunnies sitting on the hot dashboard and they warped badly.",
+          "She grabbed her sunnies and hat and headed out to the farmers market.",
+          "The kids kept losing their sunnies so she started buying cheap backup pairs.",
+          "Good sunnies with proper UV protection are absolutely essential in the Australian sun.",
+          "He always buys his sunnies from the chemist — cheap, effective and polarised.",
+          "She found her sunnies wedged deep between the front car seats.",
+          "Sunnies, a hat, and sunscreen — the three non-negotiable Aussie summer essentials.",
+          "He wore his sunnies inside and everyone immediately told him he looked ridiculous.",
+          "She managed to lose three different pairs of sunnies at the beach last summer."
+        ]
+      },
+      {
+        "word": "ta",
+        "ipa": "/tɑː/",
+        "phonetic": "[taa]",
+        "meaning": "teşekkürler",
+        "type": "ünlem (argo)",
+        "sentences": [
+          "Ta for holding the lift door open — really appreciated that.",
+          "She handed him his morning coffee and he said ta without even looking up.",
+          "Ta heaps for covering my shift on such incredibly short notice.",
+          "He dropped off the parcel at the door and she called out ta from inside.",
+          "Ta for the lift home — saved me waiting for the tram in the pouring rain.",
+          "She said a warm ta to the garbo who set the empty bin back neatly on the kerb.",
+          "Ta for the reminder about bin night — I nearly forgot again this week.",
+          "He murmured ta as she passed the sauce along at the barbie.",
+          "Ta for sorting out the rego renewal — I completely keep forgetting to do it.",
+          "It's a small word but a ta can mean a lot when someone's having a tough day."
+        ]
+      },
+      {
+        "word": "tinnie",
+        "ipa": "/ˈtɪni/",
+        "phonetic": "[TIN-ee]",
+        "meaning": "bira tenekesi; küçük alüminyum tekne",
+        "type": "isim (argo)",
+        "sentences": [
+          "He cracked open a cold tinnie and settled in to watch the Saturday footy.",
+          "She put a six-pack of tinnies in the esky ready for the afternoon barbie.",
+          "He bought a little tinnie to go fishing with his mates on the river on weekends.",
+          "The tinnies were perfectly ice-cold after sitting in the esky for four hours.",
+          "She prefers a tinnie over a bottle — much easier to pack in the beach bag.",
+          "He drove his tinnie out to the middle of the lake to fish at sunrise.",
+          "They sat beside the creek sharing cold tinnies after the big working bee.",
+          "A cold tinnie and a good snag — that's his idea of a perfect Saturday arvo.",
+          "She grabbed a tinnie from the servo fridge to enjoy on the road.",
+          "He took the tinnie out on the river with the kids during the school holidays."
+        ]
+      }
+    ]
+  }
+]

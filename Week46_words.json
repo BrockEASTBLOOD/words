@@ -1,0 +1,702 @@
+[
+  {
+    "day": 316,
+    "words": [
+      {
+        "word": "newborn",
+        "ipa": "/ˈnjuːbɔːn/",
+        "phonetic": "[NYOO-born]",
+        "meaning": "yeni doğan",
+        "type": "isim / sıfat",
+        "sentences": [
+          "She found her newborn's first week the most exhausting and transformative experience of her life.",
+          "He found newborn care in Australia well supported — midwives, child health nurses, and home visiting.",
+          "A newborn is an infant in the first twenty-eight days of life.",
+          "She found newborn screening — the heel prick test — conducted in hospital before discharge.",
+          "He found the newborn period the most intensive parenting phase — feeding every two to three hours.",
+          "Newborns in Australia receive a health assessment at birth, at one to four weeks, and at six to eight weeks.",
+          "She found the Purple Crying period — a phase of intense infant crying — normalised by the maternal health nurse.",
+          "He found newborn sleep safety information provided through the Red Nose charity — back to sleep, safe sleep.",
+          "Newborn immunisations begin at six to eight weeks — the first of the scheduled program.",
+          "She describes caring for her newborn as the experience that most made her wish she had more support — and most grateful for the support she did have."
+        ]
+      },
+      {
+        "word": "midwife",
+        "ipa": "/ˈmɪdwaɪf/",
+        "phonetic": "[MID-wyf]",
+        "meaning": "ebe",
+        "type": "isim",
+        "sentences": [
+          "She chose a continuity of care midwife — the same midwife attended every appointment and the birth.",
+          "He found midwives the primary care providers for low-risk pregnancies in Australian public hospitals.",
+          "A midwife is a health professional trained to care for women during pregnancy, birth, and the postnatal period.",
+          "She found midwifery care in Australia available through public hospitals, birth centres, and private practice.",
+          "He found the midwife-led care model associated with positive birth outcomes and high satisfaction.",
+          "Midwives in Australia are registered with the Australian Health Practitioner Regulation Agency — AHPRA.",
+          "She found private midwives available for home births — a small but well-regulated sector.",
+          "He found the midwife the most consistently present and reassuring professional during the birth.",
+          "Midwives provide antenatal education, birth support, and postnatal home visits.",
+          "She describes her midwife as the professional whose presence most gave her confidence throughout her pregnancy and birth."
+        ]
+      },
+      {
+        "word": "obstetrician",
+        "ipa": "/ˌɒbstɪˈtrɪʃən/",
+        "phonetic": "[ob-stuh-TRISH-un]",
+        "meaning": "doğum uzmanı",
+        "type": "isim",
+        "sentences": [
+          "She chose a private obstetrician after her pregnancy was classified as high risk.",
+          "He found private obstetric care in Australia expensive — out-of-pocket costs ranging from two to ten thousand dollars.",
+          "An obstetrician is a medical doctor specialising in pregnancy, childbirth, and postnatal care.",
+          "She found obstetricians managing complex pregnancies — twins, previous caesarean, or gestational complications.",
+          "He found the choice between midwife-led care and obstetric care shaped by risk level and personal preference.",
+          "Obstetricians in Australia work in both public hospitals and private practice.",
+          "She found private health insurance covering a portion of obstetric fees — she still had significant out-of-pocket costs.",
+          "He found public hospital obstetric care provided at no cost — with less continuity but competent care.",
+          "Obstetricians perform caesarean sections and manage labour complications requiring surgical intervention.",
+          "She describes her obstetrician as the professional who most gave her clarity about risk — and most helped her make an informed decision."
+        ]
+      },
+      {
+        "word": "maternal health nurse",
+        "ipa": "/məˈtɜːnəl hɛlθ nɜːs/",
+        "phonetic": "[muh-TUR-nul helth nurs]",
+        "meaning": "anne sağlığı hemşiresi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She visited the maternal health nurse every few weeks — the nurse weighed the baby and answered every concern.",
+          "He found the maternal and child health nurse the most practically useful postnatal support resource.",
+          "A maternal health nurse is a specialist nurse providing health checks and support to families with young children.",
+          "She found maternal health nursing services provided free through local councils in Victoria and most states.",
+          "He found the nurse assessing the baby's growth, development, and feeding — and asking how the mother was coping.",
+          "Maternal health nurses provide home visits in the early weeks — when leaving the house felt impossible.",
+          "She found the nurse the most non-judgmental source of parenting advice she encountered.",
+          "He found the maternal health centre the first place new parents gathered — peer connections formed there.",
+          "Maternal health nurses facilitate new parent groups — a lifeline for social connection.",
+          "She describes the maternal health nurse as the person she most frequently called in the first year — and whose number she most needed on her phone."
+        ]
+      },
+      {
+        "word": "immunisation schedule",
+        "ipa": "/ˌɪmjuːnaɪˈzeɪʃən ˈʃɛdjuːl/",
+        "phonetic": "[im-yoo-ny-ZAY-shun SHED-yool]",
+        "meaning": "aşılama takvimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She followed the Australian immunisation schedule from birth — her child received every recommended vaccine.",
+          "He found the immunisation schedule the most evidence-based preventive health tool available.",
+          "The immunisation schedule is the government-recommended timeline for childhood vaccines.",
+          "She found the National Immunisation Program providing the schedule vaccines free of charge.",
+          "He found vaccines scheduled at birth, six to eight weeks, four months, six months, twelve months, and eighteen months.",
+          "The immunisation schedule protects against measles, whooping cough, meningitis, and more.",
+          "She found the AIR — Australian Immunisation Register — tracking her child's vaccination status.",
+          "He found immunisation required for access to childcare and kindergarten — No Jab No Play policy.",
+          "Immunisation schedules are updated as new vaccines become available and evidence evolves.",
+          "She describes completing the immunisation schedule as the parental responsibility she took most seriously — and most wanted to explain clearly to anyone who asked."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 317,
+    "words": [
+      {
+        "word": "doula",
+        "ipa": "/ˈduːlə/",
+        "phonetic": "[DOO-luh]",
+        "meaning": "doula (doğum destekçisi)",
+        "type": "isim",
+        "sentences": [
+          "She hired a doula for her second birth — the continuous support made a profound difference.",
+          "He found doulas increasingly sought by Australian families wanting non-medical birth support.",
+          "A doula is a non-clinical birth support worker who provides emotional, informational, and physical support.",
+          "She found her doula attending from early labour through the first hours after birth.",
+          "He found evidence supporting doulas reducing intervention rates and improving birth satisfaction.",
+          "Doulas in Australia are not regulated — she checked training, references, and approach carefully.",
+          "She found doulas also available for postnatal support — sleep coaching, breastfeeding, and household settling.",
+          "He found private health funds beginning to cover doula costs — a recent development.",
+          "Doulas do not replace medical care — they complement it with continuous presence and advocacy.",
+          "She describes her doula as the person whose presence most changed the experience of her second birth — grounded, informed, and entirely focused on her."
+        ]
+      },
+      {
+        "word": "childbirth education",
+        "ipa": "/ˈtʃaɪldbɜːθ ˌɛdʒʊˈkeɪʃən/",
+        "phonetic": "[CHYLD-burth ed-yoo-KAY-shun]",
+        "meaning": "doğum öncesi eğitim",
+        "type": "isim öbeği",
+        "sentences": [
+          "She and her partner attended childbirth education classes at the hospital — both felt more prepared.",
+          "He found childbirth education the most efficient way to reduce fear through information.",
+          "Childbirth education is antenatal preparation covering labour, birth, feeding, and newborn care.",
+          "She found classes available through hospitals, independent educators, and Calmbirth and Hypnobirthing programs.",
+          "He found the partner session the most practically useful — he understood what to do and what to say.",
+          "Childbirth education covers pain management, intervention options, caesarean recovery, and feeding choices.",
+          "She found classes creating peer groups — parents she continued to know years later.",
+          "He found online childbirth education expanding access for regional families.",
+          "Childbirth education is not prescriptive — it aims to inform decisions, not advocate for one birth type.",
+          "She describes attending childbirth education as the preparation that most reduced her birth anxiety — not by promising certainty, but by giving her language."
+        ]
+      },
+      {
+        "word": "breastfeeding",
+        "ipa": "/ˈbrɛstfiːdɪŋ/",
+        "phonetic": "[BREST-fee-ding]",
+        "meaning": "anne sütüyle besleme",
+        "type": "isim",
+        "sentences": [
+          "She found breastfeeding support available through the Australian Breastfeeding Association — free phone helpline.",
+          "He found breastfeeding the feeding choice most supported but least practically assisted in the early weeks.",
+          "Breastfeeding is the feeding of an infant directly from the breast or with expressed breast milk.",
+          "She found breastfeeding challenging in the first two weeks — then easier as both she and the baby learned.",
+          "He found lactation consultants the most effective resource when breastfeeding was painful or difficult.",
+          "Breastfeeding rates in Australia begin high but decline quickly — support is the most significant factor in continuation.",
+          "She found the Australian Breastfeeding Association providing group support, home visiting, and telephone counselling.",
+          "He found breastfeeding in public legal and protected across all Australian states.",
+          "Breastfeeding and formula feeding are both valid choices — she found the most supportive professionals emphasised this.",
+          "She describes the moment breastfeeding finally became easy as the parenting milestone she most wanted to send a message back in time about."
+        ]
+      },
+      {
+        "word": "pram",
+        "ipa": "/præm/",
+        "phonetic": "[pram]",
+        "meaning": "bebek arabası",
+        "type": "isim",
+        "sentences": [
+          "She found choosing a pram the most overwhelming pre-baby consumer decision.",
+          "He found pram culture in Australian cities requiring footpath-navigating skills — the models were substantial.",
+          "A pram is a baby carriage — a wheeled vehicle for transporting infants.",
+          "She found the pram trial in the baby store the most educational hour she spent preparing for the baby.",
+          "He found pram prices ranging from two hundred to over two thousand dollars — the market was mature.",
+          "Prams in Australia must meet the Australian standard for safety — checked before purchase.",
+          "She found the pram her primary transport tool for the first year — she chose for her suburb's terrain.",
+          "He found pram-accessible paths, cafes, and shopping centres the infrastructure she most appreciated.",
+          "Prams convert to strollers as children grow — the second seat attachment saved buying again.",
+          "She describes the pram research she did as the consumer exercise she most wished she had done in half the time — they all worked fine."
+        ]
+      },
+      {
+        "word": "car seat",
+        "ipa": "/kɑː siːt/",
+        "phonetic": "[kar seet]",
+        "meaning": "çocuk araba koltuğu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She had the car seat professionally fitted before the hospital discharge — the law required it.",
+          "He found car seat safety rules in Australia among the strictest and most closely enforced.",
+          "A car seat is a child restraint system designed to protect children in motor vehicles.",
+          "She found rear-facing car seats required for infants until six months — and recommended longer.",
+          "He found Australian car seat law mandating restraint for every child under the age of seven.",
+          "Car seats in Australia must comply with the Australian/New Zealand Standard — AS/NZS 1754.",
+          "She found professional car seat fitting available at baby stores, NRMA, and RACQ locations.",
+          "He found car seat installation the most consequential piece of equipment preparation before the baby arrived.",
+          "Car seats must be replaced after any collision — even if undamaged in appearance.",
+          "She describes the car seat fitting appointment as the preparation step that most made her feel she had thought about everything that mattered."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 318,
+    "words": [
+      {
+        "word": "blended family",
+        "ipa": "/ˈblɛndɪd ˈfæmɪli/",
+        "phonetic": "[BLEN-did FAM-uh-lee]",
+        "meaning": "karma aile",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the blended family the most common family structure she encountered in her children's school.",
+          "He found blended families the majority of household types in some Australian communities.",
+          "A blended family is a family unit where one or both parents have children from previous relationships.",
+          "She found the negotiation of step-parent roles the most complex dynamic in forming a blended family.",
+          "He found parenting resources specifically addressing blended family challenges limited — she sought them actively.",
+          "Blended families may include full siblings, half-siblings, and step-siblings under one roof.",
+          "She found family mediation the most useful service for navigating co-parenting in a blended family.",
+          "He found the blended family label less meaningful than the daily reality of building trust with children over time.",
+          "Blended families represent a significant portion of Australian households — the family law system reflects this.",
+          "She describes building a blended family as the life experience that most required patience, communication, and willingness to get it wrong and try again."
+        ]
+      },
+      {
+        "word": "co-parenting",
+        "ipa": "/koʊ ˈpɛərəntɪŋ/",
+        "phonetic": "[koh PAIR-un-ting]",
+        "meaning": "ortak ebeveynlik",
+        "type": "isim",
+        "sentences": [
+          "She found co-parenting after separation the most logistically and emotionally demanding adjustment.",
+          "He found the co-parenting relationship requiring clear communication — the children's wellbeing depended on it.",
+          "Co-parenting is the shared raising of children by two parents who are no longer in a romantic relationship.",
+          "She found co-parenting apps — OurFamilyWizard and TalkingParents — the most practical tool for communication.",
+          "He found co-parenting requiring agreed routines, consistent boundaries, and respect for the other parent's home.",
+          "Co-parenting arrangements in Australia are formalised through parenting plans or court orders.",
+          "She found the Family Relationships Advice Line — 1800 050 321 — the most accessible support for co-parenting questions.",
+          "He found co-parenting working best when the focus remained on the children rather than the relationship.",
+          "Co-parenting is distinct from parallel parenting — a lower-conflict approach for high-conflict separations.",
+          "She describes co-parenting as the adult responsibility that most required her to act differently from how she felt."
+        ]
+      },
+      {
+        "word": "parenting plan",
+        "ipa": "/ˈpɛərəntɪŋ plæn/",
+        "phonetic": "[PAIR-un-ting plan]",
+        "meaning": "ebeveynlik planı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She and her former partner drafted a parenting plan through family mediation — it reduced conflict significantly.",
+          "He found a parenting plan the most important document for separated families with children.",
+          "A parenting plan is a written agreement between separated parents about the care of their children.",
+          "She found parenting plans covering time arrangements, decision-making, holidays, and communication.",
+          "He found parenting plans registered with the Family Court providing greater enforceability.",
+          "Parenting plans in Australia can be made without lawyers — though legal advice was recommended.",
+          "She found the parenting plan reducing ambiguity — both parents knew expectations.",
+          "He found family dispute resolution services — FDRP — assisting in drafting parenting plans.",
+          "Parenting plans are not orders — either party could return to court if the plan was not followed.",
+          "She describes the parenting plan as the document that most reduced unnecessary conflict by anticipating it."
+        ]
+      },
+      {
+        "word": "family mediation",
+        "ipa": "/ˈfæmɪli ˌmiːdiˈeɪʃən/",
+        "phonetic": "[FAM-uh-lee mee-dee-AY-shun]",
+        "meaning": "aile arabuluculuğu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She attended family mediation before initiating court proceedings — the dispute resolved without litigation.",
+          "He found family mediation the most cost-effective and humane way to resolve separation disputes.",
+          "Family mediation is a dispute resolution process where a neutral mediator helps separating parties reach agreement.",
+          "She found mediation required before most Family Court applications — a mandatory first step.",
+          "He found mediators not deciding the outcome — they facilitated the conversation.",
+          "Family mediation in Australia is provided through Family Relationship Centres — government-funded.",
+          "She found the Family Relationship Advice Line the first contact point for mediation referral.",
+          "He found mediation less adversarial and less expensive than court proceedings.",
+          "Family mediation can address property, financial, and parenting arrangements.",
+          "She describes the mediation session as the difficult conversation that most changed the trajectory of her separation — for the better."
+        ]
+      },
+      {
+        "word": "pocket money",
+        "ipa": "/ˈpɒkɪt ˈmʌni/",
+        "phonetic": "[POK-it MUN-ee]",
+        "meaning": "haftalık harçlık",
+        "type": "isim öbeği",
+        "sentences": [
+          "She started pocket money at age five — ten cents per year of age per week, linked to contributions.",
+          "He found pocket money the most practical financial education tool available to parents.",
+          "Pocket money is a regular small allowance given to children for discretionary spending.",
+          "She found pocket money teaching saving, spending decisions, and the relationship between effort and reward.",
+          "He found the Australian standard of linking pocket money to household contributions — not unconditional.",
+          "Pocket money amounts in Australia vary widely — she found the Westpac Allowance Survey the most useful benchmark.",
+          "She found teaching a pocket money split — save, spend, give — building financial habits early.",
+          "He found the Commonwealth Bank's Dollarmites program the most widely used school banking and pocket money tool.",
+          "Pocket money conversations opened the first discussions about needs versus wants.",
+          "She describes the pocket money system she established as the parenting practice that most consistently taught her children that money was a tool, not a magic resource."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 319,
+    "words": [
+      {
+        "word": "screen time",
+        "ipa": "/skriːn taɪm/",
+        "phonetic": "[skreen tym]",
+        "meaning": "ekran süresi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found screen time the parenting conversation she had most frequently with other parents.",
+          "He found the Australian guidelines recommending no screen time for children under two.",
+          "Screen time is the amount of time a child spends in front of digital screens.",
+          "She found Australian Institute of Family Studies research guiding her approach to screen time limits.",
+          "He found screen time guidelines recommending less than one hour per day for children aged two to five.",
+          "Screen time quality matters — passive consumption differs from interactive and educational content.",
+          "She found co-viewing — watching and discussing together — more valuable than independent screen use.",
+          "He found device-free mealtimes the boundary that most improved family conversation.",
+          "Screen time debates evolved rapidly — research continued to refine recommendations.",
+          "She describes the screen time conversation as the parenting challenge she found most required nuance — neither panic nor permission."
+        ]
+      },
+      {
+        "word": "school readiness",
+        "ipa": "/skuːl ˈrɛdɪnəs/",
+        "phonetic": "[skool RED-ee-nus]",
+        "meaning": "okul olgunluğu",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found school readiness assessment less about academic skills and more about independence and resilience.",
+          "He found the school readiness conversation one of the most anxiety-inducing moments of early parenting.",
+          "School readiness is the set of skills and dispositions enabling a child to benefit from formal schooling.",
+          "She found school readiness encompassing social, emotional, physical, and cognitive dimensions.",
+          "He found the Australian Early Development Census — AEDC — measuring school readiness at community level.",
+          "School readiness includes sitting, listening, toileting independently, and managing basic routines.",
+          "She found prep and kindergarten teachers well trained in supporting children at varying readiness levels.",
+          "He found the decision about whether to defer school entry available in most Australian states.",
+          "School readiness is shaped by preschool attendance, play, and family engagement — not formal teaching.",
+          "She describes the school readiness assessment as the parenting moment she most wanted to approach without comparison."
+        ]
+      },
+      {
+        "word": "playdate",
+        "ipa": "/ˈpleɪdeɪt/",
+        "phonetic": "[PLAY-dayt]",
+        "meaning": "çocuk oyun randevusu",
+        "type": "isim",
+        "sentences": [
+          "She organised the first playdate and found the children spent thirty minutes arguing and two hours inseparably.",
+          "He found playdates the most valuable social infrastructure for young children — and their parents.",
+          "A playdate is an arranged social meeting between children — typically at home or a park.",
+          "She found playdates enabling parents to build friendship networks through their children.",
+          "He found the playdate at the park preferable to the home — less mess, more energy expended.",
+          "Playdates are the primary mechanism through which Australian young children form friendships outside school.",
+          "She found reciprocal playdates — each family hosting in turn — the most sustainable arrangement.",
+          "He found playdates developing social skills — sharing, turn-taking, and conflict resolution.",
+          "Playdates became more organised as children grew — after-school activities competed for the time.",
+          "She describes the playdate as the social unit that most sustained her own friendship network while appearing to be about the children."
+        ]
+      },
+      {
+        "word": "child development",
+        "ipa": "/tʃaɪld dɪˈvɛləpmənt/",
+        "phonetic": "[chyld dih-VEL-up-munt]",
+        "meaning": "çocuk gelişimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found child development milestones the most anxiously monitored aspect of early parenting.",
+          "He found the Raising Children Network website the most comprehensive Australian child development resource.",
+          "Child development is the physical, cognitive, social, and emotional growth of children over time.",
+          "She found developmental milestones useful guides — not rigid benchmarks — every child varied.",
+          "He found the maternal health nurse using developmental assessment tools at key age visits.",
+          "Child development is shaped by genetics, environment, attachment, and experience.",
+          "She found early intervention the most effective response to developmental delay — the earlier, the better.",
+          "He found the NDIS providing funding for developmental therapy — speech, occupational, and physiotherapy.",
+          "Child development knowledge helped her understand why her child did what they did.",
+          "She describes learning about child development as the parenting knowledge that most transformed frustration into curiosity."
+        ]
+      },
+      {
+        "word": "respectful relationships",
+        "ipa": "/rɪˈspɛktfʊl rɪˈleɪʃənʃɪps/",
+        "phonetic": "[rih-SPEKT-ful rih-LAY-shun-ships]",
+        "meaning": "saygılı ilişkiler (okul programı)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found Respectful Relationships education embedded in her children's school curriculum.",
+          "He found the Respectful Relationships program the most significant primary prevention initiative in Australian schools.",
+          "Respectful Relationships is an evidence-based school education program addressing gender equality and family violence prevention.",
+          "She found the curriculum covering consent, communication, healthy relationships, and bystander action.",
+          "He found Respectful Relationships developed in Victoria and expanded nationally.",
+          "The program is taught across year levels — building understanding progressively from early childhood.",
+          "She found the conversations her children brought home from Respectful Relationships the most meaningful family discussions.",
+          "He found the program requiring trained teachers and whole-school commitment to be fully effective.",
+          "Respectful Relationships addresses gender norms, power dynamics, and the link to family violence.",
+          "She describes Respectful Relationships education as the school program she most wanted every child to receive — and every adult to have had."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 320,
+    "words": [
+      {
+        "word": "family violence",
+        "ipa": "/ˈfæmɪli ˈvaɪələns/",
+        "phonetic": "[FAM-uh-lee VY-uh-luns]",
+        "meaning": "aile içi şiddet",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found the term family violence used in Australian policy — it was broader than domestic violence.",
+          "He found Australia's National Plan to End Violence Against Women and Children the policy framework governing funding.",
+          "Family violence is coercive and controlling behaviour within family or intimate partner relationships — including physical, emotional, financial, and sexual forms.",
+          "She found family violence the most significant driver of homelessness for women and children in Australia.",
+          "He found one in four Australian women and one in thirteen men experiencing family violence.",
+          "Family violence occurs across all demographics — class, culture, and geography do not predict occurrence.",
+          "She found the national family violence helpline — 1800 RESPECT — available twenty-four hours a day.",
+          "He found police trained in family violence risk assessment using the DVSAT tool.",
+          "Family violence leaves children experiencing its impacts at home the most affected by exposure.",
+          "She describes the decision to talk openly about family violence as the social conversation she found most required in her community."
+        ]
+      },
+      {
+        "word": "1800RESPECT",
+        "ipa": "/wʌn eɪt hʌndrəd rɪˈspɛkt/",
+        "phonetic": "[wun AY-tee-HUN-dred rih-SPEKT]",
+        "meaning": "1800RESPECT (aile içi şiddet yardım hattı)",
+        "type": "özel isim",
+        "sentences": [
+          "She memorised the 1800RESPECT number — she wanted to be able to give it to anyone who needed it.",
+          "He found 1800RESPECT the most important helpline number for anyone experiencing family or sexual violence.",
+          "1800RESPECT is Australia's national sexual assault, domestic and family violence counselling service — available 24/7.",
+          "She found 1800RESPECT offering telephone and online counselling — accessible without a GP referral.",
+          "He found 1800RESPECT staffed by trained trauma counsellors — not call centre scripts.",
+          "1800RESPECT connects callers to state-based support services, legal information, and safety planning.",
+          "She found the online chat option on the 1800RESPECT website accessible when a call was not possible.",
+          "He found 1800RESPECT available in languages other than English through TIS National.",
+          "1800RESPECT provides support to people experiencing violence and to people worried about someone.",
+          "She describes giving the 1800RESPECT number as the act she most wanted to do with confidence — knowing it would connect someone to real help."
+        ]
+      },
+      {
+        "word": "child support",
+        "ipa": "/tʃaɪld səˈpɔːt/",
+        "phonetic": "[chyld suh-PORT]",
+        "meaning": "nafaka",
+        "type": "isim öbeği",
+        "sentences": [
+          "She applied to Services Australia for a child support assessment after separating.",
+          "He found the child support scheme the most practically misunderstood part of the Australian family law system.",
+          "Child support is financial support paid by one parent to the other to meet the costs of raising children.",
+          "She found Services Australia administering the Child Support Scheme — calculating and collecting payments.",
+          "He found the assessment formula using both parents' incomes, time-sharing arrangements, and the children's ages.",
+          "Child support is calculated on a formula — she used the online estimator before engaging with the system.",
+          "She found private agreements also available — without Services Australia involvement.",
+          "He found enforcement available through Services Australia when the paying parent did not comply.",
+          "Child support payments are not tax deductible — and not declared as income by the recipient.",
+          "She describes navigating the child support system as the administrative challenge she most needed a support worker to explain clearly."
+        ]
+      },
+      {
+        "word": "custody",
+        "ipa": "/ˈkʌstədi/",
+        "phonetic": "[KUS-tuh-dee]",
+        "meaning": "velayet",
+        "type": "isim",
+        "sentences": [
+          "She found custody — or more accurately parental responsibility — the most misunderstood term in family law.",
+          "He found the word custody used informally but not technically accurate in Australian family law.",
+          "Custody refers to the legal and physical care of a child — in Australia, the system uses parental responsibility and time arrangements.",
+          "She found parental responsibility shared equally by default unless the court ordered otherwise.",
+          "He found the Family Court determining time arrangements based on the best interests of the child.",
+          "Custody arrangements in Australia cover where the child lives — and how much time they spend with each parent.",
+          "She found equal shared parental responsibility the starting presumption — but not equal time.",
+          "He found sole parental responsibility available only where shared responsibility would harm the child.",
+          "Custody disputes are resolved in the Federal Circuit and Family Court of Australia.",
+          "She describes the custody conversation as the one that most required her to understand the difference between what she wanted and what the law recognised."
+        ]
+      },
+      {
+        "word": "protective behaviours",
+        "ipa": "/prəˈtɛktɪv bɪˈheɪvjərz/",
+        "phonetic": "[pruh-TEK-tiv bih-HAY-vyuz]",
+        "meaning": "koruyucu davranışlar (çocuk güvenliği eğitimi)",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found Protective Behaviours taught at her child's school from the first year.",
+          "He found Protective Behaviours the most practically useful child safety curriculum in Australian schools.",
+          "Protective Behaviours is a child safety education program teaching children to recognise unsafe situations and seek help.",
+          "She found the curriculum based on two key themes — we all have the right to feel safe, and nothing is too awful to tell.",
+          "He found Protective Behaviours teaching children the correct names for body parts and personal boundaries.",
+          "Protective Behaviours helps children identify trusted adults — and practise how to ask for help.",
+          "She found the program requiring parent engagement — the school sent home information sheets.",
+          "He found Protective Behaviours recognised across Australia — most states integrate it into the curriculum.",
+          "Protective Behaviours does not teach children to fear adults — it teaches them to trust their instincts.",
+          "She describes Protective Behaviours education as the school program she most wanted taught confidently — and most supported with conversations at home."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 321,
+    "words": [
+      {
+        "word": "kinship care",
+        "ipa": "/ˈkɪnʃɪp kɛər/",
+        "phonetic": "[KIN-ship kair]",
+        "meaning": "akraba bakımı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found kinship care the most common form of out-of-home care in Australia.",
+          "He found kinship carers — grandparents, aunts, uncles — often underprepared and undersupported.",
+          "Kinship care is the care of children by extended family members when parents cannot care for them.",
+          "She found kinship care valued for maintaining family and cultural connections — particularly for Aboriginal children.",
+          "He found kinship carers eligible for financial support through state and territory child protection agencies.",
+          "Kinship care may be informal — family arrangements without government involvement.",
+          "She found the CREATE Foundation providing advocacy and services for children in kinship care.",
+          "He found kinship carers often caring without adequate preparation — support services were essential.",
+          "Kinship care is preferred over foster care by child protection authorities when available.",
+          "She describes the kinship care system as the family welfare response she found most capable of maintaining a child's sense of who they were."
+        ]
+      },
+      {
+        "word": "foster care",
+        "ipa": "/ˈfɒstər kɛər/",
+        "phonetic": "[FOS-tuh kair]",
+        "meaning": "koruyucu aile bakımı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She became a foster carer after her own children started school — the need was significant.",
+          "He found foster carers described as the most valued and under-recruited resource in child protection.",
+          "Foster care is temporary care of children by non-family carers when children cannot live with their parents.",
+          "She found foster carers accredited and supported by state agencies and non-government providers.",
+          "He found foster care placements lasting days to years — depending on the circumstances.",
+          "Foster carers in Australia receive a daily carer allowance — the rate varies by age and state.",
+          "She found foster carers provided training, support workers, and access to respite care.",
+          "He found the need for foster carers consistently exceeding supply in every state.",
+          "Foster care aims to be temporary — the goal of child protection is reunification with family where safe.",
+          "She describes becoming a foster carer as the decision she found hardest to explain — and most rewarding to have made."
+        ]
+      },
+      {
+        "word": "child protection",
+        "ipa": "/tʃaɪld prəˈtɛkʃən/",
+        "phonetic": "[chyld pruh-TEK-shun]",
+        "meaning": "çocuk koruma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found child protection a shared responsibility — community members were mandated reporters.",
+          "He found the child protection system the most underfunded and highest-demand area of state government services.",
+          "Child protection is the system of services and interventions to protect children from abuse and neglect.",
+          "She found child protection operated at state and territory level — each with different legislation.",
+          "He found mandatory reporting laws requiring specified professionals to report suspected child abuse.",
+          "Child protection investigations balance risk assessment with family support — removal was the last resort.",
+          "She found the Closing the Gap targets addressing the over-representation of Aboriginal children in the child protection system.",
+          "He found the Child Protection Helpline — thirteen child — the reporting number in New South Wales.",
+          "Child protection services include early intervention, family support, out-of-home care, and adoption.",
+          "She describes working alongside the child protection system as the professional experience that most made her understand the complexity of families under stress."
+        ]
+      },
+      {
+        "word": "nappy",
+        "ipa": "/ˈnæpi/",
+        "phonetic": "[NAP-ee]",
+        "meaning": "bebek bezi",
+        "type": "isim",
+        "sentences": [
+          "She calculated they would use three thousand nappies before toilet training — the environmental calculation was confronting.",
+          "He found the nappy debate — disposable versus reusable — the most reliably passionate parenting forum discussion.",
+          "A nappy is an absorbent garment worn by infants to contain waste — called a diaper in North America.",
+          "She found disposable nappies the most convenient and reusable cloth nappies the most environmentally considered.",
+          "He found nappy cost budgeting the most practical financial planning exercise for new parents.",
+          "Nappies in Australia include disposables from major brands and a growing range of cloth alternatives.",
+          "She found cloth nappy libraries — run by councils and community groups — the most accessible trial pathway.",
+          "He found the Environmental Protection Agency research suggesting cloth nappies required significant energy and water to reduce their footprint.",
+          "Nappy change stations are available in most Australian shopping centres and public facilities.",
+          "She describes the nappy change at three in the morning as the parenting task she most wanted to be replaced by a robot — and most resigned herself to doing with good humour."
+        ]
+      },
+      {
+        "word": "toilet training",
+        "ipa": "/ˈtɔɪlɪt ˈtreɪnɪŋ/",
+        "phonetic": "[TOY-lit TRAY-ning]",
+        "meaning": "tuvalet eğitimi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found toilet training readiness more important than age — she waited for consistent signs.",
+          "He found toilet training the parenting milestone most discussed, most compared, and most variable.",
+          "Toilet training is the process of teaching a child to use the toilet independently.",
+          "She found Australian early childhood guidelines recommending starting between eighteen months and three years.",
+          "He found the three-day intensive method the most discussed approach — and not universally effective.",
+          "Toilet training readiness signs include interest in the toilet, dry nappies, and communication about need.",
+          "She found her childcare centre reinforcing toilet training at home — consistency between settings was critical.",
+          "He found children with developmental differences sometimes needing specialist support for toilet training.",
+          "Toilet training is a developmental process — regression during stress or change was normal.",
+          "She describes toilet training as the parenting task she most wished someone had told her was not a reflection of her ability."
+        ]
+      }
+    ]
+  },
+  {
+    "day": 322,
+    "words": [
+      {
+        "word": "grandparent",
+        "ipa": "/ˈɡrænpɛərənt/",
+        "phonetic": "[GRAN-pair-unt]",
+        "meaning": "büyükanne / büyükbaba",
+        "type": "isim",
+        "sentences": [
+          "She found grandparents providing the most valued informal childcare in the Australian family system.",
+          "He found grandparent involvement in childcare reducing costs significantly for working families.",
+          "A grandparent is the parent of a parent — a key figure in Australian extended family life.",
+          "She found grandparents managing three or more days of childcare per week in some families.",
+          "He found Grandparents Australia providing resources and support for grandparents in primary care roles.",
+          "Grandparents have legal standing to apply for contact orders in the Family Court — their relationship with grandchildren is recognised.",
+          "She found grandparents navigating technology — video calls became the primary connection when distance separated them.",
+          "He found grandparents raising grandchildren in the kinship care system the most stretched and least supported carers.",
+          "Grandparents contribute an estimated one point three billion hours of unpaid childcare annually in Australia.",
+          "She describes her parents' relationship with her children as the intergenerational gift she most wanted to protect and encourage."
+        ]
+      },
+      {
+        "word": "family reunion",
+        "ipa": "/ˈfæmɪli riːˈjuːniən/",
+        "phonetic": "[FAM-uh-lee ree-YOON-yun]",
+        "meaning": "aile toplantısı / kavuşma",
+        "type": "isim öbeği",
+        "sentences": [
+          "She organised the family reunion — three states, four generations, one backyard.",
+          "He found the Australian family reunion the event that most revealed how widely families had dispersed.",
+          "A family reunion is a gathering of extended family members — often across generations.",
+          "She found Australian families organising reunions around Christmas, milestone birthdays, and significant anniversaries.",
+          "He found the family reunion requiring months of planning — accommodation, catering, and coordination.",
+          "Family reunions for migrant families often involve international travel — returning to the country of origin.",
+          "She found the family reunion the moment she most appreciated how far she had come and how much she had retained.",
+          "He found online family reunion tools — shared photo albums and family tree platforms — bridging the gaps between events.",
+          "Family reunions mark generational transitions — births, deaths, and marriages.",
+          "She describes the family reunion as the gathering she most dreaded to organise and most cherished to remember."
+        ]
+      },
+      {
+        "word": "holiday care",
+        "ipa": "/ˈhɒlɪdeɪ kɛər/",
+        "phonetic": "[HOL-ih-day kair]",
+        "meaning": "tatil dönemi çocuk bakımı",
+        "type": "isim öbeği",
+        "sentences": [
+          "She enrolled her children in holiday care for the two weeks of school holidays she was working.",
+          "He found holiday care the most expensive and most logistically challenging gap in the childcare system.",
+          "Holiday care is supervised childcare provided during school holiday periods.",
+          "She found Outside School Hours Care — OSHC — providers offering holiday care programs.",
+          "He found holiday care programs including excursions, craft, sport, and incursion activities.",
+          "Holiday care in Australia is subsidised by the Child Care Subsidy — if the provider was approved.",
+          "She found holiday care places filling quickly — she enrolled months in advance.",
+          "He found holiday care providing children with structured social activity — not just supervision.",
+          "Holiday care costs varied — between fifty and one hundred and twenty dollars per day depending on provider.",
+          "She describes holiday care as the service she most valued precisely because she most needed it to work."
+        ]
+      },
+      {
+        "word": "work-life balance",
+        "ipa": "/wɜːk laɪf ˈbæləns/",
+        "phonetic": "[wurk lyf BAL-uns]",
+        "meaning": "iş-yaşam dengesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She found work-life balance the most frequently discussed but least practically supported workplace concept.",
+          "He found the conversation about work-life balance most urgent for parents of young children.",
+          "Work-life balance is the equilibrium between professional responsibilities and personal and family life.",
+          "She found work-life balance easier to achieve in workplaces with flexible arrangements and supportive culture.",
+          "He found the pandemic shifting expectations — remote work revealed that balance was possible.",
+          "Work-life balance in Australia is shaped by working hours, commute, childcare availability, and workplace flexibility.",
+          "She found the Fair Work Act's right to request flexible working arrangements the most useful legislative protection.",
+          "He found the National Employment Standards providing minimum entitlements — but culture determined real balance.",
+          "Work-life balance discussions in Australia are increasingly framed as gender equity issues — the load is unequal.",
+          "She describes finding work-life balance as the ongoing negotiation she found most required honesty about what she actually wanted."
+        ]
+      },
+      {
+        "word": "family budget",
+        "ipa": "/ˈfæmɪli ˈbʌdʒɪt/",
+        "phonetic": "[FAM-uh-lee BUJ-it]",
+        "meaning": "aile bütçesi",
+        "type": "isim öbeği",
+        "sentences": [
+          "She built a family budget when her second child was born — the numbers required rethinking everything.",
+          "He found the family budget the most practical financial document a household could maintain.",
+          "A family budget is a plan for managing household income and expenditure.",
+          "She found the family budget covering housing, food, transport, childcare, education, and savings.",
+          "He found the Moneysmart budget planner on the ASIC website the most useful free tool for family budgeting.",
+          "Family budgets in Australia are under pressure from housing costs, childcare, and utility bills.",
+          "She found the family budget requiring review every six months — circumstances changed.",
+          "He found the family budget most valuably built as a shared document — both partners owning the numbers.",
+          "Family budgets that include an emergency fund provide the most resilience against unexpected costs.",
+          "She describes the family budget as the financial habit that most reduced her anxiety — not because everything was comfortable, but because everything was visible."
+        ]
+      }
+    ]
+  }
+]

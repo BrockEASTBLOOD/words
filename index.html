@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>365 Günlük Avustralya İngilizcesi</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+:root{
+  --bg:#F8F7FF;
+  --card:#ffffff;
+  --teal:#5EADA0;
+  --teal-light:#E6F4F1;
+  --coral:#E8927C;
+  --lavender:#9B8EC4;
+  --lav-light:#F0EEF9;
+  --warm-grey:#6B7280;
+  --border:#E5E7EB;
+  --dark:#1F2937;
+  --soft-blue:#6B9EC4;
+  --orange:#D97706;
+  --green:#059669;
+  --gold:#D97706;
+  --c1:#5EADA0;
+  --c2:#E8927C;
+  --c3:#9B8EC4;
+  --c4:#6B9EC4;
+  --c5:#D97706;
+}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;background:var(--bg);min-height:100vh;color:var(--dark);}
+
+/* ── HEADER ── */
+.header{position:sticky;top:0;z-index:200;background:#fff;border-bottom:1px solid var(--border);padding:0 1.5rem;height:58px;display:flex;align-items:center;justify-content:space-between;gap:1rem;}
+.header-title{font-size:1rem;font-weight:700;color:var(--teal);white-space:nowrap;letter-spacing:-0.02em;}
+.header-title small{color:var(--warm-grey);font-weight:400;font-size:0.78rem;margin-left:0.4rem;}
+.progress-wrap{flex:1;max-width:280px;}
+.progress-label{font-size:0.68rem;color:var(--warm-grey);display:flex;justify-content:space-between;margin-bottom:4px;}
+.progress-bar{height:6px;background:var(--border);border-radius:10px;overflow:hidden;}
+.progress-fill{height:100%;background:linear-gradient(90deg,var(--teal),var(--lavender));border-radius:10px;transition:width .5s ease;}
+.header-right{display:flex;align-items:center;gap:.5rem;}
+.btn{padding:.38rem .85rem;border-radius:8px;border:1.5px solid var(--border);background:#fff;color:var(--warm-grey);font-size:.78rem;cursor:pointer;font-family:inherit;transition:all .15s;font-weight:500;white-space:nowrap;}
+.btn:hover{border-color:var(--teal);color:var(--teal);}
+.btn-primary{background:var(--teal);color:#fff;border-color:var(--teal);}
+.btn-primary:hover{background:#4a9a8d;border-color:#4a9a8d;color:#fff;}
+.btn-sm{padding:.3rem .65rem;font-size:.72rem;}
+
+/* ── SCREENS ── */
+.screen{display:none;}.screen.active{display:block;}
+
+/* ── IMPORT SCREEN ── */
+#import-screen .wrap{min-height:calc(100vh - 58px);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:3rem 1.5rem;}
+.import-hero{text-align:center;margin-bottom:2.5rem;}
+.import-hero .emoji{font-size:3.5rem;line-height:1;margin-bottom:.75rem;}
+.import-hero h1{font-size:1.8rem;font-weight:700;color:var(--teal);margin-bottom:.6rem;}
+.import-hero p{color:var(--warm-grey);font-size:.9rem;line-height:1.7;max-width:420px;margin:0 auto;}
+.month-grid{display:grid;grid-template-columns:repeat(13,1fr);gap:.4rem;width:100%;max-width:720px;margin-bottom:1.75rem;}
+.month-slot{border:1.5px dashed var(--border);border-radius:8px;padding:.5rem .25rem;text-align:center;cursor:pointer;transition:all .15s;background:#fff;position:relative;}
+.month-slot:hover:not(.loaded){border-color:var(--teal);background:var(--teal-light);}
+.month-slot.loaded{border:1.5px solid var(--teal);background:var(--teal-light);cursor:default;}
+.month-check{display:none;position:absolute;top:3px;right:3px;width:13px;height:13px;background:var(--teal);border-radius:50%;align-items:center;justify-content:center;color:#fff;font-size:8px;font-weight:700;}
+.month-slot.loaded .month-check{display:flex;}
+.month-name{font-size:.72rem;font-weight:700;color:var(--dark);margin-bottom:.1rem;}
+.month-days-lbl{font-size:.55rem;color:var(--warm-grey);}
+.month-filename{font-size:.55rem;color:var(--lavender);margin-top:.1rem;font-family:monospace;}
+.import-actions{display:flex;gap:.85rem;flex-wrap:wrap;justify-content:center;margin-bottom:1.25rem;}
+.import-note{font-size:.75rem;color:var(--warm-grey);text-align:center;max-width:440px;line-height:1.7;}
+.import-note code{background:#EEE;padding:1px 5px;border-radius:4px;font-size:.72rem;}
+
+/* ── DASHBOARD ── */
+#dashboard-screen .main{max-width:1100px;margin:0 auto;padding:1.75rem 1.5rem;}
+.stats-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.85rem;margin-bottom:1.5rem;}
+.stat-card{background:#fff;border-radius:14px;border:1px solid var(--border);padding:1.1rem 1rem;}
+.stat-label{font-size:.7rem;color:var(--warm-grey);margin-bottom:.4rem;font-weight:500;}
+.stat-value{font-size:1.7rem;font-weight:700;color:var(--dark);line-height:1;}
+.stat-sub{font-size:.65rem;color:var(--warm-grey);margin-top:.2rem;}
+.section-card{background:#fff;border-radius:14px;border:1px solid var(--border);padding:1.4rem;margin-bottom:1.25rem;}
+.section-title{font-size:.82rem;font-weight:700;color:var(--dark);margin-bottom:1rem;}
+.continue-row{display:flex;align-items:center;justify-content:space-between;gap:1rem;flex-wrap:wrap;}
+.continue-lbl{font-size:.75rem;color:var(--warm-grey);margin-bottom:.2rem;}
+.continue-val{font-size:1.05rem;font-weight:700;color:var(--dark);}
+
+/* heatmap */
+.heatmap-grid{display:flex;flex-wrap:wrap;gap:3px;}
+.hm-day{width:14px;height:14px;border-radius:3px;background:#EBEBEB;cursor:default;transition:transform .1s;flex-shrink:0;}
+.hm-day.clickable{cursor:pointer;}
+.hm-day.clickable:hover{transform:scale(1.4);}
+.hm-day.hm-done{background:var(--teal);}
+.hm-day.hm-current{background:var(--lavender);box-shadow:0 0 0 2px var(--lavender);}
+.hm-day.hm-nodata{background:#F3F3F3;}
+.heatmap-legend{display:flex;align-items:center;gap:.4rem;margin-top:.85rem;font-size:.67rem;color:var(--warm-grey);flex-wrap:wrap;}
+.leg-box{width:11px;height:11px;border-radius:2px;flex-shrink:0;}
+.hm-tooltip{position:fixed;background:var(--dark);color:#fff;padding:.35rem .7rem;border-radius:6px;font-size:.72rem;pointer-events:none;z-index:9999;display:none;white-space:nowrap;}
+
+/* months bar */
+.months-bar{display:flex;gap:3px;flex-wrap:wrap;margin-top:.6rem;}
+.mbadge{padding:2px 7px;border-radius:20px;font-size:.62rem;font-weight:700;background:#EEE;color:var(--warm-grey);}
+.mbadge.loaded{background:var(--teal-light);color:var(--teal);}
+
+/* ── DAY SCREEN ── */
+#day-screen .main{max-width:1100px;margin:0 auto;padding:1.75rem 1.5rem;}
+.day-header{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:1.4rem;gap:1rem;flex-wrap:wrap;}
+.day-title{font-size:1.45rem;font-weight:700;color:var(--dark);}
+.day-sub{font-size:.8rem;color:var(--warm-grey);margin-top:.15rem;}
+.day-actions{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;}
+.complete-btn{padding:.45rem 1.1rem;border-radius:10px;border:2px solid var(--teal);background:#fff;color:var(--teal);font-size:.82rem;font-weight:700;cursor:pointer;font-family:inherit;transition:all .2s;display:flex;align-items:center;gap:.4rem;}
+.complete-btn:hover{background:var(--teal);color:#fff;}
+.complete-btn.done{background:var(--teal);color:#fff;}
+
+/* 5-card row */
+.cards-row{display:grid;grid-template-columns:repeat(5,1fr);gap:.85rem;margin-bottom:1rem;}
+.word-card{background:#fff;border-radius:16px;border:1px solid var(--border);overflow:hidden;cursor:pointer;transition:all .2s;box-shadow:0 2px 6px rgba(0,0,0,.04);}
+.word-card:hover{transform:translateY(-3px);box-shadow:0 10px 22px rgba(0,0,0,.08);}
+.word-card.active{box-shadow:0 10px 22px rgba(94,173,160,.15);}
+.card-accent{height:5px;}
+.card-body{padding:1rem .9rem .7rem;min-height:130px;display:flex;flex-direction:column;}
+.card-word{font-size:1rem;font-weight:700;color:var(--teal);margin-bottom:.25rem;word-break:break-word;line-height:1.2;}
+.card-ipa{font-size:.73rem;color:var(--soft-blue);font-family:Georgia,serif;margin-bottom:.15rem;}
+.card-phonetic{font-size:.7rem;color:var(--orange);font-style:italic;margin-bottom:.35rem;}
+.card-meaning{font-size:.76rem;font-weight:700;color:var(--green);margin-top:auto;}
+.card-type{font-size:.67rem;color:var(--warm-grey);}
+.card-footer{padding:.45rem .9rem;border-top:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;}
+.card-label{width:24px;height:24px;border-radius:50%;color:#fff;font-size:.7rem;font-weight:700;display:flex;align-items:center;justify-content:center;}
+.card-hint{font-size:.62rem;color:var(--warm-grey);}
+
+/* detail panel */
+.word-detail{background:#fff;border-radius:16px;border:1.5px solid var(--teal);padding:1.75rem;margin-bottom:1.4rem;display:none;animation:slideDown .2s ease;}
+.word-detail.open{display:block;}
+@keyframes slideDown{from{opacity:0;transform:translateY(-8px);}to{opacity:1;transform:translateY(0);}}
+.detail-top{display:flex;align-items:flex-start;justify-content:space-between;margin-bottom:1.4rem;gap:1rem;flex-wrap:wrap;}
+.detail-word{font-size:2rem;font-weight:700;color:var(--teal);line-height:1;margin-bottom:.3rem;}
+.detail-ipa{font-size:.95rem;color:var(--soft-blue);font-family:Georgia,serif;margin-bottom:.2rem;}
+.detail-phonetic{font-size:.88rem;color:var(--orange);font-style:italic;margin-bottom:.4rem;}
+.detail-meaning{font-size:1.05rem;font-weight:700;color:var(--green);}
+.detail-type{font-size:.82rem;color:var(--warm-grey);}
+.detail-close{background:none;border:1px solid var(--border);border-radius:8px;padding:.38rem .7rem;color:var(--warm-grey);cursor:pointer;font-family:inherit;font-size:.78rem;transition:all .15s;white-space:nowrap;}
+.detail-close:hover{border-color:var(--coral);color:var(--coral);}
+.sent-title{font-size:.72rem;font-weight:700;color:var(--warm-grey);text-transform:uppercase;letter-spacing:.06em;margin-bottom:.85rem;padding-bottom:.5rem;border-bottom:1px solid var(--border);}
+.sentences-list{list-style:none;display:grid;grid-template-columns:repeat(2,1fr);gap:.55rem;}
+.sent-item{display:flex;gap:.6rem;align-items:flex-start;padding:.65rem .75rem;background:var(--bg);border-radius:10px;font-size:.82rem;line-height:1.55;color:var(--dark);}
+.sent-num{flex-shrink:0;width:19px;height:19px;border-radius:50%;background:var(--border);color:var(--warm-grey);font-size:.65rem;font-weight:700;display:flex;align-items:center;justify-content:center;}
+
+/* nav */
+.nav-bar{display:flex;align-items:center;justify-content:center;gap:.85rem;padding:1.4rem 0 2rem;flex-wrap:wrap;}
+.nav-btn{padding:.55rem 1.3rem;border-radius:10px;border:1.5px solid var(--border);background:#fff;color:var(--dark);font-size:.82rem;font-weight:600;cursor:pointer;font-family:inherit;transition:all .15s;}
+.nav-btn:hover:not(:disabled){border-color:var(--teal);color:var(--teal);}
+.nav-btn:disabled{opacity:.35;cursor:not-allowed;}
+.nav-ind{font-size:.85rem;color:var(--warm-grey);font-weight:500;}
+.page-jump{display:flex;align-items:center;gap:.4rem;}
+.page-jump label{font-size:.75rem;color:var(--warm-grey);}
+.page-jump input{width:60px;padding:.45rem .6rem;border:1.5px solid var(--border);border-radius:8px;font-family:inherit;font-size:.82rem;text-align:center;color:var(--dark);background:#fff;transition:border-color .15s;}
+.page-jump input:focus{outline:none;border-color:var(--teal);}
+
+/* toast */
+.toast{position:fixed;bottom:1.75rem;right:1.75rem;background:var(--dark);color:#fff;padding:.7rem 1.1rem;border-radius:10px;font-size:.82rem;z-index:9998;opacity:0;transform:translateY(8px);transition:all .3s;pointer-events:none;max-width:320px;}
+.toast.show{opacity:1;transform:translateY(0);}
+
+/* card accent colours */
+.ca0{background:var(--c1);}.ca1{background:var(--c2);}.ca2{background:var(--c3);}.ca3{background:var(--c4);}.ca4{background:var(--c5);}
+.cl0{background:var(--c1);}.cl1{background:var(--c2);}.cl2{background:var(--c3);}.cl3{background:var(--c4);}.cl4{background:var(--c5);}
+
+/* active card border matches accent */
+.word-card.active.c0{border-color:var(--c1);}
+.word-card.active.c1{border-color:var(--c2);}
+.word-card.active.c2{border-color:var(--c3);}
+.word-card.active.c3{border-color:var(--c4);}
+.word-card.active.c4{border-color:var(--c5);}
+
+/* responsive */
+@media(max-width:960px){.cards-row{grid-template-columns:repeat(3,1fr);}}
+@media(max-width:640px){
+  .cards-row{grid-template-columns:repeat(2,1fr);}
+  .month-grid{grid-template-columns:repeat(3,1fr);}
+  .sentences-list{grid-template-columns:1fr;}
+  .header-title small{display:none;}
+  .progress-wrap{max-width:160px;}
+}
+@media(max-width:420px){.cards-row{grid-template-columns:1fr;}.month-grid{grid-template-columns:repeat(2,1fr);}}
+</style>
+</head>
+<body>
+
+<div class="hm-tooltip" id="hm-tooltip"></div>
+<div class="toast" id="toast"></div>
+
+<!-- ══════════════════════════════════════
+     HEADER
+══════════════════════════════════════ -->
+<header class="header">
+  <div class="header-title">
+    365 Günlük Avustralya İngilizcesi
+    <small id="hdr-page"></small>
+  </div>
+
+  <div class="progress-wrap" id="hdr-prog" style="display:none">
+    <div class="progress-label">
+      <span id="prog-left">0 / 365 gün</span>
+      <span id="prog-right">0%</span>
+    </div>
+    <div class="progress-bar"><div class="progress-fill" id="prog-fill" style="width:0%"></div></div>
+  </div>
+
+  <div class="header-right">
+    <button class="btn btn-sm" id="hdr-btn-dash" style="display:none" onclick="showDashboard()">📊 Genel</button>
+    <button class="btn btn-sm" id="hdr-btn-months" style="display:none" onclick="showImportScreen()">📂 Aylar</button>
+    <button class="btn btn-sm" id="hdr-btn-save" style="display:none" onclick="saveProgress()">💾 Kaydet</button>
+    <button class="btn btn-sm" onclick="triggerLoad()">📁 Yükle</button>
+  </div>
+</header>
+
+<!-- hidden inputs -->
+<input type="file" id="fi-multi"  accept=".json" multiple style="display:none" onchange="handleMultiImport(event)">
+<input type="file" id="fi-single" accept=".json"          style="display:none" onchange="handleSingleImport(event)">
+<input type="file" id="fi-prog"   accept=".json"          style="display:none" onchange="loadProgress(event)">
+
+<!-- ══════════════════════════════════════
+     IMPORT SCREEN
+══════════════════════════════════════ -->
+<div id="import-screen" class="screen active">
+  <div class="wrap">
+    <div class="import-hero">
+      <div class="emoji">🦘</div>
+      <h1>365 Günlük Avustralya İngilizcesi</h1>
+      <p>Haftalık kelime dosyalarını yükleyerek başlayın.<br>
+         Her hafta ayrı bir JSON dosyasıdır (35 kelime) — birini, birkaçını veya hepsini yükleyebilirsiniz.</p>
+    </div>
+
+    <div class="month-grid" id="month-grid"></div>
+
+    <div class="import-actions">
+      <button class="btn btn-primary" onclick="document.getElementById('fi-multi').click()">
+        📂 Birden Fazla Dosya Seç
+      </button>
+      <button class="btn" id="btn-open-book" style="display:none" onclick="openBook()">
+        📖 Kitabı Aç →
+      </button>
+    </div>
+
+    <p class="import-note">
+      Kelimeler tarayıcınızda saklanır — bir sonraki açılışta tekrar yüklemenize gerek yoktur.<br>
+      Dosyaları birlikte kullanın: <code>index.html</code> + aylık JSON dosyaları.
+    </p>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════
+     DASHBOARD SCREEN
+══════════════════════════════════════ -->
+<div id="dashboard-screen" class="screen">
+  <div class="main">
+
+    <!-- Stats -->
+    <div class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Tamamlanan Günler</div>
+        <div class="stat-value" id="s-done">0</div>
+        <div class="stat-sub">/ 365 gün</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Öğrenilen Kelimeler</div>
+        <div class="stat-value" id="s-words">0</div>
+        <div class="stat-sub">/ 1,825 kelime</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Yüklü Aylar</div>
+        <div class="stat-value" id="s-months">0</div>
+        <div class="stat-sub">/ 12 ay</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">En Uzun Seri</div>
+        <div class="stat-value" id="s-streak">0</div>
+        <div class="stat-sub">gün üst üste</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Tamamlama Oranı</div>
+        <div class="stat-value" id="s-pct">0%</div>
+        <div class="stat-sub">toplam ilerleme</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Kalan Günler</div>
+        <div class="stat-value" id="s-left">365</div>
+        <div class="stat-sub">gün kaldı</div>
+      </div>
+    </div>
+
+    <!-- Continue -->
+    <div class="section-card" id="continue-card" style="display:none">
+      <div class="continue-row">
+        <div>
+          <div class="continue-lbl">Kaldığınız yerden devam edin</div>
+          <div class="continue-val" id="continue-val">Gün 1</div>
+        </div>
+        <button class="btn btn-primary" onclick="continueLearning()">Devam Et →</button>
+      </div>
+    </div>
+
+    <!-- Heatmap -->
+    <div class="section-card">
+      <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.75rem;margin-bottom:1rem;">
+        <div class="section-title" style="margin-bottom:0;">Yıllık İlerleme — 365 Gün</div>
+        <div class="months-bar" id="months-bar"></div>
+      </div>
+      <div class="heatmap-grid" id="heatmap-grid"></div>
+      <div class="heatmap-legend">
+        <div class="leg-box" style="background:#EBEBEB;"></div><span>Yapılmadı</span>
+        <div class="leg-box" style="background:var(--teal);margin-left:.75rem;"></div><span>Tamamlandı</span>
+        <div class="leg-box" style="background:var(--lavender);margin-left:.75rem;"></div><span>Mevcut</span>
+        <div class="leg-box" style="background:#F3F3F3;margin-left:.75rem;opacity:.5;"></div><span>Yüklenmedi</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════
+     DAY SCREEN
+══════════════════════════════════════ -->
+<div id="day-screen" class="screen">
+  <div class="main">
+
+    <div class="day-header">
+      <div>
+        <div class="day-title" id="day-title">Gün 1</div>
+        <div class="day-sub" id="day-sub">5 kelime</div>
+      </div>
+      <div class="day-actions">
+        <button class="btn btn-sm" onclick="showDashboard()">← Genel Bakış</button>
+        <button class="complete-btn" id="complete-btn" onclick="toggleComplete()">
+          <span id="comp-icon">○</span>
+          <span id="comp-txt">Tamamlandı İşaretle</span>
+        </button>
+      </div>
+    </div>
+
+    <!-- 5 word cards -->
+    <div class="cards-row" id="cards-row"></div>
+
+    <!-- detail panel -->
+    <div class="word-detail" id="word-detail">
+      <div class="detail-top">
+        <div>
+          <div class="detail-word"  id="d-word"></div>
+          <div class="detail-ipa"   id="d-ipa"></div>
+          <div class="detail-phonetic" id="d-phon"></div>
+          <div>
+            <span class="detail-meaning" id="d-meaning"></span>
+            <span class="detail-type"    id="d-type"></span>
+          </div>
+        </div>
+        <button class="detail-close" onclick="closeDetail()">✕ Kapat</button>
+      </div>
+      <div class="sent-title">10 Örnek Cümle — Avustralya Günlük Yaşamı</div>
+      <ul class="sentences-list" id="d-sentences"></ul>
+    </div>
+
+    <!-- navigation -->
+    <div class="nav-bar">
+      <button class="nav-btn" id="prev-btn" onclick="goToPage(currentPage-1)">← Önceki</button>
+      <div class="page-jump">
+        <label>Gün</label>
+        <input type="number" id="page-input" min="1" max="365"
+          onkeydown="if(event.key==='Enter')jumpToPage()">
+        <button class="nav-btn" onclick="jumpToPage()" style="padding:.45rem .75rem;">Git</button>
+      </div>
+      <span class="nav-ind" id="nav-ind">1 / 365</span>
+      <button class="nav-btn" id="next-btn" onclick="goToPage(currentPage+1)">Sonraki →</button>
+    </div>
+
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════
+     JAVASCRIPT
+══════════════════════════════════════ -->
+<script>
+/* ─── CONSTANTS ─── */
+const LS_PROGRESS = 'avustralya_sozluk_progress';
+const LS_WORDS    = 'avustralya_sozluk_words';
+
+const WEEKS = (() => {
+  const w = [];
+  for (let i = 1; i <= 52; i++) {
+    const n  = String(i).padStart(2,'0');
+    const s  = (i-1)*7 + 1;
+    const e  = i === 52 ? 365 : i*7;
+    w.push({ key:'w'+n, name:'Hafta '+i, file:'Week'+n+'_words.json', days:s+'–'+e, s, e });
+  }
+  return w;
+})();
+
+const CARD_LETTERS = ['1','2','3','4','5'];
+
+/* ─── STATE ─── */
+let words = {};       // { dayNum: [ {word,ipa,phonetic,meaning,type,sentences[]}, … ] }
+let monthsLoaded = [];
+let completedDays = [];
+let currentPage = 1;
+let activeCardIdx = null;
+let _pendingMonthKey = null;
+
+/* ─── INIT ─── */
+function init() {
+  loadFromStorage();
+  buildMonthGrid();
+  if (Object.keys(words).length > 0) {
+    showHeaderControls();
+    showDashboard();
+  }
+}
+
+/* ─── STORAGE ─── */
+function loadFromStorage() {
+  try {
+    const prog = localStorage.getItem(LS_PROGRESS);
+    if (prog) {
+      const p = JSON.parse(prog);
+      completedDays = p.completedDays || [];
+      currentPage   = p.currentPage   || 1;
+      monthsLoaded  = p.monthsLoaded  || [];
+    }
+    const w = localStorage.getItem(LS_WORDS);
+    if (w) words = JSON.parse(w);
+  } catch(e) { console.warn('Storage read error', e); }
+}
+
+function saveToStorage() {
+  try {
+    localStorage.setItem(LS_PROGRESS, JSON.stringify({ completedDays, currentPage, monthsLoaded }));
+    localStorage.setItem(LS_WORDS, JSON.stringify(words));
+  } catch(e) {
+    showToast('⚠️ Depolama doldu. Lütfen progress.json ile kaydedin.');
+  }
+}
+
+/* ─── SCREEN HELPERS ─── */
+function showScreen(id) {
+  document.querySelectorAll('.screen').forEach(s => s.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+}
+
+function showHeaderControls() {
+  ['hdr-btn-dash','hdr-btn-months','hdr-btn-save','hdr-prog'].forEach(id => {
+    document.getElementById(id).style.display = '';
+  });
+  refreshProgress();
+}
+
+function refreshProgress() {
+  const c   = completedDays.length;
+  const pct = Math.round((c / 365) * 100);
+  document.getElementById('prog-left').textContent  = c + ' / 365 gün tamamlandı';
+  document.getElementById('prog-right').textContent = pct + '%';
+  document.getElementById('prog-fill').style.width  = pct + '%';
+}
+
+/* ─── IMPORT SCREEN ─── */
+function showImportScreen() {
+  buildMonthGrid();
+  showScreen('import-screen');
+}
+
+function buildMonthGrid() {
+  const grid = document.getElementById('month-grid');
+  grid.innerHTML = '';
+  WEEKS.forEach(w => {
+    const loaded = monthsLoaded.includes(w.key);
+    const slot   = document.createElement('div');
+    slot.className = 'month-slot' + (loaded ? ' loaded' : '');
+    slot.innerHTML = `
+      <div class="month-check">✓</div>
+      <div class="month-name" style="font-size:.8rem">${w.name}</div>
+      <div class="month-days-lbl">G. ${w.days}</div>`;
+    if (!loaded) slot.onclick = () => { _pendingMonthKey = w.key; document.getElementById('fi-single').click(); };
+    grid.appendChild(slot);
+  });
+  if (monthsLoaded.length > 0) document.getElementById('btn-open-book').style.display = '';
+}
+
+function handleMultiImport(e) {
+  const files = Array.from(e.target.files);
+  if (!files.length) return;
+  let done = 0;
+  files.forEach(file => {
+    const reader = new FileReader();
+    reader.onload = ev => {
+      try {
+        const data = JSON.parse(ev.target.result);
+        const key  = detectKey(file.name, data);
+        if (key) mergeData(data, key);
+        if (++done === files.length) {
+          buildMonthGrid(); showHeaderControls();
+          showToast('✓ ' + done + ' dosya başarıyla yüklendi!');
+          document.getElementById('btn-open-book').style.display = '';
+        }
+      } catch(_) { showToast('⚠️ ' + file.name + ' okunamadı.'); }
+    };
+    reader.readAsText(file);
+  });
+  e.target.value = '';
+}
+
+function handleSingleImport(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = ev => {
+    try {
+      const data = JSON.parse(ev.target.result);
+      const key  = _pendingMonthKey || detectKey(file.name, data);
+      if (key) {
+        mergeData(data, key);
+        buildMonthGrid(); showHeaderControls();
+        const wk = WEEKS.find(x => x.key === key);
+        showToast('✓ ' + (wk ? wk.name : key) + ' başarıyla yüklendi!');
+        document.getElementById('btn-open-book').style.display = '';
+      }
+    } catch(_) { showToast('⚠️ Geçersiz JSON dosyası.'); }
+    _pendingMonthKey = null;
+  };
+  reader.readAsText(file);
+  e.target.value = '';
+}
+
+function detectKey(filename, data) {
+  const f = filename.toLowerCase();
+  const m = f.match(/week(\d{1,2})/i);
+  if (m) {
+    const key = 'w' + String(parseInt(m[1])).padStart(2,'0');
+    return WEEKS.find(w => w.key === key) ? key : null;
+  }
+  if (data && data[0] && data[0].day) {
+    const d  = data[0].day;
+    const wk = WEEKS.find(x => d >= x.s && d <= x.e);
+    return wk ? wk.key : null;
+  }
+  return null;
+}
+
+function mergeData(data, key) {
+  // data = [ { day:N, words:[…] }, … ]
+  data.forEach(obj => { if (obj.day && obj.words) words[obj.day] = obj.words; });
+  if (!monthsLoaded.includes(key)) monthsLoaded.push(key);
+  saveToStorage();
+}
+
+function openBook() {
+  if (Object.keys(words).length === 0) { showImportScreen(); return; }
+  // If currentPage has no data, find nearest available
+  if (!words[currentPage]) {
+    const avail = Object.keys(words).map(Number).sort((a,b)=>a-b);
+    if (avail.length) currentPage = avail[0];
+  }
+  showHeaderControls();
+  showDashboard();
+}
+
+/* ─── DASHBOARD ─── */
+function showDashboard() {
+  refreshDashboard();
+  showScreen('dashboard-screen');
+}
+
+function refreshDashboard() {
+  const done  = completedDays.length;
+  const pct   = Math.round((done / 365) * 100);
+  document.getElementById('s-done').textContent   = done;
+  document.getElementById('s-words').textContent  = (done * 5).toLocaleString();
+  document.getElementById('s-months').textContent = monthsLoaded.length;
+  document.getElementById('s-streak').textContent = calcStreak();
+  document.getElementById('s-pct').textContent    = pct + '%';
+  document.getElementById('s-left').textContent   = 365 - done;
+
+  // Continue card
+  const cc = document.getElementById('continue-card');
+  if (Object.keys(words).length > 0) {
+    cc.style.display = '';
+    document.getElementById('continue-val').textContent =
+      'Gün ' + currentPage + ' — ' + monthLabel(currentPage);
+  } else { cc.style.display = 'none'; }
+
+  buildMonthsBar();
+  buildHeatmap();
+  refreshProgress();
+}
+
+function calcStreak() {
+  if (!completedDays.length) return 0;
+  const s = [...completedDays].sort((a,b)=>a-b);
+  let best=1, cur=1;
+  for (let i=1;i<s.length;i++) { s[i]===s[i-1]+1 ? cur++ : cur=1; if(cur>best) best=cur; }
+  return best;
+}
+
+function monthLabel(day) {
+  const w = WEEKS.find(x => day>=x.s && day<=x.e);
+  return w ? w.name : '';
+}
+
+function buildMonthsBar() {
+  const bar = document.getElementById('months-bar');
+  bar.innerHTML = '';
+  WEEKS.forEach(w => {
+    const b = document.createElement('span');
+    const loaded = monthsLoaded.includes(w.key);
+    b.className = 'mbadge' + (loaded ? ' loaded' : '');
+    b.title = w.name + ' · Günler ' + w.days;
+    b.textContent = w.key.replace('w','');
+    bar.appendChild(b);
+  });
+}
+
+function buildHeatmap() {
+  const grid = document.getElementById('heatmap-grid');
+  grid.innerHTML = '';
+  for (let day=1; day<=365; day++) {
+    const cell     = document.createElement('div');
+    const hasData  = !!words[day];
+    const isDone   = completedDays.includes(day);
+    const isCur    = day === currentPage;
+    cell.className = 'hm-day' + (!hasData ? ' hm-nodata' : isDone ? ' hm-done' : '') + (isCur ? ' hm-current' : '') + (hasData ? ' clickable' : '');
+    if (hasData) {
+      cell.addEventListener('click', () => goToDay(day));
+      cell.addEventListener('mouseenter', ev => {
+        const tip = document.getElementById('hm-tooltip');
+        tip.style.display = 'block';
+        tip.textContent = 'Gün ' + day + (isDone ? ' ✓' : '') + ' · ' + monthLabel(day);
+      });
+      cell.addEventListener('mousemove', ev => {
+        const tip = document.getElementById('hm-tooltip');
+        tip.style.left = (ev.clientX+12)+'px';
+        tip.style.top  = (ev.clientY-30)+'px';
+      });
+      cell.addEventListener('mouseleave', () => { document.getElementById('hm-tooltip').style.display='none'; });
+    }
+    grid.appendChild(cell);
+  }
+}
+
+function continueLearning() { goToDay(currentPage); }
+
+/* ─── DAY VIEW ─── */
+function goToDay(day) {
+  if (!words[day]) { showToast('Bu gün henüz yüklenmedi.'); return; }
+  currentPage = day;
+  renderDay();
+  showScreen('day-screen');
+  saveToStorage();
+}
+
+function goToPage(page) {
+  page = Math.max(1, Math.min(365, page));
+  // find nearest loaded page in that direction
+  if (!words[page]) {
+    let found = false;
+    for (let i=page; i<=365; i++) { if(words[i]){ page=i; found=true; break; } }
+    if (!found) for (let i=page; i>=1; i--) { if(words[i]){ page=i; found=true; break; } }
+    if (!found) { showToast('Henüz hiç ay yüklenmedi.'); return; }
+  }
+  currentPage = page;
+  renderDay();
+  window.scrollTo({top:0,behavior:'smooth'});
+  saveToStorage();
+}
+
+function jumpToPage() {
+  const v = parseInt(document.getElementById('page-input').value);
+  if (v>=1 && v<=365) goToPage(v);
+}
+
+function renderDay() {
+  const w = words[currentPage];
+  if (!w) return;
+  closeDetail();
+
+  document.getElementById('day-title').textContent = 'Gün ' + currentPage;
+  document.getElementById('day-sub').textContent   = '5 kelime · ' + monthLabel(currentPage);
+  document.getElementById('hdr-page').textContent  = '— Gün ' + currentPage;
+  document.getElementById('nav-ind').textContent   = currentPage + ' / 365';
+  document.getElementById('prev-btn').disabled     = currentPage <= 1;
+  document.getElementById('next-btn').disabled     = currentPage >= 365;
+  document.getElementById('page-input').value      = currentPage;
+
+  const isDone = completedDays.includes(currentPage);
+  const cb = document.getElementById('complete-btn');
+  cb.classList.toggle('done', isDone);
+  document.getElementById('comp-icon').textContent = isDone ? '✓' : '○';
+  document.getElementById('comp-txt').textContent  = isDone ? 'Tamamlandı!' : 'Tamamlandı İşaretle';
+
+  const row = document.getElementById('cards-row');
+  row.innerHTML = '';
+  w.forEach((entry, i) => {
+    const card = document.createElement('div');
+    card.className = 'word-card c' + i;
+    card.id = 'card-' + i;
+    card.innerHTML = `
+      <div class="card-accent ca${i}"></div>
+      <div class="card-body">
+        <div class="card-word">${entry.word}</div>
+        <div class="card-ipa">${entry.ipa}</div>
+        <div class="card-phonetic">${entry.phonetic}</div>
+        <div class="card-meaning">${entry.meaning}</div>
+        <div class="card-type">${entry.type}</div>
+      </div>
+      <div class="card-footer">
+        <div class="card-label cl${i}">${CARD_LETTERS[i]}</div>
+        <span class="card-hint">detay ↓</span>
+      </div>`;
+    card.addEventListener('click', () => openDetail(i, entry));
+    row.appendChild(card);
+  });
+}
+
+/* ─── DETAIL PANEL ─── */
+function openDetail(idx, entry) {
+  const panel = document.getElementById('word-detail');
+  if (activeCardIdx === idx && panel.classList.contains('open')) { closeDetail(); return; }
+  document.querySelectorAll('.word-card').forEach(c => c.classList.remove('active'));
+  document.getElementById('card-' + idx).classList.add('active');
+  activeCardIdx = idx;
+
+  document.getElementById('d-word').textContent    = entry.word;
+  document.getElementById('d-ipa').textContent     = 'IPA: ' + entry.ipa;
+  document.getElementById('d-phon').textContent    = 'Okunuş: ' + entry.phonetic;
+  document.getElementById('d-meaning').textContent = entry.meaning + ' ';
+  document.getElementById('d-type').textContent    = '— ' + entry.type;
+
+  const ul = document.getElementById('d-sentences');
+  ul.innerHTML = '';
+  entry.sentences.forEach((s, i) => {
+    const li = document.createElement('li');
+    li.className = 'sent-item';
+    li.innerHTML = `<span class="sent-num">${i+1}</span><span>${s}</span>`;
+    ul.appendChild(li);
+  });
+
+  panel.classList.add('open');
+  setTimeout(() => panel.scrollIntoView({behavior:'smooth',block:'nearest'}), 80);
+}
+
+function closeDetail() {
+  document.getElementById('word-detail').classList.remove('open');
+  document.querySelectorAll('.word-card').forEach(c => c.classList.remove('active'));
+  activeCardIdx = null;
+}
+
+/* ─── COMPLETE DAY ─── */
+function toggleComplete() {
+  const idx = completedDays.indexOf(currentPage);
+  if (idx === -1) {
+    completedDays.push(currentPage);
+    showToast('✓ Gün ' + currentPage + ' tamamlandı!');
+  } else {
+    completedDays.splice(idx, 1);
+    showToast('Gün ' + currentPage + ' işareti kaldırıldı.');
+  }
+  saveToStorage();
+  const done = completedDays.includes(currentPage);
+  document.getElementById('complete-btn').classList.toggle('done', done);
+  document.getElementById('comp-icon').textContent = done ? '✓' : '○';
+  document.getElementById('comp-txt').textContent  = done ? 'Tamamlandı!' : 'Tamamlandı İşaretle';
+  refreshProgress();
+}
+
+/* ─── SAVE / LOAD PROGRESS ─── */
+function saveProgress() {
+  const data = {
+    version:       '1.0',
+    app:           '365 Günlük Avustralya İngilizcesi',
+    savedAt:       new Date().toISOString(),
+    currentPage,
+    completedDays,
+    monthsLoaded,
+  };
+  const blob = new Blob([JSON.stringify(data, null, 2)], {type:'application/json'});
+  const url  = URL.createObjectURL(blob);
+  const a    = document.createElement('a');
+  a.href = url; a.download = 'progress.json'; a.click();
+  URL.revokeObjectURL(url);
+  showToast('✓ İlerleme kaydedildi → progress.json');
+}
+
+function triggerLoad() { document.getElementById('fi-prog').click(); }
+
+function loadProgress(e) {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = ev => {
+    try {
+      const d = JSON.parse(ev.target.result);
+      if (d.completedDays) completedDays = d.completedDays;
+      if (d.currentPage)   currentPage   = d.currentPage;
+      if (d.monthsLoaded)  monthsLoaded  = d.monthsLoaded;
+      saveToStorage();
+      const date = d.savedAt ? new Date(d.savedAt).toLocaleDateString('tr-TR') : '';
+      showToast('✓ İlerleme yüklendi' + (date ? ' (' + date + ')' : '') + '!');
+      if (Object.keys(words).length > 0) { showHeaderControls(); showDashboard(); }
+      else buildMonthGrid();
+    } catch(_) { showToast('⚠️ Geçersiz progress.json dosyası.'); }
+  };
+  reader.readAsText(file);
+  e.target.value = '';
+}
+
+/* ─── TOAST ─── */
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(t._timer);
+  t._timer = setTimeout(() => t.classList.remove('show'), 3200);
+}
+
+/* ─── KEYBOARD ─── */
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  const ds = document.getElementById('day-screen');
+  if (!ds.classList.contains('active')) return;
+  if (e.key === 'ArrowRight') goToPage(currentPage + 1);
+  if (e.key === 'ArrowLeft')  goToPage(currentPage - 1);
+  if (e.key === 'Escape')     closeDetail();
+  if (e.key === 'Enter')      toggleComplete();
+});
+
+/* ─── START ─── */
+init();
+</script>
+</body>
+</html>
