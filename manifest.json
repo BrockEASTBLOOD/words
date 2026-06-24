@@ -1,0 +1,27 @@
+{
+  "name": "365 Günlük Avustralya İngilizcesi",
+  "short_name": "Avustralya İng.",
+  "description": "1825 kelimeyle Avustralya İngilizcesi öğren",
+  "start_url": "/words/",
+  "scope": "/words/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F8F7FF",
+  "theme_color": "#5EADA0",
+  "lang": "tr",
+  "categories": ["education"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

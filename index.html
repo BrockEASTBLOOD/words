@@ -4,6 +4,16 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>365 Günlük Avustralya İngilizcesi</title>
+
+<!-- PWA -->
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#5EADA0">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Avustralya İng.">
+<link rel="apple-touch-icon" href="icon-192.png">
+
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 :root{
@@ -43,9 +53,22 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
 .btn-primary{background:var(--teal);color:#fff;border-color:var(--teal);}
 .btn-primary:hover{background:#4a9a8d;border-color:#4a9a8d;color:#fff;}
 .btn-sm{padding:.3rem .65rem;font-size:.72rem;}
+.btn-install{background:var(--lavender);color:#fff;border-color:var(--lavender);}
+.btn-install:hover{background:#8a7db3;border-color:#8a7db3;color:#fff;}
 
 /* ── SCREENS ── */
 .screen{display:none;}.screen.active{display:block;}
+
+/* ── LOADING SCREEN ── */
+#loading-screen .wrap{min-height:calc(100vh - 58px);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:3rem 1.5rem;gap:1.5rem;}
+.load-hero{text-align:center;}
+.load-hero .emoji{font-size:3.5rem;line-height:1;margin-bottom:.75rem;}
+.load-hero h1{font-size:1.6rem;font-weight:700;color:var(--teal);margin-bottom:.5rem;}
+.load-hero p{color:var(--warm-grey);font-size:.88rem;}
+.load-bar-wrap{width:100%;max-width:360px;}
+.load-bar{height:8px;background:var(--border);border-radius:10px;overflow:hidden;margin-bottom:.55rem;}
+.load-fill{height:100%;background:linear-gradient(90deg,var(--teal),var(--lavender));border-radius:10px;transition:width .25s ease;width:0%;}
+.load-text{font-size:.78rem;color:var(--warm-grey);text-align:center;}
 
 /* ── IMPORT SCREEN ── */
 #import-screen .wrap{min-height:calc(100vh - 58px);display:flex;flex-direction:column;align-items:center;justify-content:center;padding:3rem 1.5rem;}
@@ -61,10 +84,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
 .month-slot.loaded .month-check{display:flex;}
 .month-name{font-size:.72rem;font-weight:700;color:var(--dark);margin-bottom:.1rem;}
 .month-days-lbl{font-size:.55rem;color:var(--warm-grey);}
-.month-filename{font-size:.55rem;color:var(--lavender);margin-top:.1rem;font-family:monospace;}
+/* update button shown on hover over loaded slot */
+.month-update-btn{position:absolute;bottom:3px;right:3px;width:18px;height:18px;border-radius:50%;background:var(--teal);color:#fff;border:none;cursor:pointer;font-size:9px;line-height:1;display:none;align-items:center;justify-content:center;padding:0;}
+.month-slot.loaded:hover .month-check{display:none;}
+.month-slot.loaded:hover .month-update-btn{display:flex;}
 .import-actions{display:flex;gap:.85rem;flex-wrap:wrap;justify-content:center;margin-bottom:1.25rem;}
 .import-note{font-size:.75rem;color:var(--warm-grey);text-align:center;max-width:440px;line-height:1.7;}
-.import-note code{background:#EEE;padding:1px 5px;border-radius:4px;font-size:.72rem;}
 
 /* ── DASHBOARD ── */
 #dashboard-screen .main{max-width:1100px;margin:0 auto;padding:1.75rem 1.5rem;}
@@ -157,8 +182,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
 /* card accent colours */
 .ca0{background:var(--c1);}.ca1{background:var(--c2);}.ca2{background:var(--c3);}.ca3{background:var(--c4);}.ca4{background:var(--c5);}
 .cl0{background:var(--c1);}.cl1{background:var(--c2);}.cl2{background:var(--c3);}.cl3{background:var(--c4);}.cl4{background:var(--c5);}
-
-/* active card border matches accent */
 .word-card.active.c0{border-color:var(--c1);}
 .word-card.active.c1{border-color:var(--c2);}
 .word-card.active.c2{border-color:var(--c3);}
@@ -200,9 +223,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
   </div>
 
   <div class="header-right">
-    <button class="btn btn-sm" id="hdr-btn-dash" style="display:none" onclick="showDashboard()">📊 Genel</button>
-    <button class="btn btn-sm" id="hdr-btn-months" style="display:none" onclick="showImportScreen()">📂 Aylar</button>
-    <button class="btn btn-sm" id="hdr-btn-save" style="display:none" onclick="saveProgress()">💾 Kaydet</button>
+    <button class="btn btn-sm btn-install" id="hdr-btn-install" style="display:none" onclick="installPWA()">📲 Uygulamayı Yükle</button>
+    <button class="btn btn-sm" id="hdr-btn-dash"   style="display:none" onclick="showDashboard()">📊 Genel</button>
+    <button class="btn btn-sm" id="hdr-btn-months" style="display:none" onclick="showImportScreen()">📂 Haftalar</button>
+    <button class="btn btn-sm" id="hdr-btn-save"   style="display:none" onclick="saveProgress()">💾 Kaydet</button>
     <button class="btn btn-sm" onclick="triggerLoad()">📁 Yükle</button>
   </div>
 </header>
@@ -213,31 +237,51 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
 <input type="file" id="fi-prog"   accept=".json"          style="display:none" onchange="loadProgress(event)">
 
 <!-- ══════════════════════════════════════
-     IMPORT SCREEN
+     LOADING SCREEN
+══════════════════════════════════════ -->
+<div id="loading-screen" class="screen">
+  <div class="wrap">
+    <div class="load-hero">
+      <div class="emoji">🦘</div>
+      <h1>Kelimeler Yükleniyor</h1>
+      <p id="load-msg">52 hafta GitHub'dan indiriliyor…</p>
+    </div>
+    <div class="load-bar-wrap">
+      <div class="load-bar"><div class="load-fill" id="load-fill"></div></div>
+      <div class="load-text" id="load-text">0 / 52 hafta</div>
+    </div>
+  </div>
+</div>
+
+<!-- ══════════════════════════════════════
+     IMPORT / WEEKS SCREEN
 ══════════════════════════════════════ -->
 <div id="import-screen" class="screen active">
   <div class="wrap">
     <div class="import-hero">
       <div class="emoji">🦘</div>
       <h1>365 Günlük Avustralya İngilizcesi</h1>
-      <p>Haftalık kelime dosyalarını yükleyerek başlayın.<br>
-         Her hafta ayrı bir JSON dosyasıdır (35 kelime) — birini, birkaçını veya hepsini yükleyebilirsiniz.</p>
+      <p>Kelimeler otomatik olarak yüklenir.<br>
+         Bir haftayı güncellemek için kartın üzerine gelin ve ↺ butonuna tıklayın.</p>
     </div>
 
     <div class="month-grid" id="month-grid"></div>
 
     <div class="import-actions">
-      <button class="btn btn-primary" onclick="document.getElementById('fi-multi').click()">
-        📂 Birden Fazla Dosya Seç
-      </button>
-      <button class="btn" id="btn-open-book" style="display:none" onclick="openBook()">
+      <button class="btn btn-primary" id="btn-open-book" style="display:none" onclick="openBook()">
         📖 Kitabı Aç →
+      </button>
+      <button class="btn" onclick="updateAllWeeks()">
+        ↺ Tümünü Güncelle
+      </button>
+      <button class="btn" onclick="document.getElementById('fi-multi').click()">
+        📂 Dosyadan Yükle
       </button>
     </div>
 
     <p class="import-note">
-      Kelimeler tarayıcınızda saklanır — bir sonraki açılışta tekrar yüklemenize gerek yoktur.<br>
-      Dosyaları birlikte kullanın: <code>index.html</code> + aylık JSON dosyaları.
+      Kelimeler tarayıcınızda saklanır — internet olmadan da çalışır.<br>
+      Bir JSON dosyasını GitHub'da güncelledikten sonra ↺ ile senkronize edin.
     </p>
   </div>
 </div>
@@ -248,7 +292,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
 <div id="dashboard-screen" class="screen">
   <div class="main">
 
-    <!-- Stats -->
     <div class="stats-grid">
       <div class="stat-card">
         <div class="stat-label">Tamamlanan Günler</div>
@@ -261,9 +304,9 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
         <div class="stat-sub">/ 1,825 kelime</div>
       </div>
       <div class="stat-card">
-        <div class="stat-label">Yüklü Aylar</div>
+        <div class="stat-label">Yüklü Haftalar</div>
         <div class="stat-value" id="s-months">0</div>
-        <div class="stat-sub">/ 12 ay</div>
+        <div class="stat-sub">/ 52 hafta</div>
       </div>
       <div class="stat-card">
         <div class="stat-label">En Uzun Seri</div>
@@ -282,7 +325,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
       </div>
     </div>
 
-    <!-- Continue -->
     <div class="section-card" id="continue-card" style="display:none">
       <div class="continue-row">
         <div>
@@ -293,7 +335,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
       </div>
     </div>
 
-    <!-- Heatmap -->
     <div class="section-card">
       <div style="display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.75rem;margin-bottom:1rem;">
         <div class="section-title" style="margin-bottom:0;">Yıllık İlerleme — 365 Gün</div>
@@ -331,10 +372,8 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
       </div>
     </div>
 
-    <!-- 5 word cards -->
     <div class="cards-row" id="cards-row"></div>
 
-    <!-- detail panel -->
     <div class="word-detail" id="word-detail">
       <div class="detail-top">
         <div>
@@ -352,7 +391,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
       <ul class="sentences-list" id="d-sentences"></ul>
     </div>
 
-    <!-- navigation -->
     <div class="nav-bar">
       <button class="nav-btn" id="prev-btn" onclick="goToPage(currentPage-1)">← Önceki</button>
       <div class="page-jump">
@@ -375,13 +413,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-seri
 /* ─── CONSTANTS ─── */
 const LS_PROGRESS = 'avustralya_sozluk_progress';
 const LS_WORDS    = 'avustralya_sozluk_words';
+const BASE_URL    = 'https://brockeastblood.github.io/words/';
 
 const WEEKS = (() => {
   const w = [];
   for (let i = 1; i <= 52; i++) {
-    const n  = String(i).padStart(2,'0');
-    const s  = (i-1)*7 + 1;
-    const e  = i === 52 ? 365 : i*7;
+    const n = String(i).padStart(2,'0');
+    const s = (i-1)*7 + 1;
+    const e = i === 52 ? 365 : i*7;
     w.push({ key:'w'+n, name:'Hafta '+i, file:'Week'+n+'_words.json', days:s+'–'+e, s, e });
   }
   return w;
@@ -390,12 +429,39 @@ const WEEKS = (() => {
 const CARD_LETTERS = ['1','2','3','4','5'];
 
 /* ─── STATE ─── */
-let words = {};       // { dayNum: [ {word,ipa,phonetic,meaning,type,sentences[]}, … ] }
+let words        = {};
 let monthsLoaded = [];
 let completedDays = [];
-let currentPage = 1;
+let currentPage  = 1;
 let activeCardIdx = null;
 let _pendingMonthKey = null;
+let _deferredInstall = null;
+
+/* ─── SERVICE WORKER ─── */
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker.register('sw.js')
+      .catch(err => console.warn('SW registration failed:', err));
+  });
+}
+
+/* ─── PWA INSTALL PROMPT ─── */
+window.addEventListener('beforeinstallprompt', e => {
+  e.preventDefault();
+  _deferredInstall = e;
+  document.getElementById('hdr-btn-install').style.display = '';
+});
+window.addEventListener('appinstalled', () => {
+  document.getElementById('hdr-btn-install').style.display = 'none';
+  _deferredInstall = null;
+  showToast('✓ Uygulama ana ekrana eklendi!');
+});
+
+function installPWA() {
+  if (!_deferredInstall) return;
+  _deferredInstall.prompt();
+  _deferredInstall.userChoice.then(() => { _deferredInstall = null; });
+}
 
 /* ─── INIT ─── */
 function init() {
@@ -404,7 +470,106 @@ function init() {
   if (Object.keys(words).length > 0) {
     showHeaderControls();
     showDashboard();
+  } else {
+    // First launch — auto-fetch all weeks from GitHub
+    autoFetchAllWeeks();
   }
+}
+
+/* ─── AUTO-FETCH ALL WEEKS ─── */
+async function autoFetchAllWeeks() {
+  showScreen('loading-screen');
+  let done = 0;
+
+  const promises = WEEKS.map(async week => {
+    try {
+      const resp = await fetch(BASE_URL + week.file);
+      if (resp.ok) {
+        const data = await resp.json();
+        data.forEach(obj => { if (obj.day && obj.words) words[obj.day] = obj.words; });
+        if (!monthsLoaded.includes(week.key)) monthsLoaded.push(week.key);
+      }
+    } catch(_) { /* ignore — user may be offline first launch */ }
+
+    done++;
+    const pct = Math.round((done / 52) * 100);
+    document.getElementById('load-fill').style.width = pct + '%';
+    document.getElementById('load-text').textContent = done + ' / 52 hafta';
+  });
+
+  await Promise.allSettled(promises);
+  saveToStorage();
+
+  if (Object.keys(words).length > 0) {
+    showHeaderControls();
+    showDashboard();
+  } else {
+    // Offline with no cached data — show import screen for manual file load
+    document.getElementById('load-msg').textContent = 'İnternet bağlantısı bulunamadı.';
+    document.getElementById('load-text').textContent = 'Lütfen dosyaları manuel olarak yükleyin.';
+    setTimeout(() => { buildMonthGrid(); showScreen('import-screen'); }, 1800);
+  }
+}
+
+/* ─── FETCH A SINGLE WEEK (click on unloaded slot) ─── */
+async function fetchWeek(key) {
+  const week = WEEKS.find(w => w.key === key);
+  showToast('↺ ' + week.name + ' yükleniyor…');
+  try {
+    const resp = await fetch(BASE_URL + week.file);
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    mergeData(data, key);
+    buildMonthGrid();
+    showHeaderControls();
+    showToast('✓ ' + week.name + ' yüklendi!');
+  } catch(_) {
+    // Fall back to file picker (offline)
+    _pendingMonthKey = key;
+    document.getElementById('fi-single').click();
+  }
+}
+
+/* ─── UPDATE A SINGLE WEEK (↺ button on loaded slot) ─── */
+async function updateWeek(key) {
+  const week = WEEKS.find(w => w.key === key);
+  if (!week) return;
+  showToast('↺ ' + week.name + ' güncelleniyor…');
+  try {
+    const url = BASE_URL + week.file + '?t=' + Date.now(); // bypass cache
+    const resp = await fetch(url, { cache: 'no-store' });
+    if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    const data = await resp.json();
+    mergeData(data, key);
+    buildMonthGrid();
+    if (document.getElementById('day-screen').classList.contains('active')) renderDay();
+    showToast('✓ ' + week.name + ' güncellendi!');
+  } catch(_) {
+    showToast('⚠️ Güncelleme başarısız. İnternet bağlantısını kontrol edin.');
+  }
+}
+
+/* ─── UPDATE ALL WEEKS ─── */
+async function updateAllWeeks() {
+  showToast('↺ Tüm haftalar güncelleniyor…');
+  let count = 0;
+  await Promise.allSettled(
+    WEEKS.map(async week => {
+      try {
+        const url = BASE_URL + week.file + '?t=' + Date.now();
+        const resp = await fetch(url, { cache: 'no-store' });
+        if (!resp.ok) return;
+        const data = await resp.json();
+        data.forEach(obj => { if (obj.day && obj.words) words[obj.day] = obj.words; });
+        if (!monthsLoaded.includes(week.key)) monthsLoaded.push(week.key);
+        count++;
+      } catch(_) {}
+    })
+  );
+  saveToStorage();
+  buildMonthGrid();
+  refreshDashboard();
+  showToast('✓ ' + count + ' hafta güncellendi!');
 }
 
 /* ─── STORAGE ─── */
@@ -427,7 +592,7 @@ function saveToStorage() {
     localStorage.setItem(LS_PROGRESS, JSON.stringify({ completedDays, currentPage, monthsLoaded }));
     localStorage.setItem(LS_WORDS, JSON.stringify(words));
   } catch(e) {
-    showToast('⚠️ Depolama doldu. Lütfen progress.json ile kaydedin.');
+    showToast('⚠️ Depolama doldu. Lütfen 💾 Kaydet ile yedekleyin.');
   }
 }
 
@@ -452,7 +617,7 @@ function refreshProgress() {
   document.getElementById('prog-fill').style.width  = pct + '%';
 }
 
-/* ─── IMPORT SCREEN ─── */
+/* ─── IMPORT / WEEKS SCREEN ─── */
 function showImportScreen() {
   buildMonthGrid();
   showScreen('import-screen');
@@ -465,11 +630,20 @@ function buildMonthGrid() {
     const loaded = monthsLoaded.includes(w.key);
     const slot   = document.createElement('div');
     slot.className = 'month-slot' + (loaded ? ' loaded' : '');
-    slot.innerHTML = `
-      <div class="month-check">✓</div>
-      <div class="month-name" style="font-size:.8rem">${w.name}</div>
-      <div class="month-days-lbl">G. ${w.days}</div>`;
-    if (!loaded) slot.onclick = () => { _pendingMonthKey = w.key; document.getElementById('fi-single').click(); };
+
+    if (loaded) {
+      slot.innerHTML = `
+        <div class="month-check">✓</div>
+        <div class="month-name" style="font-size:.8rem">${w.name}</div>
+        <div class="month-days-lbl">G. ${w.days}</div>
+        <button class="month-update-btn" title="Güncelle"
+          onclick="event.stopPropagation();updateWeek('${w.key}')">↺</button>`;
+    } else {
+      slot.innerHTML = `
+        <div class="month-name" style="font-size:.8rem">${w.name}</div>
+        <div class="month-days-lbl">G. ${w.days}</div>`;
+      slot.onclick = () => fetchWeek(w.key);
+    }
     grid.appendChild(slot);
   });
   if (monthsLoaded.length > 0) document.getElementById('btn-open-book').style.display = '';
@@ -521,8 +695,7 @@ function handleSingleImport(e) {
 }
 
 function detectKey(filename, data) {
-  const f = filename.toLowerCase();
-  const m = f.match(/week(\d{1,2})/i);
+  const m = filename.match(/week(\d{1,2})/i);
   if (m) {
     const key = 'w' + String(parseInt(m[1])).padStart(2,'0');
     return WEEKS.find(w => w.key === key) ? key : null;
@@ -536,7 +709,6 @@ function detectKey(filename, data) {
 }
 
 function mergeData(data, key) {
-  // data = [ { day:N, words:[…] }, … ]
   data.forEach(obj => { if (obj.day && obj.words) words[obj.day] = obj.words; });
   if (!monthsLoaded.includes(key)) monthsLoaded.push(key);
   saveToStorage();
@@ -544,7 +716,6 @@ function mergeData(data, key) {
 
 function openBook() {
   if (Object.keys(words).length === 0) { showImportScreen(); return; }
-  // If currentPage has no data, find nearest available
   if (!words[currentPage]) {
     const avail = Object.keys(words).map(Number).sort((a,b)=>a-b);
     if (avail.length) currentPage = avail[0];
@@ -569,7 +740,6 @@ function refreshDashboard() {
   document.getElementById('s-pct').textContent    = pct + '%';
   document.getElementById('s-left').textContent   = 365 - done;
 
-  // Continue card
   const cc = document.getElementById('continue-card');
   if (Object.keys(words).length > 0) {
     cc.style.display = '';
@@ -600,8 +770,7 @@ function buildMonthsBar() {
   bar.innerHTML = '';
   WEEKS.forEach(w => {
     const b = document.createElement('span');
-    const loaded = monthsLoaded.includes(w.key);
-    b.className = 'mbadge' + (loaded ? ' loaded' : '');
+    b.className = 'mbadge' + (monthsLoaded.includes(w.key) ? ' loaded' : '');
     b.title = w.name + ' · Günler ' + w.days;
     b.textContent = w.key.replace('w','');
     bar.appendChild(b);
@@ -612,14 +781,17 @@ function buildHeatmap() {
   const grid = document.getElementById('heatmap-grid');
   grid.innerHTML = '';
   for (let day=1; day<=365; day++) {
-    const cell     = document.createElement('div');
-    const hasData  = !!words[day];
-    const isDone   = completedDays.includes(day);
-    const isCur    = day === currentPage;
-    cell.className = 'hm-day' + (!hasData ? ' hm-nodata' : isDone ? ' hm-done' : '') + (isCur ? ' hm-current' : '') + (hasData ? ' clickable' : '');
+    const cell    = document.createElement('div');
+    const hasData = !!words[day];
+    const isDone  = completedDays.includes(day);
+    const isCur   = day === currentPage;
+    cell.className = 'hm-day'
+      + (!hasData ? ' hm-nodata' : isDone ? ' hm-done' : '')
+      + (isCur ? ' hm-current' : '')
+      + (hasData ? ' clickable' : '');
     if (hasData) {
       cell.addEventListener('click', () => goToDay(day));
-      cell.addEventListener('mouseenter', ev => {
+      cell.addEventListener('mouseenter', () => {
         const tip = document.getElementById('hm-tooltip');
         tip.style.display = 'block';
         tip.textContent = 'Gün ' + day + (isDone ? ' ✓' : '') + ' · ' + monthLabel(day);
@@ -629,7 +801,9 @@ function buildHeatmap() {
         tip.style.left = (ev.clientX+12)+'px';
         tip.style.top  = (ev.clientY-30)+'px';
       });
-      cell.addEventListener('mouseleave', () => { document.getElementById('hm-tooltip').style.display='none'; });
+      cell.addEventListener('mouseleave', () => {
+        document.getElementById('hm-tooltip').style.display='none';
+      });
     }
     grid.appendChild(cell);
   }
@@ -648,12 +822,11 @@ function goToDay(day) {
 
 function goToPage(page) {
   page = Math.max(1, Math.min(365, page));
-  // find nearest loaded page in that direction
   if (!words[page]) {
     let found = false;
     for (let i=page; i<=365; i++) { if(words[i]){ page=i; found=true; break; } }
     if (!found) for (let i=page; i>=1; i--) { if(words[i]){ page=i; found=true; break; } }
-    if (!found) { showToast('Henüz hiç ay yüklenmedi.'); return; }
+    if (!found) { showToast('Henüz hiç hafta yüklenmedi.'); return; }
   }
   currentPage = page;
   renderDay();
@@ -763,12 +936,10 @@ function toggleComplete() {
 /* ─── SAVE / LOAD PROGRESS ─── */
 function saveProgress() {
   const data = {
-    version:       '1.0',
-    app:           '365 Günlük Avustralya İngilizcesi',
-    savedAt:       new Date().toISOString(),
-    currentPage,
-    completedDays,
-    monthsLoaded,
+    version: '1.0',
+    app: '365 Günlük Avustralya İngilizcesi',
+    savedAt: new Date().toISOString(),
+    currentPage, completedDays, monthsLoaded,
   };
   const blob = new Blob([JSON.stringify(data, null, 2)], {type:'application/json'});
   const url  = URL.createObjectURL(blob);
